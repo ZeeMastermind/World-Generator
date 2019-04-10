@@ -1,0 +1,450 @@
+-----Jowuju world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+     In some places, Every sentient being can use magic.
+     In some places, Magic is used by many, but not all.
+The source of magic is inner power/strength. However, some mages use pacts with monsters and demons.
+Around magic, people react with discomfort.
+     In some places, people react with indifference.
+     In some places, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the near-future of Earth.
+     In some places, Technology is the distant future of Earth.
+     In some places, Technology is modern, consisting of nukes and computers.
+Technology is similar to how it is on earth. However, some have built technology similar to how it is on earth.
+Around technology, people react with hostility.
+     In some places, people react with indifference.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 25 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 57% water.
+Rain evaporates immediately upon hitting the ground.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 7 continents.
+-----------------------------
+The land of Ijicijo
+Area (km): 160692085
+Regions: 
+     Qaje Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wajonojeju Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Jiwowaso Region - hot dry desert with a giant mushroom forest
+       Cultures: 1
+         The Jajo People
+          Military Dictatorship - rule by military
+          Trade is done through barter.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Fati Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Lawowococa Region - hot grassland
+       Cultures: 1
+         The Cocijecati People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: cassava, monstrous meat such as dragons or griffins, goat
+          Religion: Totemism
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Woxilajeje Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Ini Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wejekoju Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Keta Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Qujenaja Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vajuju Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Putecaxihu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jane Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Wujowicuwo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jewohoja Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Cucewu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ceha Region - hot dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Xumajicu Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Javowo Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Winijajeji Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Capi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Dacetu Region - cold semiarid desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Cijuvu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Ticajupa Region - hot dry desert with floating islands
+       Cultures: 1
+         The Wili People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: wheat, goat
+          Religion: Ancestor Worship
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: hostility
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Jocipa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ninujawipa Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Nupejino Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qowiculucu Region - hot steppe with a wetland
+       Cultures: 1
+         The Moci People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, cattle, fish, sheep
+          Religion: Monotheism
+            Wuhu, Mysterious deity, Land, Sea, Sea, War, Truth
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Ezuce Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Kijilonoju Region - steppe with floating islands
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Opacijumo
+Area (km): 9187715
+Regions: 
+     Ofe Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Ceqa Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Cewajesoxu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Xiju Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wocejawa Region - cold dry desert
+       Cultures: 1
+         The Jedawejena People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: wheat, goat, chicken, pig
+          Religion: Philosophical
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Uwajesuja Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Capace Region - steppe
+       Cultures: 1
+         The Monuzowo People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, fish
+          Religion: Ancestor Worship
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Javowo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Awihowewo
+Area (km): 28220168
+Regions: 
+     Xawikeveco Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Aka Region - forest
+       Cultures: There are no cultures in this area.
+
+     Juje Region - hot steppe
+       Cultures: 1
+         The Vikulu People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: wheat, chicken, chicken, fish
+          Religion: Monotheism
+            Jajezifu, Uncaring deity, Strength, Judgement, Strength, Love, Chaos
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Putecaxihu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Hucacenucu Region - hot coastal desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Iqonoja Region - hot coastal desert
+       Cultures: 1
+         The Ocoquwe People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, authorities own all property.
+          Diet: wheat, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Coje Region - hot dry desert with a giant mushroom forest
+       Cultures: 1
+         The Vejiwuco People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: plantains, chicken
+          Religion: Ancestor Worship
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: hostility
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Wuhu Region - hot jungle with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Wiluqe Region - hot coastal desert
+       Cultures: 1
+         The Woxe People
+          Ergatocracy - rule by working class
+          There is no concept of property.
+          Diet: cassava, pig, chicken
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Wajonojeju Region - hot semiarid desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Fiza Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Waja Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Jewedecewe Region - dry desert
+       Cultures: 1
+         The Jehisudoce People
+          Kleptocracy - rule by thieves
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, fish, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Ocicoko, Antagonistic deity, Truth, Insanity, Life, Hatred, Chaos
+            Uwomina, Meddling deity, Ice, Destruction, Plague
+            Cijiwaha, Mysterious deity, Writing, Destruction
+            Lunulojuwo, Forgiving deity, Land, Angels, Fighting, Intelligence, Afterlife, Strength
+            Uwutini, Forgiving deity, Civilization, Painting, Civilization, Disaster, Forest
+            Cijeqa, Judgemental deity, Desire, Insanity
+            Cino, Antagonistic deity, Forest, Childbirth, Ice, Life, Demons, Sun
+            Cuwodowu, Forgiving deity, Law, Angels, Family, Trickery
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Wihocodujo Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Cehojusume Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cuja Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jocu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Tuwe Region - dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Cehojusume Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Joha Region - hot steppe
+       Cultures: 1
+         The Uwajesuja People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, uncommon meat such as lizards or insects, sheep, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+
+-----------------------------
+The land of Jeciji
+Area (km): 7236397
+Regions: 
+     Owococaze Region - hot grassland with a wetland
+       Cultures: 1
+         The Ciqene People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: cassava
+          Religion: Shamanism
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Cete Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ewa Region - hot dry desert
+       Cultures: 1
+         The Wewawa People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: sorghum, cattle, goat
+          Religion: Monotheism
+            Epowe, Antagonistic deity, Desire
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Ajakijo Region - steppe with giant living rocks
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Wili
+Area (km): 7272510
+Regions: 
+     Poneqijoju Region - hot dry desert
+       Cultures: 1
+         The Mosajuja People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: potatoes, chicken
+          Religion: Shamanism
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+     Ezuce Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Jeciweqimi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cumeki Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wujowicuwo Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Duje Region - hot semiarid desert
+       Cultures: 1
+         The Canufi People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: corn, buffalo
+          Religion: Dualism
+            Wawawule, Antagonistic deity, Intelligence
+            Wecowi, Uncaring deity, Strength
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: discomfort
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: hostility
+
+
+
+-----------------------------
+The land of Fejiwa
+Area (km): 1292899
+Regions: 
+     Imiticefi Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Lejucijo
+Area (km): 1098226
+Regions: 
+     Cinoci Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+

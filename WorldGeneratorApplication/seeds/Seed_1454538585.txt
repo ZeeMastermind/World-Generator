@@ -1,0 +1,349 @@
+-----Xirowogoxi world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by many.
+     In some places, Every sentient being can use magic.
+     In some places, Magic is used by very few.
+The source of magic is nature. However, some mages use blood.
+Around magic, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+     In some places, Technology is prehistoric, consisting of bows, plows, and maybe copper.
+Technology is powered by magic.
+Around technology, people react with discomfort.
+     In some places, people react with indifference.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 15 degrees Celsius. It is like earth.
+The world has virtually no life, and few things survive.
+The world is 45% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 4 continents.
+-----------------------------
+The land of Niwi
+Area (km): 8632160
+Regions: 
+     Sufu Region - hot coastal desert
+       Cultures: 1
+         The Gupefogozo People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, pig
+          Religion: Ancestor Worship
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Xequvo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Sicixa
+Area (km): 227410528
+Regions: 
+     Sevacesira Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Tegurejacu Region - dry desert
+       Cultures: 1
+         The Uxitumiga People
+          Timocracy - rule by honor
+          Trade is done through barter.
+          Diet: wheat, sheep, cattle, cattle
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic is used by many.
+
+
+     Geriqoripo Region - hot forest with a wetland
+       Cultures: There are no cultures in this area.
+
+     Anowe Region - cold semiarid desert
+       Cultures: 1
+         The Ohacake People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: corn, buffalo, goat, goat
+          Religion: Totemism
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Masini Region - cold forest
+       Cultures: 1
+         The Mozexepo People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, buffalo, fish, buffalo
+          Religion: Animism
+          Magic: Magic is used by many.
+          awe
+
+
+     Xese Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fewuyiniqu Region - cold forest
+       Cultures: 1
+         The Vohumosu People
+          Plutocracy - rule by rich
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, buffalo, pig, cattle
+          Religion: Animism
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Qarivocuno Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Salalo Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Ucupomuxi Region - cold coastal desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Mixaxa Region - hot forest that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Mibalorumu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ximayuboxo Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Soju Region - cold dry desert
+       Cultures: 1
+         The Xamerirova People
+          Technocracy - rule by education
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, game meat such as deer or elk, monstrous meat such as dragons or griffins, buffalo
+          Religion: Polytheism
+            Irume, Uncaring deity, Luck, Beauty
+            Juniperuno, Mysterious deity, Peace, Fighting, Antimagic, Forest, Life, Night
+            Cipa, Mysterious deity, Land, Intelligence, Angels, Family
+            Riqu, Punishing deity, Magic, Writing, Chaos, Weaving
+            Mivu, Judgemental deity, Fighting, Sun, Day
+            Asayo, Judgemental deity, Strength, Home, Forest, Fighting, Angels
+            Runajelu, Forgiving deity, Painting, Childbirth, Magic, Land, Luck, Sea
+            Tocogecico, Forgiving deity, Wilderness, Fire, Love, Sun, Painting, Insanity
+            Savemo, Punishing deity, Metalworking, Insanity, Childbirth, Fighting, Home, Family
+            Vuxifazi, Judgemental deity, Travel, Weaving, War, War, Demons, Peace
+            Fama, Obscure deity, Desert, Stars
+            Gatepoqomu, Forgiving deity, Writing, Painting, Life, Demons, Creation
+            Tulapirura, Uncaring deity, Harvest
+            Wewehile, Antagonistic deity, Land, Angels, Night, Intelligence, Peace, Wilderness
+            Regejuwapu, Judgemental deity, Family, Destruction, Sun
+            Samiruza, Punishing deity, Demons, Destruction, Sea, Painting
+            Eni, Uncaring deity, Judgement, Harvest, Antimagic, Luck, Creation, Fire
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Utatogaxa Region - hot forest with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Soju Region - hot coastal desert
+       Cultures: 1
+         The Nirufequ People
+          Theocracy - rule by religion
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, chicken, game meat such as deer or elk, cattle
+          Religion: Dualism
+            Mokixu, Antagonistic deity, Desert, Chaos
+            Ohacake, Punishing deity, Forest, Law
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Iri Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Ceruko Region - hot jungle
+       Cultures: 1
+         The Wewehile People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: soybeans
+          Religion: Ancestor Worship
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Neze Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Oxoqe Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Goviti Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Xemefo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Wihu Region - dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Zawaqomi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Sina Region - cold coastal desert
+       Cultures: 1
+         The Kokiwo People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, buffalo, goat, chicken
+          Religion: Totemism
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Keyoxawizi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Baxejira Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Vesusifumo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Tocogecico Region - cold forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Mucisemivu
+Area (km): 22869868
+Regions: 
+     Sacu Region - coastal desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Luvarezewa Region - coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Pohipeka Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Ziwi Region - dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Mapa Region - cold semiarid desert
+       Cultures: 1
+         The Cozi People
+          Theocracy - rule by religion
+          There is no trade, property is collectively owned.
+          Diet: rice, goat
+          Religion: Monotheism
+            Afutawara, Punishing deity, Stars, Desert, Destruction, Protection, Travel
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Mezoricupe Region - hot steppe with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Kicemoma Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Xuyoraqaha Region - semiarid desert
+       Cultures: 1
+         The Agifire People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: plantains, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Monotheism
+            Zoririnaxi, Uncaring deity, Land, Writing, Desert, Childbirth, Civilization
+          Magic: Magic is used by many.
+          discomfort
+
+
+     Zoxa Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Rubiraloku Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Siwaxa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Upufamo Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Pocufeve Region - dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Suyorusope Region - cold forest with living, growing rocks and crystals
+       Cultures: 1
+         The Mikawa People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: yams, monstrous meat such as dragons or griffins, chicken, chicken
+          Religion: Dualism
+            Sawoka, Obscure deity, Home, Angels, Forest, Afterlife, Ice
+            Beqo, Meddling deity, Travel, Demons, Desert, Childbirth, Fire
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Jesezuca Region - dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Jesu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Zucesamuke Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Buciza Region - cold grassland
+       Cultures: 1
+         The Iwo People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: wheat
+          Religion: Monotheism
+            Biwo, Forgiving deity, Destiny, Wilderness, Desert, Angels, Beauty, Destruction
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Linihosepa Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Baburu
+Area (km): 16087444
+Regions: 
+     Meca Region - jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+     Hunarucage Region - hot semiarid desert
+       Cultures: 1
+         The Venemi People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: sorghum, game meat such as deer or elk, goat
+          Religion: Philosophical
+          Magic: Magic is used by many.
+          Magic is used by many.
+
+
+     Cuzozumupe Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Noruqasi Region - grassland
+       Cultures: There are no cultures in this area.
+
+

@@ -1,0 +1,516 @@
+-----dewa world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+The source of magic is deities or spirits. However, some mages use deities or spirits.
+Around magic, people react with hostility.
+     In some places, people react with discomfort.
+     In some places, people react with fear.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of bows, plows, and maybe copper.
+Technology is powered by magic. However, some have built technology from the ruins of ancient civilizations.
+Around technology, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 24 degrees Celsius. It is extremely hot.
+The world has an amount of life similar to Earth.
+The world is 83% water.
+Rain evaporates immediately upon hitting the ground.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of hedamedi
+Area (km): 58483730
+Regions: 
+     yide Region - jungle
+       Cultures: 2
+         The wabu People
+          Kratocracy - rule by strength
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, buffalo
+          Religion: Polytheism
+            eqipedece, Obscure deity, Judgement, Judgement, Law, Fighting, Weaving, Weaving
+            riwe, Antagonistic deity, Painting, Angels, Sun, Moon, Destiny
+            vici, Obscure deity, Day, Luck, Disaster, Stars, Destruction, Writing
+            wahe, Forgiving deity, Trickery, Writing
+            cacifeza, Obscure deity, Chaos, Intelligence, Magic, Desire, Desire, Family
+            cuwiwu, Uncaring deity, Chaos, Fire, Law
+
+         The dijupewagu People
+          Ochlocracy - mob rule
+          There is no trade, authorities own all property.
+          Diet: rice, monstrous meat such as dragons or griffins
+          Religion: Totemism
+
+
+     dedaqedida Region - hot grassland with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 2
+         The tudu People
+          Autocracy - rule by one, the ruler has servants
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, chicken, buffalo, buffalo
+          Religion: Ancestor Worship
+
+         The cazi People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, fish, game meat such as deer or elk
+          Religion: Totemism
+
+
+     hahihaqa Region - hot dry desert
+       Cultures: 1
+         The mupawuwuxa People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, authorities own all property.
+          Diet: wheat, chicken, pig
+          Religion: Polytheism
+            wapuni, Obscure deity, Magic, Destiny, Angels
+            sacu, Punishing deity, Truth
+            dixudacisa, Forgiving deity, Peace, Judgement, Sea, Stars
+            iyuca, Antagonistic deity, Truth, Afterlife, Beauty, Night, Day
+            ahupazu, Punishing deity, Home, Beauty, Family, Desire
+            fade, Mysterious deity, Trickery, Land
+            ewupa, Mysterious deity, Protection
+            hawenavada, Forgiving deity, Destruction, War, Family
+            duwapecice, Forgiving deity, Weaving, Destiny
+            cidewudu, Meddling deity, Protection, Land, Hatred, Stars, Creation
+            cidewudu, Obscure deity, War, Magic, Afterlife
+            suda, Obscure deity, Family, Secrets
+            rana, Mysterious deity, Intelligence, Peace, Land, Harvest, Strength
+            juxutenepa, Uncaring deity, Truth, Beauty, Antimagic, Beauty, Metalworking, Creation
+
+
+     iwede Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     duza Region - hot dry desert
+       Cultures: 2
+         The wudetecuci People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: yams, sheep, pig, fish
+          Religion: Ancestor Worship
+
+         The zicuvugudi People
+          Magrocracy - rule by magic
+          Trade is done through barter.
+          Diet: cassava, game meat such as deer or elk, chicken
+          Religion: Animism
+
+
+     cucaciduce Region - hot semiarid desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     zuka Region - hot dry desert with an undead infestation
+       Cultures: 2
+         The cuwacadu People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: rice, monstrous meat such as dragons or griffins, fish
+          Religion: Shamanism
+
+         The jidu People
+          Magrocracy - rule by magic
+          Trade is done through barter.
+          Diet: cassava, monstrous meat such as dragons or griffins
+          Religion: Animism
+
+
+     dicaci Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     emi Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     adibu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     ducumawawu Region - hot dry desert
+       Cultures: 1
+         The dici People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: sorghum, sheep, game meat such as deer or elk, buffalo
+          Religion: Demon Worship
+
+
+     wina Region - hot semiarid desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     harerucira Region - hot jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     dinaqiku Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     detaxu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     ticeqe Region - grassland with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     wamenicufa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     duwicuza Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     ewuda Region - hot dry desert
+       Cultures: 2
+         The cucuxabeti People
+          Monarchy - rule by single bloodline
+          Trade is done through barter.
+          Diet: plantains
+          Religion: Animism
+
+         The ceqadawe People
+          Theocracy - rule by religion
+          There is no trade, property is collectively owned.
+          Diet: potatoes, sheep
+          Religion: Polytheism
+            caxu, Mysterious deity, Travel, Strength
+            uca, Meddling deity, Secrets, Desire, Afterlife, Magic, Harvest
+            seji, Obscure deity, Sky, Creation
+            adadudiva, Forgiving deity, Insanity, Strength, Secrets
+            caqedezu, Punishing deity, Chaos, Desert, Fire, Insanity
+            dajacesi, Uncaring deity, Protection, Judgement, Metalworking
+            sesi, Mysterious deity, Home, Day
+            kicexedece, Mysterious deity, Hatred, Secrets, Afterlife, Secrets
+
+
+     wuyu Region - dry desert
+       Cultures: 2
+         The demebazife People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: corn, monstrous meat such as dragons or griffins, pig
+          Religion: Totemism
+
+         The cawuveye People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: corn
+          Religion: Dualism
+            hayiqediwi, Antagonistic deity, Metalworking, Mind, Truth, Angels, Intelligence, Destruction
+            cadu, Obscure deity, Weaving, Insanity, Secrets, Demons, Strength, Creation
+
+
+     jeciqucu Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     cefecajesu Region - hot jungle
+       Cultures: 1
+         The fucecaqu People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, fish, game meat such as deer or elk, fish
+          Religion: Totemism
+
+
+     diwi Region - hot jungle
+       Cultures: 2
+         The eva People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: wheat, fish, cattle, chicken
+          Religion: Totemism
+
+         The dasidevu People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, authorities own all property.
+          Diet: potatoes, goat, cattle
+          Religion: Totemism
+
+
+     ciqe Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     itadicidu Region - hot dry desert
+       Cultures: 2
+         The tudu People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: wheat, pig
+          Religion: Dualism
+            ute, Forgiving deity, War, Protection, Stars
+            adegapawu, Antagonistic deity, Peace, Fighting, Sky
+
+         The dada People
+          Kratocracy - rule by strength
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, monstrous meat such as dragons or griffins
+          Religion: Animism
+
+
+     cazi Region - hot jungle
+       Cultures: 1
+         The yiyuwe People
+          Technocracy - rule by education
+          There is no trade, authorities own all property.
+          Diet: rice, fish, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            tuwesi, Punishing deity, Protection, Civilization, Life, Moon, Creation, Insanity
+
+
+     awifiwicu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     dicaza Region - hot jungle
+       Cultures: 2
+         The nakuguwi People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: sorghum, cattle
+          Religion: Animism
+
+         The wutiwi People
+          Ergatocracy - rule by working class
+          There is no trade, authorities own all property.
+          Diet: cassava
+          Religion: Monotheism
+            qacukuhicu, Antagonistic deity, Sun, Truth, Protection
+
+
+     rewijududi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of ziwecuvuce
+Area (km): 3189394
+Regions: 
+     wewaceciri Region - hot grassland
+       Cultures: 2
+         The wuruca People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            fuci, Judgemental deity, Intelligence, Chaos, Sea
+            wicise, Antagonistic deity, Sun
+            peme, Uncaring deity, Life, Destruction, Afterlife
+            xini, Uncaring deity, Creation, Death
+            meriva, Forgiving deity, Childbirth, Hatred, Demons, Life, Home
+            dedataya, Punishing deity, Strength
+            daxu, Uncaring deity, Wilderness
+            neqiwate, Mysterious deity, Land, Weaving, Fighting, Truth, Forest
+            hahigizu, Punishing deity, Destruction, Mind, Afterlife, Sun
+            yidecitu, Punishing deity, Civilization, Disaster
+            arutumati, Punishing deity, Death, Protection
+            kaxu, Punishing deity, Family, Destruction, Sky, Forest, Peace, Painting
+            wucadidubu, Mysterious deity, Creation, Strength
+
+         The wewevawa People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice
+          Religion: Monotheism
+            duwubepuce, Obscure deity, Painting, Creation, Fighting
+
+
+     ute Region - jungle
+       Cultures: There are no cultures in this area.
+
+     hizufiwe Region - hot steppe
+       Cultures: 2
+         The neqiwate People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, property is collectively owned.
+          Diet: soybeans, fish, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+
+         The medu People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, buffalo, pig
+          Religion: Totemism
+
+
+
+-----------------------------
+The land of mice
+Area (km): 11742004
+Regions: 
+     bica Region - hot dry desert
+       Cultures: 2
+         The waqawewuda People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum
+          Religion: Polytheism
+            buwude, Mysterious deity, Fighting
+            qaca, Obscure deity, Sky, Intelligence, Antimagic, Insanity, Fire, Family
+            vawabehagi, Meddling deity, Truth, Strength, Strength, Mind, Writing, Life
+            yaqezasewe, Punishing deity, Luck, Creation
+            wicaduki, Antagonistic deity, Strength
+            hiface, Forgiving deity, Stars, Painting, Angels
+            nimadadaja, Uncaring deity, Afterlife, Travel, Desire, Intelligence, Death
+            cisije, Uncaring deity, Family, Truth
+            wadu, Meddling deity, Wilderness, Law
+            iqe, Judgemental deity, Protection, Destiny, Law, Secrets
+            wimuceziwu, Punishing deity, Fire
+            kicemuwinu, Judgemental deity, Day
+            cececi, Forgiving deity, Beauty
+            yigida, Uncaring deity, Land, Harvest
+            diwa, Antagonistic deity, Childbirth, Night, Death, Truth, Sky
+            dipudewaci, Antagonistic deity, Family, Stars
+            cidusame, Judgemental deity, Fire, Protection, Forest, Painting
+            wudugi, Mysterious deity, Travel, Night
+
+         The nukuqawaci People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            fewaku, Meddling deity, Travel, Land, Luck
+            hucasini, Judgemental deity, Secrets
+            niwude, Antagonistic deity, Painting, Truth, Painting
+            rucewucidi, Judgemental deity, Life, Plague, Chaos, Secrets
+
+
+     ticeqe Region - cold steppe
+       Cultures: 1
+         The sewiwawa People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: rice, game meat such as deer or elk
+          Religion: Philosophical
+
+
+     genicuba Region - cold forest
+       Cultures: 1
+         The dacu People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, game meat such as deer or elk, pig, cattle
+          Religion: Monotheism
+            eyidaceza, Punishing deity, Love
+
+
+     decadecite Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of dedaqedida
+Area (km): 8335105
+Regions: 
+     hedamedi Region - hot steppe
+       Cultures: 2
+         The kericifice People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: cassava, goat
+          Religion: Animism
+
+         The cexeda People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: corn, cattle
+          Religion: Monotheism
+            camedawedi, Meddling deity, Disaster, Painting, Intelligence, Day, Destiny, Desire
+
+
+     cewibiwuci Region - hot jungle
+       Cultures: 2
+         The caziwi People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: rice
+          Religion: Shamanism
+
+         The wicaduki People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Philosophical
+
+
+     iqemu Region - hot dry desert
+       Cultures: 2
+         The wuwane People
+          Ochlocracy - mob rule
+          There is no trade, authorities own all property.
+          Diet: plantains, goat, buffalo, goat
+          Religion: Ancestor Worship
+
+         The dacu People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, authorities own all property.
+          Diet: sorghum, pig
+          Religion: Monotheism
+            xecima, Mysterious deity, Antimagic, Desert, Chaos
+
+
+     xiqi Region - hot jungle
+       Cultures: 2
+         The runihusa People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, chicken, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+
+         The qicadade People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: cassava, goat, game meat such as deer or elk, chicken
+          Religion: Shamanism
+
+
+     dadu Region - semiarid desert
+       Cultures: 2
+         The kinuda People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: cassava, uncommon meat such as lizards or insects, pig
+          Religion: Polytheism
+            duwuci, Uncaring deity, Death, Chaos, Chaos, Hatred
+            duha, Meddling deity, Writing
+            wezi, Antagonistic deity, Strength, Fire, Moon, Sea
+            ceduqi, Meddling deity, Love, Desert, Ice, Forest, Luck, Afterlife
+            rucewucidi, Uncaring deity, Family, Desert, Insanity, Antimagic, Plague
+            qawitada, Judgemental deity, Painting, Magic, Sun
+            vici, Meddling deity, Stars, Family, Fighting
+            wepefa, Antagonistic deity, Stars, Day, Painting
+            ciqe, Uncaring deity, Law, Writing
+            diwa, Mysterious deity, Desert, Strength, Secrets, Angels, Judgement, Mind
+            sube, Mysterious deity, Creation, Peace, Insanity, Sea, Insanity
+            neqawu, Judgemental deity, Angels
+            cidusame, Meddling deity, Ice
+            mihujici, Mysterious deity, Writing, Family, Forest, War, Day
+            wifaduwu, Punishing deity, Travel, Painting
+            haje, Meddling deity, Sea, Stars
+            cadica, Forgiving deity, Childbirth, War, Sky
+            mihaqufi, Punishing deity, Life, Weaving, Home
+            cevuda, Meddling deity, Fire, Trickery, Secrets, Land, Forest, Sea
+
+         The wuhuci People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, buffalo
+          Religion: Philosophical
+
+
+
+-----------------------------
+The land of ewuwisutu
+Area (km): 3249767
+Regions: 
+     diwa Region - hot grassland
+       Cultures: 1
+         The dewe People
+          Ochlocracy - mob rule
+          There is no trade, authorities own all property.
+          Diet: cassava, goat
+          Religion: Shamanism
+
+
+

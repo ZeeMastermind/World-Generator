@@ -1,0 +1,444 @@
+-----Vamane world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+     In some places, Magic is used by very few.
+     In some places, Magic is virtually nonexistent.
+The source of magic is deities or spirits.
+Around magic, people react with fear.
+     In some places, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is powered by magic.
+Around technology, people react with discomfort.
+     In some places, people react with admiration.
+     In some places, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 28 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 78% water.
+Rain evaporates immediately upon hitting the ground.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Jahufo
+Area (km): 69444192
+Regions: 
+     Tufaloni Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Zigajoro Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Beku People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, game meat such as deer or elk, pig
+          Religion: Monotheism
+            Hilo, Uncaring deity, Desert, Beauty, Childbirth, Love, Secrets
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Jejaje Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cucafaju Region - hot forest
+       Cultures: 1
+         The Muhejumohe People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, buffalo, cattle
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Mogu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Luho Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fohu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Marefuhe Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Bomijohofe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Fohufu Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Oce Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Rikohu Region - hot grassland with floating islands
+       Cultures: There are no cultures in this area.
+
+     Helu Region - hot forest
+       Cultures: 1
+         The Molo People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: plantains, fish, pig, game meat such as deer or elk
+          Religion: Dualism
+            Muwazocela, Mysterious deity, Fire, Destiny, Mind
+            Nalu, Forgiving deity, Ice, Luck, Insanity
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+
+     Kuvamujafo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fetu Region - hot dry desert
+       Cultures: 1
+         The Jofafuzo People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, sheep, goat, game meat such as deer or elk
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: discomfort
+
+
+     Rimejo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Zino Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Egaju Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Jahi Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Gifomi Region - hot semiarid desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Caji Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Firo Region - hot forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Zaruhowe Region - hot grassland that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Hejono People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, property is collectively owned.
+          Diet: sorghum, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Ulu, Judgemental deity, Desert, Weaving, Travel, Secrets, Luck, Life
+            Nuhirinahu, Forgiving deity, Writing, Demons
+            Fuhavu, Uncaring deity, Judgement
+            Tiha, Antagonistic deity, Strength, Creation, Strength, Strength
+            Nivafi, Mysterious deity, Desert, Luck, Insanity, Disaster, Strength
+            Hirozaruvo, Obscure deity, Day, Intelligence, Metalworking, Civilization
+            Fijomali, Punishing deity, Death, Wilderness, Painting, Writing, Mind, Sea
+            Iwemo, Punishing deity, Civilization, Judgement, Travel, Stars, Luck
+            Geho, Uncaring deity, Wilderness, Magic, Writing, Forest, Insanity
+            Mahu, Mysterious deity, Strength, Love, Demons, Beauty, Beauty
+            Fekafujufo, Judgemental deity, Desire, Hatred
+            Laleqa, Judgemental deity, Beauty
+            Zojuja, Uncaring deity, Home
+            Jazujafa, Punishing deity, Day, Family, Trickery, Antimagic, Truth, Creation
+            Zahu, Uncaring deity, Mind, Sea
+            Oho, Obscure deity, Mind
+            Ejuca, Uncaring deity, Sky, Death, Secrets, Angels, Moon
+            Zohuhahojo, Obscure deity, Civilization, Sun
+            Jezicanaji, Antagonistic deity, Desert, Fire, Beauty, Travel
+            Zujije, Uncaring deity, Disaster, Land, Peace
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+
+     Hoga Region - hot semiarid desert
+       Cultures: 1
+         The Yohuhojo People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, goat
+          Religion: Monotheism
+            Laleqa, Judgemental deity, Truth, Moon, Plague, Forest, Family
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Jaraneyamu Region - hot steppe with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Hululi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qarifi Region - jungle
+       Cultures: 1
+         The Jata People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: sorghum, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Lolefu, Meddling deity, Destruction, Judgement, Disaster, Childbirth, Death
+            Forehifo, Judgemental deity, Creation, Trickery, Beauty, Afterlife, Life
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Qaje Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Fefatima Region - cold semiarid desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Nivafi Region - grassland with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Lorelo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Mite Region - hot grassland with a wetland
+       Cultures: 1
+         The Hinu People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: wheat, cattle
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Laleqa
+Area (km): 9078167
+Regions: 
+     Leje Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Rajela Region - hot dry desert
+       Cultures: 1
+         The Zujajato People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, pig, fish, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Nuhirinahu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Hejono Region - dry desert
+       Cultures: 1
+         The Feza People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: soybeans, monstrous meat such as dragons or griffins, sheep, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Nacegajefe Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Fajequje Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Ejuca Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Amano Region - hot semiarid desert
+       Cultures: 1
+         The Rafali People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, chicken, buffalo, fish
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Zujolonu Region - cold forest with giant living rocks
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Fajehemufi
+Area (km): 13441938
+Regions: 
+     Mimuji Region - hot dry desert with a wetland
+       Cultures: 1
+         The Nojejufi People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: wheat, buffalo
+          Religion: Dualism
+            Fabo, Judgemental deity, Forest, Moon, Home
+            Fajofa, Meddling deity, Desert, Sun, Travel
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Niya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fekafujufo Region - cold steppe
+       Cultures: 1
+         The Oka People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, goat, chicken
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Fefatima Region - hot grassland
+       Cultures: 1
+         The Jejaje People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: cassava, chicken, chicken, buffalo
+          Religion: Monotheism
+            Molo, Forgiving deity, Childbirth, Moon
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Ejojivahu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Nefu Region - cold jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Qarifi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Zujumufa Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Leluji Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Juzezi Region - hot dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Jehucehe Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Fijija
+Area (km): 7958140
+Regions: 
+     Afohifezi Region - hot dry desert
+       Cultures: 1
+         The Hulefijili People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, chicken, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Zalahufi, Mysterious deity, Stars, Afterlife, Antimagic
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Gojuheweni Region - cold dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Kazizuha Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Zalifuje Region - hot dry desert
+       Cultures: 1
+         The Helucezifu People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, sheep
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+     Hojahefefe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Hocu
+Area (km): 10077563
+Regions: 
+     Ehizave Region - hot dry desert
+       Cultures: 1
+         The Gihu People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: sorghum, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects, fish
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+
+     Favi Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Loko People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: cassava, chicken
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+
+
+

@@ -1,0 +1,1050 @@
+-----Leci world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+     In some places, Magic is used by some, and people know of it.
+The source of magic is nature.
+Around magic, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is similar to the medieval period, consisting of windmills and the dry compass
+Technology is powered by magic. However, some have built technology similar to how it is on earth.
+Around technology, people react with discomfort.
+     In some places, people react with indifference.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 8 degrees Celsius. It is cold.
+The world has low amount of life, which is hard to find.
+The world is 53% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 6 continents.
+-----------------------------
+The land of Seri
+Area (km): 139153442
+Regions: 
+     Jeyataja Region - cold dry desert
+       Cultures: 2
+         The Kojecoyeso People
+          Despotism - rule by one, the ruler has slaves
+          There is no concept of property.
+          Diet: soybeans, buffalo, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Cajice, Punishing deity, Sun
+            Coqota, Antagonistic deity, Magic
+            Wifero, Forgiving deity, Moon, Disaster, Destruction, Law, Strength
+            Yizaci, Mysterious deity, Law, Metalworking, Day
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Jasasoreze People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, goat
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: awe
+     Sisisijiqi Region - cold forest
+       Cultures: 1
+         The Boje People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: sorghum, cattle, pig
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Joxiwoba Region - cold semiarid desert
+       Cultures: 1
+         The Kesoye People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Rotopocata Region - cold dry desert
+       Cultures: 2
+         The Catepeci People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Sapoti, Meddling deity, Judgement
+            Jocozori, Antagonistic deity, Strength, Plague
+            Toyado, Uncaring deity, Protection, Death, Moon
+            Zozo, Judgemental deity, Land, Desire, Death, Forest, War
+            Cejijasido, Judgemental deity, Disaster, Metalworking, Writing
+            Jorasayo, Uncaring deity, Luck, Wilderness, Desire, Desert
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Seri People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, fish, goat
+          Religion: Monotheism
+            Yezevejosi, Judgemental deity, Law, Desert, Wilderness, Creation, Demons, Law
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Ciwidecece Region - cold forest
+       Cultures: There are no cultures in this area.
+     Siti Region - dry desert with floating islands
+       Cultures: 1
+         The Serezisi People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Wari Region - cold semiarid desert
+       Cultures: 1
+         The Simece People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done through barter.
+          Diet: yams, game meat such as deer or elk, pig, pig
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: awe
+     Sezeje Region - cold steppe
+       Cultures: 1
+         The Mive People
+          Autocracy - rule by one, the ruler has servants
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, pig, sheep
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+     Wari Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+     Vaposi Region - cold coastal desert
+       Cultures: 1
+         The Socaja People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: soybeans, cattle, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Jizizewe, Judgemental deity, Ice, Land, Travel, Metalworking, Hatred, Truth
+            Posohole, Antagonistic deity, Disaster, Life, Moon
+            Ifoyiqa, Antagonistic deity, Judgement, Love, Moon
+            Xibetibe, Meddling deity, Antimagic, Family, Death, Intelligence
+            Joje, Meddling deity, Afterlife, Magic, Mind, Luck, Wilderness
+            Sasasocaco, Forgiving deity, Afterlife, Plague, Sun, Metalworking
+            Pesa, Judgemental deity, Intelligence, Truth, Civilization, Truth
+            Iwi, Uncaring deity, Love, Mind, Fire, Desert, Disaster, Fighting
+            Qiso, Punishing deity, Death
+            Joje, Punishing deity, Protection, Land, Insanity
+            Ira, Judgemental deity, Magic, Fire, Secrets, Judgement, Writing
+            Ajejasaye, Mysterious deity, Childbirth, Sky, Sea
+            Kico, Mysterious deity, Trickery
+            Jeciwa, Uncaring deity, Love, Truth, Forest, Fighting, Protection, Desire
+            Qicico, Obscure deity, Sea
+            Qici, Meddling deity, Angels, Metalworking, Antimagic, Painting
+            Jezibecija, Forgiving deity, Destruction, Travel, Family
+            Sayecaca, Mysterious deity, Travel, Land, Night
+            Sejesefove, Uncaring deity, Peace, Secrets, Fire, Destiny, Secrets
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Secocojima Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+     Desaceta Region - coastal desert
+       Cultures: There are no cultures in this area.
+     Jocozori Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+     Misisewe Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+     Sihi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Cicejifewo Region - cold steppe
+       Cultures: 2
+         The Joxiwoba People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, property is collectively owned.
+          Diet: wheat
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Saca People
+          Technocracy - rule by education
+          There is no trade, property is collectively owned.
+          Diet: wheat, pig, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Soselo Region - cold jungle
+       Cultures: 2
+         The Jeyijage People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: plantains, sheep
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+         The Jakece People
+          Kritarchy - rule by legal judges
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Kiji, Obscure deity, Night, Sun, Secrets, Plague, Love, Sun
+            Qogamicabi, Meddling deity, Day, Moon, Truth, Harvest, Family, Moon
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Cocorefe Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+     Seqe Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+     Siqe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Jisidajegi Region - cold dry desert
+       Cultures: 2
+         The Saropisize People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, fish, buffalo
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Qafo People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, sheep, chicken, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Raliwo Region - hot steppe
+       Cultures: 2
+         The Recapo People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: potatoes, cattle, monstrous meat such as dragons or griffins, cattle
+          Religion: Dualism
+            Xixejefo, Meddling deity, Civilization, Fire, Destiny, Desert, Judgement, Wilderness
+            Seyi, Mysterious deity, Wilderness, Ice, Luck, Forest, Trickery, Civilization
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Jigadi People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: soybeans, monstrous meat such as dragons or griffins, fish, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Jazoqazaca Region - steppe
+       Cultures: 1
+         The Jisewo People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: wheat, monstrous meat such as dragons or griffins, game meat such as deer or elk, cattle
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Diqi Region - cold grassland
+       Cultures: There are no cultures in this area.
+     Yejo Region - dry desert
+       Cultures: 2
+         The Dice People
+          Kleptocracy - rule by thieves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+         The Fecoca People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, fish, chicken, pig
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Sisisijiqi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Tifofaxi Region - cold jungle
+       Cultures: 2
+         The Siqe People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: wheat, buffalo, goat, game meat such as deer or elk
+          Religion: Polytheism
+            Biwijaja, Obscure deity, Land
+            Sacesecagi, Antagonistic deity, War, Afterlife
+            Veyafa, Mysterious deity, Childbirth, Desert
+            Xaci, Antagonistic deity, Love, Judgement, Painting, Law, Afterlife, Disaster
+            Pesa, Punishing deity, Disaster, Family, Travel, Sky, War, Demons
+            Fahajosoye, Mysterious deity, Insanity, Law, Peace, War, Angels
+            Semoyece, Mysterious deity, Beauty, Childbirth, Wilderness, Hatred
+            Keso, Judgemental deity, Night
+            Sixi, Judgemental deity, Sun, Fighting, Ice
+            Cose, Forgiving deity, Weaving, Home, Disaster, Beauty, Luck, Wilderness
+            Sapoti, Meddling deity, Home
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Cecajeba People
+          Technocracy - rule by education
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Acojoseqi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Soho Region - cold jungle
+       Cultures: There are no cultures in this area.
+     Cofayisa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+-----------------------------
+The land of Sovoja
+Area (km): 49073998
+Regions: 
+     Fajicicosi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+     Osihi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+     Yijopaca Region - cold jungle
+       Cultures: 2
+         The Ciqo People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done through barter.
+          Diet: cassava, fish
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Rotopocata People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, pig
+          Religion: Dualism
+            Aho, Mysterious deity, Land, Destruction, Travel, Protection
+            Jiwi, Obscure deity, Sea, Creation, Home, Fighting
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Zecico Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Wija Region - cold jungle
+       Cultures: There are no cultures in this area.
+     Jasasoreze Region - hot dry desert
+       Cultures: 1
+         The Yezevejosi People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: wheat, pig, cattle
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Aserorize Region - cold dry desert
+       Cultures: 1
+         The Javesajo People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: sweet potatoes, fish, chicken
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Casosiwibi Region - cold jungle
+       Cultures: 1
+         The Cojeco People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, sheep
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Tetifi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+     Sasoca Region - cold dry desert
+       Cultures: 1
+         The Riqiqe People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: rice, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Saje, Obscure deity, Demons, Destruction, Mind, Land
+            Camaxecage, Forgiving deity, Angels, Creation, Insanity, Sea
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+     Fifayo Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+     Yitico Region - cold coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+     Sojoqihi Region - cold dry desert
+       Cultures: 2
+         The Waqaci People
+          Timocracy - rule by honor
+          Trade is done through barter.
+          Diet: corn, uncommon meat such as lizards or insects, buffalo, chicken
+          Religion: Monotheism
+            Geme, Forgiving deity, Protection, Angels, Insanity
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Ceqi People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: cassava, cattle, goat
+          Religion: Polytheism
+            Kowa, Meddling deity, Disaster, Fire, War, Wilderness, Life, Secrets
+            Liboja, Obscure deity, Secrets
+            Casi, Uncaring deity, Destiny, Chaos, Family, Death, Death, Civilization
+            Jeqayasiji, Meddling deity, Protection
+            Lemesixija, Meddling deity, Wilderness, Mind, Peace, War, Mind
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+     Pesa Region - cold grassland
+       Cultures: 1
+         The Cohadejawo People
+          Aristocracy - rule by several bloodlines
+          Trade is done through barter.
+          Diet: wheat, chicken, pig
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: worship
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Jiricadisa Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+     Jeca Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Kosa Region - dry desert
+       Cultures: There are no cultures in this area.
+     Zajosaco Region - hot dry desert
+       Cultures: There are no cultures in this area.
+     Gisa Region - cold jungle
+       Cultures: 2
+         The Zora People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: rice, goat, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Ayaci, Meddling deity, Truth, Insanity, Painting, Destruction, Home
+            Caye, Meddling deity, Secrets, Mind, Writing, Creation, Travel
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Joje People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: cassava, goat, fish, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Ahapiji Region - cold steppe
+       Cultures: 1
+         The Kosa People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, property is collectively owned.
+          Diet: yams, uncommon meat such as lizards or insects, pig, chicken
+          Religion: Polytheism
+            Sali, Antagonistic deity, Insanity, Beauty
+            Jameya, Antagonistic deity, Desire, Ice
+            Cabili, Mysterious deity, Plague, Fire, Weaving, Family, Love
+            Roqicoso, Meddling deity, Sun, Civilization, Death, Ice, Wilderness
+            Efa, Obscure deity, Harvest, Disaster, Day
+            Jofijote, Antagonistic deity, Love, Hatred, Forest
+            Saco, Judgemental deity, Writing, War
+            Jiso, Meddling deity, Family
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Joje Region - steppe with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+     Cojiye Region - cold forest
+       Cultures: 2
+         The Ecari People
+          Technocracy - rule by education
+          Trade is done through barter.
+          Diet: potatoes, sheep, pig
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Taci People
+          Plutocracy - rule by rich
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, chicken
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Joti Region - cold dry desert
+       Cultures: 1
+         The Qici People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: sorghum, buffalo
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Bacawepi Region - semiarid desert
+       Cultures: There are no cultures in this area.
+     Cijihaza Region - cold forest
+       Cultures: There are no cultures in this area.
+     Qakibigafa Region - cold steppe
+       Cultures: There are no cultures in this area.
+     Xejijihosa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Desicoke Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+     Larozo Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+     Cose Region - cold jungle with a wetland
+       Cultures: There are no cultures in this area.
+     Cirecitisa Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+     Mero Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Yalidicewi Region - cold grassland that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+     Tajaci Region - cold dry desert
+       Cultures: 2
+         The Jesesesaye People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, cattle, goat
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Eyo People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Vihejese, Meddling deity, Sea, Life, Peace, Hatred, Travel
+            Sesajo, Mysterious deity, Land, Death, War, Desire, Home
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Iciwo Region - cold steppe
+       Cultures: There are no cultures in this area.
+     Rosobihesa Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+     Zizoce Region - dry desert
+       Cultures: 2
+         The Jise People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: cassava, goat, chicken, fish
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Yica People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: cassava, pig, chicken
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Jesesesaye Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Bosecoseyi Region - cold jungle
+       Cultures: 1
+         The Texacojica People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes
+          Religion: Dualism
+            Jerese, Meddling deity, Life, Metalworking, Peace, Magic, Mind, Desire
+            Avo, Forgiving deity, Death, Weaving, War, Antimagic, Insanity, Hatred
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Jipada Region - jungle
+       Cultures: 2
+         The Sisi People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, authorities own all property.
+          Diet: rice, uncommon meat such as lizards or insects, buffalo
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Cedoya People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, chicken, monstrous meat such as dragons or griffins, fish
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Avi Region - cold steppe
+       Cultures: 1
+         The Kesoye People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: yams, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Cigiqi Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+-----------------------------
+The land of Picicaci
+Area (km): 37825804
+Regions: 
+     Sese Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Zajava Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Raso Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+     Sicirijica Region - grassland
+       Cultures: 2
+         The Ajejowoce People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: soybeans, buffalo
+          Religion: Polytheism
+            Sojeqiqeki, Antagonistic deity, Antimagic, Destruction, Ice, Travel, Metalworking, Weaving
+            Razagoxici, Judgemental deity, Family, Civilization, Desire, Demons, Sky, Destiny
+            Ziya, Judgemental deity, Chaos
+            Jizizewe, Obscure deity, Destiny, Peace, Destruction, Day, Civilization, Destiny
+            Aro, Obscure deity, Destruction, Fighting, Antimagic
+            Zolekoce, Meddling deity, Disaster, Chaos, Disaster, Beauty
+            Josoroje, Obscure deity, Desert, Hatred
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Sohixasisa People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: cassava, sheep
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Vihejese Region - cold grassland
+       Cultures: There are no cultures in this area.
+     Tojisimo Region - cold jungle
+       Cultures: There are no cultures in this area.
+     Wosofico Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Ciwidecece Region - cold grassland that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Sisi People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Cagifasa People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, authorities own all property.
+          Diet: corn
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Ecido Region - cold grassland with an undead infestation
+       Cultures: 2
+         The Saza People
+          Military Dictatorship - rule by military
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, goat, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Xejijihosa People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, cattle, monstrous meat such as dragons or griffins, fish
+          Religion: Monotheism
+            Xejosato, Meddling deity, Antimagic, Protection, Luck, Antimagic, Wilderness
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Yecicaji Region - cold steppe
+       Cultures: There are no cultures in this area.
+     Vojiqejolo Region - cold semiarid desert with a wetland
+       Cultures: 1
+         The Jogelacala People
+          Magrocracy - rule by magic
+          There is no trade, property is collectively owned.
+          Diet: plantains, buffalo
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Xoqososo Region - cold steppe
+       Cultures: 1
+         The Sesifajalo People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: sweet potatoes, buffalo, monstrous meat such as dragons or griffins, pig
+          Religion: Dualism
+            Wija, Forgiving deity, Trickery, Hatred, Moon, Civilization, Fire, Metalworking
+            Caqi, Uncaring deity, Judgement, Desire, Sun, Wilderness, Ice, Weaving
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+     Iso Region - cold steppe with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+     Sedazoxaca Region - cold coastal desert
+       Cultures: 1
+         The Jowoce People
+          Kratocracy - rule by strength
+          Trade is done through barter.
+          Diet: rice, goat, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Jezibecija Region - cold coastal desert with an undead infestation
+       Cultures: There are no cultures in this area.
+     Leci Region - cold dry desert
+       Cultures: 2
+         The Ricojasilo People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, authorities own all property.
+          Diet: potatoes, buffalo, sheep, chicken
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: awe
+         The Esebejaza People
+          Kleptocracy - rule by thieves
+          There is no concept of property.
+          Diet: sweet potatoes, sheep, cattle, pig
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Yocokeqako Region - cold dry desert
+       Cultures: 2
+         The Sase People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: soybeans, chicken, fish, chicken
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Zivawe People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes
+          Religion: Monotheism
+            Casebeca, Judgemental deity, Trickery, Destruction, Love, Love, Beauty
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Ivoja Region - cold dry desert
+       Cultures: 2
+         The Samaca People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, fish
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Taqivi People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: yams, game meat such as deer or elk, chicken, buffalo
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Pokasacave Region - cold coastal desert
+       Cultures: 1
+         The Selamose People
+          Bankocracy - rule by banks
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, uncommon meat such as lizards or insects, goat, game meat such as deer or elk
+          Religion: Dualism
+            Sodizamice, Meddling deity, Destruction
+            Cotaricoco, Judgemental deity, Creation
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Ivoja Region - dry desert
+       Cultures: 2
+         The Giseqoqoli People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: wheat
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+         The Xote People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum
+          Religion: Monotheism
+            Fociqe, Meddling deity, Strength, Stars
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+-----------------------------
+The land of Cohecosedo
+Area (km): 6437269
+Regions: 
+     Yasawisoqo Region - cold dry desert
+       Cultures: 1
+         The Besi People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, cattle
+          Religion: Polytheism
+            Jidayejiya, Antagonistic deity, Afterlife, Afterlife
+            Cijoce, Antagonistic deity, Sun, Wilderness, Sun, Destruction, Childbirth, Wilderness
+            Kosohafifi, Antagonistic deity, Moon, Childbirth
+            Sekeba, Obscure deity, Love
+            Tojisimo, Forgiving deity, Beauty, Destruction, Love
+            Jipada, Punishing deity, Moon, Home, Afterlife, Childbirth, Chaos, Weaving
+            Cicasosi, Meddling deity, Desire, Truth, Forest, Night, Writing
+            Caye, Forgiving deity, Home, Weaving, Angels
+            Jize, Antagonistic deity, Sea, Trickery, Weaving
+            Esebejaza, Forgiving deity, Trickery
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Zawejataqo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+     Qiso Region - cold dry desert
+       Cultures: 2
+         The Mofesaraji People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, buffalo
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: discomfort
+         The Yisamiqo People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: sorghum, cattle, game meat such as deer or elk, chicken
+          Religion: Dualism
+            Cacoci, Meddling deity, Ice, Hatred, Childbirth, Peace, Weaving, Intelligence
+            Coki, Obscure deity, Fire, Desire, Afterlife, War, Metalworking, Strength
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Segesiqema Region - cold dry desert with giant living rocks
+       Cultures: 2
+         The Lacida People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, fish, game meat such as deer or elk, pig
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Cose People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, chicken, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Sajo Region - cold semiarid desert that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Zoso People
+          Monarchy - rule by single bloodline
+          There is no trade, property is collectively owned.
+          Diet: potatoes, sheep, game meat such as deer or elk, buffalo
+          Religion: Dualism
+            Cijoco, Forgiving deity, Peace, Life, Death
+            Jisewo, Antagonistic deity, War, Death, Life
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Abijeja People
+          Kleptocracy - rule by thieves
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes
+          Religion: Polytheism
+            Iso, Meddling deity, Forest, Disaster, Forest
+            Motoci, Mysterious deity, Writing
+            Qocecijejo, Meddling deity, Harvest, Writing, Secrets, Wilderness, Forest
+            Wifero, Obscure deity, Angels, Destiny, Weaving, Day
+            Sasasocaco, Obscure deity, Desert, Fire, Forest, Peace
+            Rawejeca, Mysterious deity, Day
+            Rawejeca, Obscure deity, Strength, Life, Peace, Judgement, Peace
+            Sotojose, Punishing deity, Love
+            Jiyezi, Meddling deity, Wilderness, Truth, Afterlife
+            Jisidajegi, Uncaring deity, Desert, Home, Childbirth, Truth, Disaster, Truth
+            Esipici, Uncaring deity, Night, Desert
+            Jigisija, Obscure deity, Love, Angels, Truth, Metalworking
+            Xejosato, Meddling deity, Strength, Day, Law, Civilization, Hatred, Mind
+            Jaja, Punishing deity, Destruction, Disaster
+            Jogicayeza, Uncaring deity, Travel, Angels
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+     Yocazijesi Region - dry desert with an undead infestation
+       Cultures: 2
+         The Avi People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: corn, monstrous meat such as dragons or griffins, fish, game meat such as deer or elk
+          Religion: Dualism
+            Ote, Mysterious deity, Painting, Wilderness, Protection
+            Caqi, Punishing deity, Writing, Civilization, Fighting
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+         The Qezo People
+          Diarchy - rule by two bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Erijexo, Antagonistic deity, Stars, Writing, Ice
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+-----------------------------
+The land of Zotosesa
+Area (km): 1158439
+Regions: 
+     Irosico Region - cold steppe
+       Cultures: 1
+         The Caji People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, chicken, pig
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+-----------------------------
+The land of Soka
+Area (km): 1351048
+Regions: 
+     Sojoqihi Region - cold dry desert
+       Cultures: 1
+         The Sosodi People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: rice, cattle
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+

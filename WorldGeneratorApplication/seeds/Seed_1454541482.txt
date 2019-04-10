@@ -1,0 +1,222 @@
+-----Guqaketa world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+     In some places, Magic is taken for granted as an aspect of everyday life.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is inner power/strength. However, some mages use inner power/strength.
+Around magic, people react with indifference.
+     In some places, people react with admiration.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is similar to how it is on earth.
+Around technology, people react with awe.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 26 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 82% water.
+Rain evaporates immediately upon hitting the ground.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 6 continents.
+-----------------------------
+The land of Jade
+Area (km): 71372884
+Regions: 
+     Ise Region - hot forest
+       Cultures: 1
+         The Iyesime People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: sorghum, pig
+          Religion: Dualism
+            Fibe, Forgiving deity, Secrets
+            Yihumigimu, Punishing deity, Truth
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+
+     Bataya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ibitemija Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Fijesamuyu Region - dry desert
+       Cultures: 1
+         The Dehibafuhu People
+          Kratocracy - rule by strength
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+
+     Cejanimuda Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Iyenumu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fuliteca Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cataji Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Tihese Region - dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Yekuqimumi Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Qamupaqa Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Malu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cusa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ikutuka Region - hot dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Nabiye Region - cold coastal desert
+       Cultures: 1
+         The Qeqi People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes
+          Religion: Monotheism
+            Gupificena, Forgiving deity, War, Chaos, Secrets, Travel, Childbirth
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+
+     Bukuseci Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Sicumi Region - hot jungle with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Uqa Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Vekasidu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Dabepefusi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Nufutafu
+Area (km): 1491812
+Regions: 
+     Jeqeji Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Siya
+Area (km): 7436064
+Regions: 
+     Cicecehu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Hene Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ivena Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Feyemusila
+Area (km): 3821230
+Regions: 
+     Nafagutape Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Naqubiya Region - hot dry desert
+       Cultures: 1
+         The Sesine People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, pig
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+
+     Kiyu Region - hot semiarid desert
+       Cultures: 1
+         The Haqu People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: sweet potatoes, pig, goat
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Gimaqemapa
+Area (km): 1156170
+Regions: 
+     Hamu Region - hot jungle
+       Cultures: 1
+         The Qenumujiji People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: corn, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Menu, Forgiving deity, Death, Wilderness, Metalworking, Destruction, Truth
+            Meciteqi, Antagonistic deity, Life, Painting, Death, Land, Family, Magic
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Vafujiceta
+Area (km): 4721840
+Regions: 
+     Vita Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Ayitinipa Region - hot dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Beyafe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Minihusimu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+

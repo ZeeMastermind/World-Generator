@@ -1,0 +1,557 @@
+-----Amama world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is virtually nonexistent.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is alchemy.
+Around magic, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the near-future of Earth.
+     In some places, Technology is the distant future of Earth.
+     In some places, Technology is modern, consisting of nukes and computers.
+Technology is from the ruins of ancient civilizations.
+Around technology, people react with discomfort.
+     In some places, people react with admiration.
+     In some places, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 9 degrees Celsius. It is cold.
+The world has virtually no life, and few things survive.
+The world is 8% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 6 continents.
+-----------------------------
+The land of Pamiwi
+Area (km): 24175728
+Regions: 
+     Giseremuxe Region - cold semiarid desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Mujerimija Region - hot grassland with a giant mushroom forest
+       Cultures: 1
+         The Agi People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: sweet potatoes, buffalo
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Mavupuwe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Natikehe
+Area (km): 361761391
+Regions: 
+     Ixemita Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Awahubu Region - semiarid desert
+       Cultures: 1
+         The Majaluge People
+          Military Dictatorship - rule by military
+          There is no trade, property is collectively owned.
+          Diet: corn, buffalo
+          Religion: Dualism
+            Himu, Punishing deity, Secrets
+            Memuwe, Judgemental deity, Truth
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Muyamipi Region - hot grassland
+       Cultures: 1
+         The Rehuhe People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn
+          Religion: Demon Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Bifimarifa Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Yagate Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Yiyegiwexa Region - cold coastal desert
+       Cultures: 1
+         The Uguqa People
+          Kleptocracy - rule by thieves
+          There is no concept of property.
+          Diet: wheat, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins, buffalo
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Bihagi Region - cold steppe
+       Cultures: 1
+         The Kekuyaviwa People
+          Geniocracy - rule by intelligence
+          Trade is done through barter.
+          Diet: plantains, cattle, buffalo, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Mewecara Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wujavaba Region - cold dry desert
+       Cultures: 1
+         The Gekukawihi People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: potatoes, cattle, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Bara Region - cold grassland
+       Cultures: 1
+         The Neqa People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: sorghum, monstrous meat such as dragons or griffins, goat, chicken
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Ufudedama Region - cold jungle
+       Cultures: 1
+         The Gakigafu People
+          Magrocracy - rule by magic
+          Trade is done through barter.
+          Diet: rice, pig
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Vamijinefu Region - cold dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Mawu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Pirakuteve Region - cold semiarid desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Ruhala Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Fijiviwuri Region - hot jungle with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Tica Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Yalerijecu Region - grassland with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Ruhala Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Mimagu Region - cold semiarid desert
+       Cultures: 1
+         The Ure People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, chicken
+          Religion: Monotheism
+            Welaga, Punishing deity, Mind
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Bihagi Region - cold grassland
+       Cultures: 1
+         The Ifumute People
+          Theocracy - rule by religion
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Regigere, Mysterious deity, Peace, Sun, Childbirth, Family, Protection
+            Rutepu, Antagonistic deity, Death, Land, Metalworking, Trickery, Metalworking, Travel
+            Gijifagu, Antagonistic deity, Wilderness, Hatred, Painting, Harvest
+            Gibe, Judgemental deity, Love, Magic, Fighting, Demons, Childbirth
+            Iresifi, Meddling deity, Strength, Love, Desert, Moon
+            Gulemagi, Antagonistic deity, Magic, Travel, Weaving, Sun, Love, Chaos
+            Rirewu, Obscure deity, Sky, Destruction, Travel
+            Juhiwu, Judgemental deity, Strength, Peace, Home, Family, Painting, Sun
+            Lukanemele, Punishing deity, Trickery, Weaving, Harvest, Afterlife, Judgement, Trickery
+            Kahi, Forgiving deity, Strength, Disaster, Angels
+            Kemugi, Antagonistic deity, Luck
+            Uvujawuru, Uncaring deity, Weaving, Life, Destruction, Demons
+            Ruharenude, Punishing deity, Desert, Insanity, Night, Moon, Secrets
+            Eli, Punishing deity, Luck, Hatred, Forest, Insanity, Peace
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Ragahume Region - cold jungle with floating islands
+       Cultures: There are no cultures in this area.
+
+     Vuhufama Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wewugemi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Hetihibehe Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Qivenuha Region - cold dry desert
+       Cultures: 1
+         The Givataqeni People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, chicken, cattle
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Wavu Region - cold forest
+       Cultures: 1
+         The Mihehu People
+          Timocracy - rule by honor
+          There is no trade, authorities own all property.
+          Diet: sorghum, fish, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Hani Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Hahimu Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The Gumiga People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Rema Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Rujiqi Region - hot steppe with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Quraje Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Mumatade Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Gijeculi Region - cold dry desert
+       Cultures: 1
+         The Yacaxu People
+          Anarchy - no enforced rule
+          There is no trade, authorities own all property.
+          Diet: cassava, sheep, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Mata, Antagonistic deity, Peace, Sky, Disaster, Angels, Trickery
+            Teha, Uncaring deity, War, Stars, Beauty, Demons, Judgement
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Suma Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Racewi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Vima Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Peke Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Gicare Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Xumidema People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: rice, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Ruti Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Midiyu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Mahiyu Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Raya Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Gegagu Region - cold steppe with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Hiwaxama Region - hot forest with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Bifimarifa Region - cold dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Haqa
+Area (km): 40286863
+Regions: 
+     Ekemewu Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Rela Region - cold grassland
+       Cultures: 1
+         The Falevi People
+          Magrocracy - rule by magic
+          There is no trade, property is collectively owned.
+          Diet: soybeans, pig, sheep
+          Religion: Monotheism
+            Kanemu, Judgemental deity, Judgement, Plague, Day, Disaster
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Wijuli Region - cold dry desert
+       Cultures: 1
+         The Juhiwu People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, chicken, goat, buffalo
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Bijiheju Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Mujerimija Region - forest
+       Cultures: There are no cultures in this area.
+
+     Rugavura Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Mamifuqula Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Juregili Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Punime Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Evifanawi Region - cold dry desert
+       Cultures: 1
+         The Bujahe People
+          Theocracy - rule by religion
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, monstrous meat such as dragons or griffins, pig, sheep
+          Religion: Dualism
+            Mewi, Obscure deity, Demons, Afterlife
+            Rirewu, Uncaring deity, Angels, Childbirth
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Guwaruga Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Hekeje Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Pubi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Miliwagifa Region - cold jungle with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Vaheveme Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Jufe Region - cold dry desert
+       Cultures: 1
+         The Ludewa People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: yams, chicken, goat
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Gujuyebu Region - cold steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Hiwimenira Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Jigaguri
+Area (km): 25686544
+Regions: 
+     Virequ Region - cold dry desert
+       Cultures: 1
+         The Geweruni People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, goat, sheep
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Vemesi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Pamuwiwiki Region - cold steppe with a wetland
+       Cultures: There are no cultures in this area.
+
+     Hitahu Region - dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Jiheqi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Bube Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Lexu Region - cold steppe
+       Cultures: 1
+         The Lisuqafada People
+          Timocracy - rule by honor
+          Trade is done through barter.
+          Diet: rice, sheep, chicken, pig
+          Religion: Demon Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: discomfort
+
+
+     Vemesi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Afihu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Havi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Huwigi Region - forest
+       Cultures: There are no cultures in this area.
+
+     Ixemita Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Kesusiha Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Kexuwetu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Simemafu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Fetumetate Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Wigufi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Xebace Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Hajece Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Jehafe
+Area (km): 1008555
+Regions: 
+     Wiru Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Nuvemu
+Area (km): 6921390
+Regions: 
+     Sutufarima Region - cold grassland with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+

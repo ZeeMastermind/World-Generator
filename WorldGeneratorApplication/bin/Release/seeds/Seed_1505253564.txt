@@ -1,0 +1,2151 @@
+-----Haliqaso world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+     In some places, Magic is used by many, but not all.
+The source of magic is alchemy. However, some mages use deities or spirits.
+Around magic, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of bows, plows, and maybe copper.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+     In some places, Technology is prehistoric, consisting of rocks and sticks.
+Technology is similar to how it is on earth.
+Around technology, people react with fear.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 19 degrees Celsius. It is hot.
+The world has high amount of life, with few barren areas.
+The world is 59% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 7 continents.
+-----------------------------
+The land of Vukowa
+Area (km): 8426992
+Regions: 
+     Selahiyu Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Yolehebu Region - hot grassland with a giant mushroom forest
+       Cultures: 1
+         The Hasewonesu People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Iyu Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Yomu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Hasize Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Woxi Region - hot jungle
+       Cultures: 3
+         The Iniwo People
+          Anarchy - no enforced rule
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, uncommon meat such as lizards or insects, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Sewogodi People
+          Kratocracy - rule by strength
+          Trade is done through barter.
+          Diet: yams, uncommon meat such as lizards or insects, cattle
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Sehuru People
+          Theocracy - rule by religion
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, buffalo
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Wipo Region - dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Zeqaqiba
+Area (km): 111534304
+Regions: 
+     Gomoqewene Region - cold jungle
+       Cultures: 1
+         The Lelomowixu People
+          Technocracy - rule by education
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, cattle, buffalo, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Kijihugido, Judgemental deity, Metalworking, Childbirth, Law
+            Lexusideso, Mysterious deity, Stars, Plague, Civilization, Peace, Intelligence
+            Sebuxi, Punishing deity, Land, Sea
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+
+     Kacaya Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zoqu Region - hot grassland
+       Cultures: 1
+         The Yowolihoko People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, pig, cattle, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Dequcisiyi Region - dry desert
+       Cultures: 3
+         The Sobiwihuwe People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: cassava, cattle, pig
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+         The Momujoze People
+          Magrocracy - rule by magic
+          There is no trade, property is collectively owned.
+          Diet: corn, goat
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Nale People
+          Despotism - rule by one, the ruler has slaves
+          There is no concept of property.
+          Diet: wheat, sheep, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Kisewi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Zuki Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Zexawoji Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Sinawune Region - steppe
+       Cultures: 3
+         The Exi People
+          Kleptocracy - rule by thieves
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, game meat such as deer or elk
+          Religion: Monotheism
+            Saqaseku, Forgiving deity, Peace, Stars, Magic, Day, Home
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Wuwixi People
+          Bankocracy - rule by banks
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, fish, buffalo, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Pebako, Forgiving deity, Fighting
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Vakilebida People
+          Kleptocracy - rule by thieves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, pig, pig, chicken
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Boko Region - cold jungle with giant living rocks
+       Cultures: 2
+         The Mowusubi People
+          Plutocracy - rule by rich
+          There is no trade, property is collectively owned.
+          Diet: yams, pig, cattle
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Belenesaqe People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, goat
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Woketewesi Region - hot jungle with a wetland
+       Cultures: 1
+         The Genalequ People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: soybeans, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Nosicewa, Antagonistic deity, Magic, Protection
+            Togoqa, Punishing deity, Land, Home, Family, Moon
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Kusosuje Region - hot grassland
+       Cultures: 2
+         The Xikowuyi People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: corn, buffalo
+          Religion: Dualism
+            Nudayuwo, Judgemental deity, Mind, Hatred, Trickery, Love
+            Yeyaquwi, Forgiving deity, Insanity, Desire, Judgement, Family
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Nawo People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: rice, chicken, uncommon meat such as lizards or insects, chicken
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Nuwohu Region - cold forest
+       Cultures: 3
+         The Wimi People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, buffalo, cattle, game meat such as deer or elk
+          Religion: Polytheism
+            Wexuyoyavu, Judgemental deity, Demons
+            Wonoke, Mysterious deity, Childbirth, Fighting
+            Masosubi, Mysterious deity, Sea, Wilderness, Judgement
+            Jemocisi, Mysterious deity, Weaving, Strength, Day
+            Busoyisabe, Forgiving deity, Love, Mind, War, Destiny, Home, Angels
+            Laci, Antagonistic deity, Sky, Harvest, Childbirth
+            Haxukixira, Mysterious deity, War, Death
+            Bejozoloyo, Forgiving deity, Plague
+            Yeyaquwi, Mysterious deity, Stars, Destiny, Truth, Magic, Strength
+            Bono, Judgemental deity, Sun, Stars
+            Yawuze, Forgiving deity, Disaster, War, War, Civilization
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Winujesi People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, sheep, pig
+          Religion: Dualism
+            Dusu, Forgiving deity, Metalworking, Intelligence
+            Ibato, Judgemental deity, Weaving, Strength
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+         The Sunovo People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, game meat such as deer or elk, chicken
+          Religion: Polytheism
+            Bacu, Uncaring deity, Desert, Magic, Family, Chaos, Painting, Truth
+            Hibela, Uncaring deity, Demons, Fighting, Ice
+            Wubabuli, Uncaring deity, Mind
+            Bomanemise, Mysterious deity, Trickery, Sky, Travel, Family
+            Vecu, Meddling deity, Stars, Plague, Destruction
+            Banisihavu, Antagonistic deity, Writing
+            Azamolini, Uncaring deity, Disaster, Travel
+            Walumawe, Punishing deity, Secrets, Plague, Harvest, Destruction
+            Vuqezobomu, Antagonistic deity, Angels, Angels, Land, Antimagic, Metalworking, Protection
+            Xoyi, Meddling deity, Wilderness
+            Asigoyu, Forgiving deity, War, Magic, Sky, Love, Metalworking
+            Duhaya, Obscure deity, Weaving
+            Kucamiwozi, Antagonistic deity, Life, Trickery, Life, Strength, Sky, Secrets
+            Noraniwuka, Judgemental deity, Judgement, Life, Fighting, Moon, Civilization
+            Yowabaho, Antagonistic deity, Desire
+            Nubowa, Mysterious deity, Luck, Civilization, Land, Stars, Fighting, Writing
+            Jiwiwatabi, Antagonistic deity, Sky, Disaster, Creation, Writing, Law
+            Jutape, Judgemental deity, Protection, Law, Death
+            Desohonabe, Antagonistic deity, Day, Magic
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yetasozulo Region - jungle with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The Kajaxuwepi People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: yams, cattle
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+         The Wilonu People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Bilizasolo Region - hot grassland with a wetland
+       Cultures: 3
+         The Lusiyutale People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, fish, goat, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Hebopi People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, monstrous meat such as dragons or griffins, buffalo, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Somesogu People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: wheat
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Iqi Region - jungle
+       Cultures: 2
+         The Noraniwuka People
+          Kratocracy - rule by strength
+          This is no concept of trade, but gifts are given.
+          Diet: yams, cattle
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yewicebu People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: rice
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Bumazoyigo Region - cold dry desert
+       Cultures: 2
+         The Ikazu People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: wheat, buffalo
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Jome People
+          Plutocracy - rule by rich
+          Trade is done through barter.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Ami Region - cold jungle
+       Cultures: 1
+         The Mokupaxeya People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: sorghum, fish, sheep
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Zuro Region - hot jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 2
+         The Mehupe People
+          Monstrous tyranny - rule by monsters through force
+          There is no concept of property.
+          Diet: yams, chicken
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yunakesime People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, chicken
+          Religion: Polytheism
+            Budapisibo, Punishing deity, Land, Protection, Love, Plague, Moon, Day
+            Vuwozoro, Forgiving deity, Hatred, Trickery, Night, Sky
+            Dinacuwe, Punishing deity, Harvest, Wilderness, Sky, Protection, Peace
+            Nuwocuko, Antagonistic deity, Destiny, Fighting, Weaving, Sun, Fire
+            Yojaqo, Meddling deity, Destruction, Trickery, Home
+            Ure, Antagonistic deity, Angels, Desire
+            Lotusi, Punishing deity, Truth, Afterlife, Family
+            Zusi, Antagonistic deity, Desert, Writing
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Wilobiji Region - jungle
+       Cultures: 3
+         The Zunezi People
+          Technocracy - rule by education
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, goat, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Dualism
+            Xuluzowo, Uncaring deity, Afterlife, Destiny
+            Zamina, Forgiving deity, Childbirth, Luck
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+         The Olo People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: rice, chicken, monstrous meat such as dragons or griffins, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Wesace People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: potatoes, game meat such as deer or elk, cattle, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Rogesajuwi Region - jungle with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Zilasaxoco Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Kuzeyu Region - steppe with an undead infestation
+       Cultures: 1
+         The Hiluci People
+          Plutocracy - rule by rich
+          Trade is done through barter.
+          Diet: rice, goat, goat, buffalo
+          Religion: Dualism
+            Bowemelato, Antagonistic deity, Destiny, Mind, Home, Civilization
+            Selahiyu, Mysterious deity, Luck, Insanity, Travel, Wilderness
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Lumo Region - hot jungle with a giant mushroom forest
+       Cultures: 3
+         The Tusa People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: potatoes, sheep, pig
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Bimesuxiyo People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: plantains, buffalo, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yawuze People
+          Anarchy - no enforced rule
+          There is no trade, authorities own all property.
+          Diet: cassava, game meat such as deer or elk, pig
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Babayimoki Region - hot jungle
+       Cultures: 1
+         The Soqu People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: soybeans, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+
+     Jejolo Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Soce Region - cold jungle
+       Cultures: 1
+         The Nawo People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, pig, buffalo
+          Religion: Monotheism
+            Pubusene, Uncaring deity, Mind, Creation, Fighting, Destiny, Home, Family
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Licazawasa Region - jungle
+       Cultures: 2
+         The Yowabaho People
+          Bankocracy - rule by banks
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, buffalo, uncommon meat such as lizards or insects, buffalo
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Xiqelibiyi People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: cassava, chicken, chicken
+          Religion: Polytheism
+            Busoyisabe, Obscure deity, Sky, Painting
+            Kajaxuwepi, Obscure deity, Creation, Day, Harvest, Desire, Love
+            Wijomizasa, Punishing deity, Death, Afterlife
+            Yetasozulo, Forgiving deity, Stars, Night, Sky, Truth, Angels
+            Zuberaza, Judgemental deity, Insanity, Beauty
+            Bitixe, Judgemental deity, Hatred, Magic
+            Suhora, Antagonistic deity, Magic, Life, Day, Forest, Metalworking
+            Lexiso, Obscure deity, Metalworking, Writing, Chaos, Fire
+            Logota, Meddling deity, Truth
+            Lelomowixu, Meddling deity, Peace, Demons
+            Qijebobulu, Antagonistic deity, Desire, Sun, Sky, Hatred, Travel, Wilderness
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Mozaqi Region - coastal desert
+       Cultures: 3
+         The Uzozesu People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: soybeans, game meat such as deer or elk, goat, buffalo
+          Religion: Monotheism
+            Yabo, Judgemental deity, Truth, Moon, Law, Painting, Secrets, Peace
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Nabaci People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: plantains, goat, monstrous meat such as dragons or griffins, chicken
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Rizubama People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, authorities own all property.
+          Diet: yams, pig
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Bike Region - hot steppe
+       Cultures: 1
+         The Zobakacawe People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, fish, pig, sheep
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Huwocomi Region - forest
+       Cultures: 3
+         The Nudayuwo People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: cassava, cattle, cattle
+          Religion: Monotheism
+            Masosubi, Antagonistic deity, Sea
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Desimeruje People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: wheat, chicken
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+         The Sisabi People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: potatoes, game meat such as deer or elk
+          Religion: Polytheism
+            Lesurisoqo, Antagonistic deity, Life, Secrets, Secrets, Fire, Desire, Trickery
+            Dewo, Mysterious deity, Childbirth, Painting, Desert, Demons
+            Remi, Meddling deity, Family, Demons, Magic, Destruction
+            Yiliyiga, Forgiving deity, Wilderness, Stars, Sea
+            Xopi, Mysterious deity, Secrets, Land, Weaving, Destruction, Fighting
+            Sesaco, Punishing deity, Desire, Desert
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Heki Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Qemacunu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Tiqe Region - hot grassland
+       Cultures: 2
+         The Qujowucu People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: soybeans
+          Religion: Polytheism
+            Ixewo, Punishing deity, Night, Forest
+            Uru, Mysterious deity, Disaster, Painting
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Basa People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, sheep, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Wedu Region - cold jungle
+       Cultures: 2
+         The Bekusisolu People
+          Autocracy - rule by one, the ruler has servants
+          This is no concept of trade, but gifts are given.
+          Diet: rice, goat, goat
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Xogu People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: corn, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+
+     Hema Region - jungle
+       Cultures: 2
+         The Wecixobazi People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: potatoes, sheep
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+         The Seza People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, fish
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yuya Region - jungle
+       Cultures: 1
+         The Sizela People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, chicken
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Vuso Region - jungle
+       Cultures: 2
+         The Bilo People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, sheep
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Wukami People
+          Kratocracy - rule by strength
+          There is no trade, property is collectively owned.
+          Diet: yams, goat, game meat such as deer or elk
+          Religion: Dualism
+            Hepawo, Judgemental deity, Fighting, Moon, Writing, Angels, Destruction
+            Mexozoto, Forgiving deity, Protection, Sun, Painting, Demons, Creation
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yolehebu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Powoci Region - jungle
+       Cultures: 2
+         The Igixebi People
+          Ergatocracy - rule by working class
+          There is no trade, authorities own all property.
+          Diet: yams, chicken
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+         The Xopuneke People
+          Timocracy - rule by honor
+          Trade is done through barter.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Qemacunu Region - cold forest
+       Cultures: 1
+         The Yuseqaba People
+          Technocracy - rule by education
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Leti
+Area (km): 19235824
+Regions: 
+     Hibana Region - dry desert
+       Cultures: 3
+         The Bowemelato People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: potatoes, buffalo, buffalo, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Netoruyeji, Meddling deity, Intelligence, Writing
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Gejejo People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, fish, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+         The Sowekalisu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: corn, uncommon meat such as lizards or insects, buffalo, cattle
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Sesaco Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Riduze Region - cold jungle
+       Cultures: 3
+         The Rere People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: yams, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Jurojebewa People
+          Technocracy - rule by education
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, goat, cattle, chicken
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Xobepagaxo People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, sheep, goat
+          Religion: Dualism
+            Zoqu, Meddling deity, Secrets, Forest, Trickery, Judgement
+            Vulebokele, Forgiving deity, Truth, Desert, Judgement, Trickery
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Vekanuwuqe Region - dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Mati Region - cold jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Eze Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Pito Region - hot coastal desert
+       Cultures: 1
+         The Jewano People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: wheat, sheep
+          Religion: Polytheism
+            Luko, Mysterious deity, Luck, Stars, Angels, Antimagic, Mind, Land
+            Gimuda, Mysterious deity, Death, Land, Strength
+            Puvowo, Judgemental deity, Insanity, Demons, Sky, Metalworking, Day
+            Saqaseku, Mysterious deity, Chaos
+            Ohe, Obscure deity, Truth, Disaster, Plague
+            Qehila, Obscure deity, Harvest, Wilderness, War
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Banisihavu Region - coastal desert
+       Cultures: 1
+         The Soyiwisi People
+          Magrocracy - rule by magic
+          Trade is done through barter.
+          Diet: plantains, goat, goat, cattle
+          Religion: Monotheism
+            Lono, Uncaring deity, Weaving, Family
+          Magic: Magic is used by many, but not all.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Nakuxi Region - coastal desert
+       Cultures: 2
+         The Pebako People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: sorghum, sheep, buffalo
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Gowawo People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: plantains, cattle
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Osazabaxa Region - semiarid desert
+       Cultures: 2
+         The Hami People
+          Technocracy - rule by education
+          There is no trade, property is collectively owned.
+          Diet: yams, uncommon meat such as lizards or insects, buffalo
+          Religion: Dualism
+            Cugurowito, Forgiving deity, Fire, Travel, Peace, Insanity, Metalworking
+            Xasinowi, Uncaring deity, Ice, Home, War, Mind, Weaving
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Wuleboza People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: sweet potatoes, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Mobasi Region - hot jungle
+       Cultures: 1
+         The Buboduqa People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: yams, sheep, game meat such as deer or elk, pig
+          Religion: Polytheism
+            Megekomiyu, Meddling deity, Land, Travel, Metalworking, Weaving
+            Mosahe, Judgemental deity, Hatred, Angels, Chaos
+            Sujugucina, Judgemental deity, Wilderness, Sky, Angels, Life, Death
+            Nowisubehi, Obscure deity, Night, Ice, Night
+            Bumahu, Uncaring deity, Travel, Protection, Magic, Intelligence, Love, Secrets
+            Ravu, Meddling deity, Intelligence
+            Sikozo, Antagonistic deity, Travel, Sun, Judgement, Angels, Writing, Creation
+            Mewuso, Meddling deity, Truth, Secrets
+            Hemewuku, Punishing deity, Love, Writing, Strength
+            Bosezo, Meddling deity, Home, Magic, Luck, Civilization
+            Wovo, Punishing deity, Night, Trickery, Childbirth, Chaos
+            Yohizu, Antagonistic deity, Sea, Disaster, Desire
+            Esane, Uncaring deity, Destruction, Home, Death, Creation, Travel
+            Urepizele, Punishing deity, Strength, Strength, Demons, Judgement, Fire
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Wipo Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Wucasi Region - cold jungle with floating islands
+       Cultures: 3
+         The Toxiwabaje People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: plantains, chicken, game meat such as deer or elk
+          Religion: Dualism
+            Uzohawagu, Judgemental deity, Chaos
+            Pebako, Punishing deity, Law
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Kacaya People
+          Plutocracy - rule by rich
+          There is no trade, property is collectively owned.
+          Diet: sorghum
+          Religion: Ancestor Worship
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Leti People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, buffalo, fish, buffalo
+          Religion: Dualism
+            Yeyawozoci, Meddling deity, Chaos, Home, Law
+            Wuloyu, Mysterious deity, Law, Travel, Chaos
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Toba Region - jungle with sentient plants
+       Cultures: 2
+         The Widujo People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: cassava, chicken, fish, sheep
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Vuwozoro People
+          Plutocracy - rule by rich
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, fish
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Bimino Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Soce Region - steppe
+       Cultures: 1
+         The Qujowucu People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, buffalo
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yibole Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Reseze
+Area (km): 42201004
+Regions: 
+     Keladozo Region - cold coastal desert
+       Cultures: 2
+         The Beleni People
+          Kleptocracy - rule by thieves
+          There is no concept of property.
+          Diet: rice, game meat such as deer or elk
+          Religion: Monotheism
+            Simezazo, Antagonistic deity, Beauty, Desert, Protection
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yetasozulo People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, buffalo, buffalo, pig
+          Religion: Dualism
+            Waze, Uncaring deity, Love, Creation, Destruction, Destiny, Sea, Painting
+            Dequcisiyi, Uncaring deity, Family, Destruction, Creation, Luck, Land, Writing
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Naxuyubiye Region - hot semiarid desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Yageqo Region - jungle with a giant mushroom forest
+       Cultures: 1
+         The Nenonina People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, game meat such as deer or elk, uncommon meat such as lizards or insects, chicken
+          Religion: Dualism
+            Amobakisu, Judgemental deity, Home
+            Bacu, Punishing deity, Travel
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Lizi Region - cold jungle with sentient plants
+       Cultures: 1
+         The Yoxemawi People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, pig, goat, chicken
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Ridopubanu Region - cold semiarid desert
+       Cultures: 1
+         The Ikulaxaqe People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: cassava, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Vamenega Region - cold jungle without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Xuke People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, game meat such as deer or elk, cattle
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Wuwixi People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: cassava, fish, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Asu Region - hot jungle
+       Cultures: 2
+         The Nuwilodo People
+          Monarchy - rule by single bloodline
+          Trade is done through barter.
+          Diet: wheat
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Vikuhowo People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, cattle, uncommon meat such as lizards or insects, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Lexusideso Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Vukowa Region - jungle
+       Cultures: 1
+         The Guxamo People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: sorghum, cattle, pig, game meat such as deer or elk
+          Religion: Polytheism
+            Ahu, Punishing deity, Plague, Intelligence, Demons, Hatred, Fire
+            Xusezoje, Judgemental deity, Forest
+            Bazo, Uncaring deity, Insanity, Painting, War, Strength
+            Dekaqasuhu, Obscure deity, Intelligence, Beauty, Intelligence, Civilization
+            Nusasabu, Antagonistic deity, Harvest, Weaving
+            Nilibi, Uncaring deity, Metalworking, Moon, Painting
+            Nosicewa, Obscure deity, Strength, Destruction, Death, Painting, Antimagic, Love
+            Nakapuwi, Mysterious deity, Sun, Judgement, Weaving, Destruction, Protection, Childbirth
+            Heki, Judgemental deity, Destiny, Creation, Desire
+            Eguwe, Judgemental deity, Angels, Land, Protection, Demons
+            Cibabe, Meddling deity, Judgement, Metalworking
+            Bola, Obscure deity, Wilderness, Life, Magic
+            Yoxemawi, Obscure deity, Wilderness
+            Vuso, Meddling deity, Writing, Judgement
+            Kihopivihe, Judgemental deity, Fire, Family, Angels, Strength
+            Hiluci, Obscure deity, Strength
+            Hunopi, Uncaring deity, Sea, Writing, Day
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Lizi Region - hot semiarid desert
+       Cultures: 3
+         The Jorazisiru People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: cassava, chicken
+          Religion: Polytheism
+            Nowisubehi, Punishing deity, Ice, Life, Antimagic, Desire, Painting, Intelligence
+            Bixocu, Judgemental deity, Law, Strength, War, Death, Harvest
+            Biqa, Punishing deity, Sea, Metalworking, Afterlife
+            Hawokiwe, Antagonistic deity, Metalworking, Forest, Truth, Sky, Law
+            Xisicigo, Judgemental deity, Weaving, Mind, Protection, Moon
+            Miyowohe, Punishing deity, Disaster, Angels, Fire
+            Qomehewo, Punishing deity, Family, Fighting, Sea
+            Vixobe, Judgemental deity, Protection, Plague, Angels, Secrets, Mind
+            Baxa, Uncaring deity, Disaster
+            Sazibi, Meddling deity, Strength, Life, War
+            Cowezowo, Antagonistic deity, Fire, Afterlife
+            Naxuyubiye, Obscure deity, Mind
+            Nogoxonasu, Mysterious deity, Antimagic, Trickery, Death
+            Linamise, Judgemental deity, Desert, Travel, Plague, Home
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yobavawu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, chicken
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Kobula People
+          Kratocracy - rule by strength
+          There is no trade, authorities own all property.
+          Diet: yams, fish, goat, goat
+          Religion: Polytheism
+            Qene, Uncaring deity, Law, Intelligence, Truth
+            Lumo, Uncaring deity, Truth
+            Nuxu, Meddling deity, Weaving, Insanity, Truth, Desire, Judgement
+            Dayoxiro, Forgiving deity, Home, Sun, Ice, Magic
+            Qira, Punishing deity, Judgement
+            Jejolo, Meddling deity, Day, Ice, Secrets
+            Liluxuza, Judgemental deity, Secrets, Wilderness, Hatred
+            Azuyidu, Mysterious deity, Love
+            Soce, Uncaring deity, Antimagic, Beauty, Demons, Plague, Family
+            Gozo, Forgiving deity, Forest, Love, Desert, Hatred
+            Osazabaxa, Uncaring deity, Forest, Destruction, Destruction, Civilization, Civilization
+            Buxa, Punishing deity, Strength
+            Yetasozulo, Mysterious deity, Antimagic
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Xuyitowiho Region - hot jungle that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Kihopivihe People
+          Plutocracy - rule by rich
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, goat, game meat such as deer or elk, cattle
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Kajomebi People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done through barter.
+          Diet: wheat, goat, chicken
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Caqedawa Region - cold jungle
+       Cultures: 3
+         The Zusi People
+          Bankocracy - rule by banks
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, pig
+          Religion: Dualism
+            Luqaqewedi, Judgemental deity, Love
+            Izazewo, Judgemental deity, Family
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Owo People
+          Anarchy - no enforced rule
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum
+          Religion: Monotheism
+            Lazeyivi, Forgiving deity, Destruction
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Walumawe People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, authorities own all property.
+          Diet: rice, game meat such as deer or elk, game meat such as deer or elk, chicken
+          Religion: Monotheism
+            Hutixe, Antagonistic deity, Love, Travel, Angels, Peace, Intelligence
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Bimesuxiyo Region - cold jungle
+       Cultures: 1
+         The Robecuwege People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, game meat such as deer or elk
+          Religion: Polytheism
+            Susuhikoso, Mysterious deity, Demons, Afterlife, Painting, Writing, Travel
+            Rinaba, Punishing deity, Childbirth, Law, Trickery, Antimagic, Trickery, Sky
+            Benotupo, Forgiving deity, Desert, Mind, Civilization, Land
+            Toxiwabaje, Meddling deity, Demons, Day, Writing, Day, Chaos, Destruction
+            Wizepa, Judgemental deity, Afterlife
+            Mazugevulo, Punishing deity, Night, Civilization, Civilization, Protection, Beauty, Destruction
+            Bazo, Mysterious deity, Sun, Night, Forest
+            Bimino, Punishing deity, Home, Night, Writing, Peace, Disaster
+            Wuwixi, Mysterious deity, Sun
+            Joki, Judgemental deity, Death
+            Wiki, Mysterious deity, Insanity, Chaos
+            Simezazo, Uncaring deity, Weaving, Family, Hatred, Peace, Trickery
+            Siwomikebo, Meddling deity, War, Secrets, Law, Fighting, Life, Metalworking
+            Koxasibi, Obscure deity, Antimagic, Judgement, Desert, Beauty
+            Ibokosore, Uncaring deity, Destiny, Sky
+            Riduze, Judgemental deity, Writing, Peace
+            Kayacoxo, Obscure deity, Strength, Plague
+            Vusa, Judgemental deity, Plague
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Winujesi Region - jungle
+       Cultures: 2
+         The Eku People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, cattle
+          Religion: Polytheism
+            Bowemelato, Obscure deity, Magic, Sky, Fire, Weaving
+            Vaqobuze, Punishing deity, Magic
+            Sisoyu, Judgemental deity, Chaos, Fighting, Family, Travel, Magic
+            Zimulisi, Uncaring deity, Harvest, Magic
+            Mehereku, Antagonistic deity, Creation
+            Asowoke, Mysterious deity, Desire, Angels, Home
+            Hixaxe, Punishing deity, Harvest, Creation, Fighting, Day, Death, Insanity
+            Nogoxonasu, Forgiving deity, Desire, Painting
+            Zakuxo, Judgemental deity, Stars, Day
+            Kihube, Uncaring deity, Desire, Fighting
+            Ikulaxaqe, Forgiving deity, Destruction
+            Izisozu, Mysterious deity, Peace
+            Lakowakewa, Antagonistic deity, Fire, Fire, Antimagic, Plague, Life
+            Zanijezobo, Obscure deity, Wilderness, Angels, Metalworking, Painting, Insanity, Forest
+            Uruko, Uncaring deity, Demons, Intelligence, Home, Mind
+            Kuwo, Meddling deity, Forest, Life, Creation, Hatred
+            Zabawa, Antagonistic deity, Secrets, Death
+            Mokupaxeya, Mysterious deity, Afterlife, Weaving, War
+            Xikowuyi, Mysterious deity, Childbirth, Beauty, Desire, Peace, Beauty, Life
+            Bilubisa, Punishing deity, Childbirth, War, Plague, Intelligence, Death, Forest
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Siwoku People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, sheep, goat, cattle
+          Religion: Monotheism
+            Beda, Antagonistic deity, Afterlife, Luck
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Hunopi Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Atu Region - cold dry desert
+       Cultures: 2
+         The Weyu People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: yams, monstrous meat such as dragons or griffins, buffalo
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Dinacuwe People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: soybeans, pig, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Cibabe Region - cold grassland with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Bezikezibe Region - jungle
+       Cultures: 3
+         The Lizi People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yohonahe People
+          Ergatocracy - rule by working class
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, buffalo, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: hostility
+
+         The Bilo People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, chicken, monstrous meat such as dragons or griffins, fish
+          Religion: Monotheism
+            Laci, Uncaring deity, Wilderness, Mind, Painting
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+
+     Juwu Region - hot forest with an undead infestation
+       Cultures: 1
+         The Rinaba People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: yams, pig
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+
+     Bune Region - forest
+       Cultures: There are no cultures in this area.
+
+     Kubi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Pebako Region - coastal desert
+       Cultures: 1
+         The Uqa People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, pig, game meat such as deer or elk, goat
+          Religion: Monotheism
+            Yiqace, Mysterious deity, Desire, Beauty
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Xuke Region - jungle with sentient plants
+       Cultures: 2
+         The Biwowalono People
+          Technocracy - rule by education
+          Trade is done through barter.
+          Diet: sorghum, chicken, pig
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yewuwi People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, pig
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+
+     Lubuxubebo Region - jungle
+       Cultures: 1
+         The Wegenoqe People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, buffalo
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Zamina Region - cold jungle
+       Cultures: 2
+         The Sukili People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: potatoes, buffalo, goat, fish
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+         The Amobakisu People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Naqu Region - jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Vuwozoro People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, monstrous meat such as dragons or griffins, goat
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yari Region - cold forest
+       Cultures: 1
+         The Zewozi People
+          Kratocracy - rule by strength
+          There is no trade, property is collectively owned.
+          Diet: potatoes
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Waze Region - hot dry desert with giant living rocks
+       Cultures: 2
+         The Ure People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Tusa, Punishing deity, Plague, Trickery, Death, Travel
+            Wukami, Mysterious deity, Fighting, Desire, Plague, Day
+            Tazenohivo, Punishing deity, Ice, Strength, Desert
+            Bamuhasoqi, Judgemental deity, Civilization, Home, Stars, Writing
+            Vomamo, Punishing deity, Painting, Demons, Sky
+            Heyi, Meddling deity, Protection
+            Zeqaqiba, Judgemental deity, Weaving, Chaos
+            Vulebokele, Punishing deity, War, Day
+            Mokiba, Judgemental deity, Childbirth, Creation, Beauty, Fighting
+            Azebiki, Antagonistic deity, Luck
+            Qaco, Judgemental deity, Chaos, Destruction, Creation
+            Ewekaza, Judgemental deity, Beauty
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Babayimoki People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: sorghum, cattle
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Lusiyutale Region - cold grassland
+       Cultures: 2
+         The Eso People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: soybeans, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Zonizali People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, cattle
+          Religion: Monotheism
+            Buboduqa, Judgemental deity, Afterlife, Harvest
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Qoxina Region - hot jungle
+       Cultures: 3
+         The Hawokiwe People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, pig, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Zonizali People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: yams, chicken, pig
+          Religion: Polytheism
+            Vakilebida, Meddling deity, Day, Peace, Stars, Desert
+            Qemonese, Antagonistic deity, Stars
+            Adibige, Antagonistic deity, Harvest, Judgement, Peace, Moon
+            Gibaza, Punishing deity, Antimagic, Law, Childbirth, Law, Wilderness
+            Vokocoru, Punishing deity, Night, Mind, Night, Trickery, Night, Antimagic
+            Ivivepi, Punishing deity, Desert, Hatred
+            Yuja, Uncaring deity, Plague, Fire
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Hurokopebu People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: soybeans, pig, pig, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Jorazisiru Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Busuqemudu Region - hot dry desert
+       Cultures: 3
+         The Tekuku People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, uncommon meat such as lizards or insects, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Megekomiyu People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: yams, fish, buffalo
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yeduqotoso People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: soybeans, pig
+          Religion: Dualism
+            Yojaqo, Meddling deity, Plague, Fire, Moon, Writing
+            Alovi, Antagonistic deity, Harvest, Ice, Sun, Painting
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Nexe Region - cold dry desert
+       Cultures: 1
+         The Yowolihoko People
+          Kleptocracy - rule by thieves
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, monstrous meat such as dragons or griffins, goat, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Lokoxibe
+Area (km): 17969476
+Regions: 
+     Wuwixi Region - hot semiarid desert
+       Cultures: 2
+         The Kusosuje People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, buffalo, cattle, goat
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Naketihava People
+          Kleptocracy - rule by thieves
+          There is no concept of property.
+          Diet: corn, monstrous meat such as dragons or griffins, chicken
+          Religion: Polytheism
+            Kixobalu, Antagonistic deity, Secrets
+            Koyoboboxu, Antagonistic deity, Wilderness
+            Yewuwi, Meddling deity, Strength, Intelligence
+            Yizo, Punishing deity, Painting, Home, Mind, Desire
+            Bugoxaxe, Punishing deity, Luck
+            Banisihavu, Mysterious deity, Fighting, Disaster, Home, Destiny, Weaving
+            Nenojobe, Judgemental deity, Secrets
+            Xabekeluyo, Antagonistic deity, Writing, Peace, Trickery, Luck, Peace, Home
+            Kaqasupi, Mysterious deity, Destruction, Moon, Day, Antimagic
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Biya Region - forest
+       Cultures: 1
+         The Zabawa People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, fish, monstrous meat such as dragons or griffins, sheep
+          Religion: Monotheism
+            Xuje, Punishing deity, Home, Chaos, Fighting, Peace
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yabo Region - hot steppe
+       Cultures: 3
+         The Zobakacawe People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: wheat, chicken, fish, fish
+          Religion: Dualism
+            Hami, Antagonistic deity, Trickery, Chaos
+            Woxi, Judgemental deity, Judgement, Law
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Nenonina People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, fish, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Solejeyahe People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, uncommon meat such as lizards or insects, buffalo, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Nusapixuga Region - steppe
+       Cultures: 2
+         The Hixaxe People
+          Kratocracy - rule by strength
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn
+          Religion: Monotheism
+            Noluyo, Forgiving deity, Demons, Luck, Metalworking, Sea, Sun, Death
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Azuyidu People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, authorities own all property.
+          Diet: soybeans, chicken
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Qehila Region - hot jungle
+       Cultures: 1
+         The Webi People
+          Corporatocracy - rule by corporations
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, sheep, buffalo
+          Religion: Monotheism
+            Quti, Uncaring deity, War, Death
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Wabe Region - steppe
+       Cultures: 1
+         The Duqi People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: wheat, goat
+          Religion: Dualism
+            Qeno, Uncaring deity, Fire, Trickery, Metalworking
+            Bore, Antagonistic deity, Ice, Judgement, Weaving
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+
+     Ibesi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Simezazo Region - forest
+       Cultures: 1
+         The Levebubimu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: yams
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yabiwuwu Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Xohu Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Tuqesaxa Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Niranuvito Region - forest
+       Cultures: 3
+         The Agi People
+          Kleptocracy - rule by thieves
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+         The Gimuda People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, goat, chicken, fish
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Azuyidu People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: yams, pig, buffalo, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Wegenoqe, Uncaring deity, Secrets
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yabo Region - cold jungle
+       Cultures: 3
+         The Naxuyubiye People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, sheep, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Qepetumoja, Meddling deity, Creation
+            Eze, Meddling deity, Destruction
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Qilo People
+          Ergatocracy - rule by working class
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, game meat such as deer or elk, goat
+          Religion: Monotheism
+            Hibela, Judgemental deity, War, Destiny, Truth, Angels, Strength, Harvest
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Siwomikebo People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: rice, game meat such as deer or elk, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Wusi Region - coastal desert
+       Cultures: 1
+         The Remi People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Lame Region - cold jungle
+       Cultures: 1
+         The Vaqobuze People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: rice, cattle, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Xuluzowo
+Area (km): 2705080
+Regions: 
+     Nisugaqibe Region - dry desert
+       Cultures: 3
+         The Lemiba People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: potatoes, cattle, sheep, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Ipalu People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: corn, goat, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Quwekokosi People
+          Corporatocracy - rule by corporations
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, chicken
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Madi
+Area (km): 2923020
+Regions: 
+     Yomu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Gogubexixu Region - cold forest
+       Cultures: 1
+         The Hiyoma People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: rice
+          Religion: Ancestor Worship
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+

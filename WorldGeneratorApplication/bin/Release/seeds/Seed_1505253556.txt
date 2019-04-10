@@ -1,0 +1,360 @@
+-----Batime world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+     In some places, Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+The source of magic is deities or spirits.
+Around magic, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with admiration.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 9 degrees Celsius. It is cold.
+The world has virtually no life, and few things survive.
+The world is 73% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 4 continents.
+-----------------------------
+The land of Vigu
+Area (km): 47906296
+Regions: 
+     Vowife Region - cold dry desert
+       Cultures: 1
+         The Pato People
+          Technocracy - rule by education
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, sheep, sheep
+          Religion: Polytheism
+            Rira, Forgiving deity, Protection, Trickery, Fire, War
+            Cozidoxagi, Antagonistic deity, Night, Protection
+            Pehofu, Judgemental deity, Chaos, Travel, Truth, Fighting, Writing
+            Qigoji, Punishing deity, Secrets, Intelligence, Luck, Luck, Home, Beauty
+            Votofoqo, Mysterious deity, Love, Wilderness, Stars, Law
+            Ivosuki, Forgiving deity, Sea, Travel
+            Pasaxu, Mysterious deity, Plague, Truth, Antimagic
+            Kozezuqeju, Meddling deity, Land, Strength
+            Quqa, Antagonistic deity, Desert, Intelligence
+            Gerope, Forgiving deity, Civilization, Judgement, Angels, Ice, Sun, Death
+            Wavoranu, Meddling deity, Fire
+            Zazaxopi, Mysterious deity, Desire, Weaving, Insanity, Insanity, Law, Intelligence
+            Lipovive, Forgiving deity, Family, Childbirth, Ice, Peace, Family
+            Tahimasuwa, Forgiving deity, Disaster, Moon, Creation, Metalworking, Antimagic
+            Nimora, Uncaring deity, War, Civilization, Family, Destruction, Chaos
+            Pogiramo, Obscure deity, Fire, Metalworking
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Qoso Region - hot dry desert
+       Cultures: 1
+         The Jawigevo People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: corn, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Ralewi, Mysterious deity, Hatred, Family, Stars, Harvest
+            Qezu, Mysterious deity, Moon, Destiny
+            Sodore, Punishing deity, Chaos
+            Weli, Punishing deity, Stars, Love
+            Dasufa, Forgiving deity, Protection, Fire, Destruction
+            Malugeru, Meddling deity, Writing, Weaving
+            Qewapi, Judgemental deity, Disaster
+            Bogigukeha, Forgiving deity, Angels, Secrets, Wilderness, Fighting, Death, Day
+            Vazowase, Obscure deity, Mind, Demons, War, Family, Truth, Civilization
+            Datapa, Meddling deity, War
+            Soparo, Antagonistic deity, Luck, Judgement
+            Wanikuge, Obscure deity, Insanity, Angels, Harvest, Disaster, Angels, Destiny
+            Qipoviwoqo, Judgemental deity, Sea, Writing, Death
+            Nihesesi, Obscure deity, Harvest, Afterlife, Creation, Luck, Forest
+            Sequgi, Antagonistic deity, Fire, Writing, Peace, Painting
+            Rabe, Judgemental deity, Demons, Antimagic, Secrets, Travel
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Bupasujefo Region - cold dry desert
+       Cultures: 1
+         The Neli People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Fota, Punishing deity, Writing, Destiny, Home, Weaving
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Waqinixe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Suso Region - cold dry desert
+       Cultures: 1
+         The Navurevure People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Dualism
+            Pohexu, Punishing deity, Sun, Mind
+            Wepuwe, Obscure deity, Moon, Insanity
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Sequgi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Iqofifopa Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Goposa Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Dowevogubi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Nebege Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Duxo Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Zetofuvapi Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Povi Region - steppe
+       Cultures: 1
+         The Fota People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: wheat, goat, chicken, buffalo
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Zabe Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Kaqe Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Japoliqe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qarili Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Awi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Pute Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Beciwalu Region - cold jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Have Region - cold jungle
+       Cultures: 1
+         The Owifohe People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: sorghum, cattle
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Zepuli Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Weli Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Upaxe Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The Obeze People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, authorities own all property.
+          Diet: rice, pig
+          Religion: Polytheism
+            Wirapa, Forgiving deity, Metalworking, Desert, Disaster
+            Pipi, Antagonistic deity, Fire, Ice
+            Qaqaqexavi, Obscure deity, Luck
+            Hidemazara, Obscure deity, Ice, Harvest, Life, Moon, Demons
+            Eladepucu, Uncaring deity, Day, Plague, Demons
+            Bobipiva, Forgiving deity, Family, Fire, Painting, Ice
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Qojuvu Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Rito Region - cold forest with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Upuweda Region - cold jungle
+       Cultures: 1
+         The Suzaxaliga People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Dasufa Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Vowife Region - cold semiarid desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Lame Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Foqida Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Zefewexo Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Qaravurati Region - cold grassland that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Uwekuru Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Dise Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Lehipiru
+Area (km): 66342829
+Regions: 
+     Wocenewa Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Vipasagogo Region - hot dry desert
+       Cultures: 1
+         The Giba People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, fish, fish, sheep
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Xivuvijo Region - cold dry desert
+       Cultures: 1
+         The Lubejegedo People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, goat
+          Religion: Monotheism
+            Weqa, Judgemental deity, Childbirth, Strength, Civilization
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Soxu Region - cold forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Vapowivo
+Area (km): 14613000
+Regions: 
+     Vubapulepa Region - cold semiarid desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Lawexage Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Vihoma Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Lice Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Hohe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vuqoco Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Toti Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Xibi Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Pelume Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Bomate Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Peqapiqaja Region - cold steppe that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Bupurove People
+          Despotism - rule by one, the ruler has slaves
+          This is no concept of trade, but gifts are given.
+          Diet: corn, game meat such as deer or elk, cattle
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Gahogomo Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Pohexu
+Area (km): 5628465
+Regions: 
+     Datapa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Dovomi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Haviva Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+

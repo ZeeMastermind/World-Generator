@@ -1,0 +1,205 @@
+-----Cipiqiwari world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is virtually nonexistent.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is pacts with monsters and demons.
+Around magic, people react with worship.
+     In some places, people react with awe.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is modern, consisting of nukes and computers.
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with fear.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 25 degrees Celsius. It is extremely hot.
+The world has low amount of life, which is hard to find.
+The world is 63% water.
+Rain evaporates immediately upon hitting the ground.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 4 continents.
+-----------------------------
+The land of Sasa
+Area (km): 123358400
+Regions: 
+     Weciwe Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Seyi
+Area (km): 53701024
+Regions: 
+     Jasizive Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Zajaze Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wicasaye Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Mekede Region - hot dry desert
+       Cultures: 2
+         The Ziva People
+          Technocracy - rule by education
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, game meat such as deer or elk, goat, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Yabezame, Uncaring deity, Secrets, Hatred, Forest, Sun, Wilderness, Day
+            Pica, Judgemental deity, Truth, Desire, Desert, Moon, Civilization, Night
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+         The Ciqiriji People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, authorities own all property.
+          Diet: plantains, sheep, fish
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: awe
+
+
+     Acecijide Region - hot dry desert
+       Cultures: 1
+         The Bijizevaya People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: corn, goat, buffalo, pig
+          Religion: Polytheism
+            Jaji, Antagonistic deity, Afterlife
+            Zedemivi, Uncaring deity, Disaster, Mind, Afterlife, Death
+            Qamaya, Forgiving deity, Law, Home, Desert
+            Zibe, Obscure deity, Peace, Day, Stars, Stars
+            Payawaja, Punishing deity, Law
+            Izamije, Antagonistic deity, Truth
+            Pice, Punishing deity, Writing, Wilderness, Painting, Civilization, Death
+            Qavesa, Uncaring deity, Land, Disaster, Hatred
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: awe
+
+
+     Qale Region - hot dry desert
+       Cultures: 1
+         The Jica People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: sorghum, goat, fish
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+
+     Qaci Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Liseki Region - hot forest
+       Cultures: 1
+         The Yiqaziyi People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, goat, fish
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+
+     Jamaze Region - hot forest with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Kawapa Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Zizewa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Maqeqa
+Area (km): 2529712
+Regions: 
+     Mekede Region - cold forest
+       Cultures: 2
+         The Viyewi People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, chicken, buffalo, chicken
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+         The Yedayive People
+          Anarchy - no enforced rule
+          There is no concept of property.
+          Diet: rice, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: awe
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+
+     Jekawe Region - hot dry desert
+       Cultures: 1
+         The Deji People
+          Autocracy - rule by one, the ruler has servants
+          There is no concept of property.
+          Diet: plantains, uncommon meat such as lizards or insects, buffalo
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Wacixibebe
+Area (km): 5410864
+Regions: 
+     Meqewikewa Region - hot grassland
+       Cultures: 2
+         The Vicawa People
+          Corporatocracy - rule by corporations
+          Trade is done through barter.
+          Diet: sorghum, chicken
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+         The Peziva People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: cassava, fish, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: fear
+
+
+

@@ -1,0 +1,188 @@
+-----Binofe world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is virtually nonexistent.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is pacts with monsters and demons.
+Around magic, people react with worship.
+     In some places, people react with awe.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of bows, plows, and maybe copper.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+     In some places, Technology is prehistoric, consisting of rocks and sticks.
+Technology is from the ruins of ancient civilizations. However, some have built technology powered by magic.
+Around technology, people react with indifference.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 17 degrees Celsius. It is hot.
+The world has low amount of life, which is hard to find.
+The world is 91% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 2 continents.
+-----------------------------
+The land of Obejepu
+Area (km): 42840084
+Regions: 
+     Babivatile Region - cold dry desert
+       Cultures: 2
+         The Qeyavagevi People
+          Monarchy - rule by single bloodline
+          There is no concept of property.
+          Diet: wheat, cattle, buffalo, chicken
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+         The Lelijeno People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: sorghum, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+
+     Ujitonape Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Vahatatebo People
+          Diarchy - rule by two bloodlines
+          There is no trade, property is collectively owned.
+          Diet: plantains, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+
+     Petobu Region - forest with a wetland
+       Cultures: 1
+         The Bunu People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+
+     Xadobeci Region - cold forest with sentient plants
+       Cultures: 1
+         The Nibovepu People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: cassava, goat, chicken, sheep
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+
+     Xiyo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vupapapene Region - cold dry desert
+       Cultures: 1
+         The Neyi People
+          Ergatocracy - rule by working class
+          There is no concept of property.
+          Diet: potatoes, buffalo
+          Religion: Dualism
+            Nijevuxe, Punishing deity, Childbirth, Moon, Home, Destruction, Sun, Luck
+            Qena, Punishing deity, Afterlife, Sun, Travel, Creation, Moon, Destiny
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+
+     Tepate Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Xuguwadi Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Onepi Region - hot jungle with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Cubuvabe Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Lena Region - hot dry desert
+       Cultures: 2
+         The Qurijede People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: wheat, buffalo
+          Religion: Polytheism
+            Lapupolalo, Obscure deity, Land
+            Xavi, Antagonistic deity, Day, Protection, Judgement, Destiny, Forest
+            Wuvuxe, Uncaring deity, Secrets, Night, Home, Mind, Childbirth
+            Pixu, Obscure deity, War, Disaster, Disaster
+            Potohepu, Obscure deity, Childbirth, Trickery, Peace, Peace, Creation
+            Yujoti, Judgemental deity, Chaos
+            Buxeqipi, Meddling deity, Harvest
+            Yoqenanano, Judgemental deity, Fighting, Trickery, Travel, Sun, War
+            Ijovove, Judgemental deity, Life, Desert, Protection, Creation
+            Veno, Mysterious deity, Land, Destruction, Weaving, Strength
+            Paxo, Obscure deity, Night, Travel, Fighting, Angels
+            Apeno, Uncaring deity, Ice
+            Uvobija, Obscure deity, Intelligence, Fighting, Creation, Fighting, Destiny, Chaos
+            Nijapo, Forgiving deity, Judgement, Chaos, Plague
+            Ado, Judgemental deity, Home, Fire, Fire, Harvest, Strength, Ice
+            Ubeyelofo, Judgemental deity, Intelligence, Chaos, Fire, Weaving, Life, Sun
+            Heno, Forgiving deity, Magic
+            Pobukopoju, Judgemental deity, Sky, Secrets, Creation, Destiny, Death
+            Jati, Judgemental deity, Judgement, Forest, Forest, Demons, Plague
+            Vijenunu, Forgiving deity, War, Ice, Judgement, Mind, Mind, Angels
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+         The Nuvuya People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, property is collectively owned.
+          Diet: wheat, fish
+          Religion: Dualism
+            Obeyuleqe, Obscure deity, Writing, Secrets, Secrets
+            Nibegavi, Mysterious deity, Painting, Truth, Truth
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+
+
+-----------------------------
+The land of Ojotepexo
+Area (km): 2159916
+Regions: 
+     Hunewejo Region - dry desert
+       Cultures: 1
+         The Peba People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: potatoes, cattle, chicken
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: indifference
+
+
+

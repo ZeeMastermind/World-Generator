@@ -1,0 +1,1873 @@
+-----Cakimihiru world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+The source of magic is alchemy.
+Around magic, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is powered by magic.
+Around technology, people react with fear.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 19 degrees Celsius. It is hot.
+The world has an amount of life similar to Earth.
+The world is 51% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 4 continents.
+-----------------------------
+The land of Yaci
+Area (km): 59094935
+Regions: 
+     Vuwuco Region - coastal desert
+       Cultures: 2
+         The Cosu People
+          Kratocracy - rule by strength
+          There is no trade, authorities own all property.
+          Diet: cassava, sheep
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Wiva People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: potatoes
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vahuku Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Nicu Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The Lalu People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, goat, sheep
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Laxagobu Region - jungle with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Bumihona Region - cold semiarid desert
+       Cultures: 2
+         The Obahudopa People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, buffalo, sheep
+          Religion: Dualism
+            Gomu, Mysterious deity, Fire
+            Bujimowa, Punishing deity, Ice
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Liyanaguju People
+          Dictatorship - rule by one, gained power through force
+          There is no concept of property.
+          Diet: sweet potatoes, chicken
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Pipoyo Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Wunuwo Region - hot coastal desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Kizayici People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, fish, goat
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Jako People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Cicoru Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Poxafopako Region - cold semiarid desert
+       Cultures: 2
+         The Zumaza People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Kari People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: yams, cattle, uncommon meat such as lizards or insects, cattle
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Kolici Region - hot jungle
+       Cultures: 1
+         The Kifuyu People
+          Military Dictatorship - rule by military
+          There is no trade, property is collectively owned.
+          Diet: rice, game meat such as deer or elk, monstrous meat such as dragons or griffins, fish
+          Religion: Dualism
+            Iharorori, Uncaring deity, Plague, Ice
+            Ciworu, Forgiving deity, Harvest, Fire
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Cuboju Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Udayafifu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Ujomaxipu Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Wifumonuju Region - cold jungle
+       Cultures: 1
+         The Vicufu People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: corn, sheep
+          Religion: Polytheism
+            Wolihi, Meddling deity, Creation, Family, Stars, Harvest, Metalworking, Afterlife
+            Cakimihiru, Uncaring deity, Wilderness, Mind, Civilization, Fighting, Luck, Magic
+            Xoxo, Uncaring deity, Desert, Day
+            Varaku, Judgemental deity, Home, Secrets, Desert, Moon, Travel
+            Higuma, Antagonistic deity, Civilization, Home, Trickery
+            Fizufimo, Mysterious deity, Insanity, Angels
+            Kamafo, Mysterious deity, Day, Protection, Truth, Mind
+            Laxubuzaja, Punishing deity, Angels, Love, Moon, Civilization
+            Caxiyumuvi, Judgemental deity, Chaos, Intelligence, Strength, Destruction, Angels, Sea
+            Mucuwabuki, Obscure deity, Luck, Ice
+            Vulabimodu, Judgemental deity, Moon, Family, Family, Truth, Harvest, Sea
+            Waxaxono, Punishing deity, Forest
+            Vuxiduhowa, Obscure deity, Mind, Chaos, Destiny, Forest
+            Kixodo, Meddling deity, Antimagic, Mind, Protection, Death, Destruction, Childbirth
+            Zuku, Antagonistic deity, Sea
+            Japido, Forgiving deity, Death, Family
+            Ohini, Obscure deity, Insanity, Plague, Desert, Demons
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: fear
+
+
+     Romipawasi Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Sucafibu Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Zoramoli Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Favo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Abiho Region - cold grassland
+       Cultures: 1
+         The Woviniyuho People
+          Plutocracy - rule by rich
+          There is no concept of property.
+          Diet: soybeans, monstrous meat such as dragons or griffins, game meat such as deer or elk, sheep
+          Religion: Dualism
+            Hociju, Punishing deity, Civilization
+            Yacako, Mysterious deity, Wilderness
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Oximozu Region - cold grassland
+       Cultures: 2
+         The Muci People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, chicken, sheep
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Zivariha People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, game meat such as deer or elk, buffalo
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: fear
+
+
+     Vahi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wuxusodiga Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Rola Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Liribomawu Region - dry desert
+       Cultures: 2
+         The Xofovuvoya People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, pig, chicken, fish
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Cuka People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, chicken, sheep, buffalo
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Muci Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Zomagabico Region - jungle
+       Cultures: 1
+         The Jicu People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: wheat, uncommon meat such as lizards or insects, goat
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vodagufu Region - cold jungle with a wetland
+       Cultures: 2
+         The Yuhiwufu People
+          Ochlocracy - mob rule
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Cofa People
+          Monarchy - rule by single bloodline
+          There is no concept of property.
+          Diet: cassava, cattle, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: fear
+
+
+     Likixihamu Region - cold semiarid desert with sentient plants
+       Cultures: 1
+         The Kidu People
+          Autocracy - rule by one, the ruler has servants
+          There is no concept of property.
+          Diet: sweet potatoes, buffalo
+          Religion: Dualism
+            Wihawawo, Obscure deity, Wilderness, Weaving
+            Yaci, Antagonistic deity, Civilization, Metalworking
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: fear
+
+
+     Wida Region - jungle
+       Cultures: 2
+         The Dudocura People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: rice, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Cabizupu People
+          Monarchy - rule by single bloodline
+          There is no concept of property.
+          Diet: yams, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Daca, Uncaring deity, Life
+            Mamuxu, Uncaring deity, Intelligence, Peace, Chaos, Writing, Forest
+            Varaku, Meddling deity, Weaving, Hatred, Sun, Demons, Death, Civilization
+            Baduvuli, Mysterious deity, Strength
+            Vudu, Obscure deity, Wilderness
+            Xicadaku, Forgiving deity, Demons, Intelligence, Sea, Love
+            Xilohu, Judgemental deity, Fire
+            Sadokalowo, Obscure deity, Intelligence, Day, Weaving, Secrets, Sun
+            Ohujorowi, Antagonistic deity, Law, Chaos
+            Vuwuco, Obscure deity, Trickery
+            Cowa, Meddling deity, Fighting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: fear
+
+
+     Lididuvo Region - hot jungle
+       Cultures: 1
+         The Bapixavaju People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Komicori Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Luminakubi Region - steppe with an undead infestation
+       Cultures: 2
+         The Ovavuwi People
+          Kratocracy - rule by strength
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, cattle, sheep, sheep
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Komicori People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: plantains, cattle, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Rivika Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Forumu Region - hot grassland
+       Cultures: 1
+         The Xivaxi People
+          Timocracy - rule by honor
+          There is no trade, authorities own all property.
+          Diet: yams, pig, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Boru Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wobagamo Region - cold dry desert
+       Cultures: 2
+         The Fizufi People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: plantains, fish, buffalo
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Riwabodifa People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done through barter.
+          Diet: cassava
+          Religion: Polytheism
+            Ojino, Antagonistic deity, Protection, Home
+            Fivo, Meddling deity, Strength, Civilization, Land, Destiny, Harvest, Painting
+            Xofovuvoya, Judgemental deity, Childbirth, Writing
+            Havuyaviva, Punishing deity, Sun
+            Kacucopo, Forgiving deity, Antimagic, Night, Sky, Magic, Hatred
+            Xicazowi, Uncaring deity, Life, Civilization, Fire, Protection, Harvest
+            Zupuwapiro, Uncaring deity, Stars
+            Xusi, Judgemental deity, Truth, Luck, Afterlife
+            Mimahinona, Antagonistic deity, Ice
+            Bimimi, Forgiving deity, Angels
+            Higuma, Judgemental deity, Fighting, Metalworking, Home
+            Yucu, Obscure deity, Sea, Land, Life
+            Kidu, Obscure deity, Childbirth, Insanity, Sky, Plague, Plague, Home
+            Raci, Punishing deity, Law, Fire, Hatred, Desire, Mind, Desert
+            Xicadaku, Judgemental deity, Insanity, Weaving
+            Dora, Antagonistic deity, Destruction, Antimagic, Disaster, Demons
+            Yinocala, Mysterious deity, Mind
+            Yogofomu, Antagonistic deity, Stars, Wilderness, Hatred, Writing, Moon, Stars
+            Vuho, Antagonistic deity, Truth, Antimagic, Fire
+            Ridomorozo, Punishing deity, Childbirth, Luck, Hatred
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Dufo
+Area (km): 183371203
+Regions: 
+     Iwobi Region - hot coastal desert
+       Cultures: 2
+         The Wuxusodiga People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, sheep, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Vowuwu People
+          Ergatocracy - rule by working class
+          There is no trade, property is collectively owned.
+          Diet: wheat, chicken, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Forumu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Cuzaba Region - steppe
+       Cultures: 1
+         The Yuhu People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: cassava, chicken, chicken
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Liyu Region - cold dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Yomuyu Region - hot coastal desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Ruzuno Region - cold coastal desert
+       Cultures: 2
+         The Uxomoru People
+          Bankocracy - rule by banks
+          There is no concept of property.
+          Diet: corn
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: admiration
+
+         The Yacilofa People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, monstrous meat such as dragons or griffins, pig
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Ugori Region - cold grassland
+       Cultures: 1
+         The Kikubacu People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: soybeans, chicken, buffalo, buffalo
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Cuzaba Region - hot jungle
+       Cultures: 2
+         The Vavumo People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, chicken, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+         The Yivu People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, game meat such as deer or elk, game meat such as deer or elk, cattle
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Gipuniji Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Widoyoliji Region - hot jungle
+       Cultures: 2
+         The Kuzinirori People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Nacavihori People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, fish
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Cicoru Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Wifucigima Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Socawa Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Kuyiloxu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jicu Region - grassland without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Zahinafa People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: rice, cattle
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vumodihi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Kaduxicu Region - cold semiarid desert
+       Cultures: 2
+         The Kolo People
+          Ergatocracy - rule by working class
+          There is no trade, authorities own all property.
+          Diet: soybeans, sheep, buffalo
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Cicayano People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: sorghum, monstrous meat such as dragons or griffins, chicken
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Zoramoli Region - hot dry desert
+       Cultures: 2
+         The Juhocali People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, uncommon meat such as lizards or insects, game meat such as deer or elk, cattle
+          Religion: Monotheism
+            Dufo, Mysterious deity, Antimagic, Strength
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Sicodo People
+          Technocracy - rule by education
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes
+          Religion: Monotheism
+            Wobagamo, Judgemental deity, Family, Antimagic, Forest, Life
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Colopodadi Region - hot grassland without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Vudo People
+          Theocracy - rule by religion
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, chicken
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Hiwa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Lomayu Region - hot jungle that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Ofiki People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, pig, fish, sheep
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: fear
+
+
+     Naro Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Vobu Region - coastal desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Wuxawuwa Region - hot forest
+       Cultures: 1
+         The Caki People
+          Technocracy - rule by education
+          This is no concept of trade, but gifts are given.
+          Diet: yams, cattle, buffalo, pig
+          Religion: Monotheism
+            Yudaziriyi, Mysterious deity, Land, War, Writing, Night
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Akovudi Region - hot jungle with giant living rocks
+       Cultures: 2
+         The Cogamado People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: yams, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Yasa People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, buffalo
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vajaviwobu Region - hot forest
+       Cultures: 2
+         The Raji People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: corn, fish, pig, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Vuziva, Mysterious deity, Protection
+            Yuhiwufu, Antagonistic deity, Fighting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Ralubico People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, game meat such as deer or elk, pig, sheep
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Nucacilo Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Fifi Region - cold jungle
+       Cultures: 2
+         The Basuwagicu People
+          Corporatocracy - rule by corporations
+          Trade is done through barter.
+          Diet: wheat, pig, cattle
+          Religion: Polytheism
+            Wuhuni, Antagonistic deity, Sea, Painting, Destruction, Harvest
+            Ruriyidafa, Mysterious deity, Mind, Ice, Night, Moon, Sky, Luck
+            Liyu, Punishing deity, Forest, Judgement, Antimagic
+            Payofihu, Mysterious deity, Judgement, Demons, Destruction, Disaster, Chaos, Writing
+            Dali, Forgiving deity, Harvest, Plague, Disaster, Sky, Law
+            Bimirayiwu, Forgiving deity, Night, Sun, Ice
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Nuzoyamo People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: corn, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins, sheep
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vihofamipu Region - dry desert
+       Cultures: 1
+         The Yohipurivo People
+          Theocracy - rule by religion
+          There is no trade, property is collectively owned.
+          Diet: yams, buffalo, monstrous meat such as dragons or griffins, cattle
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Pavo Region - hot jungle with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Nucacilo People
+          Military Dictatorship - rule by military
+          There is no concept of property.
+          Diet: plantains, fish, fish, pig
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vodagufu Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Yoyama Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Bililorizo Region - jungle
+       Cultures: 1
+         The Bulahodi People
+          Timocracy - rule by honor
+          There is no trade, authorities own all property.
+          Diet: yams, pig, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Cixosi Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Warowaca Region - cold jungle
+       Cultures: 1
+         The Zahinafa People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes
+          Religion: Dualism
+            Yufukuna, Uncaring deity, Trickery, Judgement, Fighting, Antimagic, Peace
+            Wolu, Mysterious deity, Judgement, Trickery, Protection, Magic, War
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Raha Region - cold grassland
+       Cultures: 1
+         The Cava People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, buffalo, sheep, sheep
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Jayonisa Region - hot coastal desert
+       Cultures: 1
+         The Rijikamoja People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: rice, pig, cattle, chicken
+          Religion: Monotheism
+            Hodirunuho, Meddling deity, Intelligence, Civilization, Night, Painting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Hokaguni Region - dry desert
+       Cultures: 1
+         The Wukada People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: yams, uncommon meat such as lizards or insects, fish, pig
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Cuka Region - cold semiarid desert
+       Cultures: 2
+         The Pihudopajo People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: corn, fish, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Uhadi People
+          Fascism - rule by one, gained power through nationalism
+          There is no concept of property.
+          Diet: cassava, chicken
+          Religion: Polytheism
+            Gama, Punishing deity, Law, Harvest, Angels, Family, Chaos, Beauty
+            Yomuyu, Uncaring deity, Law, Home, Chaos, Mind, Night, Hatred
+            Wilayi, Obscure deity, Demons, Desert, Intelligence
+            Ucubu, Uncaring deity, Fire, Secrets, Protection, Sun, Magic, Beauty
+            Xocura, Obscure deity, Forest, Plague, Sky, Home, Disaster, Peace
+            Baduvuli, Antagonistic deity, Afterlife, Angels, Fire, Wilderness, Childbirth, Sky
+            Facamuriro, Uncaring deity, Insanity, War
+            Gaduso, Obscure deity, Childbirth, Wilderness, Painting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Ipiga Region - hot dry desert
+       Cultures: 2
+         The Uxirifivu People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: sorghum, pig, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Luki People
+          Fascism - rule by one, gained power through nationalism
+          There is no concept of property.
+          Diet: cassava
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Zocohoruya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wukufinu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Fisomo Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Vaha People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, buffalo, uncommon meat such as lizards or insects, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Amaruko Region - cold coastal desert
+       Cultures: 2
+         The Pufifumomu People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, uncommon meat such as lizards or insects, buffalo, game meat such as deer or elk
+          Religion: Polytheism
+            Hamozaga, Mysterious deity, Disaster, Love, Magic
+            Kuwiyu, Judgemental deity, Night, Truth, Insanity, Civilization, Travel, Judgement
+            Idusi, Obscure deity, Sea, Love, Desire
+            Raki, Uncaring deity, Destiny, Land, Trickery, Travel, Love, Sky
+            Wucuwucaha, Obscure deity, Sun, Disaster, Moon, Trickery, Weaving
+            Makiji, Uncaring deity, Life
+            Faxaxahoxa, Mysterious deity, Truth, Wilderness, Family
+            Bomo, Judgemental deity, Magic, Judgement, Harvest, Mind, Stars
+            Analimi, Obscure deity, Wilderness, Chaos, Intelligence, Love, Luck
+            Bakuza, Uncaring deity, Harvest, Civilization, Fighting, Insanity, Angels
+            Azo, Judgemental deity, Protection, Strength
+            Dumofomifo, Antagonistic deity, Magic, Moon
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Cuka People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: cassava
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Oxowuru Region - coastal desert
+       Cultures: 1
+         The Ofuyini People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, buffalo, buffalo, fish
+          Religion: Monotheism
+            Jaximixaxa, Obscure deity, Secrets, Painting, War, Ice, Strength
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Cicoru Region - hot jungle
+       Cultures: 2
+         The Nawapakiwi People
+          Aristocracy - rule by several bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: corn, goat, game meat such as deer or elk
+          Religion: Dualism
+            Rokuxuraza, Punishing deity, Antimagic, Death
+            Rigobayo, Forgiving deity, Magic, Life
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Xaxo People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Dali Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wunuwo Region - hot jungle
+       Cultures: 1
+         The Vaha People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: yams, uncommon meat such as lizards or insects, cattle, cattle
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Azi Region - hot dry desert
+       Cultures: 2
+         The Voyu People
+          Bankocracy - rule by banks
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, cattle, fish, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+         The Yuwuzamava People
+          Aristocracy - rule by several bloodlines
+          There is no trade, property is collectively owned.
+          Diet: corn, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Hihi Region - cold coastal desert with giant living rocks
+       Cultures: 2
+         The Pojufoxu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, goat, pig
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Vuhuvolulo People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, pig, fish
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Mawiko Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Vuxaxiyomi Region - cold semiarid desert
+       Cultures: 2
+         The Iharorori People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, authorities own all property.
+          Diet: rice
+          Religion: Polytheism
+            Hacopuka, Punishing deity, Love, Destiny, Desert, Chaos, Demons
+            Zasodijubo, Mysterious deity, Home, Sky, Strength, Forest, Weaving, Painting
+            Kixumura, Forgiving deity, Judgement, Fighting, Writing, Creation, Angels, Travel
+            Ixipuyujo, Obscure deity, Mind
+            Iharorori, Meddling deity, Fighting, Fire, Ice, Writing
+            Xiwo, Forgiving deity, Intelligence, Travel, Moon, Fighting
+            Juva, Uncaring deity, Sky, War, Judgement
+            Koki, Forgiving deity, Fire, Civilization, Death
+            Bohulowu, Obscure deity, Civilization
+            Yoyama, Punishing deity, Angels, Day, Demons
+            Sucafibu, Uncaring deity, Trickery, Creation, Afterlife, Harvest, Insanity, Chaos
+            Bikipuga, Meddling deity, Death
+            Wogawalodo, Judgemental deity, Desert, Antimagic, Magic, Forest, Wilderness
+            Rila, Antagonistic deity, Afterlife, War, Desire, Metalworking
+            Muju, Uncaring deity, Forest, Ice, Sun, Protection
+            Muju, Antagonistic deity, Creation, Secrets, Creation, Demons, Afterlife
+            Xohumavilu, Antagonistic deity, Death
+            Rodojufu, Meddling deity, Protection, Demons
+            Ovo, Meddling deity, Weaving
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Kalazuca People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, monstrous meat such as dragons or griffins, cattle
+          Religion: Dualism
+            Waxucapo, Uncaring deity, Judgement
+            Bimimi, Punishing deity, Trickery
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Fikusicuyu Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Jaximixaxa Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Bikipuga Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Yuhu Region - semiarid desert
+       Cultures: 2
+         The Lupaguro People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, cattle
+          Religion: Dualism
+            Culoro, Antagonistic deity, Magic, Day, Home
+            Xavivu, Mysterious deity, Antimagic, Night, Travel
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Hibo People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, game meat such as deer or elk, chicken, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Colugoda, Forgiving deity, Desire, Wilderness
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Bujimowa Region - cold dry desert
+       Cultures: 1
+         The Jicu People
+          Anarchy - no enforced rule
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, buffalo, buffalo, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Xubi Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Wonaboyo Region - dry desert
+       Cultures: 1
+         The Idusuhumo People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Zumaza Region - cold jungle
+       Cultures: 1
+         The Wodu People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, game meat such as deer or elk, fish, cattle
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Pibo Region - grassland
+       Cultures: 1
+         The Ayi People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, monstrous meat such as dragons or griffins, fish
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Zuvuwufo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Dadinifa Region - hot jungle
+       Cultures: 1
+         The Yinocala People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done through barter.
+          Diet: soybeans, pig
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Goroyado Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Raji Region - forest
+       Cultures: There are no cultures in this area.
+
+     Hafuniwi Region - cold coastal desert
+       Cultures: 2
+         The Makiji People
+          Ochlocracy - mob rule
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, sheep
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Hunayadu People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: soybeans, game meat such as deer or elk, goat, goat
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Voxogomodu Region - cold jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Nibi Region - hot steppe
+       Cultures: 2
+         The Cicicuxu People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: sorghum, fish, goat
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Juva People
+          Plutocracy - rule by rich
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, sheep, buffalo, pig
+          Religion: Polytheism
+            Fidogowupa, Antagonistic deity, Painting, Forest, Desire, Sun, Fire, Chaos
+            Fudowo, Obscure deity, Night
+            Omopi, Obscure deity, Writing, Plague, Moon
+            Foxaya, Uncaring deity, Painting, Sky, Magic, Day
+            Oxowuru, Meddling deity, Intelligence, Beauty, Ice
+            Yodumu, Uncaring deity, Beauty, Destiny, Disaster, Magic
+            Jaxadi, Meddling deity, Ice, Insanity, Stars, Insanity, Wilderness
+            Kixumura, Obscure deity, Wilderness, Antimagic, Home, Creation, Stars
+            Rola, Forgiving deity, Moon, Plague, Painting
+            Nadu, Judgemental deity, Fighting
+            Yiyi, Judgemental deity, Wilderness, Strength, Forest
+            Miwoku, Mysterious deity, Land
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Xaconagulu Region - forest
+       Cultures: There are no cultures in this area.
+
+     Gurohiki Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Yixasaha Region - hot grassland
+       Cultures: 1
+         The Vabowa People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: cassava, sheep, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: fear
+
+
+     Raki Region - hot dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Kuzinirori Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Yorogabifi Region - cold jungle with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Kula Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Mivo Region - hot dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Caki People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: cassava, fish
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Uya People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Wubo, Judgemental deity, Land, Life, Intelligence, Peace
+            Kovulopipi, Meddling deity, Sea, Death, Strength, War
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Donowi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Baduvuli Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Buxuvu Region - grassland
+       Cultures: 2
+         The Widoyoliji People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, game meat such as deer or elk, pig
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Wayamihu People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, fish, pig
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Suma Region - forest
+       Cultures: 2
+         The Nocidu People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, cattle, uncommon meat such as lizards or insects, chicken
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Zofigiwici People
+          Kritarchy - rule by legal judges
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, goat
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Rivika Region - hot jungle with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Ugasaxa Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Jaximixaxa Region - hot grassland
+       Cultures: 2
+         The Codami People
+          Bankocracy - rule by banks
+          Trade is done through barter.
+          Diet: cassava, cattle, sheep
+          Religion: Dualism
+            Fojiwi, Judgemental deity, Fighting
+            Karasuhova, Mysterious deity, Protection
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Hiwa People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, chicken, goat, pig
+          Religion: Monotheism
+            Ocu, Uncaring deity, Land, Fighting, Peace
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Ujomaxipu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Karasuhova Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wihawawo Region - cold grassland
+       Cultures: 1
+         The Bililorizo People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: cassava, fish, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Poboxofu Region - forest
+       Cultures: There are no cultures in this area.
+
+     Xirisu Region - dry desert
+       Cultures: 2
+         The Jayonisa People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: soybeans, goat
+          Religion: Monotheism
+            Wida, Judgemental deity, Demons
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Bapikosaru People
+          Bankocracy - rule by banks
+          Trade is done through barter.
+          Diet: sorghum, pig, goat
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Woru Region - dry desert
+       Cultures: 1
+         The Hohuco People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, chicken, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Lalahayaxo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Rizaru Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Rufuko Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Oci Region - forest
+       Cultures: 2
+         The Romariwi People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Ajola People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: wheat, fish, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Nucacilo, Antagonistic deity, Judgement, Painting, Plague
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Jaximixaxa Region - cold coastal desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Lovivuba Region - hot coastal desert with a wetland
+       Cultures: 2
+         The Cofahaxi People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: corn
+          Religion: Polytheism
+            Liribomawu, Obscure deity, Strength, Weaving, Desire, Afterlife
+            Cufibilu, Mysterious deity, Chaos, Chaos
+            Uziruza, Obscure deity, Wilderness
+            Lahoyo, Uncaring deity, Moon, Trickery, Angels, Magic
+            Dali, Uncaring deity, Strength, Demons, Moon
+            Zacorodu, Judgemental deity, Fire, Angels, Life, Antimagic, Wilderness, Wilderness
+            Mawo, Judgemental deity, Beauty, Death, Fire, Law, Painting
+            Sujumofa, Mysterious deity, Civilization, Love, Wilderness
+            Nuriha, Punishing deity, Creation, Plague, Strength, Desert
+            Balixi, Obscure deity, Mind, Destruction, Destruction, Stars
+            Jurajabuyu, Punishing deity, Protection, Hatred
+            Japido, Uncaring deity, Intelligence, Protection
+            Giwiwijica, Punishing deity, Civilization, Creation, Truth
+            Ahosi, Antagonistic deity, Fighting, Angels, Strength, War, Intelligence
+            Jaximixaxa, Obscure deity, War, Land, Secrets, Protection, Civilization
+            Awo, Uncaring deity, Protection, Fire, Land, Protection, Desert
+            Zixahobuda, Antagonistic deity, Home, Insanity
+            Ciworu, Mysterious deity, Metalworking, Luck, Luck, Home, Land, Secrets
+            Fima, Obscure deity, Plague, Plague, Desire, Love, Protection, Moon
+            Xogobo, Forgiving deity, Sky, Weaving, War
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Vumodihi People
+          Theocracy - rule by religion
+          This is no concept of trade, but gifts are given.
+          Diet: cassava
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Suxu Region - coastal desert
+       Cultures: 2
+         The Makiji People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, property is collectively owned.
+          Diet: yams, game meat such as deer or elk, cattle
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Naruwubi People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, fish
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Fizuwibi Region - cold dry desert
+       Cultures: 1
+         The Cokidiru People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: yams, sheep, pig
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Fikusicuyu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Ciduna Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Pivuji Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Pojufoxu Region - hot dry desert
+       Cultures: 1
+         The Cozayolihi People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: soybeans, buffalo
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Wico Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Fizufi Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Cuwucalowi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Mucasuni Region - jungle
+       Cultures: 2
+         The Xivusu People
+          Ergatocracy - rule by working class
+          There is no trade, authorities own all property.
+          Diet: cassava, cattle
+          Religion: Monotheism
+            Mivuvoya, Forgiving deity, Chaos, Strength, Desire, Land
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Wanayofimo People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: potatoes, goat, chicken, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Hociju, Forgiving deity, Afterlife, Wilderness, Desire, Stars, Fire, Weaving
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Wipuruyoyu Region - hot jungle
+       Cultures: 2
+         The Kula People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: wheat, game meat such as deer or elk, chicken, fish
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Dogawoyo People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Culoro Region - steppe
+       Cultures: 2
+         The Moru People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: yams, fish, cattle, fish
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Vikunobivo People
+          Kratocracy - rule by strength
+          Trade is done through barter.
+          Diet: wheat, sheep
+          Religion: Polytheism
+            Wucuwucaha, Uncaring deity, Strength
+            Raki, Meddling deity, Fire, Day, Home
+            Wanayofimo, Mysterious deity, Insanity
+            Nigakuno, Judgemental deity, Beauty, Family, Stars, Sky, Home
+            Fabolosi, Obscure deity, Desert, Wilderness
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Fudowo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Hivakariho Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Cixumora Region - dry desert with sentient plants
+       Cultures: 1
+         The Yaguwi People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins, sheep, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Sujucu, Obscure deity, Fighting, Antimagic, Land
+            Cinucu, Judgemental deity, Protection, Magic, Sea
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Kihahibupu Region - jungle
+       Cultures: 2
+         The Worociloca People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins, fish
+          Religion: Monotheism
+            Cora, Obscure deity, Trickery, Home
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+         The Yalawi People
+          Aristocracy - rule by several bloodlines
+          Trade is done through barter.
+          Diet: soybeans, chicken, buffalo, pig
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Cuci Region - hot steppe with living, growing rocks and crystals
+       Cultures: 1
+         The Sicodo People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: corn, chicken, fish, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vimava Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Licuhiyo Region - forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Vavumo
+Area (km): 1312510
+Regions: 
+     Suluricu Region - hot dry desert
+       Cultures: 2
+         The Rigobayo People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: yams, buffalo
+          Religion: Dualism
+            Wuroyilo, Judgemental deity, Destiny
+            Codu, Punishing deity, Luck
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Oxu People
+          Theocracy - rule by religion
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Monotheism
+            Biruwocu, Meddling deity, Luck, Disaster, Painting, Stars, Death
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: worship
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Kalazuca
+Area (km): 1202950
+Regions: 
+     Aba Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+

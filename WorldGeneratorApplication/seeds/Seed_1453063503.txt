@@ -1,0 +1,469 @@
+-----xoviku world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+The source of magic is nature.
+Around magic, people react with admiration.
+     In some places, people react with worship.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is powered by magic.
+Around technology, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 22 degrees Celsius. It is hot.
+The world has low amount of life, which is hard to find.
+The world is 76% water.
+The ocean is boiling hot.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 4 continents.
+-----------------------------
+The land of gugulo
+Area (km): 46529744
+Regions: 
+     kodubo Region - cold dry desert
+       Cultures: 2
+         The heyozizu People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: potatoes, sheep, buffalo, buffalo
+          Religion: Totemism
+
+         The liluju People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: cassava
+          Religion: Totemism
+
+
+     ofi Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     bucixebo Region - hot jungle
+       Cultures: 2
+         The hivilu People
+          Dictatorship - rule by one, gained power through force
+          There is no concept of property.
+          Diet: cassava
+          Religion: Monotheism
+            ficeqiso, Forgiving deity, Land, Chaos, Desert
+
+         The sixe People
+          Kratocracy - rule by strength
+          There is no trade, property is collectively owned.
+          Diet: soybeans
+          Religion: Animism
+
+
+     xunudilobu Region - hot steppe with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     fodu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     ofi Region - hot dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     ejuce Region - hot steppe with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The hujo People
+          Meritocracy - rule by ability
+          There is no concept of property.
+          Diet: corn, fish, sheep
+          Religion: Polytheism
+            koje, Uncaring deity, Sea, Mind, Ice, Creation
+            legoxibiwi, Meddling deity, Wilderness, Trickery, Forest, Protection, Plague, Death
+            sefenusogo, Uncaring deity, Sun, Luck, Civilization, Judgement
+            hibebojede, Forgiving deity, Stars, Land, Disaster, Fighting
+            pego, Forgiving deity, Land, Creation
+            johuvi, Uncaring deity, Law, Antimagic, Life, Insanity, Life
+            jebeluxi, Punishing deity, Intelligence, Land, Creation
+            soxo, Uncaring deity, Weaving, Ice, Day, Beauty
+            gokidigi, Judgemental deity, Desire
+            hesojodo, Uncaring deity, Moon
+            gono, Forgiving deity, Writing, Antimagic
+            xobojocodu, Antagonistic deity, Beauty
+
+
+     xuvuxo Region - hot dry desert
+       Cultures: 1
+         The fuwelo People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: wheat, uncommon meat such as lizards or insects, pig
+          Religion: Philosophical
+
+
+     xuzuje Region - hot jungle
+       Cultures: 1
+         The boje People
+          Kleptocracy - rule by thieves
+          There is no concept of property.
+          Diet: yams
+          Religion: Shamanism
+
+
+     digixu Region - hot dry desert
+       Cultures: 2
+         The sepili People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            jequno, Judgemental deity, Night, Desert, War, Judgement, Secrets, Antimagic
+
+         The wijo People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: wheat, cattle
+          Religion: Polytheism
+            gezesofo, Punishing deity, Secrets, Disaster
+            gugokofo, Punishing deity, Protection, Fire
+            sunidi, Judgemental deity, Harvest, Forest, Ice, Mind, Forest
+            juwokugoge, Antagonistic deity, Intelligence, Insanity, Protection, Night
+            sipokiji, Uncaring deity, Beauty, Demons, Plague, Destiny, Family, Family
+            ubeje, Punishing deity, Day, Destruction, Home, Forest
+            fewobudopu, Uncaring deity, Antimagic
+            lexifo, Meddling deity, Family, Law, Disaster
+            yibevolo, Judgemental deity, Wilderness, Sea
+            hujo, Judgemental deity, Harvest, Magic, Day, Afterlife
+
+
+     cuwi Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     boxixogi Region - hot dry desert with a giant mushroom forest
+       Cultures: 2
+         The fefi People
+          Technocracy - rule by education
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, fish, cattle
+          Religion: Animism
+
+         The obi People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, authorities own all property.
+          Diet: plantains
+          Religion: Monotheism
+            boxixogi, Mysterious deity, Insanity, Antimagic, Wilderness, Day, Harvest
+
+
+     xeyelopivi Region - hot forest with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     ugoli Region - dry desert with floating islands
+       Cultures: 2
+         The xulifevudo People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, goat, chicken
+          Religion: Ancestor Worship
+
+         The dowose People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: rice, goat, pig, sheep
+          Religion: Ancestor Worship
+
+
+     feneguguge Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of fubolo
+Area (km): 30363683
+Regions: 
+     zuxuvikegi Region - hot semiarid desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     wohuguxuji Region - hot grassland
+       Cultures: 1
+         The loyicofizu People
+          Ochlocracy - mob rule
+          There is no trade, authorities own all property.
+          Diet: wheat, sheep, cattle
+          Religion: Shamanism
+
+
+     xejeku Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of wuheqixe
+Area (km): 37229927
+Regions: 
+     debidife Region - hot grassland that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     sebibi Region - hot forest with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The esene People
+          Military Dictatorship - rule by military
+          There is no concept of property.
+          Diet: potatoes, goat, cattle, pig
+          Religion: Shamanism
+
+
+     wedukowu Region - cold grassland
+       Cultures: 1
+         The nuxuwidi People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: corn, uncommon meat such as lizards or insects, pig, sheep
+          Religion: Ancestor Worship
+
+
+     xigezehulo Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     geseko Region - hot dry desert
+       Cultures: 1
+         The jegoduvedi People
+          Plutocracy - rule by rich
+          Trade is done through barter.
+          Diet: rice, goat, uncommon meat such as lizards or insects, cattle
+          Religion: Dualism
+            dihoduho, Judgemental deity, Forest, Strength, Fire, Chaos, Afterlife, Antimagic
+            belegiso, Forgiving deity, Desert, Intelligence, Ice, Law, Childbirth, Magic
+
+
+     kulonu Region - hot grassland with floating islands
+       Cultures: There are no cultures in this area.
+
+     dige Region - cold dry desert
+       Cultures: 1
+         The fodi People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: sorghum, sheep, cattle, cattle
+          Religion: Shamanism
+
+
+     suwujevoni Region - hot coastal desert
+       Cultures: 2
+         The sixedehixo People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, authorities own all property.
+          Diet: cassava, pig, chicken, uncommon meat such as lizards or insects
+          Religion: Animism
+
+         The fexuwofiyi People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: yams, sheep, pig
+          Religion: Demon Worship
+
+
+     yige Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     obuquwulu Region - hot semiarid desert
+       Cultures: 1
+         The fuwefuwisu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: yams, uncommon meat such as lizards or insects
+          Religion: Philosophical
+
+
+     uceki Region - hot dry desert with giant living rocks
+       Cultures: 1
+         The luyizuneji People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, goat, cattle
+          Religion: Ancestor Worship
+
+
+     bove Region - hot dry desert that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The johuvi People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: rice, fish
+          Religion: Totemism
+
+
+     uyebede Region - hot dry desert
+       Cultures: 2
+         The vososu People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, goat, cattle
+          Religion: Dualism
+            vepelu, Antagonistic deity, Intelligence, Hatred, Painting
+            oyevuzu, Meddling deity, Strength, Desire, Writing
+
+         The yesugixuzu People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: plantains, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+
+
+     pidone Region - jungle
+       Cultures: There are no cultures in this area.
+
+     qohepo Region - hot dry desert with floating islands
+       Cultures: 1
+         The depofofu People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: sorghum, monstrous meat such as dragons or griffins
+          Religion: Animism
+
+
+     zodowugu Region - hot jungle
+       Cultures: 1
+         The donunu People
+          Technocracy - rule by education
+          There is no trade, authorities own all property.
+          Diet: corn, game meat such as deer or elk, sheep, sheep
+          Religion: Shamanism
+
+
+     qozo Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     diduvi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     lobu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     biyepebufi Region - hot jungle
+       Cultures: 2
+         The goseco People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: potatoes, buffalo, chicken
+          Religion: Philosophical
+
+         The lojoguxu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, monstrous meat such as dragons or griffins, fish
+          Religion: Polytheism
+            bidulehelu, Obscure deity, War, Afterlife, Fighting, Love, Truth, Intelligence
+            bexo, Meddling deity, Wilderness, Family, Ice, Wilderness
+            xobudo, Mysterious deity, Plague, Sea, Disaster, Magic
+            zuxehido, Uncaring deity, Destiny
+            evoje, Judgemental deity, Disaster
+            kuli, Forgiving deity, Ice, Land, Sun
+            feqexo, Antagonistic deity, Day, Night, Desire, Land
+            wejicufefe, Punishing deity, Mind, Travel, Afterlife, Peace, Mind
+            yidu, Meddling deity, Forest
+            cewihe, Judgemental deity, Metalworking, Love, Protection, Luck, Fire, Fighting
+            oxiwobe, Antagonistic deity, Chaos, Angels, War, Strength, Chaos
+            jijisehe, Antagonistic deity, Disaster
+            ifohewibu, Punishing deity, Moon
+            dowose, Punishing deity, Family, Intelligence, Death, Destruction
+            kocesisuhe, Mysterious deity, Luck, Civilization, Moon
+
+
+     xihi Region - cold forest
+       Cultures: 1
+         The lihinekeho People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+
+
+     goye Region - semiarid desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     ixozibu Region - cold coastal desert
+       Cultures: 2
+         The sisoqu People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: rice, uncommon meat such as lizards or insects, buffalo
+          Religion: Shamanism
+
+         The xogigeco People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, chicken, cattle, pig
+          Religion: Polytheism
+            koguwidi, Antagonistic deity, Demons, Stars
+            xewejuvebe, Forgiving deity, Writing, Destiny, Night, Sky
+            bifige, Punishing deity, War, Travel
+            ceceveku, Obscure deity, Strength, Peace, Antimagic, Land, Painting
+            ecidu, Punishing deity, Ice, Desire, Fire, Wilderness, Civilization
+            hujo, Forgiving deity, Fighting
+            zozexijuke, Mysterious deity, Truth, Mind, Angels, Demons
+            xubu, Meddling deity, Love, Magic, Life, Childbirth
+            yobu, Mysterious deity, Sky, Love, Fire, Afterlife, Trickery, Magic
+            xunolu, Meddling deity, Demons, Desire
+            jefi, Mysterious deity, Peace, Afterlife
+
+
+     jibohe Region - jungle
+       Cultures: There are no cultures in this area.
+
+     kevequho Region - hot semiarid desert
+       Cultures: 1
+         The ojubi People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: yams, uncommon meat such as lizards or insects, buffalo, chicken
+          Religion: Ancestor Worship
+
+
+     cujujige Region - hot semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     digixu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     jegoduvedi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     nehu Region - hot dry desert
+       Cultures: 2
+         The suqi People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, pig, monstrous meat such as dragons or griffins
+          Religion: Totemism
+
+         The lucifopexi People
+          Despotism - rule by one, the ruler has slaves
+          This is no concept of trade, but gifts are given.
+          Diet: corn, buffalo, sheep, uncommon meat such as lizards or insects
+          Religion: Shamanism
+
+
+     wepi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     lowu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     iveyo Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of yulexewobe
+Area (km): 5876646
+Regions: 
+     sokobijele Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     soxo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+

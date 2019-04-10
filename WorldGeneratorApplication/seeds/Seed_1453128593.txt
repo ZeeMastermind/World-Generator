@@ -1,0 +1,232 @@
+-----Domedise world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+The source of magic is nature. However, some mages use souls.
+Around magic, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+     In some places, Technology is prehistoric, consisting of bows, plows, and maybe copper.
+Technology is from the ruins of ancient civilizations.
+Around technology, people react with hostility.
+     In some places, people react with indifference.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 4 degrees Celsius. It is extremely cold.
+The world has virtually no life, and few things survive.
+The world is 83% water.
+The entire world is frozen over.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 7 continents.
+-----------------------------
+The land of Docena
+Area (km): 10788160
+Regions: 
+     Mafafagojo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Jaga
+Area (km): 9153192
+Regions: 
+     Qemeci Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Roraradi Region - dry desert
+       Cultures: 1
+         The Sewe People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Ancestor Worship
+
+
+     Refe Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Ciki Region - cold semiarid desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Osesilini Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Deresa Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Vepoyire Region - cold coastal desert with a wetland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Godifo
+Area (km): 15243448
+Regions: 
+     Logepayisi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Lisami Region - cold steppe with an undead infestation
+       Cultures: 1
+         The Jizevoqi People
+          Geniocracy - rule by intelligence
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, fish
+          Religion: Dualism
+            Qepiwa, Punishing deity, Intelligence, Childbirth, Trickery, Peace, War
+            Ceqiveya, Judgemental deity, Strength, Afterlife, Judgement, War, Peace
+
+
+     Dedoli Region - cold semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Losona Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Giqari Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zokiwala Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jezivo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Jiqideko Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Osoyefa Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Ocitoyela Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Yogima Region - cold semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Ato
+Area (km): 5488631
+Regions: 
+     Nayerifoqa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Fayewara Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zavo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Qaleqowaqi
+Area (km): 41041162
+Regions: 
+     Qamisotazo Region - cold steppe
+       Cultures: 1
+         The Hiko People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, goat, monstrous meat such as dragons or griffins
+          Religion: Totemism
+
+
+     Qage Region - hot grassland with a giant mushroom forest
+       Cultures: 1
+         The Nasadiyiqa People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: plantains, chicken
+          Religion: Shamanism
+
+
+     Sojijeqiqo Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Levezaze Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Yivopila Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Vifopoje Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Galiqi Region - cold forest with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Qiga Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Gicaqone Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Wape Region - cold grassland without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Odaqeqino Region - cold dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Tamiwi Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Solezesiqa Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Agalazote Region - cold grassland
+       Cultures: 1
+         The Foqitogope People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: sorghum, goat, fish
+          Religion: Philosophical
+
+
+     Pokopovo Region - cold jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+     Ilatejipo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zaqese Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Mewaca Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qenacepa Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Roraradi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Zinedicaco Region - cold forest with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Mode Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Gopesa
+Area (km): 1732347
+Regions: 
+     Citahepo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Fodazo
+Area (km): 1553060
+Regions: 
+     Tazewodopo Region - forest
+       Cultures: There are no cultures in this area.
+
+

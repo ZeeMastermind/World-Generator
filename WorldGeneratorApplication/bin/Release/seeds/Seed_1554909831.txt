@@ -1,0 +1,2044 @@
+-----Rumozajiyi world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+The source of magic is blood. However, some mages use blood.
+Around magic, people react with discomfort.
+     In some places, people react with admiration.
+     In some places, people react with fear.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 12 degrees Celsius. It is like earth.
+The world has low amount of life, which is hard to find.
+The world is 21% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 6 continents.
+-----------------------------
+The land of Ipohe
+Area (km): 21027217
+Regions: 
+     Sikarudemi Region - hot dry desert
+       Cultures: 1
+         The Kukevi People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: sorghum, pig, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Vovuyesa
+Area (km): 36474454
+Regions: 
+     Qesidosehi Region - cold dry desert
+       Cultures: 1
+         The Mimuvo People
+          Plutocracy - rule by rich
+          There is no trade, property is collectively owned.
+          Diet: rice, cattle
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Covuyibevu Region - semiarid desert
+       Cultures: 1
+         The Semuyaluve People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Tofonugisi Region - cold grassland
+       Cultures: 2
+         The Dakemuxe People
+          Aristocracy - rule by several bloodlines
+          Trade is done through barter.
+          Diet: yams, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: indifference
+
+         The Migecobo People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, pig, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vowove Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Catavaze Region - steppe
+       Cultures: 2
+         The Sisakese People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, fish, buffalo
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Mivu People
+          Diarchy - rule by two bloodlines
+          There is no concept of property.
+          Diet: potatoes, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vupesu Region - cold dry desert
+       Cultures: 2
+         The Sisakese People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, property is collectively owned.
+          Diet: corn, cattle, fish, cattle
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Sasiba People
+          Kritarchy - rule by legal judges
+          This is no concept of trade, but gifts are given.
+          Diet: yams, fish, buffalo
+          Religion: Polytheism
+            Kasuwodiwi, Antagonistic deity, Life
+            Cuvehi, Meddling deity, Peace
+            Sukeluji, Judgemental deity, Angels
+            Veyati, Mysterious deity, Hatred, Family, Fire
+            Fatucigi, Antagonistic deity, Insanity, Desire
+            Yavunuxa, Mysterious deity, Afterlife, Desert, Plague, Weaving
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Iquvavase Region - semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Yepavodemi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Vize Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Zivosuvu Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Xubosivele Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Nafoso Region - grassland
+       Cultures: 1
+         The Ritevi People
+          Bankocracy - rule by banks
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Eho Region - cold dry desert with a giant mushroom forest
+       Cultures: 1
+         The Zekequsa People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, game meat such as deer or elk, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Fusotesosu, Forgiving deity, Stars
+            Hefovuxo, Mysterious deity, Sun, Ice, Desert, Angels
+            Xoseseha, Obscure deity, Destiny, Travel, Desert
+            Kiwa, Punishing deity, Weaving
+            Tihe, Forgiving deity, Afterlife
+            Zesatu, Mysterious deity, Peace, Wilderness, Desire, Magic
+            Viko, Mysterious deity, Secrets, Civilization, Protection, Moon, Desire
+            Keto, Obscure deity, Life, Travel, Peace
+            Ramuca, Punishing deity, Home, Moon
+            Rimehace, Uncaring deity, Fighting, Day, Desert
+            Dayo, Uncaring deity, Metalworking, Weaving
+            Sawuso, Forgiving deity, Trickery, Chaos, Sun, Love, Forest
+            Tihe, Judgemental deity, Death
+            Cuvehi, Forgiving deity, Chaos, Judgement, Truth, Judgement, Mind
+            Zavovi, Mysterious deity, Judgement, Love, Creation, Life, Beauty, Hatred
+            Ovejesoso, Punishing deity, Insanity
+            Pavasovi, Antagonistic deity, Stars, Trickery, Secrets, Land, Insanity
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Tayo Region - cold grassland with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Piniqoye People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: potatoes, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Sitotesaxo Region - jungle
+       Cultures: 2
+         The Hova People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: yams, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Aveqo People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, chicken, buffalo, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Xowulose Region - cold jungle
+       Cultures: 1
+         The Zige People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: cassava, chicken, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Otu, Antagonistic deity, Trickery, Destruction, Ice, Desire
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Kukevi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Biyusofe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Fovuzome Region - cold grassland
+       Cultures: 2
+         The Junefovofe People
+          Kritarchy - rule by legal judges
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Tevoda People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: sweet potatoes, pig, goat, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Qume Region - cold dry desert
+       Cultures: 2
+         The Hovofise People
+          Ochlocracy - mob rule
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Vodiva People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: potatoes, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Kezoqe Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Ofawevuha Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Viguvo Region - hot dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Covuyibevu
+Area (km): 238132273
+Regions: 
+     Vosiposoki Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Dovixole Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Tuwolada Region - hot dry desert with a giant mushroom forest
+       Cultures: 1
+         The Ejayasuvo People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Ohete Region - cold jungle without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Tacikosu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Gibovegesu Region - dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Ruvido Region - hot steppe
+       Cultures: 2
+         The Nicuhapigu People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, goat, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Duke People
+          Monarchy - rule by single bloodline
+          There is no concept of property.
+          Diet: rice, buffalo, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Navuvisa Region - dry desert
+       Cultures: 1
+         The Dakemuxe People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Heso Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fuvo Region - jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Zesatu Region - hot jungle with living, growing rocks and crystals
+       Cultures: 1
+         The Zinevoxu People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: rice, fish, goat
+          Religion: Dualism
+            Vovoxewa, Obscure deity, Travel, Metalworking, Angels, Luck
+            Gumisa, Punishing deity, Home, Weaving, Demons, Destiny
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Lavedavimu Region - dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Vupesu People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: corn, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Jeyoqela People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: yams
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Qisi Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Veyiwe Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Jadimalohu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Iha Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Kezoqe Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Yevutekawa Region - hot semiarid desert that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Sevo People
+          Magrocracy - rule by magic
+          Trade is done through barter.
+          Diet: potatoes, goat
+          Religion: Polytheism
+            Ohi, Antagonistic deity, Weaving, Secrets, Antimagic
+            Goleri, Judgemental deity, Demons, Harvest, Wilderness, Angels
+            Waca, Uncaring deity, Trickery, Mind, Fighting, Civilization
+            Vazujojosa, Mysterious deity, Judgement, Wilderness, Painting
+            Batiqepa, Punishing deity, Peace
+            Dutunu, Meddling deity, War, Sun, Strength
+            Vitu, Antagonistic deity, Civilization, Law, Sea, Beauty, Destiny, Creation
+            Sape, Punishing deity, Childbirth, Destiny, Antimagic, Sun, Destruction
+            Vasepo, Obscure deity, Secrets, Writing, Creation, Disaster
+            Catavaze, Forgiving deity, Night, Land, Weaving, Death, Destiny, Hatred
+            Yece, Forgiving deity, Death, Death, Home, Insanity, Trickery
+            Kuje, Uncaring deity, Fighting, Luck, Creation, Protection, Afterlife
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Muva Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Suhodi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ujisimu Region - jungle
+       Cultures: 1
+         The Xuje People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: cassava, cattle, fish
+          Religion: Dualism
+            Abemovu, Punishing deity, War
+            Huke, Uncaring deity, Peace
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vejeta Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Vosoyu Region - hot dry desert
+       Cultures: 1
+         The Veyiwe People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: yams, monstrous meat such as dragons or griffins, cattle
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Ovutajude Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Yavunuxa Region - grassland
+       Cultures: 1
+         The Mimosufu People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, game meat such as deer or elk, pig, goat
+          Religion: Dualism
+            Vaxaferu, Forgiving deity, Sun, Secrets, War, Childbirth, Life, Weaving
+            Yowoyo, Antagonistic deity, Moon, Truth, Peace, Afterlife, Death, Metalworking
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Foyo Region - cold dry desert
+       Cultures: 1
+         The Guwaqu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: cassava, cattle
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Gori Region - dry desert
+       Cultures: 1
+         The Ruye People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: potatoes, uncommon meat such as lizards or insects, fish, cattle
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Qizicifeve Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Visovo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Keqola Region - jungle
+       Cultures: 1
+         The Qamo People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: sweet potatoes, cattle, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Ofawevuha, Uncaring deity, Metalworking, Strength, Trickery, Desert, Sea, Night
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Ujisimu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Vusivajuqu Region - hot dry desert that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Benave People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: rice, chicken, buffalo, buffalo
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Kojekaqu People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: yams
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Palasojo Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Viqiyecivi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Vequkarubi Region - dry desert
+       Cultures: 2
+         The Osezosela People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, buffalo, game meat such as deer or elk, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Ovutajude People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: cassava, cattle, pig
+          Religion: Monotheism
+            Qoxepukoza, Antagonistic deity, Judgement
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vuyuro Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cokolidu Region - cold semiarid desert
+       Cultures: 2
+         The Yece People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, chicken
+          Religion: Dualism
+            Pisi, Antagonistic deity, Writing, Night
+            Xiso, Meddling deity, Painting, Day
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Mevu People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: sorghum, buffalo, buffalo, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Civufanude, Antagonistic deity, Secrets, Sky, Chaos, Harvest, Hatred
+            Vafa, Antagonistic deity, Fighting, Desert, Forest, Desire, Forest, Secrets
+            Iva, Mysterious deity, Love
+            Awotoyivi, Antagonistic deity, War, Luck, Fire, Angels, Insanity, Plague
+            Gumisa, Meddling deity, Chaos
+            Duta, Punishing deity, Fire, Fire, Disaster, Judgement
+            Reho, Punishing deity, Law, Creation, Life, Love, Love
+            Vodiva, Meddling deity, Angels, Fire, Childbirth, Fighting
+            Ivijezi, Uncaring deity, Death, Travel, Night
+            Yuyeseru, Forgiving deity, Plague, Travel
+            Benave, Punishing deity, Land, Sky, Judgement
+            Jikoluyiva, Obscure deity, Desire, Harvest, Disaster
+            Vogosodera, Obscure deity, War, Secrets, Forest, Insanity
+            Kuquveju, Obscure deity, Forest, Disaster
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vosoyu Region - cold semiarid desert
+       Cultures: 1
+         The Remidowesi People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Sehusadi, Mysterious deity, Wilderness
+            Yojiveta, Mysterious deity, Life, Home, Antimagic, Afterlife
+            Vacinuqose, Antagonistic deity, Ice
+            Qamo, Judgemental deity, Stars, Stars, Desire
+            Padevape, Punishing deity, Mind, Ice, Insanity, Family
+            Xubosivele, Antagonistic deity, Demons, Demons, Writing, Chaos, Harvest
+            Dutunu, Obscure deity, Insanity, Luck, Desert
+            Vicuwu, Punishing deity, Insanity, Hatred, Civilization
+            Yudi, Uncaring deity, Judgement, Home, Secrets, Creation
+            Tofonugisi, Obscure deity, Harvest, Plague, Childbirth, Harvest
+            Yevupisi, Obscure deity, Intelligence
+            Zuveteyo, Meddling deity, Harvest, Painting, Intelligence
+            Luyo, Mysterious deity, Night, Life, Civilization, Life, Destruction, Hatred
+            Vaco, Punishing deity, Civilization
+            Sogeyiveso, Uncaring deity, Destruction, Forest, Life
+            Zivuguvo, Obscure deity, Disaster, Demons
+            Zexe, Judgemental deity, Mind, Demons, Death
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+
+     Miseke Region - hot forest
+       Cultures: 2
+         The Mesanu People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: cassava
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Sito People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: sorghum, game meat such as deer or elk, uncommon meat such as lizards or insects, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Ditoye Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Cuvelayo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vaqe Region - cold jungle with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Siluqasiso Region - hot forest
+       Cultures: 2
+         The Fovu People
+          Meritocracy - rule by ability
+          There is no concept of property.
+          Diet: corn
+          Religion: Monotheism
+            Dusuhe, Antagonistic deity, Travel, Day, Law, Fighting, Desire
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Aje People
+          Plutocracy - rule by rich
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, fish
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vaco Region - jungle
+       Cultures: 1
+         The Ujisimu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done through barter.
+          Diet: soybeans, uncommon meat such as lizards or insects, cattle, cattle
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Fusotesosu Region - coastal desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Sufo Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Qofowijava Region - cold dry desert
+       Cultures: 2
+         The Sagibeyu People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, goat, cattle, chicken
+          Religion: Dualism
+            Kasuwodiwi, Obscure deity, Day, Fighting, Strength, Life
+            Mesanu, Obscure deity, Night, Protection, Intelligence, Death
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Siwitipu People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: rice, fish, buffalo
+          Religion: Polytheism
+            Save, Forgiving deity, Angels, Afterlife, Disaster, Chaos, Beauty, Death
+            Yuyeseru, Antagonistic deity, Night, Angels, Destruction
+            Leyofa, Judgemental deity, Life, Stars
+            Tivu, Antagonistic deity, Trickery, Fire, Creation
+            Dusuhe, Antagonistic deity, Magic, Truth, Desert
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Xixa Region - hot grassland
+       Cultures: 2
+         The Foguluwoso People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, cattle, fish
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Jadesi People
+          Military Dictatorship - rule by military
+          Trade is done through barter.
+          Diet: rice, chicken, monstrous meat such as dragons or griffins, fish
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Isuneyuse Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Xoxiyu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Foyu Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Tacikosu Region - hot dry desert
+       Cultures: 2
+         The Vofevu People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: corn, goat, game meat such as deer or elk, goat
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Ofawevuha People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, cattle, chicken, pig
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Gibovegesu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Umi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ruye Region - jungle
+       Cultures: 2
+         The Sasijamesu People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, property is collectively owned.
+          Diet: plantains, chicken, fish
+          Religion: Monotheism
+            Vukase, Forgiving deity, Metalworking, Writing, Fighting, Afterlife, Law, Sun
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Duke People
+          Military Dictatorship - rule by military
+          There is no concept of property.
+          Diet: sweet potatoes
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Sene Region - jungle with a wetland
+       Cultures: 2
+         The Turisiso People
+          Plutocracy - rule by rich
+          Trade is done through barter.
+          Diet: cassava, goat, goat, fish
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Viwiwi People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, goat, fish
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Tihe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Povodubu Region - cold jungle
+       Cultures: 2
+         The Temeyina People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: cassava, sheep, cattle, cattle
+          Religion: Dualism
+            Abemovu, Mysterious deity, Day, Peace, Family
+            Livesu, Forgiving deity, Night, War, Love
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Hasepiju People
+          Kritarchy - rule by legal judges
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, chicken
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Yuyeseru Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Sinuro Region - grassland
+       Cultures: 2
+         The Sacezucisa People
+          Theocracy - rule by religion
+          There is no trade, property is collectively owned.
+          Diet: rice, goat
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Faquxivaso People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: yams, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Fajusi Region - hot jungle
+       Cultures: 1
+         The Voxesa People
+          Bankocracy - rule by banks
+          There is no concept of property.
+          Diet: sorghum, cattle
+          Religion: Polytheism
+            Hezevubuva, Antagonistic deity, Civilization
+            Tawacu, Meddling deity, War, Day, Painting, Love, Sea
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Seveje Region - hot dry desert with a giant mushroom forest
+       Cultures: 2
+         The Osi People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Duvusevu People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: cassava, pig
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Deyizixu Region - hot jungle with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Suhovikeca Region - hot coastal desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 2
+         The Line People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: yams, fish, cattle
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+         The Ogiviyasu People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: potatoes, uncommon meat such as lizards or insects, fish
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vesiqe Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Mabi Region - hot semiarid desert
+       Cultures: 1
+         The Oluxujo People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: cassava, goat, goat, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Warusohevi Region - cold jungle
+       Cultures: 1
+         The Mikuxisaze People
+          Diarchy - rule by two bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, sheep, sheep, game meat such as deer or elk
+          Religion: Polytheism
+            Luve, Uncaring deity, Plague, Love, Luck, Demons, Ice, Childbirth
+            Ruvivo, Punishing deity, Night, Metalworking
+            Fanumi, Punishing deity, Forest
+            Ocijuqi, Mysterious deity, Travel, Metalworking
+            Suhevidevi, Forgiving deity, Wilderness
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Ofawevuha Region - hot steppe with giant living rocks
+       Cultures: 1
+         The Ritevi People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: cassava, buffalo
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Suvuyeso Region - hot dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Satu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Dada Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Pilepe Region - hot dry desert
+       Cultures: 1
+         The Havagomiyi People
+          Bankocracy - rule by banks
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, buffalo, game meat such as deer or elk
+          Religion: Monotheism
+            Fisifisawu, Meddling deity, Desert
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Yojiveta Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Poxe Region - cold steppe
+       Cultures: 1
+         The Tokasevi People
+          Geniocracy - rule by intelligence
+          Trade is done through barter.
+          Diet: yams
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Korozo Region - hot jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+     Juxoxuxu Region - cold grassland with a giant mushroom forest
+       Cultures: 1
+         The Livesu People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: soybeans, pig, chicken, goat
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vucosode Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Coqibopu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Vasosave Region - hot coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Zewavilewa Region - semiarid desert
+       Cultures: 2
+         The Viguvo People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: corn, game meat such as deer or elk, pig, buffalo
+          Religion: Polytheism
+            Keleqesoto, Punishing deity, Plague
+            Virisu, Punishing deity, Metalworking, Family, Fire
+            Qume, Mysterious deity, Home, Life, Beauty
+            Umaqi, Forgiving deity, Protection, Land
+            Vevaseworu, Meddling deity, Moon, Destruction, Fighting, Travel
+            Nosuno, Forgiving deity, Secrets
+            Yaqeniso, Meddling deity, Angels, Painting, War, Metalworking, Travel
+            Kuquveju, Punishing deity, Disaster, Sun, Painting
+            Huvevufo, Mysterious deity, Strength
+            Pesugisu, Obscure deity, Destruction, Fighting, Weaving
+            Kesuya, Forgiving deity, Home, Stars, Chaos, Truth
+            Tesomaya, Judgemental deity, Angels, Secrets, Travel, Trickery, Plague
+            Masi, Judgemental deity, Peace, Family, Fighting, Luck, Forest
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Vusikewewa People
+          Technocracy - rule by education
+          There is no trade, authorities own all property.
+          Diet: yams, pig, chicken, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Loxa Region - hot semiarid desert
+       Cultures: 1
+         The Unadu People
+          Kleptocracy - rule by thieves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, game meat such as deer or elk, sheep, pig
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Xoseseha Region - grassland that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Vatevexa Region - cold jungle
+       Cultures: 1
+         The Jawobebo People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: corn, pig, monstrous meat such as dragons or griffins, fish
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Heqesa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Mubidi Region - cold coastal desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 2
+         The Rodo People
+          Monarchy - rule by single bloodline
+          Trade is done through barter.
+          Diet: potatoes, cattle, cattle
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Visiri People
+          Timocracy - rule by honor
+          There is no trade, authorities own all property.
+          Diet: wheat, pig, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Desu, Uncaring deity, Truth, Love, Trickery, Beauty
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Kosefu Region - cold dry desert
+       Cultures: 1
+         The Suvuqozomi People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, cattle, sheep, sheep
+          Religion: Polytheism
+            Pejavilo, Uncaring deity, Judgement
+            Vogosodera, Judgemental deity, Childbirth, Stars, Truth
+            Cawakecoso, Uncaring deity, Chaos
+            Tohevayuqu, Punishing deity, Forest, Civilization, Moon, Land
+            Futeya, Obscure deity, Trickery, Disaster, Day, Demons, War, Mind
+            Juwojoyelu, Uncaring deity, Plague, Judgement, Insanity, Truth, Life, Law
+            Ovejesoso, Meddling deity, Day, Stars, Painting, Night
+            Sozivu, Punishing deity, Desire, Destiny, Moon, Civilization, Destruction, Peace
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Tehefoho Region - forest
+       Cultures: There are no cultures in this area.
+
+     Tabi Region - jungle
+       Cultures: 1
+         The Alu People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: wheat, buffalo, goat
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Wadolasi Region - cold dry desert with floating islands
+       Cultures: 2
+         The Ewobe People
+          Kritarchy - rule by legal judges
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, pig, sheep
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Kuje People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: soybeans, sheep, sheep
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Vemegu Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Warusohevi Region - hot dry desert
+       Cultures: 2
+         The Sovugita People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: soybeans, pig
+          Religion: Dualism
+            Jigi, Judgemental deity, Trickery, Strength, Disaster, Ice, Writing
+            Ohete, Punishing deity, Judgement, Intelligence, Beauty, Fire, Painting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Wisegilovu People
+          Kritarchy - rule by legal judges
+          There is no trade, authorities own all property.
+          Diet: cassava
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Gibovegesu Region - forest
+       Cultures: There are no cultures in this area.
+
+     Qafi Region - dry desert
+       Cultures: 2
+         The Toyasi People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: rice, cattle
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Qivisajoyu People
+          Theocracy - rule by religion
+          There is no trade, property is collectively owned.
+          Diet: plantains, cattle, sheep
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Devodite Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Silisasu Region - cold coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Jigi Region - jungle
+       Cultures: 1
+         The Yasadivi People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, pig, buffalo, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Sisusecovo Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Simo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Duvusevu Region - forest
+       Cultures: 1
+         The Dile People
+          Bankocracy - rule by banks
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, pig, chicken
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Tayo Region - dry desert
+       Cultures: 1
+         The Dutunu People
+          Aristocracy - rule by several bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, goat, fish
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: indifference
+
+
+     Vigunutuda Region - hot forest with an undead infestation
+       Cultures: 1
+         The Vatofa People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, property is collectively owned.
+          Diet: corn, sheep, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Isuneyuse, Antagonistic deity, Demons, Truth, Destruction
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Deyizixu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Jadesi Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Sugevimo Region - cold jungle
+       Cultures: 1
+         The Buzi People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Unadu Region - cold dry desert
+       Cultures: 1
+         The Dakemuxe People
+          Theocracy - rule by religion
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, cattle, chicken
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Qokitakavu Region - steppe with a wetland
+       Cultures: There are no cultures in this area.
+
+     Sosuramufo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Dada
+Area (km): 68845718
+Regions: 
+     Seqasiso Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Xixa Region - hot semiarid desert with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The Vaco People
+          Bankocracy - rule by banks
+          This is no concept of trade, but gifts are given.
+          Diet: rice, buffalo, goat
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Ovade People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, cattle, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Hexa Region - grassland
+       Cultures: 2
+         The Seliho People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: potatoes, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Mikuxisaze People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, sheep, buffalo, goat
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Alu Region - steppe
+       Cultures: 2
+         The Usadu People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, sheep
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Ifiviqole People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: potatoes, game meat such as deer or elk, goat
+          Religion: Dualism
+            Yicivore, Mysterious deity, Moon, Trickery, Family, Plague
+            Quyegihovi, Punishing deity, Sun, Judgement, Love, Harvest
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Mekisuca Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vovoxewa Region - cold dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Yexa Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Sokine Region - hot semiarid desert
+       Cultures: 2
+         The Usasape People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: rice, monstrous meat such as dragons or griffins, goat, chicken
+          Religion: Monotheism
+            Yevi, Obscure deity, Desire
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Suyeda People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: wheat, pig
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Lawawoweso Region - cold semiarid desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Sehusadi Region - dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Lapeno Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Kovive Region - cold coastal desert
+       Cultures: 2
+         The Tiviqolezi People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, property is collectively owned.
+          Diet: sorghum, goat
+          Religion: Dualism
+            Zanovu, Punishing deity, Death, Beauty, War, Luck
+            Zivuguvo, Obscure deity, Life, Disaster, Peace, Destiny
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Vafefo People
+          Kratocracy - rule by strength
+          There is no trade, property is collectively owned.
+          Diet: corn
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Suvaji Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Safusi Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Yuze People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, fish, game meat such as deer or elk, cattle
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Wihonesare Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Jikavefa Region - cold grassland
+       Cultures: 1
+         The Bixasesiro People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, pig, sheep, pig
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Obolu Region - cold coastal desert
+       Cultures: 1
+         The Vuxafi People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, chicken, cattle
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Eca Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Masovivi Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Deyizixu Region - hot jungle
+       Cultures: 1
+         The Covuyibevu People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins, sheep, cattle
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Uwabo Region - cold semiarid desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Seqemuso Region - cold dry desert
+       Cultures: 2
+         The Osezawu People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, cattle, monstrous meat such as dragons or griffins, goat
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Ifahevova People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, fish, fish
+          Religion: Monotheism
+            Baxaxu, Obscure deity, Peace, Insanity, Home, Peace
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Panijuvasu Region - hot forest
+       Cultures: 2
+         The Yevupisi People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, cattle, cattle, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Sisasu People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: sorghum
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Soxemige Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Mabi Region - hot dry desert
+       Cultures: 2
+         The Goleri People
+          Aristocracy - rule by several bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: yams, buffalo
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Kiqo People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Xaha Region - dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Miso Region - dry desert
+       Cultures: 2
+         The Dese People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, uncommon meat such as lizards or insects, chicken, sheep
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Fisifisawu People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, fish, chicken
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Konanoja Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Vesi Region - cold jungle with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Vebusemave Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Sosedosede Region - cold jungle
+       Cultures: 1
+         The Hefovuxo People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: rice, fish
+          Religion: Dualism
+            Sosuhe, Obscure deity, Childbirth
+            Sojuvasuzo, Antagonistic deity, Afterlife
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Aqufasoya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Molivuviru Region - dry desert
+       Cultures: 1
+         The Suhevidevi People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: yams, pig
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Simubi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Duke Region - steppe
+       Cultures: 2
+         The Jubehi People
+          Corporatocracy - rule by corporations
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, game meat such as deer or elk, goat, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Ejayasuvo People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, fish, cattle
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: indifference
+
+
+     Hexa Region - cold steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Opa Region - hot dry desert
+       Cultures: 2
+         The Kiqose People
+          Bankocracy - rule by banks
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, buffalo, pig, fish
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Suvobujofu People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, buffalo, monstrous meat such as dragons or griffins, pig
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Zexe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Jisisisone Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Ramuca People
+          Kratocracy - rule by strength
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, buffalo, goat, sheep
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Siqetufe People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: sweet potatoes, pig, pig, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Yifilisado, Antagonistic deity, Night, Protection, Demons, Disaster, Civilization
+            Tawacu, Meddling deity, Plague, Law, Fire, Protection, Childbirth, Disaster
+            Jiziva, Uncaring deity, Desert, Secrets, Judgement, Antimagic, Writing
+            Seciqeke, Obscure deity, Land, Fighting, Judgement
+            Gaside, Antagonistic deity, Insanity, Civilization, Hatred, Angels, Trickery
+            Zupa, Forgiving deity, Stars, Land, Fire
+            Ofawevuha, Punishing deity, Harvest
+            Vusivajuqu, Meddling deity, Hatred, Beauty, Destruction
+            Isesife, Punishing deity, Plague
+            Qiveqigova, Mysterious deity, Destiny, Travel
+            Ruye, Uncaring deity, Desert, Home, Peace, Hatred, Creation
+            Remidowesi, Judgemental deity, Childbirth, Night, Civilization
+            Simo, Punishing deity, Law, Night
+            Bosu, Mysterious deity, Ice, Stars
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Yifilisado Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Qihusoveke Region - cold semiarid desert
+       Cultures: 1
+         The Siku People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: rice, chicken, buffalo, buffalo
+          Religion: Dualism
+            Wigosuyewi, Obscure deity, War
+            Viko, Obscure deity, Peace
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Veyiwe Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Pilepe Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Tidu Region - hot jungle
+       Cultures: 1
+         The Dakemuxe People
+          Dictatorship - rule by one, gained power through force
+          There is no concept of property.
+          Diet: soybeans, buffalo, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: indifference
+
+
+     Kiqo Region - cold dry desert
+       Cultures: 1
+         The Ramuca People
+          Military Dictatorship - rule by military
+          There is no concept of property.
+          Diet: corn, uncommon meat such as lizards or insects, buffalo, buffalo
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Gokosuvoda Region - coastal desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Sikobasayu Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Visiwi Region - forest
+       Cultures: 1
+         The Tihe People
+          Diarchy - rule by two bloodlines
+          There is no trade, property is collectively owned.
+          Diet: sorghum, goat, monstrous meat such as dragons or griffins, fish
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Lavedavimu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Mikuxisaze Region - jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Dazayo Region - hot coastal desert
+       Cultures: 1
+         The Fusohiquso People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Yepavodemi
+Area (km): 26292310
+Regions: 
+     Yowoyo Region - hot dry desert
+       Cultures: 1
+         The Sagibeyu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no concept of property.
+          Diet: plantains, goat, uncommon meat such as lizards or insects, goat
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+     Nicuhapigu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Vadite Region - hot grassland with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Ifahevova Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Qeko
+Area (km): 4228028
+Regions: 
+     Line Region - cold dry desert with a giant mushroom forest
+       Cultures: 2
+         The Viwiwi People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: rice, buffalo, buffalo, cattle
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+         The Vatevexa People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: sorghum, fish, goat
+          Religion: Monotheism
+            Sewaso, Mysterious deity, Land, Travel, Wilderness, Sky, Civilization
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: awe
+
+
+

@@ -1,0 +1,2009 @@
+-----Matabuze world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+The source of magic is alchemy. However, some mages use deities or spirits.
+Around magic, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is modern, consisting of nukes and computers.
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with discomfort.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 1 degrees Celsius. It is extremely cold.
+The world has an amount of life similar to Earth.
+The world is 48% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 6 continents.
+-----------------------------
+The land of Nuga
+Area (km): 101456508
+Regions: 
+     Dobacibe Region - cold jungle
+       Cultures: 2
+         The Sekiwe People
+          Military Dictatorship - rule by military
+          Trade is done through barter.
+          Diet: corn
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Gifi People
+          Geniocracy - rule by intelligence
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Dibimisegi Region - cold jungle with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Bawuhukica Region - cold dry desert
+       Cultures: 2
+         The Wove People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: corn, goat, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Tudawofu People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: plantains, chicken
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zuzuhuzi Region - cold semiarid desert
+       Cultures: 1
+         The Lekado People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, chicken
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Buxabo Region - cold steppe
+       Cultures: 1
+         The Zefuxogepu People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: plantains, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+
+     Bezigi Region - cold jungle
+       Cultures: 2
+         The Ufafe People
+          Anarchy - no enforced rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, goat, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Suqucugewa People
+          Bankocracy - rule by banks
+          Trade is done through barter.
+          Diet: sorghum, monstrous meat such as dragons or griffins, sheep, chicken
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xawu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Bovode Region - cold dry desert
+       Cultures: 1
+         The Wuluxe People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, fish, buffalo
+          Religion: Monotheism
+            Wexe, Antagonistic deity, Law, Metalworking, Home
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Biwulote Region - cold coastal desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Nubuheto Region - hot dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Xefozaxe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Tuneka Region - hot semiarid desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Wezi Region - cold coastal desert
+       Cultures: 1
+         The Tudawofu People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: corn, uncommon meat such as lizards or insects, fish, game meat such as deer or elk
+          Religion: Polytheism
+            Coqabu, Mysterious deity, Desire
+            Wezivazane, Punishing deity, Judgement, Writing
+            Togibuwe, Forgiving deity, Protection, Luck, Sun, Afterlife, Judgement, Disaster
+            Axexigoga, Forgiving deity, Intelligence, Childbirth
+            Uyu, Forgiving deity, Secrets, Antimagic, Truth, Luck
+            Tonezuxotu, Judgemental deity, Luck, Forest, Judgement
+            Dado, Judgemental deity, Strength
+            Dobacibe, Uncaring deity, Peace, Love
+            Wizuco, Obscure deity, Chaos, Beauty, Antimagic, Harvest, Weaving
+            Ginu, Judgemental deity, Insanity, Sea, Family, Antimagic
+            Cexaze, Meddling deity, Law
+            Foxiweqeju, Uncaring deity, Love, Beauty, Death
+            Anaziwujo, Judgemental deity, Beauty, Luck, Fighting, Luck, Love
+            Fitubi, Forgiving deity, Ice, Judgement, Trickery
+            Modopuyipe, Forgiving deity, Travel, Disaster, Trickery, Destruction, Protection
+            Alehe, Uncaring deity, Ice
+            Nawo, Antagonistic deity, Harvest
+            Wigu, Forgiving deity, Travel, Chaos, Family, Ice, Disaster
+            Zirixubi, Uncaring deity, Angels, Weaving, Civilization, Law, Civilization
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Debosu Region - dry desert
+       Cultures: 2
+         The Gezacuyure People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, authorities own all property.
+          Diet: wheat, pig, sheep, sheep
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Xeto People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: soybeans, monstrous meat such as dragons or griffins, goat
+          Religion: Monotheism
+            Uxegapuwo, Forgiving deity, Life, Forest
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+
+     Kecuda Region - cold grassland
+       Cultures: 1
+         The Arubo People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, fish, sheep
+          Religion: Dualism
+            Ibe, Obscure deity, Metalworking, Disaster, Sun, Chaos
+            Guze, Antagonistic deity, Weaving, Beauty, Moon, Law
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Gacaki Region - cold semiarid desert
+       Cultures: 2
+         The Wucu People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: potatoes, buffalo
+          Religion: Polytheism
+            Huxuciwa, Punishing deity, Creation
+            Getuja, Forgiving deity, Luck, Afterlife, Peace, Writing, Secrets, Forest
+            Jixuliki, Punishing deity, Destiny, Day
+            Izuvudi, Forgiving deity, Angels, Demons, Wilderness, Beauty, Secrets
+            Qexujo, Mysterious deity, Protection, Creation, Desire, Land, Fighting
+            Ribucowuwi, Obscure deity, Weaving
+            Gexabazida, Mysterious deity, Weaving, Wilderness
+            Cotakugaji, Judgemental deity, Creation, Magic
+            Nawo, Judgemental deity, Day, Insanity, Peace, Land, Day
+            Ejabeko, Mysterious deity, Plague, Civilization
+            Ugu, Uncaring deity, Beauty, Ice, Travel, Love, Disaster, Sea
+            Kegorenizi, Mysterious deity, Insanity, Wilderness, Desert, Judgement, Fire, Angels
+            Tefebo, Meddling deity, Creation, Disaster, Strength
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Roriya People
+          Despotism - rule by one, the ruler has slaves
+          This is no concept of trade, but gifts are given.
+          Diet: yams, fish, goat, sheep
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Zuwe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Ubino Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Bacu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Yinatizi Region - cold forest with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Elenixa Region - cold jungle
+       Cultures: 2
+         The Gabogekume People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans
+          Religion: Monotheism
+            Acigaza, Uncaring deity, Beauty, Metalworking
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Gocenaza People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: corn, chicken, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Axexigoga Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Feye Region - cold jungle with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Kofobori Region - cold coastal desert
+       Cultures: 2
+         The Wixuzi People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, cattle
+          Religion: Dualism
+            Wiko, Obscure deity, Wilderness, Law
+            Zenuturu, Judgemental deity, Civilization, Chaos
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Gozu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, pig
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Bacuzotawe Region - cold jungle without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Xesu People
+          Timocracy - rule by honor
+          Trade is done through barter.
+          Diet: sweet potatoes, chicken, pig, buffalo
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Xenefado People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, buffalo, pig, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Vezuguboso Region - hot jungle
+       Cultures: 1
+         The Tegewuno People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, monstrous meat such as dragons or griffins, fish, sheep
+          Religion: Polytheism
+            Jisi, Punishing deity, Insanity, Death, Truth, Fire, Fighting
+            Usiju, Antagonistic deity, Creation, Love, Painting, Metalworking, Land
+            Xukacovonu, Punishing deity, Disaster, Fighting, Judgement
+            Kunuya, Forgiving deity, Beauty, Disaster, Intelligence
+            Gapadabu, Forgiving deity, Day
+            Fege, Judgemental deity, Harvest, Travel, Antimagic, Death, Disaster, Family
+            Subipahe, Judgemental deity, Day, Weaving
+            Zexebifaxi, Judgemental deity, Chaos, Wilderness, Childbirth, Night, Chaos
+            Dixucegoda, Meddling deity, Disaster, Forest, Ice, Life, Demons, Family
+            Xaxesefipo, Uncaring deity, Love, Civilization, Luck, Wilderness, Chaos
+            Bawo, Forgiving deity, Destruction
+            Gixuvi, Forgiving deity, Judgement, Destiny, Magic, Fire, Night, War
+            Ewiju, Punishing deity, Childbirth, Fire, Death, Secrets
+            Zexebifaxi, Meddling deity, Angels, Night, Destruction
+            Rabe, Punishing deity, Law, Metalworking, Land, Destiny, Fighting, Childbirth
+            Kepa, Forgiving deity, Moon, Intelligence, Mind, Insanity
+            Yoxu, Punishing deity, Metalworking, Protection, Luck, Intelligence, Writing
+            Zano, Forgiving deity, Luck, Ice, Night, Weaving, Life
+            Biba, Punishing deity, Harvest, Childbirth, Magic
+            Dizi, Meddling deity, Civilization, Luck, Day, Day, Afterlife
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Vige Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Zobulera Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Exegucuro Region - steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Yinatizi Region - cold steppe
+       Cultures: 1
+         The Zuwakaguxi People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: rice, cattle, fish
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Gixuyu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Anaziwujo Region - forest with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Fadoxa Region - jungle with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Xukacovonu Region - jungle with a giant mushroom forest
+       Cultures: 1
+         The Nezupuci People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, fish, chicken, goat
+          Religion: Dualism
+            Kanetuxa, Meddling deity, Hatred, War, Intelligence, Chaos, Beauty
+            Bufenowo, Forgiving deity, Desire, Peace, Strength, Law, Disaster
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Cacavuzenu Region - cold forest with living, growing rocks and crystals
+       Cultures: 1
+         The Ixezuwu People
+          Technocracy - rule by education
+          There is no trade, property is collectively owned.
+          Diet: yams, sheep, goat, pig
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Wojedaziko Region - cold dry desert
+       Cultures: 2
+         The Xovixa People
+          Aristocracy - rule by several bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Otahuxixo People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, sheep, chicken, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Boxokomafe, Judgemental deity, Civilization, Beauty, Antimagic
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Cezazuze Region - cold steppe
+       Cultures: 1
+         The Pumi People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes
+          Religion: Polytheism
+            Bowa, Uncaring deity, Travel, Fire, Chaos, Antimagic
+            Sumiga, Antagonistic deity, Insanity, Stars, Land, Ice, Afterlife, Ice
+            Puzupaxe, Judgemental deity, Family, Magic, Sea, Intelligence
+            Kaluwocude, Meddling deity, Trickery, Night, Life
+            Pokixobace, Judgemental deity, Trickery, Painting, Ice
+            Yizibulo, Judgemental deity, Luck, Truth, Protection, Life
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xeku Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Uziza Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Xexa Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Xemazexeku Region - cold dry desert with sentient plants
+       Cultures: 1
+         The Wafovu People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: sorghum, fish, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Monotheism
+            Bovode, Antagonistic deity, Sea, Peace, Forest, Moon, Forest, Afterlife
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Exegucuro Region - cold coastal desert
+       Cultures: 2
+         The Bonico People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Wubobe People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: wheat
+          Religion: Monotheism
+            Juba, Uncaring deity, Trickery, Intelligence, Love
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Cocare Region - cold steppe with living, growing rocks and crystals
+       Cultures: 1
+         The Xubotene People
+          Bankocracy - rule by banks
+          There is no concept of property.
+          Diet: corn, fish, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xifu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Weli Region - cold forest with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Tifefagi People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: sorghum, buffalo, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xoducocafo Region - cold jungle
+       Cultures: 1
+         The Wove People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: plantains, cattle, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Lexawozoxe Region - cold semiarid desert
+       Cultures: 2
+         The Pijo People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: cassava, goat
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Fadoxa People
+          Aristocracy - rule by several bloodlines
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, cattle, pig, cattle
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Towaga Region - cold dry desert
+       Cultures: 2
+         The Vigo People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, chicken, buffalo, cattle
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Dubu People
+          Geniocracy - rule by intelligence
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zuwo Region - cold jungle with an undead infestation
+       Cultures: 2
+         The Iwi People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: sweet potatoes, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Noxawe People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, buffalo, monstrous meat such as dragons or griffins, cattle
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Etoxi Region - cold dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Bekiwika Region - cold steppe with floating islands
+       Cultures: There are no cultures in this area.
+
+     Nugizefa Region - cold dry desert
+       Cultures: 1
+         The Buxabo People
+          Military Dictatorship - rule by military
+          There is no concept of property.
+          Diet: soybeans, game meat such as deer or elk, cattle, sheep
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Hizaxuzo Region - hot jungle
+       Cultures: 2
+         The Welalu People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, authorities own all property.
+          Diet: cassava, chicken
+          Religion: Polytheism
+            Cipibi, Mysterious deity, Wilderness, Childbirth, Strength, Demons, Destiny, Sky
+            Gabogekume, Punishing deity, Trickery, Disaster
+            Natogezuwa, Mysterious deity, Metalworking, Strength, Sea, Childbirth
+            Zaze, Forgiving deity, Hatred, Sea, Beauty
+            Sakedafo, Mysterious deity, Moon, Strength, Death
+            Kini, Meddling deity, Family, Desert, Destiny, Insanity
+            Kaxexofexo, Obscure deity, Desire, Hatred, Angels, Intelligence, Forest
+            Rakuci, Punishing deity, Metalworking, Beauty
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Okukupowu People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: sorghum, sheep, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xaza Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Zuno Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Zefuxogepu Region - cold coastal desert
+       Cultures: 2
+         The Ciki People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: potatoes, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Sumiga People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, authorities own all property.
+          Diet: rice, sheep, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+
+     Jefuzena Region - grassland with sentient plants
+       Cultures: 1
+         The Towowafu People
+          Anarchy - no enforced rule
+          There is no trade, authorities own all property.
+          Diet: sorghum, game meat such as deer or elk, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Suzudodu Region - cold dry desert
+       Cultures: 2
+         The Lexawozoxe People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, pig, cattle, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Jasexu People
+          Monarchy - rule by single bloodline
+          There is no trade, property is collectively owned.
+          Diet: wheat, chicken, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Dedaxi Region - cold coastal desert
+       Cultures: 1
+         The Guyuxugaqu People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: wheat, pig, cattle, cattle
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Fizutebodu Region - cold dry desert
+       Cultures: 2
+         The Obokofovu People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: wheat, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Tudawofu, Uncaring deity, Destiny, Peace, Mind
+            Ihaxo, Antagonistic deity, Strength, Demons, Family, Luck, Plague, War
+            Haqiwifi, Uncaring deity, Travel
+            Nuga, Meddling deity, Night, Desire, Protection, Desire, Harvest
+            Citadizi, Punishing deity, Strength, Sky
+            Xibezujo, Forgiving deity, Civilization
+            Wubaxozi, Obscure deity, Life, Insanity, Strength, Home, Mind
+            Ibe, Uncaring deity, Stars, Painting, Chaos, Creation, Creation
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Ufawubi People
+          Plutocracy - rule by rich
+          There is no trade, property is collectively owned.
+          Diet: yams, pig, chicken, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Tuneka Region - hot jungle
+       Cultures: 2
+         The Sekiwe People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: rice, cattle, sheep
+          Religion: Polytheism
+            Ganuxe, Mysterious deity, Destruction, Destruction, Plague, Peace
+            Huxuciwa, Judgemental deity, Forest
+            Yejiwo, Obscure deity, Intelligence, Night, Life, Moon
+            Vuhohobe, Punishing deity, Metalworking
+            Xuqala, Antagonistic deity, Antimagic
+            Tuwucozoka, Uncaring deity, Intelligence
+            Udopizewe, Meddling deity, Truth, Childbirth, Protection
+            Rabe, Mysterious deity, Life, Home, Desert, Magic
+            Wanino, Meddling deity, Family, Fighting, Insanity
+            Babowofa, Meddling deity, Trickery, Strength, Plague, Moon, Antimagic
+            Zakegunu, Uncaring deity, Disaster, Luck, Magic, Luck, Judgement, Magic
+            Zixe, Punishing deity, Destruction, Chaos, Home, Desire, Metalworking, Insanity
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Boganeqage People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: plantains, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zetu Region - cold dry desert with floating islands
+       Cultures: 1
+         The Tamaso People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, monstrous meat such as dragons or griffins, goat, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xuqala Region - cold dry desert
+       Cultures: 2
+         The Bogace People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: corn, fish, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Zedomoduge People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, uncommon meat such as lizards or insects, sheep
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zokutewe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wezi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Nuxeqoxadu Region - cold semiarid desert with an undead infestation
+       Cultures: 2
+         The Tobo People
+          Magrocracy - rule by magic
+          There is no trade, property is collectively owned.
+          Diet: corn, sheep, goat, buffalo
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Nozoxe People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: sweet potatoes, fish, goat, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Dogoyu Region - cold dry desert
+       Cultures: 2
+         The Tixace People
+          Kratocracy - rule by strength
+          There is no trade, property is collectively owned.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Gaxeci People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, pig, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Polytheism
+            Conuwaha, Punishing deity, Afterlife, Stars, Afterlife
+            Xihagepe, Mysterious deity, Judgement, Life, Desert, Fire
+            Bawuku, Forgiving deity, Luck, Sky, Moon, Wilderness, Forest, Painting
+            Gilakugi, Punishing deity, Travel
+            Kazibuxi, Forgiving deity, Death, Afterlife
+            Foxiweqeju, Uncaring deity, Destiny, Sea, Judgement, Civilization
+            Ugokajavo, Obscure deity, Desert, Love, Stars, Chaos
+            Togi, Mysterious deity, Creation
+            Cebaju, Meddling deity, Mind, Hatred, Demons, Truth
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Tegije Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Zexebifaxi Region - cold dry desert
+       Cultures: 1
+         The Vuzali People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Gojo, Punishing deity, Creation, Childbirth, Antimagic, Sky, Family
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Rope Region - cold dry desert
+       Cultures: 2
+         The Bawuku People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: potatoes, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Gowo People
+          Plutocracy - rule by rich
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, game meat such as deer or elk, fish
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Dago Region - cold dry desert
+       Cultures: 1
+         The Duwika People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: soybeans, sheep, fish, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Gowo, Mysterious deity, Mind, Destiny, Magic, Mind, Sky
+            Netacino, Mysterious deity, Magic
+            Nuzi, Forgiving deity, Luck, Painting, Mind, Magic, Destruction
+            Ugibawefi, Meddling deity, Moon, Creation
+            Gapadabu, Forgiving deity, Beauty, Fighting, Land, Fire, Weaving, Destiny
+            Xukacovonu, Obscure deity, Luck, Peace, Disaster, Childbirth, Destiny
+            Vagacizira, Obscure deity, Family, Trickery
+            Uzuke, Mysterious deity, Law, Fighting, Night, Protection, Land, Moon
+            Icoquyobu, Mysterious deity, Moon, Death, Travel, Wilderness, Writing, Demons
+            Gixa, Meddling deity, Peace, Family, Stars, Forest, Antimagic
+            Duwika, Judgemental deity, Desert, Fire, Harvest, Harvest, Hatred, Desire
+            Ixeboxo, Judgemental deity, Hatred, Harvest, Love, Peace, Forest
+            Uzuke, Uncaring deity, Fire, Land, Peace
+            Gove, Mysterious deity, Moon, Truth, Travel, Painting, War, Moon
+            Cociwabu, Punishing deity, Harvest
+            Zizuzuwoze, Mysterious deity, Travel, Angels, Protection, Night, Disaster, Fighting
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xebehonu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Iwiko Region - hot forest
+       Cultures: 2
+         The Jecufucu People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: soybeans, game meat such as deer or elk, chicken, sheep
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Wiko People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: wheat, chicken
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Boweteyi Region - cold jungle
+       Cultures: 1
+         The Egaxo People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: wheat
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zubavo Region - hot jungle
+       Cultures: 1
+         The Xoducocafo People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: cassava, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Gutidaxu Region - cold jungle with a wetland
+       Cultures: 1
+         The Wogexiqigo People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, authorities own all property.
+          Diet: wheat, buffalo, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Qohu, Judgemental deity, Travel
+            Kofobori, Judgemental deity, Civilization
+            Unu, Judgemental deity, Forest, War
+            Gukiwego, Obscure deity, Chaos, War, Civilization, Judgement, Family
+            Qumidu, Forgiving deity, Painting, Fighting
+            Wexilarahe, Punishing deity, Trickery, Strength
+            Axexigoga, Mysterious deity, Mind, Peace, Secrets
+            Taxona, Antagonistic deity, Sun, Secrets, Death, Protection, Intelligence
+            Xobava, Mysterious deity, Family, Day, Death, Insanity
+            Tafebe, Meddling deity, Moon, Afterlife, Strength, Secrets
+            Bawuku, Forgiving deity, Intelligence, Disaster, Protection, Metalworking, Writing
+            Xetewizafi, Punishing deity, Trickery, Painting, Beauty, Disaster, Protection, Love
+            Gifi, Obscure deity, Sky, Secrets
+            Bozegeseza, Forgiving deity, Metalworking, Plague, Forest, Trickery, Harvest
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Dubaxutaga Region - dry desert
+       Cultures: 1
+         The Vowiboge People
+          Ergatocracy - rule by working class
+          There is no trade, property is collectively owned.
+          Diet: sorghum, monstrous meat such as dragons or griffins, chicken, fish
+          Religion: Dualism
+            Zikefowiwu, Uncaring deity, War, Fighting, Land
+            Xulu, Obscure deity, Peace, Protection, Sea
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Ziganefobe Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The Seboxo People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: potatoes, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Biwo, Antagonistic deity, Sea
+            Wawinabe, Obscure deity, Land
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Cuwazogoyu People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, buffalo, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Fazadeco Region - hot dry desert
+       Cultures: 1
+         The Wowonagole People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, chicken
+          Religion: Polytheism
+            Xulo, Meddling deity, Ice
+            Fitubi, Forgiving deity, Home, Wilderness, Peace, Intelligence, Writing, Chaos
+            Juxu, Meddling deity, Truth, Desert, Antimagic, Desert, Harvest, Day
+            Bikunoxa, Judgemental deity, Forest, Demons, Stars, Sky, Writing, Home
+            Conuwaha, Antagonistic deity, Metalworking, Family
+            Sekiwe, Forgiving deity, Family
+            Bonugazozu, Uncaring deity, Moon
+            Bohuca, Forgiving deity, Mind, Ice, Disaster
+            Lewi, Obscure deity, Magic
+            Sumiga, Uncaring deity, Insanity, Love, Peace, Demons
+            Donicigu, Obscure deity, Moon, Disaster, Wilderness, Protection, Disaster, Love
+            Tozutabozu, Judgemental deity, Desire, Peace, Moon, Weaving
+            Sewice, Uncaring deity, Fighting
+            Qowu, Obscure deity, Metalworking, Ice, Judgement, Moon, Magic, Demons
+            Tamaso, Judgemental deity, Childbirth, Painting
+            Zewawu, Antagonistic deity, Trickery, Creation, Antimagic
+            Bikunoxa, Uncaring deity, Protection, Judgement
+            Leboqi, Forgiving deity, Secrets, Destiny, Disaster, War, Night
+            Cixogowe, Judgemental deity, Destruction, Afterlife, Creation, Childbirth, Childbirth
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Wenuxe Region - cold jungle
+       Cultures: 1
+         The Kofazu People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: soybeans, buffalo, cattle
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Ewu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Qifunesi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Monixovoga Region - cold semiarid desert
+       Cultures: 1
+         The Powehi People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Modopuyipe Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Wokogoga Region - cold dry desert
+       Cultures: 2
+         The Sifetuzajo People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: plantains
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Cebaju People
+          Anarchy - no enforced rule
+          There is no trade, authorities own all property.
+          Diet: plantains, monstrous meat such as dragons or griffins, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xokefu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Kesufe Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Nubuheto Region - cold dry desert
+       Cultures: 2
+         The Matabuze People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, chicken, pig
+          Religion: Dualism
+            Zabazaxebu, Meddling deity, Ice
+            Nidokuwa, Antagonistic deity, Fire
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+         The Borucita People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, chicken, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Axezubawa Region - cold coastal desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Ihebo Region - cold dry desert
+       Cultures: 2
+         The Nami People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, goat, sheep
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Zizuzuwoze People
+          Diarchy - rule by two bloodlines
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Dualism
+            Biba, Uncaring deity, Moon, Sky, Family, Home
+            Kipoxeje, Mysterious deity, Sun, Stars, Love, Travel
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Qumidu Region - cold dry desert
+       Cultures: 2
+         The Obokofovu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: corn, buffalo, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Tamuwosagu People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, pig
+          Religion: Monotheism
+            Zoqicexide, Mysterious deity, Insanity, Luck, Destruction
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zagakita Region - cold steppe
+       Cultures: 2
+         The Vuhohobe People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin and unregulated by authority.
+          Diet: corn
+          Religion: Polytheism
+            Xevinunicu, Obscure deity, Writing, Destruction, Home, Home
+            Udilako, Uncaring deity, Afterlife, Forest, Writing, Moon, Trickery
+            Wawinabe, Mysterious deity, Desire
+            Afidoxi, Uncaring deity, Chaos
+            Xixegu, Obscure deity, Desire, Childbirth, Law, Beauty
+            Xebehonu, Forgiving deity, Sun
+            Dedaxi, Obscure deity, Love, Demons
+            Zubafixa, Forgiving deity, Antimagic, Sky, Mind, Magic
+            Lezunabiza, Mysterious deity, Fire, Sky, Destiny, Desire, Sea, Travel
+            Vagizoheci, Judgemental deity, Luck, Destiny
+            Zege, Forgiving deity, Forest, Death
+            Boweteyi, Uncaring deity, Disaster, War, Demons, Ice
+            Rabe, Uncaring deity, Angels, Creation, Disaster, Home, Writing, Destiny
+            Ewiwu, Obscure deity, Truth, Forest, Weaving, Plague
+            Qehuwi, Obscure deity, Land, Judgement, Fire
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Zoxezole People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: rice, pig
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Vuzali Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Kegorenizi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Wenuxe Region - cold jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+     Fitote Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Tikeyajado Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Subipahe Region - hot semiarid desert with floating islands
+       Cultures: 2
+         The Gocenaza People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: potatoes, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Gurezu People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: wheat, goat
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Ebexo
+Area (km): 113927709
+Regions: 
+     Dimeweje Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Tele Region - cold grassland
+       Cultures: 2
+         The Xese People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: sorghum, goat, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Zewawu People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: yams, chicken
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+
+     Kofazu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Nezupuci Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Gizeceyohi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Wuxo Region - hot steppe
+       Cultures: 1
+         The Zagakita People
+          Anarchy - no enforced rule
+          There is no concept of property.
+          Diet: sorghum
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Quqewidoto Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Uqixuwune Region - forest
+       Cultures: There are no cultures in this area.
+
+     Kuku Region - cold dry desert
+       Cultures: 2
+         The Gubecuke People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: yams, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins, chicken
+          Religion: Dualism
+            Senezogibi, Forgiving deity, Antimagic, Harvest, Strength, Truth, Sun, Intelligence
+            Ruyo, Punishing deity, Magic, Plague, Intelligence, Secrets, Moon, Strength
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Goxuxage People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: potatoes, chicken, pig, cattle
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Pacegu Region - cold grassland with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Xese Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Pediku Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Amu Region - cold steppe with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Boxokomafe People
+          Technocracy - rule by education
+          There is no trade, authorities own all property.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xuqezezozu Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Egugoxi Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Wigu Region - cold jungle with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Cihuwa Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Opesudaxo Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Muwulaze Region - cold coastal desert
+       Cultures: 1
+         The Sunocuza People
+          Kratocracy - rule by strength
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, goat
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Zili Region - cold steppe with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Dizi Region - hot forest
+       Cultures: 1
+         The Aho People
+          Aristocracy - rule by several bloodlines
+          Trade is done through barter.
+          Diet: soybeans, cattle
+          Religion: Dualism
+            Naxame, Obscure deity, Forest, Night
+            Mapagatube, Mysterious deity, Desert, Day
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xocuruge Region - cold coastal desert
+       Cultures: 2
+         The Coqabu People
+          Ochlocracy - mob rule
+          There is no trade, authorities own all property.
+          Diet: corn, monstrous meat such as dragons or griffins, goat
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Betopexetu People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: wheat, buffalo, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: discomfort
+
+
+     Yogu Region - cold dry desert with a giant mushroom forest
+       Cultures: 2
+         The Beda People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, goat, fish
+          Religion: Dualism
+            Geta, Mysterious deity, Law, Afterlife, Desire, Death, Law
+            Xevinunicu, Uncaring deity, Chaos, Childbirth, Hatred, Life, Chaos
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Kefo People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Netacino Region - grassland with a wetland
+       Cultures: 2
+         The Udikatafa People
+          Monarchy - rule by single bloodline
+          There is no concept of property.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Dogawojula People
+          Diarchy - rule by two bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: rice, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Arubo Region - cold jungle
+       Cultures: 2
+         The Xatewebepo People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: rice, goat, chicken, sheep
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Yoxo People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, goat
+          Religion: Monotheism
+            Uga, Forgiving deity, Moon
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Wugo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Nigebufade Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Boganeqage Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Lixo Region - cold grassland with a giant mushroom forest
+       Cultures: 1
+         The Zato People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: plantains, pig, game meat such as deer or elk, goat
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zuhevo Region - cold semiarid desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Lumi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Ozami Region - cold grassland
+       Cultures: 1
+         The Kini People
+          Aristocracy - rule by several bloodlines
+          There is no trade, property is collectively owned.
+          Diet: rice, fish, buffalo, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xese Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Zubafixa
+Area (km): 14978522
+Regions: 
+     Dife Region - cold grassland with floating islands
+       Cultures: There are no cultures in this area.
+
+     Taziwoxi Region - dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Wepo Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Fitote Region - cold semiarid desert with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The Kifebazo People
+          Ergatocracy - rule by working class
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, goat, buffalo
+          Religion: Dualism
+            Xefozaxe, Uncaring deity, Peace, Sun, Protection
+            Fudozizi, Forgiving deity, War, Moon, Fighting
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Ihaxo People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, goat, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Cacexawa Region - steppe
+       Cultures: 1
+         The Qohu People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, chicken, buffalo, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Gurezu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Kunuya Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Yeho Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Zibiweriga Region - jungle
+       Cultures: 2
+         The Biba People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: sorghum, buffalo
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Aho People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: plantains
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Uziza Region - cold jungle
+       Cultures: 2
+         The Ecuhu People
+          Aristocracy - rule by several bloodlines
+          Trade is done through barter.
+          Diet: soybeans, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Bovode People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: corn, pig, sheep
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Fokiqa Region - cold grassland with sentient plants
+       Cultures: 1
+         The Feliboha People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: rice, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Newibaci Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Xiyateme Region - cold jungle
+       Cultures: 2
+         The Zinuwu People
+          Anarchy - no enforced rule
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, goat, goat, buffalo
+          Religion: Dualism
+            Wawigahobu, Obscure deity, Insanity, Death, Love
+            Xexebo, Antagonistic deity, Mind, Life, Family
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Wawinabe People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, authorities own all property.
+          Diet: corn, pig, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Dubuxi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Gilakugi
+Area (km): 15611238
+Regions: 
+     Pawiwe Region - cold jungle
+       Cultures: 2
+         The Woweru People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: sorghum, fish, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Jabu People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: plantains, monstrous meat such as dragons or griffins, fish, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Guyuxugaqu Region - cold steppe
+       Cultures: 1
+         The Gilakugi People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, cattle, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Vuzali, Obscure deity, Secrets
+            Wilixexuxa, Obscure deity, Plague, Angels
+            Tapa, Antagonistic deity, Plague, Desire, Sky
+            Egaxo, Forgiving deity, Disaster, Death, Truth, Peace
+            Kipoxeje, Judgemental deity, Strength, Trickery, Childbirth
+            Gixuvi, Forgiving deity, Civilization, Destiny
+            Duxayo, Judgemental deity, Destiny, Home, Fighting, Desert, Luck, Antimagic
+            Lokidu, Mysterious deity, Demons, Harvest, Forest, Love, Magic, Magic
+            Gogi, Punishing deity, Fighting, Desert, Wilderness, Forest, Night, Truth
+            Waduwaxo, Judgemental deity, Trickery
+            Miwicizuka, Punishing deity, Moon, Land, Stars, Ice, Death
+            Taxona, Punishing deity, Metalworking, Beauty, Magic, Sea
+            Luxetinaxo, Mysterious deity, Life, Land
+            Yobo, Mysterious deity, Harvest
+            Dedaxi, Uncaring deity, Home, Wilderness, Death, Day
+            Bacuzotawe, Meddling deity, Creation, War
+            Zili, Mysterious deity, Secrets, Life, Love
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Cucigejuxa Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Rope Region - dry desert
+       Cultures: 1
+         The Betexi People
+          Anarchy - no enforced rule
+          There is no concept of property.
+          Diet: wheat, cattle
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Mewose Region - hot semiarid desert
+       Cultures: 1
+         The Unu People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, sheep, goat, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xogixiji Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Xenefado Region - cold forest
+       Cultures: 2
+         The Bezu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: rice, cattle, fish, cattle
+          Religion: Dualism
+            Jisi, Obscure deity, Disaster, Moon, Life, Judgement, Metalworking, Trickery
+            Towowafu, Antagonistic deity, Beauty, Sun, Death, Trickery, Weaving, Judgement
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Bovode People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: sorghum, pig, buffalo
+          Religion: Dualism
+            Hifuburovi, Obscure deity, Intelligence, Disaster, Truth, Mind
+            Xese, Punishing deity, Strength, Beauty, Secrets, Insanity
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Xoqoye
+Area (km): 10854737
+Regions: 
+     Zizuzuwoze Region - cold jungle
+       Cultures: 2
+         The Ena People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, game meat such as deer or elk, chicken
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+         The Dubuxi People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, sheep, goat
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Xowaxebobu Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Vadugukiwe Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Jasidi Region - cold steppe
+       Cultures: 1
+         The Gilakugi People
+          Theocracy - rule by religion
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, chicken, sheep
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+     Zudoyu Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Iqe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Bovode Region - cold dry desert
+       Cultures: 1
+         The Kugi People
+          Geniocracy - rule by intelligence
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, fish, goat
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Aqonicu
+Area (km): 3171286
+Regions: 
+     Ibixexobo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+

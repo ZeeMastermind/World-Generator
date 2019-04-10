@@ -1,0 +1,1386 @@
+-----Molakayipe world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by very few.
+     In some places, Magic is used by many, but not all.
+     In some places, Magic is virtually nonexistent.
+The source of magic is alchemy. However, some mages use inner power/strength.
+Around magic, people react with worship.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is powered by magic. However, some have built technology steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with discomfort.
+     In some places, people react with admiration.
+     In some places, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 24 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 25% water.
+The ocean is boiling hot.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 11 continents.
+-----------------------------
+The land of Bovosoto
+Area (km): 19872928
+Regions: 
+     Vuzoreyoli Region - hot forest with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Lilipowa Region - hot semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Wakili Region - hot coastal desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Powabubosa Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Wasozivulo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Poyoyemobe Region - hot dry desert
+       Cultures: 1
+         The Weru People
+                 Theocracy - rule by religion
+                 This is no concept of trade, but gifts are given.
+                 Diet: Cassava, chicken, fish
+                 Religion: Demon Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Nuqi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Neluno Region - dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Bovosoto Region - forest
+       Cultures: There are no cultures in this area.
+
+     Roraviku Region - hot grassland without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Yonowa Region - hot semiarid desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Upi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ahe Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Novaqefu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wesesiya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yebu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Refoze Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Tufuyuya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Woyo
+Area (km): 185398228
+Regions: 
+     Kapu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Mobo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Tuxeha Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ruposi Region - hot dry desert
+       Cultures: 1
+         The Rolote People
+                 Ergatocracy - rule by working class
+                 This is no concept of trade, but gifts are given.
+                 Diet: Sorghum
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: indifference
+
+     Vizacaqo Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Bovosoto Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Heserowi Region - hot dry desert
+       Cultures: 1
+         The Vofadinaxu People
+                 Stratocracy - rule by military with conscription
+                 This is no concept of trade, but gifts are given.
+                 Diet: Sweet potatoes, goat, chicken
+                 Religion: Dualism
+                   Kiyunulopo, Forgiving deity, Hatred, Beauty, Intelligence
+                   Keyowe, Uncaring deity, Desire, Disaster, Strength
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Iravotu Region - hot dry desert
+       Cultures: 1
+         The Piwocuvu People
+                 Direct Democracy - rule by enfranchised elections
+                 Trade is done through barter.
+                 Diet: Wheat
+                 Religion: Animism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Rowiraka Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Civavadoso Region - hot dry desert
+       Cultures: 1
+         The Zowepe People
+                 Theocracy - rule by religion
+                 Trade is done through barter.
+                 Diet: Cassava, sheep, goat, buffalo
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Qadute Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Feveja Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Kolalexe Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Vasape Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Yevuvoye Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Rukocivolo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ivewuga Region - hot coastal desert with a giant mushroom forest
+       Cultures: 1
+         The Kopeni People
+                 Plutocracy - rule by rich
+                 Trade is done through barter.
+                 Diet: Plantains, uncommon meat such as lizards or insects, sheep, chicken
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Pazokepevo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Piyuraka Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Raku Region - hot grassland with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Oroku Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Bucili Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Wavasezocu Region - hot dry desert
+       Cultures: 1
+         The Loyinufano People
+                 Constitutional Monarchy - rule by single bloodline that is limited by law
+                 Trade is done through barter.
+                 Diet: Wheat
+                 Religion: Demon Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Yovicuhasa Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Vapucavi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Linu Region - steppe
+       Cultures: 1
+         The Tiqipokele People
+                 Corporatocracy - rule by corporations
+                 Trade is done through barter.
+                 Diet: Soybeans, game meat such as deer or elk, sheep, goat
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Sesone Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Nidi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Rapinusagi Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Pulusase Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ciyerozi Region - hot forest with a giant mushroom forest
+       Cultures: 1
+         The Guluseceqi People
+                 Constitutional Monarchy - rule by single bloodline that is limited by law
+                 There is no concept of property.
+                 Diet: Plantains, game meat such as deer or elk, buffalo, uncommon meat such as lizards or insects
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Yeveko Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Konunaso Region - hot jungle with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Peva Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Bevino Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Durokucaxi Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Iyiyenase Region - hot jungle
+       Cultures: 1
+         The Puto People
+                 Kleptocracy - rule by thieves
+                 Trade is done through barter.
+                 Diet: Rice, cattle
+                 Religion: Demon Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Cakibi Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Sine Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Ebewusolu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Culeka Region - coastal desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Kafori Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Pubuwiki Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Yakisevawo Region - hot semiarid desert
+       Cultures: 1
+         The Bupi People
+                 Direct Democracy - rule by enfranchised elections
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Plantains, fish, monstrous meat such as dragons or griffins
+                 Religion: Totemism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Uvu Region - hot forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Luwibe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Pahuve Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Wuno Region - hot jungle
+       Cultures: 1
+         The Nasewuyeco People
+                 Kleptocracy - rule by thieves
+                 There is no trade, authorities own all property.
+                 Diet: Potatoes, monstrous meat such as dragons or griffins, fish
+                 Religion: Polytheism
+                   Ropowiki, Mysterious deity, Luck
+                   Wope, Meddling deity, Magic, Antimagic, Disaster
+                   Jefawufaka, Uncaring deity, Harvest, Painting
+                   Punulupe, Uncaring deity, Angels, Destruction, Wilderness
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Bibinoweli Region - hot dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Zapabebucu Region - hot steppe with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Rubapayo Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Eyuboyoli Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Wasibowuya Region - coastal desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Rovisu Region - cold dry desert
+       Cultures: 1
+         The Usate People
+                 Military Dictatorship - rule by military
+                 There is no concept of property.
+                 Diet: Cassava
+                 Religion: Shamanism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Gamavi Region - hot coastal desert
+       Cultures: 1
+         The Vawidapena People
+                 Geniocracy - rule by intelligence
+                 There is no trade, authorities own all property.
+                 Diet: Potatoes, chicken, buffalo, buffalo
+                 Religion: Shamanism
+                 Magic: Magic is used by some, and people know of it.
+                 Magic attitude: worship
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: discomfort
+
+     Afaleju Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Coni Region - cold forest with floating islands
+       Cultures: There are no cultures in this area.
+
+     Nikivevasi Region - hot grassland
+       Cultures: 1
+         The Moxa People
+                 Dictatorship - rule by one, gained power through force
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Plantains, sheep, pig, goat
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Ete Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Keyotuve Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Yewazivane Region - dry desert
+       Cultures: 1
+         The Yovicuhasa People
+                 Aristocracy - rule by several bloodlines
+                 There is no trade, property is collectively owned.
+                 Diet: Yams, chicken, buffalo
+                 Religion: Animism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Seqogemobo Region - hot dry desert
+       Cultures: 1
+         The Goja People
+                 Ochlocracy - mob rule
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Plantains, buffalo, buffalo
+                 Religion: Shamanism
+                 Magic: Magic is used by some, and people know of it.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Viliro Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Tipamavo Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Vawidapena Region - hot dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Kafori Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cavomupaca Region - hot dry desert
+       Cultures: 1
+         The Cusa People
+                 Monarchy - rule by single bloodline
+                 There is no trade, property is collectively owned.
+                 Diet: Plantains, fish, buffalo, sheep
+                 Religion: Shamanism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Cubibeporo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Vuga Region - cold coastal desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Xeso Region - dry desert
+       Cultures: 1
+         The Ahe People
+                 Timocracy - rule by honor
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Yams, pig, uncommon meat such as lizards or insects
+                 Religion: Ancestor Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Xuqu Region - hot steppe
+       Cultures: 1
+         The Cocesariki People
+                 Meritocracy - rule by ability
+                 Trade is done through barter.
+                 Diet: Corn, cattle, sheep, monstrous meat such as dragons or griffins
+                 Religion: Dualism
+                   Cilicoyinu, Antagonistic deity, Trickery, Weaving
+                   Bujefoli, Antagonistic deity, Judgement, Metalworking
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Rijena Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Sopiwovelu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Retokiri Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Nosawu Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Vacapuci Region - hot jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Yezevo Region - hot dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Tibi Region - hot jungle with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Cenoro Region - hot jungle
+       Cultures: 1
+         The Kajori People
+                 Dictatorship - rule by one, gained power through force
+                 This is no concept of trade, but gifts are given.
+                 Diet: Sweet potatoes, buffalo, monstrous meat such as dragons or griffins, fish
+                 Religion: Polytheism
+                   Ire, Judgemental deity, Land, Love, Death, Law
+                   Cusezogeva, Forgiving deity, Beauty, Sun, Trickery, Wilderness, Fire, Disaster
+                   Vuwaro, Uncaring deity, Judgement, Ice
+                   Pahacanu, Punishing deity, Moon, Luck
+                   Lolicomiku, Mysterious deity, Night, Weaving, Family, Family
+                   Wihe, Punishing deity, Intelligence
+                   Qowopegaki, Forgiving deity, Home
+                   Poyoyemobe, Judgemental deity, Moon, Forest, Death, Demons, Home
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Zureceke Region - hot coastal desert
+       Cultures: 1
+         The Lidu People
+                 Diarchy - rule by two bloodlines
+                 This is no concept of trade, but gifts are given.
+                 Diet: Potatoes, uncommon meat such as lizards or insects
+                 Religion: Ancestor Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: worship
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: indifference
+
+     Eyoca Region - hot grassland
+       Cultures: 1
+         The Oroku People
+                 Dictatorship - rule by one, gained power through force
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Rice, goat
+                 Religion: Animism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Karo Region - hot dry desert
+       Cultures: 1
+         The Neralekoma People
+                 Timocracy - rule by honor
+                 Trade is done through barter.
+                 Diet: Yams, game meat such as deer or elk
+                 Religion: Monotheism
+                   Ruculi, Meddling deity, Sea, Secrets, Forest, Family, Harvest, Death
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Vurakizo Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Puwenawebo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Cewu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Gase Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Vacapuci Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cusezogeva Region - hot steppe with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Sanivolusi Region - hot forest with a wetland
+       Cultures: There are no cultures in this area.
+
+     Guluseceqi Region - hot dry desert
+       Cultures: 1
+         The Rutinidu People
+                 Dictatorship - rule by one, gained power through force
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Potatoes, chicken, goat, uncommon meat such as lizards or insects
+                 Religion: Demon Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Febaronu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vekaka Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Zesulake Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Suxiwako People
+                 Aristocracy - rule by several bloodlines
+                 There is no trade, property is collectively owned.
+                 Diet: Plantains, cattle
+                 Religion: Polytheism
+                   Eciyakicu, Judgemental deity, Plague
+                   Pukuru, Mysterious deity, Wilderness
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Liye Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Gowanojaro Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Gesa Region - hot dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Vodexi People
+                 Dictatorship - rule by one, gained power through force
+                 Trade is done through barter.
+                 Diet: Plantains, monstrous meat such as dragons or griffins
+                 Religion: Monotheism
+                   Pivaneqe, Punishing deity, Writing, Beauty, Day
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Cesineho Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Binelopi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Piwocuvu Region - hot dry desert
+       Cultures: 1
+         The Recake People
+                 Meritocracy - rule by ability
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Rice
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Poka Region - cold semiarid desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Coleyicaco Region - hot forest
+       Cultures: 1
+         The Cakibi People
+                 Magrocracy - rule by magic
+                 There is no concept of property.
+                 Diet: Sorghum, goat
+                 Religion: Philosophical
+                 Magic: Magic is used by some, and people know of it.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Ete Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Nuvuno Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ledaboxabu Region - hot dry desert
+       Cultures: 1
+         The Nawuve People
+                 Bankocracy - rule by banks
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Rice
+                 Religion: Dualism
+                   Bilabe, Punishing deity, Mind, Chaos, Fire, Travel, Harvest, Moon
+                   Nucapo, Obscure deity, Insanity, Law, Ice, Home, Plague, Sun
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: awe
+
+     Yibafalava Region - hot dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Nepa Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Qeci Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Aveka Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Buyoye Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Zesulake Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Kafori Region - hot dry desert
+       Cultures: 1
+         The Urulusawo People
+                 Despotism - rule by one, the ruler has slaves
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Potatoes, uncommon meat such as lizards or insects
+                 Religion: Totemism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Amiveyoso Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cakecusevu Region - hot dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Bobo Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The Laxinurezo People
+                 Corporatocracy - rule by corporations
+                 There is no trade, property is collectively owned.
+                 Diet: Rice, chicken
+                 Religion: Ancestor Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Vacuvaka Region - hot forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Ohupa People
+                 Direct Democracy - rule by enfranchised elections
+                 There is no concept of property.
+                 Diet: Corn, buffalo
+                 Religion: Dualism
+                   Fanuxaru, Meddling deity, Demons, Civilization, Disaster, Afterlife, Protection
+                   Wukesobopu, Uncaring deity, Angels, Wilderness, Beauty, Childbirth, Fighting
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Vavibuwuwo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Kuya Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Hesobunava Region - hot forest with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Vusukiguxe Region - cold forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Tapa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cusipubico Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Dese Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Dirubojasi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Vodexi Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Ledaboxabu Region - hot dry desert
+       Cultures: 1
+         The Yexura People
+                 Geniocracy - rule by intelligence
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Wheat, goat, chicken
+                 Religion: Animism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Cosuka Region - hot steppe with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Bawuko Region - semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Minulokunu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Pupeleyi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Nuvuno Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Rupe Region - hot grassland
+       Cultures: 1
+         The Adobi People
+                 Plutocracy - rule by rich
+                 There is no trade, authorities own all property.
+                 Diet: Soybeans, fish, fish, pig
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Fewo Region - coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Pacawezaka Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Hureseva Region - hot dry desert
+       Cultures: 1
+         The Meka People
+                 Representative Democracy - rule by representatives chosen through enfranchised elections
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Sweet potatoes, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+                 Religion: Shamanism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Sanivolusi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Nokabe Region - hot dry desert
+       Cultures: 1
+         The Kafori People
+                 Kratocracy - rule by strength
+                 There is no trade, property is collectively owned.
+                 Diet: Potatoes, goat
+                 Religion: Monotheism
+                   Vojo, Obscure deity, Protection, Death, Fighting, Sky, Life, Civilization
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Wukudene Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Febaronu Region - hot coastal desert
+       Cultures: 1
+         The Nurahuru People
+                 Anarchy - no enforced rule
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Rice, game meat such as deer or elk
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: indifference
+
+     Neri Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Gavi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wirekuyo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Reya Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Lapo Region - steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Konunaso Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Recake Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Bodudeca Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Yilopipola Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Wecate Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Xunuvi Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Vipacesani Region - hot dry desert
+       Cultures: 1
+         The Suxiwako People
+                 Kratocracy - rule by strength
+                 There is no concept of property.
+                 Diet: Wheat, pig
+                 Religion: Animism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Wowusubopu Region - hot dry desert
+       Cultures: 1
+         The Copanoni People
+                 Chiefdom - rule by senior members of families or houses
+                 There is no trade, property is collectively owned.
+                 Diet: Plantains, chicken, pig
+                 Religion: Totemism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Sace Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Nuwodu Region - hot steppe with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Wuseyosica Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Neri Region - hot dry desert
+       Cultures: 1
+         The Wekecoyo People
+                 Plutocracy - rule by rich
+                 There is no concept of property.
+                 Diet: Plantains, sheep, uncommon meat such as lizards or insects
+                 Religion: Animism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Yanatomona Region - hot coastal desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Wobu Region - hot semiarid desert
+       Cultures: 1
+         The Yuraseku People
+                 Representative Democracy - rule by representatives chosen through enfranchised elections
+                 There is no trade, authorities own all property.
+                 Diet: Sweet potatoes
+                 Religion: Dualism
+                   Nidi, Mysterious deity, Destruction, Plague, Childbirth, Painting, Life, Demons
+                   Neri, Antagonistic deity, Creation, Harvest, Afterlife, Writing, Death, Angels
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Quyacecopu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Aveka Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Meviveki Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Wavasezocu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Reto Region - hot jungle with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Wobu Region - hot dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Cewuleyi Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Pare Region - hot dry desert
+       Cultures: 1
+         The Nawikuji People
+                 Ochlocracy - mob rule
+                 There is no trade, property is collectively owned.
+                 Diet: Plantains, buffalo, buffalo, buffalo
+                 Religion: Totemism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Hesobunava Region - hot semiarid desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Jefawufaka People
+                 Anarchy - no enforced rule
+                 There is no trade, authorities own all property.
+                 Diet: Wheat, cattle, sheep, buffalo
+                 Religion: Totemism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Dedogibe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Cakecusevu Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Murasacoxo Region - hot semiarid desert
+       Cultures: 1
+         The Loravisonu People
+                 Despotism - rule by one, the ruler has slaves
+                 This is no concept of trade, but gifts are given.
+                 Diet: Plantains
+                 Religion: Polytheism
+                   Niricayo, Mysterious deity, Hatred, Land, Plague, Secrets
+                   Apori, Judgemental deity, Creation
+                   Qukareji, Meddling deity, Magic, Civilization, Truth, Antimagic
+                   Ledaboxabu, Punishing deity, Afterlife, Land
+                   Opeyehule, Mysterious deity, Family, Mind, Painting
+                   Sowegoboya, Meddling deity, Destruction, Destiny, Fighting, Stars
+                   Cowaxava, Punishing deity, Civilization, War, Harvest, Protection, Land, Fighting
+                   Yurakasuke, Mysterious deity, Harvest, Fire, Beauty, Demons, Desire
+                   Lelono, Uncaring deity, Day
+                   Yilopipola, Meddling deity, Afterlife, Disaster, Secrets, Chaos, Sea, Weaving
+                   Osi, Obscure deity, Truth, Childbirth, Fire, Life
+                   Suyiyilibu, Judgemental deity, Civilization, Fire, Land, Childbirth, Weaving, Protection
+                   Eru, Mysterious deity, Family, Sun, Weaving
+                   Wukefa, Punishing deity, Disaster, Painting, Antimagic, Forest, Metalworking, Sun
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Xuqu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Nosawu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Sanaha
+Area (km): 76971856
+Regions: 
+     Vosapocu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cepa Region - hot coastal desert
+       Cultures: 1
+         The Kivu People
+                 Stratocracy - rule by military with conscription
+                 There is no concept of property.
+                 Diet: Plantains, uncommon meat such as lizards or insects, chicken, uncommon meat such as lizards or insects
+                 Religion: Ancestor Worship
+                 Magic: Magic is used by some, and people know of it.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Cayi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ura Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Cibifo Region - hot coastal desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Wosisale Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Neri Region - hot dry desert that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Nuro People
+                 Theocracy - rule by religion
+                 There is no trade, property is collectively owned.
+                 Diet: Sweet potatoes, chicken, fish, game meat such as deer or elk
+                 Religion: Monotheism
+                   Sufesi, Meddling deity, Luck, Disaster, Protection, Travel
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Rawawile Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Covubi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ora Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Rose Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Kiqena Region - hot semiarid desert
+       Cultures: 1
+         The Leduyopu People
+                 Theocracy - rule by religion
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Wheat, game meat such as deer or elk
+                 Religion: Totemism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: discomfort
+
+     Nani Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Pare Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Seli Region - hot forest with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Rawawile People
+                 Timocracy - rule by honor
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Sweet potatoes, fish
+                 Religion: Polytheism
+                   Cavomupaca, Uncaring deity, Law, Demons, Creation
+                   Kusi, Punishing deity, Protection, Weaving
+                   Puto, Punishing deity, Chaos, Magic, Hatred, Judgement, Desire, Antimagic
+                   Kiyunulopo, Mysterious deity, Demons, Fire
+                   Avolayowu, Meddling deity, Truth, Mind
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Acapowoso Region - hot dry desert with a giant mushroom forest
+       Cultures: 1
+         The Vodexi People
+                 Fascism - rule by one, gained power through nationalism
+                 There is no concept of property.
+                 Diet: Soybeans, cattle, uncommon meat such as lizards or insects
+                 Religion: Totemism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+                 Tech attitude: discomfort
+
+     Sesone Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Bovosoto Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Rolote Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Liporovo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Huru Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Pipebino Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Mobo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Cucema
+Area (km): 14161717
+Regions: 
+     Jaqekanipo Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Wiwerori Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Woyicinuru Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Nucapo Region - hot grassland with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Oyiseji Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vacuvaka Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Tacelukivu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Bixu
+Area (km): 8953008
+Regions: 
+     Tuyaqibeka Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Lafoga Region - hot dry desert
+       Cultures: 1
+         The Vosuyevu People
+                 Dictatorship - rule by one, gained power through force
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Sweet potatoes, buffalo
+                 Religion: Demon Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Rupe Region - hot dry desert with a giant mushroom forest
+       Cultures: 1
+         The Kuci People
+                 Aristocracy - rule by several bloodlines
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Yams, sheep
+                 Religion: Shamanism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Joro Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Noyero Region - hot forest with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Oqukeli
+Area (km): 29318972
+Regions: 
+     Yolokewupo Region - hot forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Voyola
+Area (km): 14623590
+Regions: 
+     Iwokunapi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Rumiqusuku Region - hot jungle
+       Cultures: 1
+         The Keyowe People
+                 Magrocracy - rule by magic
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Soybeans
+                 Religion: Polytheism
+                   Wihe, Judgemental deity, Wilderness, Judgement, Insanity
+                   Nepuci, Obscure deity, Destruction, Disaster, Destruction, Law
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Babixace Region - hot steppe
+       Cultures: 1
+         The Cewu People
+                 Stratocracy - rule by military with conscription
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Potatoes, game meat such as deer or elk
+                 Religion: Demon Worship
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Viliro Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Kufiro Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Koko Region - hot dry desert
+       Cultures: 1
+         The Nusi People
+                 Monarchy - rule by single bloodline
+                 There is no trade, authorities own all property.
+                 Diet: Sorghum
+                 Religion: Philosophical
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Amiveyoso Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Noyero Region - hot dry desert
+       Cultures: 1
+         The Vegopowo People
+                 Despotism - rule by one, the ruler has slaves
+                 There is no trade, authorities own all property.
+                 Diet: Sorghum, game meat such as deer or elk, goat
+                 Religion: Animism
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+     Jabo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Ribira
+Area (km): 14413978
+Regions: 
+     Wilojaxe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Neralekoma Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Camiwa
+Area (km): 4704348
+Regions: 
+     Dedogibe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Setowine Region - hot semiarid desert
+       Cultures: 1
+         The Wizowove People
+                 Kleptocracy - rule by thieves
+                 There is no trade, property is collectively owned.
+                 Diet: Cassava, cattle, fish
+                 Religion: Dualism
+                   Nononisiyo, Antagonistic deity, Desire, Intelligence, Death, Desert, Moon
+                   Ruwo, Forgiving deity, Hatred, Strength, Life, Forest, Sun
+                 Magic: Magic is used by very few.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+
+-----------------------------
+The land of Panecapuye
+Area (km): 3501285
+Regions: 
+     Wimico Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Reto
+Area (km): 3080090
+Regions: 
+     Kolalexe Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Cuse Region - hot steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Solidi Region - hot forest
+       Cultures: 1
+         The Wiye People
+                 Kritarchy - rule by legal judges
+                 Trade is done through barter.
+                 Diet: Cassava, cattle
+                 Religion: Monotheism
+                   Murasacoxo, Forgiving deity, Fighting, Night, Death, Intelligence, Mind, Creation
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: worship
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: discomfort
+
+

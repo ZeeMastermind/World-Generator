@@ -1,0 +1,1727 @@
+-----Docihile world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+     In some places, Magic is used by many, but not all.
+The source of magic is nature.
+Around magic, people react with admiration.
+     In some places, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+Technology is similar to how it is on earth. However, some have built technology powered by magic.
+Around technology, people react with indifference.
+     In some places, people react with awe.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 10 degrees Celsius. It is cold.
+The world has an extremely high amount of life, and all ground is covered with vegetation.
+The world is 81% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 3 continents.
+-----------------------------
+The land of Luzovuxitu
+Area (km): 80228750
+Regions: 
+     Lire Region - jungle
+       Cultures: 4
+         The Qidihihagu People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: rice, buffalo
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Jojolu People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Gupa People
+          Corporatocracy - rule by corporations
+          There is no trade, property is collectively owned.
+          Diet: cassava, fish, fish
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Verari People
+          Plutocracy - rule by rich
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, pig, goat
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Onuvoxu Region - cold semiarid desert
+       Cultures: 4
+         The Vicugelu People
+          Kleptocracy - rule by thieves
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects, cattle
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+         The Jipuhala People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: rice
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Nenocamixe People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: corn, pig, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Utedizi, Mysterious deity, Truth, War, Weaving, Magic
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Juge People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: rice, buffalo, goat, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Oyuletu Region - hot jungle
+       Cultures: 2
+         The Jidebo People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, authorities own all property.
+          Diet: corn, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Lanoxaqori People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, chicken, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Naqa Region - hot steppe
+       Cultures: 2
+         The Yawacini People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, monstrous meat such as dragons or griffins, sheep, sheep
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Uzo People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, buffalo, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Rahacodoya Region - hot jungle without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 4
+         The Tuxi People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: corn, fish, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Liwu, Judgemental deity, Hatred, Hatred
+            Gepuxedazi, Meddling deity, Insanity, Angels
+            Pujuwe, Punishing deity, Night, Judgement, Moon, Life, Stars
+            Vicugelu, Judgemental deity, Secrets, Night, Disaster, Metalworking
+            Gunedu, Obscure deity, Love
+            Bedumuru, Antagonistic deity, Writing, Hatred, Magic
+            Yoyuruja, Judgemental deity, Peace, Beauty, Insanity, Painting, Desire, Home
+            Lobo, Antagonistic deity, Judgement, Demons, Harvest, Demons, Sea, Harvest
+            Oyajemozu, Forgiving deity, Night, Writing, Trickery
+            Mobewe, Antagonistic deity, Sea, Demons
+            Wexu, Antagonistic deity, Ice
+            Ribohu, Forgiving deity, Insanity, Civilization, Painting, Night, Antimagic, Judgement
+            Gubiqe, Uncaring deity, Destruction, Law
+            Eno, Antagonistic deity, Fire, Home, Fire, Wilderness
+            Xuyotaziji, Obscure deity, Disaster
+            Nejodo, Antagonistic deity, Sun
+            Tera, Uncaring deity, Metalworking, Luck, Ice, Afterlife, Sun
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Renije People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: yams, fish, goat
+          Religion: Monotheism
+            Qogotapire, Obscure deity, Peace, Harvest, Antimagic
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Vijotajubi People
+          Ochlocracy - mob rule
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, goat, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Puqe, Uncaring deity, Harvest
+            Bowogaye, Forgiving deity, Fighting, Trickery, War, Hatred
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Qihoxi People
+          Kritarchy - rule by legal judges
+          This is no concept of trade, but gifts are given.
+          Diet: corn
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+
+     Rogogowa Region - cold forest
+       Cultures: 1
+         The Popacixi People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, sheep, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Nezixu Region - hot steppe
+       Cultures: 3
+         The Eye People
+          Magrocracy - rule by magic
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, fish, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Xiwo People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: rice, monstrous meat such as dragons or griffins, fish
+          Religion: Dualism
+            Jiji, Uncaring deity, Civilization, Magic, Love, Home, Disaster, Civilization
+            Wuxaheyoxi, Judgemental deity, Wilderness, Antimagic, Family, Travel, Beauty, Wilderness
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Jiluguhezi People
+          Technocracy - rule by education
+          There is no trade, authorities own all property.
+          Diet: soybeans, fish, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Guzexagoja Region - jungle
+       Cultures: 3
+         The Moxopaci People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: rice, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Dawolipupo, Antagonistic deity, Mind, Creation, Fire, Stars
+            Riyujuze, Judgemental deity, Sky, Fire, Peace
+            Naqowuza, Uncaring deity, Secrets, Hatred, Sky, Judgement, Disaster, Insanity
+            Topa, Judgemental deity, Intelligence, Sea, Love
+            Hujoyani, Obscure deity, Desert, Beauty, Luck
+            Elaja, Meddling deity, Angels, Secrets
+            Pajequ, Uncaring deity, Secrets, Chaos
+            Pomizu, Forgiving deity, Moon, Secrets, Sun
+            Noloxahe, Judgemental deity, Mind, Wilderness
+            Qatutijaci, Judgemental deity, Sky, Stars, Chaos
+            Etore, Uncaring deity, Land, Destruction, Insanity, Metalworking, Death
+            Zudada, Uncaring deity, Forest, Harvest, Chaos
+            Qaye, Mysterious deity, Beauty
+            Gihujaza, Judgemental deity, Insanity, Law, Metalworking, Desert
+            Ugego, Meddling deity, Insanity
+            Gawitiwuwo, Meddling deity, Insanity, Peace, Travel, Home
+            Nepihozare, Uncaring deity, Night, Judgement, Fighting, Truth, Law
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Ximaxi People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: corn, cattle, buffalo, pig
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Xinocuyaza People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, pig, monstrous meat such as dragons or griffins, pig
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Xuweju Region - cold semiarid desert
+       Cultures: 4
+         The Repoveli People
+          Timocracy - rule by honor
+          Trade is done through barter.
+          Diet: wheat, pig, monstrous meat such as dragons or griffins, pig
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Jecegawe People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: cassava, fish
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Cowi People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: plantains, game meat such as deer or elk, pig
+          Religion: Monotheism
+            Eyeyiza, Mysterious deity, Sea, Travel, Desire
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Hatodi People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: plantains, chicken
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Hatuleje Region - jungle
+       Cultures: 4
+         The Hijupa People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, cattle, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Yuru, Punishing deity, Life, Home, Beauty
+            Yogogi, Punishing deity, Protection
+            Dolihu, Antagonistic deity, Fire, Judgement, Sun, Night
+            Yewomibequ, Meddling deity, Luck, Home
+            Yogenuhege, Punishing deity, Death
+            Lomeroxa, Punishing deity, Demons, Secrets
+            Wipupe, Forgiving deity, Law, Plague, Death, Love, Destiny
+            Xuze, Punishing deity, Antimagic, Fire, Weaving, Peace, Moon, Intelligence
+            Igo, Antagonistic deity, Desire, Plague, Fighting, Intelligence, Chaos, Afterlife
+            Ayepuricu, Forgiving deity, Writing
+            Edi, Antagonistic deity, Travel
+            Noyu, Mysterious deity, Ice
+            Vuneho, Meddling deity, Writing, Mind, Forest, Forest
+            Jipuhala, Uncaring deity, Weaving, Secrets, Death, Travel, Destiny, Writing
+            Wili, Obscure deity, Ice
+            Lulegudoqu, Mysterious deity, Desire, Moon, Secrets, Destruction
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Patujobage People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, monstrous meat such as dragons or griffins, game meat such as deer or elk, pig
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Juyaxu People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: wheat, chicken, sheep, sheep
+          Religion: Dualism
+            Juyomexi, Punishing deity, Harvest
+            Ite, Obscure deity, Plague
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Qozute People
+          Theocracy - rule by religion
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, uncommon meat such as lizards or insects, cattle
+          Religion: Dualism
+            Mequjolo, Antagonistic deity, Night, Creation, Painting
+            Puloqoxi, Uncaring deity, Day, Destruction, Writing
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Joxedoji Region - cold jungle
+       Cultures: 3
+         The Xamagi People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: corn, chicken, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Ijomu, Punishing deity, Law, Land, Judgement, Secrets, Creation, Destruction
+            Yopo, Forgiving deity, Chaos, Sea, Trickery, Truth, Destruction, Creation
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Piliwano People
+          Military Dictatorship - rule by military
+          There is no trade, property is collectively owned.
+          Diet: rice, cattle, goat, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Qogotapire People
+          Corporatocracy - rule by corporations
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum
+          Religion: Dualism
+            Bowogaye, Uncaring deity, Family, Luck, Land, Demons
+            Zunije, Antagonistic deity, Love, Destiny, Sea, Angels
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Vixagi Region - coastal desert
+       Cultures: 4
+         The Tuxi People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, sheep
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Cociweyi People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: potatoes, chicken, cattle
+          Religion: Polytheism
+            Hijolocohe, Punishing deity, Ice
+            Rowara, Uncaring deity, Family, Hatred, Plague, Sun, Harvest, Life
+            Rawagibapo, Meddling deity, Love, Desert, Creation
+            Uzejejotu, Judgemental deity, Day, Home, War, Protection, Protection
+            Qihoxi, Uncaring deity, Travel
+            Gana, Judgemental deity, Truth, Beauty, Painting
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Pipu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: cassava, fish
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+         The Wuna People
+          Diarchy - rule by two bloodlines
+          There is no concept of property.
+          Diet: soybeans, chicken
+          Religion: Dualism
+            Tige, Uncaring deity, Life, Sky, Law, Fire
+            Hojaciniwe, Uncaring deity, Death, Stars, Chaos, Ice
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Olihale Region - cold jungle
+       Cultures: 3
+         The Yezoraroga People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, pig, chicken, chicken
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Dohawe People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: cassava, cattle, cattle, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Zowapuwu, Antagonistic deity, Afterlife, Creation, Life, Stars, Plague
+            Nepuhu, Forgiving deity, Night, Peace, Civilization
+            Jabazu, Antagonistic deity, Civilization, Destiny, Insanity, Secrets, Wilderness
+            Nozego, Obscure deity, Sea, Land, Insanity, Sky, Disaster, Law
+            Joyoyoto, Antagonistic deity, Secrets, Intelligence
+            Lutawozota, Antagonistic deity, Wilderness, Sea, Judgement, Hatred, Afterlife, Weaving
+            Totepaboga, Judgemental deity, Luck, Magic, Intelligence, Destruction
+            Tacu, Obscure deity, Ice
+            Upo, Mysterious deity, Travel, Insanity
+            Dazade, Forgiving deity, Trickery, Sun, Antimagic
+            Lunagepire, Uncaring deity, Moon, Mind, Plague, Fire
+            Zipupo, Punishing deity, Strength, Protection, Land
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Hapaqibo People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: soybeans, game meat such as deer or elk
+          Religion: Polytheism
+            Bopegixu, Forgiving deity, Writing, Truth, Day, Sun
+            Hajedowu, Mysterious deity, Stars, Trickery, Antimagic, Judgement
+            Nogimexewa, Mysterious deity, Weaving, Fire, Destruction
+            Wigi, Forgiving deity, Night
+            Avetupigi, Punishing deity, Life
+            Bipe, Forgiving deity, Protection
+            Gugi, Mysterious deity, Insanity, Hatred, Antimagic, Destiny
+            Poyulorali, Antagonistic deity, Intelligence, Luck, Ice, Plague, War, Strength
+            Xubagubexo, Punishing deity, Secrets, Strength, Desire, Trickery
+            Comeha, Uncaring deity, Harvest, Desert, Sky, Truth
+            Boya, Judgemental deity, Ice, Disaster, Life, Beauty
+            Wuyexe, Forgiving deity, Stars
+            Tewi, Mysterious deity, Land, War, Ice, Destiny, Painting
+            Xebiwilona, Punishing deity, Truth, Day, Trickery
+            Nirehovo, Judgemental deity, Strength, Law, Chaos, Metalworking
+            Guqige, Meddling deity, War
+            Lunagepire, Uncaring deity, Weaving, Death, Harvest, Moon
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Puqalopiya Region - hot jungle
+       Cultures: 1
+         The Yogogi People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: soybeans, cattle, fish, pig
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Lazeji Region - jungle
+       Cultures: 1
+         The Tizaze People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: rice, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Puzujuwoga Region - cold jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 3
+         The Homuxepezo People
+          Ergatocracy - rule by working class
+          There is no concept of property.
+          Diet: rice
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Gizaqaruni People
+          Monstrous tyranny - rule by monsters through force
+          There is no concept of property.
+          Diet: corn, fish
+          Religion: Monotheism
+            Wegoxi, Meddling deity, Trickery, Fighting, Desire, Plague
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Yiyixa People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: plantains, uncommon meat such as lizards or insects, fish, goat
+          Religion: Polytheism
+            Nugoxa, Judgemental deity, Love
+            Docihile, Antagonistic deity, Childbirth, Trickery, Forest, Insanity, Fire, Beauty
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Zicoduha Region - hot grassland
+       Cultures: 3
+         The Lade People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: sorghum, goat, uncommon meat such as lizards or insects, goat
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Yoyuruja People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, chicken
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+         The Pejilawa People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: wheat, chicken
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Rapuja Region - hot steppe
+       Cultures: 4
+         The Verari People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: rice, pig, goat, cattle
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Vegi People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Xurepipaci People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: sorghum, game meat such as deer or elk, sheep
+          Religion: Monotheism
+            Jepejo, Forgiving deity, Hatred, Destruction, Love, Forest, Truth
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Qihoxi People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: plantains, cattle, uncommon meat such as lizards or insects, goat
+          Religion: Polytheism
+            Lewuqojari, Meddling deity, Truth, Destiny
+            Damoji, Uncaring deity, Moon, Beauty, Home, Destruction
+            Enagibu, Punishing deity, Home, Desert
+            Purawijo, Forgiving deity, Strength, Intelligence, Destruction
+            Muge, Punishing deity, Painting, Sun, Luck, Afterlife, Disaster, Night
+            Liwu, Uncaring deity, Truth, Family, Moon, Fire, Truth
+            Tidoyihuje, Meddling deity, Trickery, Ice, Night
+            Neli, Mysterious deity, Angels, Afterlife, Mind, Writing, Trickery
+            Gorizaloge, Punishing deity, Moon, Sun, Judgement, Sea, Judgement, Life
+            Pigoqi, Obscure deity, Luck, Harvest, Family
+            Pejohu, Mysterious deity, Night, Fighting, Harvest, Land, Afterlife, Sea
+            Litacutege, Uncaring deity, Plague
+            Lazeji, Meddling deity, Peace, Intelligence, Truth, War
+            Qogotapire, Forgiving deity, Desert, Metalworking, Forest, Strength
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Miyope Region - grassland with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Nixa People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, cattle
+          Religion: Monotheism
+            Jula, Mysterious deity, War, Death, Strength, Family
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Cupowo Region - hot jungle
+       Cultures: 4
+         The Docihile People
+          Corporatocracy - rule by corporations
+          Trade is done through barter.
+          Diet: sweet potatoes, pig
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Dagamejogo People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, buffalo, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Negarazazi People
+          Ergatocracy - rule by working class
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, goat
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Hixi People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: soybeans, game meat such as deer or elk, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Yezoraroga Region - forest with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 4
+         The Lovi People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: soybeans, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Jawuvewahe People
+          Ergatocracy - rule by working class
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, fish, buffalo
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Netuqipaqa People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: corn, buffalo, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Tudi, Meddling deity, Fire, Home
+            Jazulu, Forgiving deity, Ice, Travel
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Potepayo People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: cassava, sheep
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Yopo Region - cold jungle
+       Cultures: 1
+         The Juyaxu People
+          Corporatocracy - rule by corporations
+          There is no trade, property is collectively owned.
+          Diet: wheat, goat, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Hupilo Region - forest
+       Cultures: 3
+         The Gozujamoxi People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: potatoes, goat
+          Religion: Polytheism
+            Vijotajubi, Meddling deity, Sky
+            Joyoyoto, Antagonistic deity, Protection, Writing, Sun, Life, Judgement
+            Hawuni, Mysterious deity, Love, Land, Desire, Magic
+            Hapu, Meddling deity, Moon, Civilization, Sun, Moon
+            Lowexivexe, Mysterious deity, Mind, Destruction, Judgement, Land, Land, Law
+            Damoji, Punishing deity, Judgement, Secrets, Ice, Childbirth, Disaster, Weaving
+            Tera, Antagonistic deity, Sea, Childbirth, Judgement, Chaos
+            Purawijo, Mysterious deity, Death, Plague, Judgement, Intelligence, Family, Sky
+            Nujavuxa, Punishing deity, Sun
+            Ojo, Forgiving deity, Wilderness
+            Jaro, Mysterious deity, Childbirth, Destiny, Sky, Death, Judgement
+            Lole, Punishing deity, Life, Demons, Magic, Moon
+            Taqahi, Punishing deity, Forest, Protection, Stars, Childbirth, Metalworking, Sun
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Juxoyudi People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Gayo People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Damoji Region - cold steppe
+       Cultures: 4
+         The Jaqi People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: yams, cattle, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Nezevi, Judgemental deity, Truth, Sky, Home
+            Polunuxo, Forgiving deity, Peace
+            Jelaqi, Antagonistic deity, Chaos, Demons, Land, Afterlife, Plague
+            Wezuza, Judgemental deity, Law, Peace
+            Lexemu, Punishing deity, Intelligence
+            Lewuqojari, Mysterious deity, Harvest, Secrets
+            Ligozemimi, Forgiving deity, Angels, Sky, Harvest, War
+            Vugujabe, Forgiving deity, Home, Life
+            Debawaro, Antagonistic deity, Trickery, Mind, Forest, Writing, Home
+            Alehoniqe, Forgiving deity, Childbirth, Death
+            Abixu, Obscure deity, Antimagic
+            Patujobage, Meddling deity, Civilization, Truth
+            Cutoxogiti, Uncaring deity, Strength, Day, Writing
+            Jala, Forgiving deity, Disaster, Judgement, Fire, Love, Peace, Travel
+            Tera, Antagonistic deity, Secrets, Hatred, Secrets
+            Cebulipedi, Punishing deity, Childbirth, Sea, Insanity
+            Wuwa, Antagonistic deity, Trickery, Travel, Writing
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Guqige People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: rice, game meat such as deer or elk, pig, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Jopawu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done through barter.
+          Diet: plantains, sheep, goat, pig
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+         The Camezenipo People
+          Kratocracy - rule by strength
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Jexugejija Region - hot steppe
+       Cultures: 2
+         The Vugujabe People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: soybeans, pig
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+         The Uga People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Riyujuze Region - hot jungle
+       Cultures: 3
+         The Yopo People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: plantains
+          Religion: Monotheism
+            Zuhepa, Uncaring deity, Disaster, Destruction, Metalworking
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Puqe People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: yams, fish
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Maca People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: yams, goat, chicken, buffalo
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Xalalami Region - grassland with floating islands
+       Cultures: 4
+         The Puqalopiya People
+          Military Dictatorship - rule by military
+          There is no concept of property.
+          Diet: soybeans, buffalo
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Vewe People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, uncommon meat such as lizards or insects, buffalo
+          Religion: Polytheism
+            Hejojo, Forgiving deity, Insanity, Sky, Plague, Night, Truth
+            Etore, Antagonistic deity, Trickery, Death, Creation, Forest, Sea
+            Zinari, Antagonistic deity, Civilization, Forest, Creation
+            Pabaxoxegi, Antagonistic deity, Stars
+            Nejodo, Judgemental deity, Weaving, Wilderness, Fire, Afterlife, Writing, Mind
+            Goliyegi, Mysterious deity, Moon, Beauty
+            Helipinepi, Mysterious deity, Desert, Truth, Death, Antimagic, Destruction
+            Patujobage, Uncaring deity, Stars
+            Qawo, Antagonistic deity, Family, Law, Intelligence
+            Qidihihagu, Obscure deity, Law, Trickery
+            Gicurize, Obscure deity, Truth, War
+            Gaxovegayo, Mysterious deity, Creation, Weaving
+            Mocuyela, Antagonistic deity, Destiny, Life
+            Xuyotaziji, Punishing deity, Antimagic
+            Mobewe, Punishing deity, Creation, Antimagic, Magic, Disaster, Protection
+            Liyoxita, Forgiving deity, Land, Fire, Trickery, Stars, Magic
+            Bohaguti, Antagonistic deity, Hatred, Trickery
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Pejohu People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, authorities own all property.
+          Diet: wheat, chicken
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Renugela People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Uwuhedoha Region - cold jungle
+       Cultures: 2
+         The Neja People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: plantains, buffalo, chicken
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+         The Wudixa People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, pig
+          Religion: Monotheism
+            Yewetolaju, Mysterious deity, Fighting, Magic
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Netuqipaqa Region - hot steppe
+       Cultures: 3
+         The Liwu People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, fish, fish, chicken
+          Religion: Dualism
+            Labecaqage, Obscure deity, Land, Family
+            Nugo, Antagonistic deity, Sea, Love
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+         The Wozuno People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: rice, game meat such as deer or elk, cattle
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Najoxa People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, fish, pig, buffalo
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Ligidigi Region - hot forest with a wetland
+       Cultures: 2
+         The Juyomexi People
+          Kleptocracy - rule by thieves
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes
+          Religion: Polytheism
+            Zuravo, Judgemental deity, Harvest, Law, Childbirth, Stars, Destruction, Civilization
+            Wilo, Meddling deity, War, Travel, Truth, Life, Forest, Mind
+            Gowetobe, Punishing deity, Secrets, Beauty, Painting, Sea, Truth, Harvest
+            Hagivaqego, Meddling deity, Secrets, Disaster, Land, Sun
+            Utedizi, Forgiving deity, Protection, Judgement
+            Lulegudoqu, Uncaring deity, Fighting
+            Jevahajiwi, Antagonistic deity, Sun, Home, Night, Civilization
+            Renije, Meddling deity, Destruction, Day, Secrets
+            Pirigo, Obscure deity, Desert, Peace
+            Gepecetuju, Meddling deity, Forest, Love, Ice, Desire, Antimagic, Life
+            Pajaxota, Uncaring deity, War
+            Reyelozo, Punishing deity, Truth, Metalworking
+            Tigaqozu, Antagonistic deity, Judgement, Home, Chaos, Destruction, Disaster, Hatred
+            Gogo, Meddling deity, Sun, Angels
+            Dapilerabo, Uncaring deity, Magic, Angels, Angels, Sky, Antimagic, Moon
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Qidihihagu People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: plantains, fish, buffalo, sheep
+          Religion: Dualism
+            Egatu, Uncaring deity, Sea, Hatred, Metalworking, Metalworking, Metalworking, Hatred
+            Owogopivo, Judgemental deity, Land, Desire, Weaving, Weaving, Weaving, Desire
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Jucije Region - hot jungle
+       Cultures: 1
+         The Wexojuhome People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, chicken
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Pelule Region - hot jungle
+       Cultures: 1
+         The Gepuxedazi People
+          Aristocracy - rule by several bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: rice, sheep, cattle
+          Religion: Dualism
+            Vowojiwe, Forgiving deity, Disaster, Law
+            Yivujija, Uncaring deity, Beauty, Chaos
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Hexicuhapo Region - cold jungle
+       Cultures: 1
+         The Xowo People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: rice, buffalo
+          Religion: Polytheism
+            Xiwo, Forgiving deity, Forest, Hatred, Protection, Sun
+            Goxaja, Obscure deity, Luck, Disaster, Painting, Painting, Stars, Insanity
+            Tudi, Antagonistic deity, Plague, Family
+            Weciyoga, Obscure deity, Sun, Sea, Writing, Moon, Desert
+            Riloqeci, Forgiving deity, Stars, Harvest, Magic, Home, Insanity, Night
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Yelogunezu Region - cold jungle
+       Cultures: 1
+         The Wolabeqexa People
+          Technocracy - rule by education
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, monstrous meat such as dragons or griffins, cattle
+          Religion: Polytheism
+            Xurepipaci, Obscure deity, Hatred, Land, Weaving
+            Gerigami, Forgiving deity, Family, Sun
+            Wili, Mysterious deity, Sea, Stars, Angels, Land
+            Ewa, Punishing deity, Insanity
+            Itoveme, Uncaring deity, Death, Truth, Life, Destiny
+            Vicugelu, Meddling deity, Childbirth, Hatred, Day
+            Borogije, Mysterious deity, Intelligence, Disaster, Stars, Weaving, Desire, Weaving
+            Xaje, Uncaring deity, Fighting, Forest, Stars, Sea, Demons
+            Pubuganawo, Obscure deity, Family
+            Tewuzelavu, Antagonistic deity, Land, Life, Metalworking
+            Nacena, Meddling deity, Travel
+            Pogeraji, Judgemental deity, Fire
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Xoza Region - hot jungle
+       Cultures: 2
+         The Awuluxoga People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, pig, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Nugoxa People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, game meat such as deer or elk, game meat such as deer or elk, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Pupojopi Region - dry desert
+       Cultures: 2
+         The Jetijuzuwo People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, chicken, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Gohepilixo People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: yams
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Hixi Region - jungle with living, growing rocks and crystals
+       Cultures: 4
+         The Xamagi People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: sorghum
+          Religion: Dualism
+            Dapuju, Obscure deity, Protection, Land, Land, Judgement, Day
+            Xugebo, Antagonistic deity, Fighting, Sea, Sea, Trickery, Night
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: awe
+
+         The Huquraro People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Puloqoxi People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: wheat, game meat such as deer or elk, goat
+          Religion: Totemism
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Eti People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, pig, sheep
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Hejojo Region - cold steppe with floating islands
+       Cultures: 1
+         The Woxaxuxe People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, fish, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Eyejilohu, Obscure deity, Angels
+            Yoditayu, Mysterious deity, Demons
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Ewa Region - hot semiarid desert
+       Cultures: 1
+         The Guluxozace People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: soybeans
+          Religion: Animism
+          Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Cabacitida Region - hot grassland with an undead infestation
+       Cultures: 1
+         The Poqiwu People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: cassava, goat
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Hixi Region - hot jungle
+       Cultures: 3
+         The Wutizu People
+          Plutocracy - rule by rich
+          There is no trade, property is collectively owned.
+          Diet: rice, pig, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Yezoraroga, Punishing deity, Travel, Fighting, Civilization, Chaos, Truth, Creation
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Qawo People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done through barter.
+          Diet: soybeans, game meat such as deer or elk, chicken
+          Religion: Dualism
+            Xerogeboha, Meddling deity, Fighting, Intelligence
+            Gibe, Uncaring deity, Protection, Strength
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Upo People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, uncommon meat such as lizards or insects, chicken, sheep
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Wuxugoxe Region - hot jungle
+       Cultures: 1
+         The Ducomuxe People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: sorghum
+          Religion: Monotheism
+            Roparili, Judgemental deity, Mind
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Dawolipupo Region - semiarid desert
+       Cultures: 4
+         The Xoza People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: soybeans, cattle, fish, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Goragonucu People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: plantains
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Ugego People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, sheep, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Puvevutiqu People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, sheep, fish, buffalo
+          Religion: Philosophical
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+
+-----------------------------
+The land of Nepuhu
+Area (km): 4614900
+Regions: 
+     Liwu Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 2
+         The Hijupa People
+          Autocracy - rule by one, the ruler has servants
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Zowapuwu People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, sheep, fish
+          Religion: Monotheism
+            Vaweha, Judgemental deity, Peace, Protection, Fighting, Protection, Night, Stars
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Cutoxogiti Region - jungle
+       Cultures: 3
+         The Joyoyoto People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, chicken, game meat such as deer or elk, chicken
+          Religion: Polytheism
+            Xuqo, Punishing deity, Desire
+            Zadeti, Uncaring deity, Hatred, Childbirth, Night, Ice, Luck, Insanity
+            Juzepi, Forgiving deity, Peace
+            Xolirezu, Mysterious deity, Demons, Angels, Ice, Law
+            Bunacuruhi, Obscure deity, Chaos, Life, Home, Insanity, Demons, Demons
+            Rowara, Punishing deity, Stars
+            Pazi, Punishing deity, Hatred, Secrets, Weaving, Peace, Wilderness
+            Apoyuziju, Forgiving deity, Ice
+            Jula, Punishing deity, Intelligence, Truth, Forest
+            Jiji, Uncaring deity, Creation, Desire, Strength, Moon, Secrets, Painting
+            Huquraro, Uncaring deity, Demons, Harvest
+            Xoyepi, Obscure deity, Harvest, Sun
+            Coxuzi, Judgemental deity, Intelligence, Destiny, Day, Painting
+            Vuji, Antagonistic deity, Writing, Antimagic, Wilderness
+            Ruwiyalixa, Forgiving deity, Ice, Destruction, Luck, Night
+            Noyu, Punishing deity, Metalworking, Sky, Fire
+            Topa, Mysterious deity, Antimagic, Fighting, Antimagic, Law
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Gigepemawu People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, pig, cattle
+          Religion: Polytheism
+            Ejiyi, Obscure deity, Peace, Ice, Strength, Fire
+            Yewetolaju, Uncaring deity, Weaving, Angels, Mind, Destruction, Fighting
+            Anu, Uncaring deity, Destruction, War, War, Day, Civilization, Protection
+            Wolabeqexa, Antagonistic deity, Fighting, Metalworking, Death
+            Aja, Obscure deity, Harvest, Trickery, Land
+            Ilayahi, Antagonistic deity, Law, Hatred, Law, Harvest, Night, Desert
+            Poyulorali, Obscure deity, War, Stars, Judgement, Afterlife, Land, Childbirth
+            Hozume, Meddling deity, Demons, Sea, Hatred
+            Ilavajuyo, Obscure deity, Ice, Judgement
+            Owazani, Antagonistic deity, Secrets
+            Noloxahe, Antagonistic deity, Painting, Hatred
+            Bopegixu, Antagonistic deity, Forest, Love, Destiny
+            Ulinuxugo, Antagonistic deity, Magic
+            Gepecetuju, Punishing deity, Beauty
+            Vevu, Obscure deity, Forest, Childbirth
+            Puruxopu, Meddling deity, Demons, Metalworking, Antimagic, Chaos, Writing
+            Liyelego, Uncaring deity, Travel, Civilization, Mind
+            Xuqijece, Uncaring deity, Life, Beauty, Disaster, Plague
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Potepayo People
+          Monstrous tyranny - rule by monsters through force
+          There is no concept of property.
+          Diet: potatoes, chicken, sheep
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Jazixo Region - cold jungle with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Gihe People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: rice, goat
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+
+-----------------------------
+The land of Tajijeca
+Area (km): 10156350
+Regions: 
+     Jebano Region - coastal desert
+       Cultures: 3
+         The Jiluguhezi People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Pipu People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, pig, buffalo, sheep
+          Religion: Monotheism
+            Gerigami, Mysterious deity, Night, Luck, Harvest, Life, Life, Hatred
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Bipapayu People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, chicken, chicken
+          Religion: Monotheism
+            Nowane, Uncaring deity, Harvest, Love, Plague, Family, Home, Metalworking
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Etexuhaya Region - hot jungle
+       Cultures: 2
+         The Egudalu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: rice, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Litacutege People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, pig
+          Religion: Dualism
+            Wexu, Forgiving deity, Antimagic, Painting, Mind
+            Popacixi, Obscure deity, Magic, Writing, Insanity
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Rotuqayuwi Region - cold forest
+       Cultures: 3
+         The Xuqo People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: potatoes, fish, sheep, buffalo
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Papinago People
+          Corporatocracy - rule by corporations
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, goat, chicken, buffalo
+          Religion: Polytheism
+            Docihile, Meddling deity, Fire, Painting, Mind, Chaos, Destiny
+            Pihamupo, Punishing deity, Sea, Travel, Childbirth, Desert
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Piliwano People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: yams, sheep, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Macavimuje Region - hot jungle
+       Cultures: 4
+         The Zoguzopihu People
+          Corporatocracy - rule by corporations
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Ojo People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: yams, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects, buffalo
+          Religion: Dualism
+            Jala, Meddling deity, Beauty, Trickery, Disaster
+            Yagegayopo, Mysterious deity, Disaster, Judgement, Beauty
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Buhe People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Nigarage People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, cattle, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Monotheism
+            Repegimu, Punishing deity, Writing, Travel, Plague, Life
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+

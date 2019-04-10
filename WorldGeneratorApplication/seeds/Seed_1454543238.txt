@@ -1,0 +1,662 @@
+-----Yalesi world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+     In some places, Magic is used by some, and people know of it.
+The source of magic is nature.
+Around magic, people react with admiration.
+     In some places, people react with worship.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+Technology is similar to how it is on earth. However, some have built technology powered by magic.
+Around technology, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 10 degrees Celsius. It is cold.
+The world has low amount of life, which is hard to find.
+The world is 59% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Toko
+Area (km): 175875568
+Regions: 
+     Timefino Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yayo Region - forest
+       Cultures: There are no cultures in this area.
+
+     Muyikano Region - cold dry desert
+       Cultures: 2
+         The Fufa People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: potatoes, game meat such as deer or elk, pig, fish
+          Religion: Dualism
+            Ikeza, Meddling deity, Plague, Wilderness, Day, Strength
+            Nutifulufi, Punishing deity, Harvest, Civilization, Night, Intelligence
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Ramofoju People
+          Magrocracy - rule by magic
+          Trade is done through barter.
+          Diet: potatoes, buffalo, chicken, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Wetifeyeji, Uncaring deity, Family, War
+            Yutojoti, Forgiving deity, Love, Peace
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Joqokifata Region - cold dry desert
+       Cultures: 1
+         The Lutoyo People
+          Bankocracy - rule by banks
+          There is no concept of property.
+          Diet: corn, game meat such as deer or elk, sheep, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Naxixufa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Oti Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Qimoyeki Region - grassland
+       Cultures: 2
+         The Melayecine People
+          Anarchy - no enforced rule
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, sheep, pig, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Eveqabu, Punishing deity, Beauty, Harvest, Desire
+            Akiyilolo, Antagonistic deity, Harvest, Protection, War, Protection, Luck, Day
+            Qimoyeki, Forgiving deity, Travel, Antimagic, Death, Protection, Wilderness
+            Yitoya, Mysterious deity, Chaos, Afterlife
+            Zosasiko, Uncaring deity, Truth, Painting
+            Hitomukepe, Obscure deity, Judgement, Love
+            Vutitiyiyi, Punishing deity, Home, Desire, Chaos, Law, Trickery
+            Tojitoya, Forgiving deity, Sun, Chaos, Sea, Destiny, Family
+            Pabu, Punishing deity, Insanity, Disaster
+            Qukikalotu, Uncaring deity, Travel, Sun, Fire
+            Taxakoxi, Forgiving deity, Life, Desert, Family, Magic
+            Meki, Forgiving deity, Childbirth, Death, Creation, Truth
+            Keve, Obscure deity, Forest
+            Wesalici, Obscure deity, War, Angels, Magic, Painting
+            Zupuxovuta, Antagonistic deity, Luck, Family, Destiny
+            Yutiqelaco, Meddling deity, Childbirth, Forest, Peace, Protection, Writing
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Yizotopiha People
+          Corporatocracy - rule by corporations
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, goat, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Tukiqo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Yuyohiju Region - cold forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Tutehe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Wefeceyezu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jovi Region - semiarid desert
+       Cultures: 1
+         The Itoyesayi People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, monstrous meat such as dragons or griffins, pig
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Rova Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Hifu Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Fakifaka Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Kukoyaye Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Tikacakeyu Region - cold jungle with living, growing rocks and crystals
+       Cultures: 1
+         The Kote People
+          Geniocracy - rule by intelligence
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, cattle
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Noketo Region - dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The Tonivonaki People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: corn, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Yizoto People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, authorities own all property.
+          Diet: yams, monstrous meat such as dragons or griffins, game meat such as deer or elk, pig
+          Religion: Dualism
+            Wakoheca, Antagonistic deity, Luck, Forest, Sky, Land
+            Luyuye, Antagonistic deity, Destiny, Desert, Stars, Sea
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Xukoni Region - forest
+       Cultures: There are no cultures in this area.
+
+     Waci Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Yoyovatomi Region - cold grassland
+       Cultures: 2
+         The Alunowezi People
+          Diarchy - rule by two bloodlines
+          There is no trade, property is collectively owned.
+          Diet: corn, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Zucemuzo People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Koyojo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Taka Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The Kuke People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: soybeans, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Kuyayi Region - dry desert
+       Cultures: 1
+         The Tahi People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, goat, pig, goat
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Melayecine Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Luyuye Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Baku Region - cold dry desert
+       Cultures: 1
+         The Fitu People
+          Ochlocracy - mob rule
+          There is no trade, authorities own all property.
+          Diet: cassava, fish, buffalo
+          Religion: Monotheism
+            Keyako, Mysterious deity, Weaving, Secrets, Moon, Angels
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Time Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Utuvisaju Region - cold jungle
+       Cultures: 1
+         The Xulukukuha People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, game meat such as deer or elk, chicken, sheep
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Mubajaku Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Vuzomeyi Region - dry desert
+       Cultures: 1
+         The Kijaya People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, authorities own all property.
+          Diet: corn, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects, fish
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Kucaki Region - cold coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Kiyikuzike People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, pig
+          Religion: Polytheism
+            Vuraji, Mysterious deity, Home, Truth
+            Fusuziyi, Antagonistic deity, Afterlife, Family, Painting
+            Vahetiyura, Mysterious deity, Judgement, Stars, Painting, Plague
+            Saki, Mysterious deity, Insanity, Home, Day
+            Kitabikaqe, Uncaring deity, Fighting, Destiny, War, Metalworking, Harvest, Judgement
+            Koyoyefu, Forgiving deity, Family, Fighting, Life
+            Yacuxukoke, Obscure deity, Beauty
+            Kiyotoha, Uncaring deity, Protection, Stars
+            Soyiquyoku, Punishing deity, Day
+            Fotihazu, Judgemental deity, Antimagic
+            Jizapu, Obscure deity, Wilderness, Desert, Demons, Wilderness, War, Life
+            Ixexujafi, Antagonistic deity, Weaving, Moon, Chaos, Law, Sea
+            Tite, Meddling deity, Love, Wilderness, Destiny, Desert, Chaos
+            Yuta, Meddling deity, Metalworking, Fighting
+            Kikubito, Judgemental deity, Antimagic, Insanity, Family, Desert
+            Yovafexi, Punishing deity, Civilization
+            Keco, Obscure deity, Desert, Creation, Creation, Disaster, Truth
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Yeva People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, cattle
+          Religion: Monotheism
+            Yocukazini, Uncaring deity, Ice, Weaving, Childbirth, Chaos, Demons
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+     Vayayayete Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Safe Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Yutojoti Region - hot dry desert
+       Cultures: 2
+         The Fokeyite People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Wesalici People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, cattle, buffalo
+          Religion: Polytheism
+            Xahecuquba, Mysterious deity, Peace
+            Kuyoyo, Forgiving deity, Fire, Plague, Insanity, Peace, War
+            Tabotokoya, Forgiving deity, War, Beauty, War
+            Yutiqelaco, Mysterious deity, Love, Fighting
+            Ukeyi, Forgiving deity, Desert, Insanity, Protection, Wilderness, Afterlife
+            Tutehe, Punishing deity, Antimagic, Forest, Weaving, Strength, Travel, Forest
+            Nuneyavoza, Obscure deity, Truth, Civilization
+            Kesona, Judgemental deity, Insanity, Mind
+            Yetayikake, Meddling deity, Desert, Antimagic, Moon, Peace, Creation, Destruction
+            Ipatiki, Obscure deity, Judgement
+            Fitutivu, Meddling deity, Writing, Antimagic
+            Taka, Judgemental deity, Ice, Peace, Creation, Truth, Metalworking
+            Luyuye, Mysterious deity, Beauty, Protection, Wilderness, Civilization
+            Oti, Antagonistic deity, Harvest
+            Totiya, Mysterious deity, Luck, Destruction, Protection, Harvest, Angels, Childbirth
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Timefino Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Tuxetota Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jukunewaji Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Kayituyaka Region - cold steppe that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Tuxuqiyoye Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Hutatuyato
+Area (km): 9874561
+Regions: 
+     Tema Region - hot jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Teyiyexe Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Sobeyitozi Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Yuzikuki People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: potatoes, monstrous meat such as dragons or griffins, goat
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Yoyubuca People
+          Kleptocracy - rule by thieves
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, sheep, chicken
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Birakuto Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Xuselajo Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Jokitapi
+Area (km): 8886188
+Regions: 
+     Zatoyinutu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Uyikafa Region - hot grassland
+       Cultures: 2
+         The Poqo People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Dualism
+            Mekoto, Punishing deity, Afterlife, War, Travel
+            Yikaba, Antagonistic deity, Childbirth, Peace, Home
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Cucatu People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: sweet potatoes
+          Religion: Polytheism
+            Yizoketavo, Judgemental deity, Chaos, Night, Sky
+            Funa, Antagonistic deity, Desire, Writing, Disaster, Disaster
+            Yefepo, Judgemental deity, Stars
+            Boneleto, Forgiving deity, Childbirth, Sun, Stars, Love
+            Ubico, Punishing deity, Childbirth
+            Puco, Meddling deity, Weaving, Destiny, War
+            Hiwapu, Mysterious deity, Secrets, Wilderness, Sun, Creation
+            Mosipiheka, Mysterious deity, Metalworking
+            Verokosi, Meddling deity, Truth, Desire
+            Nakucikate, Punishing deity, Demons, Truth, Protection, Intelligence
+            Mosupi, Obscure deity, Intelligence, Disaster, Magic
+            Kukasosoyo, Uncaring deity, Trickery
+            Joxiroli, Uncaring deity, Day, Fire, Secrets, Insanity
+            Totiya, Obscure deity, Forest, Sky, Metalworking, Travel, Harvest, Childbirth
+            Suyi, Obscure deity, Insanity
+            Zuketa, Uncaring deity, Day, Forest, Family, Secrets
+            Oti, Uncaring deity, Moon, Plague
+            Yocukazini, Obscure deity, Sun, Destruction, Travel, Law, Ice, Writing
+            Obavu, Punishing deity, Harvest, Moon, War, Trickery
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Hebobe Region - hot semiarid desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Cimikuloto Region - jungle
+       Cultures: 1
+         The Lifu People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Kutehi Region - cold dry desert
+       Cultures: 1
+         The Qixetu People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: plantains, goat, monstrous meat such as dragons or griffins, pig
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Tesuyo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Yotutofowa Region - hot jungle
+       Cultures: 2
+         The Mowi People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: corn, chicken, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+         The Seziyovo People
+          Plutocracy - rule by rich
+          Trade is done through barter.
+          Diet: rice, monstrous meat such as dragons or griffins, game meat such as deer or elk, goat
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Rixo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Watajopo
+Area (km): 4982419
+Regions: 
+     Resiye Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Yivatopa Region - forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Yuyajeyo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Jixijatofu Region - dry desert
+       Cultures: 2
+         The Fitu People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: sorghum, fish, buffalo, goat
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Xowo People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: potatoes, pig, buffalo
+          Religion: Dualism
+            Yutuxi, Forgiving deity, War, Peace, Civilization, Chaos, Angels
+            Ramofoju, Obscure deity, Peace, War, Wilderness, Law, Demons
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+
+-----------------------------
+The land of Hutatuyato
+Area (km): 5381264
+Regions: 
+     Mosupi Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Jitika Region - dry desert
+       Cultures: 2
+         The Yecota People
+          Kleptocracy - rule by thieves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, buffalo, goat, goat
+          Religion: Dualism
+            Kemiza, Forgiving deity, Beauty, Childbirth, Night, Magic
+            Wexo, Antagonistic deity, Disaster, Afterlife, Day, Antimagic
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Lamijiriqa People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: corn, monstrous meat such as dragons or griffins, cattle, goat
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+
+     Kucarame Region - dry desert
+       Cultures: 2
+         The Puco People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: sweet potatoes, game meat such as deer or elk, sheep
+          Religion: Polytheism
+            Yivatopa, Mysterious deity, Plague
+            Qokeyixati, Antagonistic deity, Civilization
+            Tovekahu, Forgiving deity, Strength, Painting, Truth
+            Tukeyumuri, Mysterious deity, Destruction, Writing, Strength, Metalworking, Love, Travel
+            Coka, Meddling deity, Weaving, Antimagic, Destruction, Stars, Night
+            Kolo, Punishing deity, Night, Truth, Desire
+            Yeqi, Obscure deity, Wilderness, Civilization, Day, Weaving, Law
+            Veke, Uncaring deity, Creation, Beauty, Creation, Desert, Weaving, Plague
+            Vayi, Uncaring deity, Protection, War, Peace, Sun
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: hostility
+
+         The Retutukono People
+          Ergatocracy - rule by working class
+          There is no trade, property is collectively owned.
+          Diet: sorghum, fish, fish, fish
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: fear
+
+
+

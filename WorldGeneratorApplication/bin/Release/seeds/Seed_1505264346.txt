@@ -1,0 +1,817 @@
+-----Viyubu world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by many, but not all.
+     In some places, Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+     In some places, Magic is used by some, and people know of it.
+The source of magic is blood. However, some mages use memorized words of power and spells.
+Around magic, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is based upon discovered alien technology.
+Around technology, people react with worship.
+     In some places, people react with awe.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 1 degrees Celsius. It is extremely cold.
+The world has virtually no life, and few things survive.
+The world is 61% water.
+Large glaciers cover much of the world, growing each winter.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Hujibabama
+Area (km): 22825270
+Regions: 
+     Bipixukixi Region - cold jungle
+       Cultures: 1
+         The Bukumuhi People
+          Fascism - rule by one, gained power through nationalism
+          There is no concept of property.
+          Diet: corn
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Susifiqi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Yigiqa Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Ximabu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Buza Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qibaquma Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Hunahamu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Atuza Region - cold forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Maqu
+Area (km): 143704423
+Regions: 
+     Yigivufumi Region - cold semiarid desert
+       Cultures: 1
+         The Runiwi People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, goat, monstrous meat such as dragons or griffins, cattle
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+
+     Mumicaquza Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Wihuwutu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Rahu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Bucapu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Hahawa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Xida Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yamumu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Zidi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Namabiwa Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Tijaju Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Fibu Region - cold dry desert
+       Cultures: 1
+         The Sixu People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: plantains, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Jubabuqa Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Mukuquja Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Tana Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Faduwa Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Yuxayu Region - jungle
+       Cultures: 1
+         The Vuxuqafasa People
+          Theocracy - rule by religion
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, pig, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Qivada Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Iwaza Region - cold dry desert
+       Cultures: 1
+         The Yiyaci People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: rice, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Wihabuja Region - cold dry desert
+       Cultures: 1
+         The Cumibuxi People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, chicken
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Yufabiga Region - cold forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Qacutahi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Hahawa Region - cold forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Ihumiyiwa Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Buqiwapuzi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Faduwa Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Uhimuguhu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Humahi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Huzu Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Ina Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Hudufi Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Hififu Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Yiqubugihi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Taha Region - cold steppe
+       Cultures: 1
+         The Qapuwumi People
+          Kratocracy - rule by strength
+          There is no trade, authorities own all property.
+          Diet: sorghum, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Dualism
+            Wuji, Meddling deity, Travel, Sun, Hatred, Creation
+            Fipima, Meddling deity, Home, Moon, Desire, Destruction
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Wanicaxumu Region - cold forest with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Uyu Region - cold dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Misima Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Kixihu Region - cold dry desert
+       Cultures: 1
+         The Xibikufaha People
+          Plutocracy - rule by rich
+          Trade is done through barter.
+          Diet: soybeans, uncommon meat such as lizards or insects, cattle, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Yiyimu, Obscure deity, Harvest, Truth
+            Qasusi, Antagonistic deity, Plague, Secrets
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Uhu Region - cold forest
+       Cultures: 1
+         The Waxi People
+          Corporatocracy - rule by corporations
+          Trade is done through barter.
+          Diet: cassava, buffalo, buffalo
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Yasuxatu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Fuwimamizu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wudu Region - cold coastal desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Gucu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Hunahamu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Dutawu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Haximiguwi Region - cold dry desert
+       Cultures: 1
+         The Nitu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: wheat, goat
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Yuqa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Kamidunaxi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Gibucuraca Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Miqu People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: yams, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Yuju, Forgiving deity, Judgement, Home, Moon, Stars, Harvest, Weaving
+            Wihabuja, Meddling deity, Land
+            Yapufura, Antagonistic deity, Civilization, Plague, Insanity
+            Diha, Uncaring deity, Chaos, Destiny, Weaving, Judgement, Travel, Wilderness
+            Mukumutuwu, Meddling deity, Fighting, Painting
+            Uqu, Uncaring deity, Weaving, Writing, Intelligence
+            Naqi, Judgemental deity, Destiny, Ice
+            Iba, Obscure deity, Fire, Truth
+            Hivatuja, Obscure deity, Civilization, Creation, Painting, Moon, Day
+            Pada, Antagonistic deity, Law, Magic, Antimagic, Demons
+            Zizadabubu, Judgemental deity, Disaster, Painting, Home, Law
+            Tuwima, Antagonistic deity, Beauty
+            Fizafima, Judgemental deity, Disaster, Insanity
+            Iya, Antagonistic deity, Peace, Destiny, Day, Judgement, Truth, Law
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Qakuhixaru Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Watu Region - cold steppe
+       Cultures: 1
+         The Yagi People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Agimuzuha Region - cold semiarid desert
+       Cultures: 1
+         The Qihifi People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, property is collectively owned.
+          Diet: cassava, sheep
+          Religion: Philosophical
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Diwutamuha Region - cold dry desert
+       Cultures: 1
+         The Mahawuvasu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans
+          Religion: Dualism
+            Cicavu, Antagonistic deity, Truth, Plague, Angels, Harvest, Sea
+            Afumu, Antagonistic deity, Secrets, Harvest, Demons, Plague, Land
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Mabumi Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Vawa Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Mufumihi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qirifapuya Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Bifudinufi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Xina Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Hiwama Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Wufahiza Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Fuba Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Kafa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Wanicaxumu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Damaxayafu Region - cold coastal desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Fajajuyu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qaqa Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Azuhami Region - cold dry desert
+       Cultures: 1
+         The Uba People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: wheat, cattle, monstrous meat such as dragons or griffins, sheep
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Fanahani Region - steppe
+       Cultures: 1
+         The Itu People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: rice, monstrous meat such as dragons or griffins, fish, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Dinizi, Punishing deity, Antimagic, Demons
+            Ufiridu, Mysterious deity, Magic, Angels
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Manaraxa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Famawiri Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Huxi Region - cold grassland with a wetland
+       Cultures: 1
+         The Giraya People
+          Kleptocracy - rule by thieves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, buffalo, cattle, cattle
+          Religion: Monotheism
+            Manaraxa, Punishing deity, Ice, Insanity, Magic
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Uyu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fuyaki Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Gimi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yikafu Region - dry desert
+       Cultures: 1
+         The Diwutamuha People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: sorghum, goat, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Buqiwapuzi, Meddling deity, Weaving, Sun
+            Quba, Mysterious deity, Metalworking, Moon
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Qawiqiwu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Naxa Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Qufuwapimu Region - cold semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Ibufa Region - jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Mima Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Dahumibu Region - cold dry desert
+       Cultures: 1
+         The Fuyaki People
+          Monarchy - rule by single bloodline
+          Trade is done through barter.
+          Diet: plantains, cattle, monstrous meat such as dragons or griffins, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+
+     Qawu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Piziqumufa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Sini Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qicuti Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Cunufu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Akumuga Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Kaxafamu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Bamizuyuvu Region - cold jungle with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Ahuruyafu Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Buyu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Jaqusu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Xina Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Nitu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Yaguhama Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Bamizuyuvu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Qagaqafatu Region - hot dry desert with sentient plants
+       Cultures: 1
+         The Qawu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, cattle, game meat such as deer or elk
+          Religion: Dualism
+            Fisutuwi, Forgiving deity, Trickery, Insanity, Demons
+            Adu, Mysterious deity, Judgement, Mind, Angels
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Riya Region - cold jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Yaguhama Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Cuwuwimiwi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Haqitaha Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Duhi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Humihiqaki Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Itiza Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Kiruxa Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Acahuhawu Region - cold grassland
+       Cultures: 1
+         The Ubupahixi People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Wiwata Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Fuha
+Area (km): 3662426
+Regions: 
+     Yiqubugihi Region - cold dry desert
+       Cultures: 1
+         The Tuwima People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Cibikamaya, Judgemental deity, Night, Mind, Death
+            Piziqumufa, Meddling deity, War
+            Tigiqi, Mysterious deity, Destiny, Demons, Demons, Truth, Sea, Angels
+            Bubawuvi, Uncaring deity, Travel
+            Cibuqu, Uncaring deity, Magic, Day, Forest
+            Yihucafi, Uncaring deity, Intelligence
+            Uhu, Punishing deity, Civilization, Disaster, Fire
+            Ratu, Obscure deity, Forest, Afterlife
+            Kugabi, Forgiving deity, Insanity, Creation, Death, Land
+            Piziqumufa, Mysterious deity, Travel, Night
+            Miciwu, Judgemental deity, Sea, Secrets, Day
+            Nibi, Mysterious deity, Insanity, War, Destiny, Life, Protection
+            Qawu, Meddling deity, Moon, Protection, Family
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Duti Region - hot dry desert
+       Cultures: 1
+         The Hujibabama People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, monstrous meat such as dragons or griffins, cattle, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Vuri, Antagonistic deity, Fighting, Protection, Mind, Beauty, Metalworking
+            Qakajuwi, Uncaring deity, Protection, Fighting, Insanity, Disaster, Weaving
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Huvu Region - cold forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Mumuyubifa
+Area (km): 18647735
+Regions: 
+     Qihiwi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Cunufu Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Duqakudi Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Rahu Region - cold jungle
+       Cultures: 1
+         The Miyaqagika People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, cattle
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Zacita Region - cold dry desert
+       Cultures: 1
+         The Bisipuqu People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, sheep
+          Religion: Dualism
+            Kigizi, Mysterious deity, Luck, Night, Antimagic, Destruction, Sea, Sea
+            Nimiba, Punishing deity, Destiny, Day, Magic, Creation, Land, Land
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Muxa Region - steppe without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Giguguhu People
+          Technocracy - rule by education
+          Trade is done through barter.
+          Diet: soybeans, cattle, chicken, chicken
+          Religion: Polytheism
+            Bumu, Uncaring deity, Desire, Travel, Creation, Luck, Harvest, Strength
+            Qibihupatu, Forgiving deity, Stars
+            Bubiqihiru, Forgiving deity, Day, Day, Fire
+            Mukuquja, Forgiving deity, Peace, War, Land, Creation
+            Wisahiha, Antagonistic deity, Land, Secrets
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Yafibi Region - cold dry desert
+       Cultures: 1
+         The Guguxucigi People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: corn, fish, goat
+          Religion: Monotheism
+            Aqibubika, Forgiving deity, Night, Creation, Magic
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Cafari Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Pawusara Region - cold dry desert
+       Cultures: 1
+         The Zigubimi People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: corn, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Ubupahixi, Forgiving deity, Sun, Harvest, Magic
+            Wukudafuqa, Uncaring deity, Plague, Magic
+            Bamizuyuvu, Forgiving deity, Life, Strength, Beauty, Protection, Afterlife
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Safatutu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Tuwajiqi Region - cold grassland with floating islands
+       Cultures: There are no cultures in this area.
+
+     Azuhami Region - cold dry desert
+       Cultures: 1
+         The Tafafuyi People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, cattle, fish
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Wamahuhiwi Region - steppe with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Gucu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Fikipa Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Barumubi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Muxicumaci Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Bufabuyiku
+Area (km): 6160146
+Regions: 
+     Suruxu Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Wabu Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Guwaxunu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Bayu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+

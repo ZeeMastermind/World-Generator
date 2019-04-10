@@ -1,0 +1,827 @@
+-----Hejemetu world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+     In some places, Magic is taken for granted as an aspect of everyday life.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is pacts with monsters and demons.
+Around magic, people react with hostility.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is modern, consisting of nukes and computers.
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+Technology is powered by magic.
+Around technology, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 11 degrees Celsius. It is cold.
+The world has an amount of life similar to Earth.
+The world is 84% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Huzava
+Area (km): 38152032
+Regions: 
+     Tabu Region - hot jungle
+       Cultures: 1
+         The Kavabamequ People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Huke, Judgemental deity, Peace, Land
+            Ruvu, Judgemental deity, War, Sea
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Qaku Region - dry desert
+       Cultures: 2
+         The Gafeputaha People
+          Diarchy - rule by two bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: corn
+          Religion: Polytheism
+            Qetulute, Forgiving deity, Sun, Stars, Night, Sun, Weaving
+            Lapeberuja, Antagonistic deity, Forest, Painting
+            Zavu, Mysterious deity, Beauty, Painting, Intelligence, Death, Forest, Civilization
+            Ubebe, Forgiving deity, Life
+            Tunu, Uncaring deity, Creation, Civilization, Desert, Life, Mind, Desire
+            Yegenenehe, Antagonistic deity, Harvest, Death, Magic
+            Tenayuzufu, Antagonistic deity, Plague
+            Paxuxene, Meddling deity, Fighting, Moon
+            Muvaraxu, Meddling deity, Beauty, Sea, Wilderness, Harvest
+            Hafaqe, Forgiving deity, Disaster, Trickery, Beauty, Sun, Secrets, Night
+            Uke, Punishing deity, Creation, Life
+            Huya, Mysterious deity, Love, Destruction
+            Bupabume, Meddling deity, Antimagic, Writing, Law
+            Amuzuya, Obscure deity, Disaster, Desert
+            Rufufulapa, Uncaring deity, Wilderness, Weaving
+            Teveleqeru, Punishing deity, Childbirth, War, Moon, Fire
+            Tuzepepu, Meddling deity, Destiny, Home, Moon
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Beneyaze People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, monstrous meat such as dragons or griffins, chicken
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Bare Region - dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Hubepecu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Xujeqa Region - steppe
+       Cultures: 1
+         The Vuke People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done through barter.
+          Diet: yams, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Raxuvaqape Region - hot dry desert
+       Cultures: 2
+         The Xayava People
+          Diarchy - rule by two bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, goat, goat
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: awe
+
+         The Mezu People
+          Despotism - rule by one, the ruler has slaves
+          This is no concept of trade, but gifts are given.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Eta Region - cold coastal desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Etaramu Region - forest
+       Cultures: There are no cultures in this area.
+
+     Haqemuna Region - hot jungle
+       Cultures: 1
+         The Vunuvave People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: soybeans, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Nunu Region - jungle
+       Cultures: 2
+         The Kexegataxu People
+          Kratocracy - rule by strength
+          Trade is done through barter.
+          Diet: wheat, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Hefalubaqa People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: rice, fish, buffalo
+          Religion: Dualism
+            Yuhe, Obscure deity, Sea, Stars
+            Akere, Obscure deity, Land, Sky
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Qepacana Region - hot steppe
+       Cultures: 2
+         The Yutu People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: wheat, chicken, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Meruje, Forgiving deity, War, Moon, Magic, Ice
+            Qegafavupa, Obscure deity, Disaster
+            Taru, Forgiving deity, Day, Forest, Protection
+            Kuxejuxeda, Judgemental deity, Life, Day, Life, Day, Death
+            Kapeha, Forgiving deity, War, Strength
+            Zujamaqa, Uncaring deity, Land, Love, Sky, Magic
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Zecucebu People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, fish
+          Religion: Dualism
+            Qazakahu, Antagonistic deity, Antimagic
+            Naqahe, Uncaring deity, Magic
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Xeyale Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Kageqayera Region - cold forest with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Tunu Region - cold grassland with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Faxuneyaya Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Leyevuleje Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Cunetaze Region - cold dry desert
+       Cultures: 2
+         The Leyevuleje People
+          Ergatocracy - rule by working class
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, monstrous meat such as dragons or griffins, chicken
+          Religion: Animism
+          Magic: Magic is used by many.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Tara People
+          Kleptocracy - rule by thieves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, cattle, goat
+          Religion: Dualism
+            Xuja, Antagonistic deity, Home, Life, Intelligence, Destiny, Law
+            Fumekumete, Uncaring deity, Travel, Death, Strength, Luck, Chaos
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Kahepage Region - dry desert that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Tara People
+          Bankocracy - rule by banks
+          There is no concept of property.
+          Diet: soybeans
+          Religion: Dualism
+            Xuha, Mysterious deity, Mind, Hatred, Stars, Antimagic, Fighting, Mind
+            Recavezave, Meddling deity, Insanity, Desire, Sky, Magic, Protection, Insanity
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Ravehu Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Mubu Region - hot forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Qamuyahe Region - cold grassland
+       Cultures: 1
+         The Qudatu People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, cattle
+          Religion: Monotheism
+            Jurehuva, Obscure deity, Demons, Painting, Protection
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Venaxe Region - hot jungle
+       Cultures: 2
+         The Patahe People
+          Technocracy - rule by education
+          There is no trade, property is collectively owned.
+          Diet: soybeans, fish, goat
+          Religion: Dualism
+            Zequparu, Forgiving deity, Protection, Fighting, Home, Night
+            Fapa, Obscure deity, Fighting, Protection, Travel, Day
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Lucajunata People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: sweet potatoes, cattle
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Qapaha Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Mapadu Region - jungle
+       Cultures: 2
+         The Yapetu People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, uncommon meat such as lizards or insects, cattle
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Hudujumere People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: soybeans, pig, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Fulehakuda Region - cold forest
+       Cultures: 2
+         The Qunegehe People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins, buffalo
+          Religion: Dualism
+            Fufunemabe, Forgiving deity, Family
+            Daqanu, Uncaring deity, Love
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Xuha People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Tajuzajaje Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Kugumuhafe Region - cold forest
+       Cultures: 1
+         The Vefavarera People
+          Monarchy - rule by single bloodline
+          There is no concept of property.
+          Diet: sorghum, sheep
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Huhe Region - forest
+       Cultures: 1
+         The Xubuya People
+          Bankocracy - rule by banks
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, sheep, chicken
+          Religion: Dualism
+            Tememacemu, Judgemental deity, Desire, Stars, Insanity, Life, Civilization
+            Tatafepehe, Obscure deity, Hatred, Sky, Mind, Death, Wilderness
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Lapeberuja
+Area (km): 33023320
+Regions: 
+     Pedeme Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Ruqama Region - forest
+       Cultures: 2
+         The Fuye People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, fish, sheep
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Rehuqage People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, fish
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Rarabu Region - jungle with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Kaga Region - cold semiarid desert
+       Cultures: 1
+         The Agukuraye People
+          Diarchy - rule by two bloodlines
+          There is no concept of property.
+          Diet: wheat, cattle, pig
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Fufunemabe Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Akuyugu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Aqu Region - forest
+       Cultures: There are no cultures in this area.
+
+     Nayu Region - grassland
+       Cultures: 2
+         The Marecenuta People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: plantains, buffalo
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Qeraze People
+          Theocracy - rule by religion
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, cattle, pig
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Nedutena Region - dry desert
+       Cultures: 2
+         The Ezuja People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Fatenumeke People
+          Monstrous tyranny - rule by monsters through force
+          There is no concept of property.
+          Diet: sorghum, game meat such as deer or elk, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Emabeyeyu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Buzuteqe Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Qubuxunanu Region - jungle
+       Cultures: 1
+         The Maheke People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: corn, monstrous meat such as dragons or griffins, goat, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Famurumu, Obscure deity, Wilderness
+            Vava, Uncaring deity, Angels, Fire, Strength, Travel
+            Vumutuyuhu, Meddling deity, Judgement, Stars, Demons
+            Kapeha, Meddling deity, Metalworking, Destruction
+            Xayava, Mysterious deity, Strength, Sky, War
+            Jujejezubu, Meddling deity, Painting, Wilderness, Angels, Disaster
+            Kapeha, Punishing deity, Family
+            Vahahumeka, Meddling deity, Trickery, Judgement, Stars, Strength
+            Quhaqe, Forgiving deity, Destiny
+            Vehe, Punishing deity, Stars, Land, Hatred
+            Yume, Judgemental deity, Disaster, Truth, Demons, Sun, Trickery, War
+            Neyavere, Punishing deity, Travel, Land, Night, Truth, Destiny, Family
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Tacuju Region - hot jungle
+       Cultures: 1
+         The Nehuvanu People
+          Magrocracy - rule by magic
+          There is no trade, authorities own all property.
+          Diet: soybeans, sheep
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Varucugupu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Tuqabutu Region - cold semiarid desert
+       Cultures: 2
+         The Lahufamuta People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, goat, pig, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: worship
+
+         The Feratuku People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: wheat, uncommon meat such as lizards or insects, buffalo, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Bupuka Region - cold semiarid desert with giant living rocks
+       Cultures: 2
+         The Vuca People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: sweet potatoes, chicken, buffalo
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Anenahe People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, game meat such as deer or elk, cattle
+          Religion: Polytheism
+            Jehaname, Judgemental deity, Sea, Mind, Sea, Ice
+            Leyevuleje, Punishing deity, Creation, Death, Antimagic, Destruction, Protection
+            Xuyezuguku, Uncaring deity, Destruction, Plague, Sky, Harvest
+            Huzuhacatu, Antagonistic deity, Wilderness, Plague, Law, Insanity, Travel
+            Mazevenu, Obscure deity, Metalworking, Moon, Beauty
+            Hepamuvehu, Mysterious deity, Sky, Ice, Life, Chaos
+            Apakuka, Mysterious deity, Hatred, Ice, Home, Creation, Insanity, Peace
+            Tucaxeneyu, Antagonistic deity, Writing, Death, Painting, Land
+            Ravamu, Meddling deity, Weaving, Afterlife, Sky, Civilization
+            Zurexana, Meddling deity, Trickery, Intelligence, Peace, Painting, Sun
+            Tupe, Forgiving deity, Plague
+            Kexegataxu, Mysterious deity, Peace, Plague, Demons
+            Reqada, Uncaring deity, Truth
+            Hujuqura, Antagonistic deity, Protection, Fire, War
+            Gerapa, Forgiving deity, Family, Sea, Family
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Tujeyaqe Region - cold dry desert
+       Cultures: 1
+         The Nunu People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: yams, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Kucaya, Uncaring deity, Harvest, Weaving, Intelligence, Chaos
+            Gecubuya, Uncaring deity, Destruction, Law, Judgement
+            Qelepa, Uncaring deity, Hatred, Harvest, Weaving, Family
+            Aredede, Obscure deity, War, Travel, Peace
+            Ejumu, Mysterious deity, Protection, Harvest, Home, Angels, Love, Antimagic
+            Cunufubafa, Antagonistic deity, Fire, Sun, Weaving, Night
+            Nerevagaqa, Forgiving deity, Death, Destiny, Peace
+            Ejelupu, Punishing deity, Desire, Insanity
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Ravamu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Hadu Region - cold semiarid desert
+       Cultures: 1
+         The Haxa People
+          Kritarchy - rule by legal judges
+          There is no trade, authorities own all property.
+          Diet: wheat, buffalo
+          Religion: Monotheism
+            Ruvunaneva, Forgiving deity, Land, Forest, Disaster, Love
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Xebafege Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Enu Region - steppe
+       Cultures: 1
+         The Gufutaqube People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: corn, chicken
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Berucana Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Cuhura Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Xehuvedaye Region - hot dry desert
+       Cultures: 1
+         The Kejujeyepu People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is used by many.
+          Magic attitude: discomfort
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Neya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vula Region - dry desert
+       Cultures: 1
+         The Renakuxe People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: yams, buffalo
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: worship
+
+
+     Huzava Region - cold grassland
+       Cultures: 1
+         The Tumukuya People
+          Monarchy - rule by single bloodline
+          Trade is done through barter.
+          Diet: soybeans, fish
+          Religion: Polytheism
+            Cagarafa, Meddling deity, Judgement, Harvest
+            Pejeyure, Uncaring deity, Desire, Beauty, Childbirth, Civilization, Law
+            Tadehequza, Obscure deity, Sky, Civilization, Judgement, Law, Day
+            Vuxabuja, Punishing deity, War
+            Dubeyubaqa, Uncaring deity, Metalworking, Metalworking, Death
+            Nevuvakavu, Judgemental deity, Family, Travel, Angels, Travel
+            Aredede, Meddling deity, Demons, Intelligence, Destruction, Forest, Trickery
+            Yeneyaxe, Mysterious deity, Desert, Protection, Protection, Beauty, Family
+            Cale, Punishing deity, Harvest
+            Ezuja, Meddling deity, Love, Home, Destruction, Day
+            Rereqehage, Judgemental deity, Harvest, Home
+            Ruzuva, Judgemental deity, Death, Civilization, Sea, Family, Peace
+            Taru, Punishing deity, Day
+            Hururuke, Punishing deity, Law, Truth, Afterlife, Judgement, Strength
+            Lecuvuve, Obscure deity, Fire, Demons, Peace, Weaving
+            Dumu, Punishing deity, Fire, Destruction, Creation, Plague
+            Pupe, Punishing deity, Demons, Desert, Angels, Strength, Intelligence, War
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Denupavanu Region - cold jungle
+       Cultures: 1
+         The Uyuyete People
+          Ergatocracy - rule by working class
+          This is no concept of trade, but gifts are given.
+          Diet: wheat
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Vuxabuja Region - hot dry desert
+       Cultures: 2
+         The Qutuqu People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: corn, cattle
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Uyu People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, chicken, cattle, sheep
+          Religion: Polytheism
+            Ujukaqapu, Mysterious deity, Demons
+            Huhe, Meddling deity, Stars, Demons, Luck, Night, Stars
+            Gamaxuhu, Punishing deity, Peace, Plague, Love, Intelligence, Writing
+            Haba, Mysterious deity, Desire, Desire, Love, Sea, Secrets, Destiny
+            Hururuke, Forgiving deity, Wilderness, Childbirth, Disaster, Destruction, Death
+            Guzahexube, Judgemental deity, Stars, Metalworking
+            Acumaka, Antagonistic deity, Night, Insanity
+            Ruzubahe, Uncaring deity, Judgement, Land, Fighting, Hatred
+            Amutetu, Meddling deity, Childbirth, Mind, Land
+            Tadameje, Uncaring deity, Plague, Destruction, Destiny, Destiny
+            Yahu, Judgemental deity, Harvest, Mind, Civilization, Creation, Desert, Trickery
+            Uke, Punishing deity, Weaving, Destiny, Angels
+            Mabu, Forgiving deity, Secrets, Night, Sun
+            Qeha, Forgiving deity, Wilderness, Painting
+            Rulu, Punishing deity, Peace, Mind
+            Ale, Obscure deity, Fire, Beauty
+            Eguje, Punishing deity, Antimagic, Antimagic
+            Karuraja, Uncaring deity, Insanity
+            Epa, Forgiving deity, Strength, Life, Civilization
+            Yahu, Meddling deity, Desire, Land, Antimagic
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Jugu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Tunamepu
+Area (km): 5417315
+Regions: 
+     Kegaqucunu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Eguje Region - dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Xuja People
+          Kritarchy - rule by legal judges
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, sheep
+          Religion: Totemism
+          Magic: Magic is used by many.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+         The Zuruqu People
+          Kleptocracy - rule by thieves
+          There is no concept of property.
+          Diet: plantains, cattle, chicken, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: awe
+
+
+     Zavu Region - hot coastal desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Dehu
+Area (km): 1674631
+Regions: 
+     Ela Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Utanu
+Area (km): 1732702
+Regions: 
+     Nuhe Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+

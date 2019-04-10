@@ -1,0 +1,524 @@
+-----Piye world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by very few.
+     In some places, Magic is used by some, and people know of it.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is inner power/strength.
+Around magic, people react with worship.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with discomfort.
+     In some places, people react with indifference.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 10 degrees Celsius. It is cold.
+The world has high amount of life, with few barren areas.
+The world is 86% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 7 continents.
+-----------------------------
+The land of Iti
+Area (km): 3981821
+Regions: 
+     Puhuru Region - jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Fiqerimoju
+Area (km): 22091877
+Regions: 
+     Dogetoro Region - forest
+       Cultures: 2
+         The Tiyuto People
+          Kratocracy - rule by strength
+          There is no trade, authorities own all property.
+          Diet: sorghum, fish, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Lomuroyo People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: plantains, uncommon meat such as lizards or insects, chicken
+          Religion: Animism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Dehudo Region - jungle with a wetland
+       Cultures: 1
+         The Qinimutuhi People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: sweet potatoes, fish
+          Religion: Dualism
+            Goyebegi, Antagonistic deity, Creation, War, Sea, Insanity, Painting
+            Duhuruhe, Mysterious deity, Destruction, Peace, Land, Mind, Writing
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Hehotiporu Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Tesiye Region - hot jungle with giant living rocks
+       Cultures: 1
+         The Yobibi People
+          Kratocracy - rule by strength
+          There is no trade, property is collectively owned.
+          Diet: yams, monstrous meat such as dragons or griffins, chicken
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Dezoderu Region - cold grassland
+       Cultures: 2
+         The Dumucudeyo People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: sorghum, cattle, cattle
+          Religion: Monotheism
+            Feru, Forgiving deity, Insanity, Desert, Antimagic, Moon
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Detice People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: sorghum, cattle, buffalo, sheep
+          Religion: Philosophical
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Moyodomozu Region - steppe
+       Cultures: 3
+         The Tore People
+          Anarchy - no enforced rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, chicken, cattle, pig
+          Religion: Polytheism
+            Memiredo, Forgiving deity, Desert, Truth, Angels
+            Yuduyuze, Uncaring deity, Demons, Weaving, Beauty, Intelligence, War
+            Tumotopubi, Uncaring deity, Travel, Judgement, Wilderness, Peace
+            Hehese, Punishing deity, Secrets
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Yoteqohe People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: corn
+          Religion: Dualism
+            Idifiye, Antagonistic deity, Weaving, Hatred
+            Dufututi, Antagonistic deity, Metalworking, Desire
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Demipideqe People
+          Geniocracy - rule by intelligence
+          Trade is done through barter.
+          Diet: sorghum, buffalo, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Obo Region - semiarid desert
+       Cultures: 2
+         The Fetumevibo People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, uncommon meat such as lizards or insects, pig, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Oyuhizodo People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: wheat
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Tomuzofipo
+Area (km): 16218001
+Regions: 
+     Motu Region - hot jungle with a giant mushroom forest
+       Cultures: 1
+         The Pimitihi People
+          Ergatocracy - rule by working class
+          There is no trade, authorities own all property.
+          Diet: yams, cattle
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Tuhucuyi Region - steppe that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Vutimiheyo Region - cold coastal desert with floating islands
+       Cultures: 2
+         The Elipidu People
+          Kratocracy - rule by strength
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, monstrous meat such as dragons or griffins, chicken, pig
+          Religion: Polytheism
+            Duge, Forgiving deity, Angels, Creation
+            Dohopu, Meddling deity, Ice, War, Fire, Intelligence, Life
+            Yime, Uncaring deity, Afterlife, Destruction, Chaos, Insanity, Strength, Ice
+            Huhehome, Mysterious deity, Civilization, Metalworking, Moon
+            Vomese, Mysterious deity, Antimagic, Night
+            Dumucudeyo, Antagonistic deity, War
+            Doyu, Antagonistic deity, Creation, Law, Law, Stars
+            Yimizeniyi, Mysterious deity, Love, Strength, Sky, Disaster
+            Tesuro, Mysterious deity, Luck, Truth, Weaving, Trickery, Painting, Magic
+            Nuhucito, Mysterious deity, Childbirth, Antimagic, Moon, Life, Judgement, Fire
+            Yecuhezu, Forgiving deity, Destruction, Wilderness
+            Uhohido, Obscure deity, Strength, Love, Sky, Afterlife, Land
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Quyutu People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: wheat, buffalo
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Lohoqumoto Region - hot grassland
+       Cultures: 1
+         The Icezibi People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: cassava, chicken, uncommon meat such as lizards or insects, sheep
+          Religion: Ancestor Worship
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Romete Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Huhehome Region - hot steppe
+       Cultures: 3
+         The Denohoru People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, chicken, uncommon meat such as lizards or insects, buffalo
+          Religion: Animism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Tuyurudigo People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, pig, goat, chicken
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Yofobimefu People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: potatoes, buffalo, sheep
+          Religion: Dualism
+            Tesuro, Meddling deity, Day, Sea, Writing
+            Iqomupi, Antagonistic deity, Night, Land, Painting
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Vuremesoyo Region - grassland
+       Cultures: 3
+         The Netihoro People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: soybeans, sheep, goat, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Lodisutu People
+          Theocracy - rule by religion
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, cattle
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Pusebo People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: soybeans, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Hevo, Judgemental deity, Weaving, Intelligence, Day
+            Yodobu, Antagonistic deity, Disaster, Civilization, Disaster, Antimagic, Writing, Afterlife
+            Lebo, Forgiving deity, Forest
+            Vefe, Forgiving deity, Trickery, Peace, Childbirth, Desire, Fire, Secrets
+            Vemerefuze, Judgemental deity, Land, Land, Desire, Civilization, Plague, Plague
+            Dozobo, Antagonistic deity, Beauty, Destiny, Afterlife, Weaving
+            Sucopedu, Obscure deity, Destruction
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Yiyiyi Region - cold semiarid desert
+       Cultures: 2
+         The Peqo People
+          Plutocracy - rule by rich
+          There is no concept of property.
+          Diet: sorghum, cattle, chicken
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Gudozebilo People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, cattle
+          Religion: Philosophical
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Zolezefoyi
+Area (km): 12242679
+Regions: 
+     Tihimereyo Region - steppe with floating islands
+       Cultures: There are no cultures in this area.
+
+     Teyoyo Region - cold jungle
+       Cultures: 2
+         The Nuhucito People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, buffalo, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Doveyoyide, Punishing deity, Civilization
+            Tetore, Punishing deity, Wilderness
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Hohohuputi People
+          Technocracy - rule by education
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, chicken, pig
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Fupe
+Area (km): 7409108
+Regions: 
+     Zelerepu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Nevi Region - cold dry desert
+       Cultures: 3
+         The Royuho People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, fish, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Rimo, Judgemental deity, Trickery, Antimagic
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Yoyuyenoji People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: sorghum, sheep, fish
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: discomfort
+
+         The Ipodeqime People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, sheep
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Duhuruhe Region - cold coastal desert
+       Cultures: 2
+         The Ovi People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, uncommon meat such as lizards or insects, fish
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Buderuyepu People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, game meat such as deer or elk, chicken, pig
+          Religion: Demon Worship
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Hesomifilo
+Area (km): 2560978
+Regions: 
+     Tidigoto Region - hot dry desert
+       Cultures: 1
+         The Yoteqohe People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: cassava, pig
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Motilebomi
+Area (km): 5495536
+Regions: 
+     Fidese Region - cold coastal desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Udimumo People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done through barter.
+          Diet: cassava, pig
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Yote Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Vere Region - coastal desert
+       Cultures: 3
+         The Ridomudige People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: rice, goat, chicken, fish
+          Religion: Monotheism
+            Gemodifelo, Forgiving deity, Disaster, Wilderness
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Emefu People
+          Anarchy - no enforced rule
+          There is no concept of property.
+          Diet: soybeans, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+         The Jotorerute People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, cattle, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Buyo, Punishing deity, Forest, Intelligence, Death, Strength, Peace
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+

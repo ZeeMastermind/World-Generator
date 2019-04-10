@@ -1,0 +1,469 @@
+-----dagame world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+     In some places, Magic is used by very few.
+     In some places, Magic is virtually nonexistent.
+The source of magic is monstrous bloodlines.
+Around magic, people react with fear.
+     In some places, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is powered by magic.
+Around technology, people react with fear.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 29 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 78% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of coqowexene
+Area (km): 26527850
+Regions: 
+     xowovoge Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     qoxohaxava Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     bayoso Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     donoxo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     qevoxobaso Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     nebaxo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     qove Region - hot dry desert
+       Cultures: 1
+         The rawexafabo People
+          Kratocracy - rule by strength
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, fish, monstrous meat such as dragons or griffins, goat
+          Religion: Shamanism
+
+
+     paqebexoqo Region - hot dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     kebehonose Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     casevese Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of sekexova
+Area (km): 16681255
+Regions: 
+     nexeqa Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     narexesa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     robaga Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     esoxobe Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     wama Region - hot dry desert
+       Cultures: 1
+         The orofexa People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: plantains, buffalo
+          Religion: Dualism
+            jogafoso, Punishing deity, Life, Sun, Peace, Land
+            vaba, Judgemental deity, Death, Moon, War, Sea
+
+
+     wahesede Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     vacapa Region - steppe
+       Cultures: 1
+         The qeveqe People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: sorghum, buffalo, monstrous meat such as dragons or griffins, cattle
+          Religion: Totemism
+
+
+     qefoyemo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     axocoxexo Region - hot forest with floating islands
+       Cultures: There are no cultures in this area.
+
+     bova Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     powoja Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     qefa Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     vosa Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of neyefava
+Area (km): 63312492
+Regions: 
+     eqagoxosa Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     esoxobe Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     xavaxoxo Region - hot grassland
+       Cultures: 1
+         The jova People
+          Theocracy - rule by religion
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, goat
+          Religion: Demon Worship
+
+
+     samofose Region - hot grassland with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The sececebebo People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: sorghum
+          Religion: Monotheism
+            qefoyemo, Mysterious deity, Sky
+
+
+     jovoferowe Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     voxe Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     wocexeya Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     wosavakowe Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     vadacaxose Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     wecebewojo Region - hot steppe that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The neca People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, pig
+          Religion: Shamanism
+
+
+     qojo Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     yosogava Region - hot dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     wamaja Region - hot jungle with a giant mushroom forest
+       Cultures: 1
+         The xoso People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: soybeans, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+
+
+     powoja Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     damemo Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     pasowocexo Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     qaqano Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     aqojasoke Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     faqewa Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     worevobo Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     xeko Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     vadacaxose Region - hot forest
+       Cultures: 1
+         The narahobaye People
+          Anarchy - no enforced rule
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, fish, uncommon meat such as lizards or insects
+          Religion: Philosophical
+
+
+     dese Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     kave Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     hexasebafe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     qobedapara Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     vowa Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     axaxafa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     qacoha Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     veba Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     moqe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     yose Region - hot semiarid desert
+       Cultures: 1
+         The dagame People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, property is collectively owned.
+          Diet: rice, sheep, chicken
+          Religion: Shamanism
+
+
+     camerexa Region - cold grassland with sentient plants
+       Cultures: There are no cultures in this area.
+
+     rafovo Region - hot coastal desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     baya Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     nokoje Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     ofeka Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     rowoge Region - hot forest
+       Cultures: 1
+         The xago People
+          Plutocracy - rule by rich
+          Trade is done through barter.
+          Diet: plantains, sheep
+          Religion: Monotheism
+            soqaga, Judgemental deity, Sun
+
+
+     yafedono Region - hot semiarid desert with giant living rocks
+       Cultures: 1
+         The qeveqe People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: corn, sheep
+          Religion: Polytheism
+            obe, Obscure deity, Home, Chaos, Metalworking, Insanity, Destiny
+            xobepa, Judgemental deity, Destiny, Stars, Desire, Metalworking
+            woxohe, Judgemental deity, Strength
+            vewese, Punishing deity, Beauty, Fighting, Night, Chaos, Painting
+            boqa, Judgemental deity, Sea, Peace, Death, Destiny, Sun
+            overa, Meddling deity, Wilderness, Fire, Antimagic, Stars, Weaving
+            besese, Obscure deity, Moon
+            feve, Obscure deity, Secrets, Childbirth, Mind, Desert, Civilization
+            qoxekovaqa, Antagonistic deity, Land, Disaster, Day
+            yema, Obscure deity, Harvest, Sun, War, Fire
+            yekeke, Antagonistic deity, Fire, Sun, Judgement, Destruction, Antimagic, Destiny
+            poda, Uncaring deity, Hatred, Death, Night, Antimagic
+            maroxawa, Meddling deity, Night, Desire, Disaster, Death
+            foserewa, Punishing deity, Moon, Writing, Secrets, Life, Writing, Home
+            savo, Forgiving deity, Destiny, Desire
+            sekexova, Punishing deity, Forest, Afterlife, Law
+            xovaxe, Antagonistic deity, Truth, Disaster
+            gava, Mysterious deity, Love
+            yewovojaqe, Uncaring deity, Judgement, War, Sun, Sun, Life
+            efago, Forgiving deity, Demons
+
+
+     horexo Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     howabavo Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     obova Region - hot dry desert
+       Cultures: 1
+         The roro People
+          Technocracy - rule by education
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, chicken, chicken, fish
+          Religion: Shamanism
+
+
+     sefoqe Region - hot jungle
+       Cultures: 1
+         The sexoroxo People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, game meat such as deer or elk
+          Religion: Demon Worship
+
+
+     saqawexako Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     soyafa Region - cold jungle with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     rafovo Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     wosavakowe Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     yavojevo Region - jungle
+       Cultures: There are no cultures in this area.
+
+     ahofofeqa Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     nepowe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     peqa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     mewexovo Region - hot dry desert
+       Cultures: 1
+         The meko People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: sorghum, buffalo, sheep
+          Religion: Totemism
+
+
+     covemavo Region - hot coastal desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     mewexovo Region - cold forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     sobe Region - hot dry desert
+       Cultures: 1
+         The beqebasose People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: wheat, buffalo, game meat such as deer or elk
+          Religion: Philosophical
+
+
+     exeqa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     xeve Region - cold semiarid desert
+       Cultures: 1
+         The eweceyose People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: yams, sheep, chicken, pig
+          Religion: Demon Worship
+
+
+     eqoxo Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     sevo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     xawevape Region - hot dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     wadedapose Region - hot jungle
+       Cultures: 1
+         The sosesaxa People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, pig, chicken
+          Religion: Dualism
+            yaxa, Antagonistic deity, Intelligence
+            wavawose, Meddling deity, Strength
+
+
+
+-----------------------------
+The land of wewexowo
+Area (km): 2460955
+Regions: 
+     vere Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     xorevowoye Region - dry desert with sentient plants
+       Cultures: 1
+         The farebeqa People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: potatoes, pig, buffalo
+          Religion: Polytheism
+            yoxo, Obscure deity, Night, Sea, Insanity, Forest
+            pehoke, Mysterious deity, Sky
+            bawosa, Meddling deity, Home, Strength
+            vejejovogo, Meddling deity, Wilderness, Magic
+            qeqesode, Uncaring deity, Civilization, Sea, Home
+            vesahexewe, Forgiving deity, Peace
+            maroxawa, Meddling deity, Beauty
+            havofesa, Antagonistic deity, Civilization, Civilization, Painting
+            yafedono, Uncaring deity, Destiny, Magic, Stars
+            qekohawoso, Antagonistic deity, Antimagic, Destiny
+            neja, Judgemental deity, Law, Metalworking, Magic
+            faveka, Meddling deity, Secrets
+            povoqe, Meddling deity, Sun, Protection, Antimagic
+            yomera, Punishing deity, Antimagic, Love, Protection, Trickery, Desert
+
+
+
+-----------------------------
+The land of qomosa
+Area (km): 1017448
+Regions: 
+     wagaxexene Region - dry desert
+       Cultures: 1
+         The xovaxe People
+          Technocracy - rule by education
+          Trade is done through barter.
+          Diet: corn, pig
+          Religion: Monotheism
+            eroxevo, Mysterious deity, Beauty, Life, Luck, Strength
+
+
+

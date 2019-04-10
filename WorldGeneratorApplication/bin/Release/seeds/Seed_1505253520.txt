@@ -1,0 +1,116 @@
+-----Jarize world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+     In some places, Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is nature.
+Around magic, people react with hostility.
+     In some places, people react with discomfort.
+     In some places, people react with fear.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is based upon discovered alien technology. However, some have built technology based upon discovered alien technology.
+Around technology, people react with worship.
+     In some places, people react with awe.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 4 degrees Celsius. It is extremely cold.
+The world has virtually no life, and few things survive.
+The world is 93% water.
+The vast majority of the world is frozen over.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 3 continents.
+-----------------------------
+The land of Nuwuvogu
+Area (km): 9866676
+Regions: 
+     Yehe Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Qemijivo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qimu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Hohu
+Area (km): 20151902
+Regions: 
+     Toroco Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zajihu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Asovu Region - cold grassland with floating islands
+       Cultures: There are no cultures in this area.
+
+     Zotere Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Hogirawi Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Roco Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Duda Region - cold grassland
+       Cultures: 1
+         The Hexe People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: yams, sheep
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: worship
+
+
+     Muho Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Ikodawo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Jifomemaso Region - cold semiarid desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Jigiyini Region - dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Denu
+Area (km): 4117792
+Regions: 
+     Hutexejude Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Ragoqo Region - cold dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Vowuhemi Region - cold grassland
+       Cultures: 1
+         The Aho People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: corn, pig, goat, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: indifference
+
+
+

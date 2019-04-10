@@ -1,0 +1,991 @@
+-----Hiseyabe world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by many, but not all.
+     In some places, Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+     In some places, Magic is used by some, and people know of it.
+The source of magic is pacts with monsters and demons.
+Around magic, people react with admiration.
+     In some places, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the distant future of Earth.
+Technology is based upon discovered alien technology. However, some have built technology based upon discovered alien technology.
+Around technology, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 24 degrees Celsius. It is extremely hot.
+The world has an amount of life similar to Earth.
+The world is 41% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 7 continents.
+-----------------------------
+The land of Sube
+Area (km): 184030449
+Regions: 
+     Bazaxabo Region - cold semiarid desert
+       Cultures: 2
+         The Qodamoxeva People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: cassava, goat
+          Religion: Monotheism
+            Yobu, Mysterious deity, Harvest
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Loza People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Jabisuhoxa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Amobitexa Region - hot forest with a wetland
+       Cultures: 2
+         The Buyo People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: soybeans, pig, goat, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Ivuqoqake, Punishing deity, Intelligence, Love, Harvest, Truth, Civilization, Desert
+            Hoje, Punishing deity, Strength, Family, Plague, Secrets, Wilderness, Forest
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Sayohucumu People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Suguyobe Region - hot jungle without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Cixe Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Xepa
+Area (km): 34087188
+Regions: 
+     Atozuyuso Region - hot forest with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Zeqama Region - hot dry desert
+       Cultures: 1
+         The Zicebocipu People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum
+          Religion: Monotheism
+            Miqu, Uncaring deity, Destiny, Disaster, Intelligence
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Ahike Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Goje Region - grassland
+       Cultures: There are no cultures in this area.
+
+     Uculibo Region - hot jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+     Doliqecuto Region - hot steppe with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Jatopihoqi Region - hot jungle with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Qiluzi People
+          Diarchy - rule by two bloodlines
+          There is no concept of property.
+          Diet: yams
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Kibe Region - hot jungle
+       Cultures: 2
+         The Jocumuge People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects, cattle
+          Religion: Dualism
+            Idacuba, Mysterious deity, Plague, Secrets
+            Uqipipo, Obscure deity, Harvest, Truth
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Voxudu People
+          Autocracy - rule by one, the ruler has servants
+          There is no concept of property.
+          Diet: soybeans, monstrous meat such as dragons or griffins, game meat such as deer or elk, chicken
+          Religion: Dualism
+            Fiheqihu, Antagonistic deity, Angels, War, Beauty
+            Yeyapuxu, Judgemental deity, Demons, Peace, Disaster
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Piqucuxuyu Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Xixume Region - jungle
+       Cultures: 2
+         The Pemomofu People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: plantains, cattle
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Suga People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: soybeans
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Femuhuka Region - hot forest
+       Cultures: 2
+         The Bime People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: rice, buffalo, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Oqoxu People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Sateme, Mysterious deity, Beauty, Protection
+            Yexidu, Forgiving deity, Disaster, Fighting
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Bahaza Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Xogo Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Butayu Region - hot dry desert
+       Cultures: 1
+         The Xexegaju People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: sorghum, pig, game meat such as deer or elk, cattle
+          Religion: Dualism
+            Koxucusovu, Antagonistic deity, Judgement, Disaster, Truth, Plague
+            Olemovi, Judgemental deity, Trickery, Beauty, Secrets, Harvest
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Hohomufeba Region - hot jungle with giant living rocks
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Cexu
+Area (km): 57986263
+Regions: 
+     Tobeqoqafo Region - dry desert
+       Cultures: 2
+         The Befimofa People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: cassava, buffalo, cattle
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Qimedule People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, goat, buffalo, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Lamolesi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qupimodifa Region - grassland
+       Cultures: 2
+         The Capo People
+          Kritarchy - rule by legal judges
+          There is no trade, authorities own all property.
+          Diet: rice, uncommon meat such as lizards or insects, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Gepexe People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, game meat such as deer or elk, cattle, pig
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Fipomago Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Citaci Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Zoxidogomo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Hakefo Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Gimihogu Region - grassland
+       Cultures: 1
+         The Mami People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: wheat, cattle
+          Religion: Philosophical
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Yege Region - hot coastal desert
+       Cultures: 1
+         The Betoxofoco People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, chicken
+          Religion: Monotheism
+            Hoza, Mysterious deity, Day, Angels, Angels, Metalworking, Harvest
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Mofocibo Region - hot coastal desert with a giant mushroom forest
+       Cultures: 2
+         The Yucohe People
+          Magrocracy - rule by magic
+          There is no trade, property is collectively owned.
+          Diet: sorghum, chicken, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Ofomupuhi People
+          Anarchy - no enforced rule
+          There is no concept of property.
+          Diet: cassava, cattle, fish, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Yubefevi Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Pogi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Miqofidabo Region - hot jungle
+       Cultures: 2
+         The Gumugobece People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Dafe People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, property is collectively owned.
+          Diet: wheat, uncommon meat such as lizards or insects, fish
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Gumugobece Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Faduxo Region - hot jungle
+       Cultures: 2
+         The Xefosafelo People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: soybeans, fish, sheep, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Meze People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: cassava, sheep, uncommon meat such as lizards or insects, pig
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Tive Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Bebufepa Region - hot jungle with a wetland
+       Cultures: 1
+         The Qomemaxeqo People
+          Stratocracy - rule by military with conscription
+          There is no trade, property is collectively owned.
+          Diet: sorghum, chicken
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Bamofosa Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Fija Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Mevumi Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Yaxeyocife Region - cold semiarid desert
+       Cultures: 2
+         The Teyuhobemi People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, property is collectively owned.
+          Diet: yams, pig, sheep
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Dusiyizu People
+          Meritocracy - rule by ability
+          There is no concept of property.
+          Diet: corn, fish, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Fidaqeyu Region - jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Lobomo Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Ice Region - hot forest with floating islands
+       Cultures: 2
+         The Afafahuhi People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, goat, game meat such as deer or elk
+          Religion: Monotheism
+            Fizekagiqa, Forgiving deity, Harvest, Antimagic
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Bomami People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, uncommon meat such as lizards or insects, buffalo
+          Religion: Dualism
+            Qodiqe, Forgiving deity, Travel, Moon
+            Cexixeve, Obscure deity, Home, Sun
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Hake Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Fuqeti Region - steppe that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Uya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Xosasufo Region - jungle
+       Cultures: 1
+         The Paziqusuye People
+          Dictatorship - rule by one, gained power through force
+          There is no concept of property.
+          Diet: sorghum, buffalo, goat, pig
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Mepeheso Region - hot dry desert with sentient plants
+       Cultures: 2
+         The Teyuhobemi People
+          Dictatorship - rule by one, gained power through force
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, monstrous meat such as dragons or griffins, buffalo
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Focumusape People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, chicken, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Momoma Region - hot jungle with a wetland
+       Cultures: 2
+         The Zidula People
+          Magrocracy - rule by magic
+          There is no trade, property is collectively owned.
+          Diet: yams, sheep
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Sifitifo People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Xidi, Uncaring deity, Sky
+            Vodo, Punishing deity, Stars
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Moqajufa Region - hot grassland
+       Cultures: 1
+         The Velofaboda People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: rice, buffalo, monstrous meat such as dragons or griffins, chicken
+          Religion: Philosophical
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Pegahebi Region - jungle
+       Cultures: 1
+         The Fibi People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: rice, uncommon meat such as lizards or insects, chicken, pig
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Yisojobo Region - hot semiarid desert
+       Cultures: 1
+         The Qeguki People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, buffalo
+          Religion: Polytheism
+            Zibe, Forgiving deity, Peace, Day, Antimagic, Home
+            Bazaxabo, Punishing deity, Luck
+            Iyize, Forgiving deity, Beauty, Beauty, Demons, Mind
+            Yefafuxaxi, Judgemental deity, Magic, Harvest, Disaster, Creation, Ice
+            Busuqeyaga, Punishing deity, Desert, Law, Truth
+            Leyexagibo, Meddling deity, Fire, Sky, Antimagic, Night, Night, Magic
+            Mihojuta, Judgemental deity, Love
+            Pasi, Forgiving deity, Fighting, Demons, Desire, Strength, Sky, Painting
+            Tadeqa, Judgemental deity, Chaos, Truth, Afterlife, War
+            Qufe, Antagonistic deity, Demons, Demons
+            Kukimi, Uncaring deity, Life, Civilization, Life, Law
+            Meze, Forgiving deity, Destruction, Sun
+            Ciyuqu, Forgiving deity, Life, Hatred, Harvest, Hatred, Life, Civilization
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Dacaheludu Region - hot jungle
+       Cultures: 2
+         The Suguyobe People
+          Autocracy - rule by one, the ruler has servants
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, pig, goat, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Goxufi People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: sorghum, buffalo, sheep
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Tabiyimi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yisoquma Region - hot semiarid desert with sentient plants
+       Cultures: 1
+         The Sama People
+          Direct Democracy - rule by enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: plantains, sheep, chicken, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Ufude Region - hot steppe
+       Cultures: 1
+         The Gatogohede People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: rice, buffalo, game meat such as deer or elk
+          Religion: Polytheism
+            Vufu, Meddling deity, Wilderness, Protection, Secrets
+            Pacuzi, Forgiving deity, Strength, Beauty, Moon, Day, Chaos, Mind
+            Mufofome, Punishing deity, Destiny, Destruction, Plague
+            Oqemebi, Judgemental deity, Stars, Secrets, Painting, Plague
+            Bumaxito, Uncaring deity, Truth, Peace, Truth
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Poyamo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Velofaboda Region - cold semiarid desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Hesoqa Region - hot jungle with an undead infestation
+       Cultures: 2
+         The Tata People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: sorghum, game meat such as deer or elk, fish
+          Religion: Philosophical
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Becufi People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, game meat such as deer or elk, pig
+          Religion: Dualism
+            Oqemebi, Judgemental deity, Desire, Judgement, Night, Writing, Luck, Civilization
+            Yulofoca, Judgemental deity, Hatred, Trickery, Day, Painting, Destiny, Wilderness
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Ayi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Sufotilo Region - hot steppe
+       Cultures: 1
+         The Qodamoxeva People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: sorghum, chicken
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Cisebocomi Region - hot coastal desert
+       Cultures: 2
+         The Cofixicu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, cattle
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Fugozo People
+          Bankocracy - rule by banks
+          Trade is done with coin and unregulated by authority.
+          Diet: corn
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Qijode Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Mebovafuxa Region - hot coastal desert
+       Cultures: 2
+         The Ufude People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, authorities own all property.
+          Diet: plantains, fish
+          Religion: Philosophical
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Yehi People
+          Plutocracy - rule by rich
+          There is no concept of property.
+          Diet: corn, pig, chicken
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Bume Region - hot grassland
+       Cultures: 2
+         The Mihojuta People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: wheat, sheep, cattle
+          Religion: Philosophical
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Sibe People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: corn, uncommon meat such as lizards or insects, chicken, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Pegahebi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Bepugoqo Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Uzobokosa Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Muyi Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Mefo Region - cold forest
+       Cultures: 2
+         The Uzobokosa People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: rice, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Kuku People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, pig
+          Religion: Monotheism
+            Suci, Judgemental deity, Civilization, Day, Weaving, Destruction, Disaster, Judgement
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Quqobige Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Xegifoga Region - hot forest
+       Cultures: 2
+         The Oxepe People
+          Chiefdom - rule by senior members of families or houses
+          There is no trade, property is collectively owned.
+          Diet: corn, fish
+          Religion: Demon Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Bamofosa People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: rice, sheep
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Fede
+Area (km): 6680221
+Regions: 
+     Loza Region - cold jungle
+       Cultures: 2
+         The Jijepa People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Luqocifuqa People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, property is collectively owned.
+          Diet: cassava, sheep, cattle, game meat such as deer or elk
+          Religion: Polytheism
+            Mebovafuxa, Obscure deity, Protection, Peace, Civilization, Hatred, Protection, Protection
+            Imahohiti, Obscure deity, Family, Painting
+            Zamu, Meddling deity, Insanity, Travel, Life, Metalworking, Protection
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Muxa Region - hot semiarid desert
+       Cultures: 1
+         The Simisa People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Yucohe, Punishing deity, Weaving, Death, Desire, Law, Sun
+            Mofefoyoqo, Obscure deity, Weaving, Insanity, Sun, Sun, Demons, Chaos
+            Gepexe, Uncaring deity, Fire, Law, Beauty, Night
+            Bavupe, Forgiving deity, Chaos, Sky, Fighting
+            Hode, Antagonistic deity, Peace, Judgement, Judgement, Day, Desire, Painting
+            Becufi, Obscure deity, Destruction, Desire, Truth, Peace, Land, Stars
+            Cafo, Obscure deity, Desire, Forest
+            Ikubukidi, Antagonistic deity, Wilderness, Fire, Afterlife, Antimagic
+            Befufafi, Obscure deity, Ice, Writing, Disaster, Civilization, War, Intelligence
+            Taqociqoxa, Obscure deity, Desert, Creation, Day
+            Ohafo, Forgiving deity, Demons
+            Mihi, Obscure deity, Harvest, Trickery, Judgement, Civilization
+            Ige, Uncaring deity, Forest, Magic, Life
+            Bujufe, Obscure deity, Antimagic
+            Hojufupe, Uncaring deity, Judgement, Beauty
+            Moku, Antagonistic deity, Painting
+            Zugo, Mysterious deity, Plague, Day, Desert, Destruction, Metalworking, Judgement
+            Jafujugu, Judgemental deity, Weaving, Love, Ice, Antimagic, Desert, Angels
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Suxebepisi Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Bipocoba Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Huba Region - hot jungle with giant living rocks
+       Cultures: 2
+         The Paja People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, pig, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Magic is used by many, but not all.
+          Magic attitude: indifference
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Ciciyi People
+          Aristocracy - rule by several bloodlines
+          There is no trade, authorities own all property.
+          Diet: cassava, uncommon meat such as lizards or insects, buffalo, chicken
+          Religion: Monotheism
+            Mafo, Obscure deity, Judgement, Creation, Chaos, Love, Antimagic
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+
+-----------------------------
+The land of Dicicaha
+Area (km): 3262281
+Regions: 
+     Pugego Region - hot jungle
+       Cultures: 2
+         The Eqafe People
+          Kratocracy - rule by strength
+          There is no trade, property is collectively owned.
+          Diet: sorghum, sheep, buffalo, pig
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+         The Badefuqece People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: plantains, goat
+          Religion: Monotheism
+            Liyebeho, Forgiving deity, Sun, Life, Family, Day, Painting, Hatred
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: fear
+
+
+     Fejoso Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Zepidi
+Area (km): 7513619
+Regions: 
+     Tuga Region - hot coastal desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Xajifeqo
+Area (km): 1439979
+Regions: 
+     Udehigeze Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+

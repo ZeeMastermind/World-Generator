@@ -1,0 +1,370 @@
+-----Elu world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is virtually nonexistent.
+     In some places, Magic is used by very few.
+The source of magic is nature.
+Around magic, people react with admiration.
+     In some places, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is based upon discovered alien technology.
+Around technology, people react with hostility.
+     In some places, people react with discomfort.
+     In some places, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 4 degrees Celsius. It is extremely cold.
+The world has an amount of life similar to Earth.
+The world is 83% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 3 continents.
+-----------------------------
+The land of Yonohaxavo
+Area (km): 72049375
+Regions: 
+     Vace Region - cold dry desert
+       Cultures: 1
+         The Fuxuke People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, fish
+          Religion: Polytheism
+            Vuqe, Mysterious deity, Mind
+            Mopu, Obscure deity, Moon
+            Hoze, Meddling deity, Luck, Magic, Life, Secrets, Judgement
+            Roro, Uncaring deity, Land, Disaster, Law
+            Tamamefe, Antagonistic deity, Sun, Secrets, Truth, Insanity
+            Gecuzeve, Mysterious deity, Chaos, Night, Antimagic, Forest, Travel
+            Yubuvu, Punishing deity, Harvest, Luck, Disaster, Law, Desire, Life
+            Teresuse, Punishing deity, Hatred, Childbirth
+            Golezegu, Antagonistic deity, Beauty
+            Xuqehoxomu, Punishing deity, Ice, Childbirth, Ice, Travel
+            Herusuze, Uncaring deity, Desire, Harvest, Moon, Home, Peace
+            Kuqu, Punishing deity, Home, Magic
+            Oze, Obscure deity, Day, War, Angels, War
+            Guvunuraza, Uncaring deity, Luck, Law, Painting, Magic, Truth
+            Huvatepacu, Judgemental deity, Beauty, Sea, Moon, Love, Harvest
+            Lavupumaso, Antagonistic deity, Antimagic, Intelligence, Desire, Peace, Angels
+            Fufofoxeva, Forgiving deity, Harvest, Creation, Stars, Life, Destruction
+            Luzehaxeze, Obscure deity, Travel, Sun, Destiny, Night, Wilderness, Metalworking
+            Cutumafo, Forgiving deity, Strength, Sun, Angels, Secrets, Plague, Desert
+
+
+     Pesogeka Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Sogeroro Region - cold dry desert
+       Cultures: 2
+         The Yaceterume People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, game meat such as deer or elk, sheep, sheep
+          Religion: Polytheism
+            Soyokezoxo, Obscure deity, Trickery, Secrets
+            Fayo, Antagonistic deity, Harvest, Disaster, Protection, Fighting
+            Vufo, Mysterious deity, Desert, Hatred, Sky, Disaster, Harvest
+            Bera, Uncaring deity, Mind, Demons
+
+         The Pozomucofu People
+          Monstrous tyranny - rule by monsters through force
+          There is no concept of property.
+          Diet: yams, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Poco, Antagonistic deity, Writing, Sun, Sea, Afterlife, Mind, Hatred
+
+
+     Xuloyavuqu Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Teresuse Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Cuzeraqo Region - cold dry desert
+       Cultures: 1
+         The Tufalulu People
+          Technocracy - rule by education
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, buffalo
+          Religion: Monotheism
+            Eluku, Uncaring deity, Angels, Harvest, Law, Strength, Fighting
+
+
+     Yoxa Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Mutapeta Region - forest
+       Cultures: There are no cultures in this area.
+
+     Opuzeqe Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Rola Region - cold steppe with floating islands
+       Cultures: There are no cultures in this area.
+
+     Cohulurana Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Sotare Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zevugo Region - hot jungle with giant living rocks
+       Cultures: 2
+         The Zuva People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes
+          Religion: Polytheism
+            Paxa, Mysterious deity, Land, Night, Judgement, Protection, Destiny
+            Tuhuzu, Uncaring deity, Home, Metalworking, Fire, Judgement, Home, War
+            Lomuqe, Mysterious deity, Disaster
+            Pava, Mysterious deity, Luck, Afterlife, Metalworking, Land
+            Vogumehupu, Mysterious deity, Truth, Fire, Beauty
+            Vovetakuzu, Judgemental deity, Secrets, Strength, Night, Disaster, Sea, Forest
+            Ugeyoteyu, Meddling deity, Home, Beauty, Travel, Writing, Hatred
+            Tumuxu, Obscure deity, Stars, Antimagic, Chaos
+            Fakonu, Uncaring deity, Home, Demons, Antimagic, Fire, Land
+            Vazokopavu, Uncaring deity, Life, Night, Protection, Civilization, Home
+            Quxe, Judgemental deity, Demons, Chaos
+            Luyeco, Uncaring deity, Mind, Intelligence, Wilderness, Beauty, Weaving, Stars
+            Qogu, Antagonistic deity, Luck, Death, Metalworking, Truth, Demons
+            Nafape, Judgemental deity, Luck, Ice
+
+         The Eqe People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, chicken, buffalo, goat
+          Religion: Philosophical
+
+
+     Erexubape Region - cold dry desert
+       Cultures: 1
+         The Lefehevofu People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, buffalo, pig, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+
+
+     Retosegupo Region - jungle
+       Cultures: 1
+         The Tomeya People
+          Fascism - rule by one, gained power through nationalism
+          There is no trade, authorities own all property.
+          Diet: sorghum, monstrous meat such as dragons or griffins, cattle
+          Religion: Monotheism
+            Pavo, Antagonistic deity, Protection, Law, Sea, Painting, Plague
+
+
+     Hove Region - cold coastal desert
+       Cultures: 2
+         The Xeyerexe People
+          Bankocracy - rule by banks
+          There is no concept of property.
+          Diet: corn, cattle
+          Religion: Demon Worship
+
+         The Gafunaha People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Velu, Uncaring deity, Life, Home
+
+
+     Yukanema Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Sesove Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Pozomucofu Region - cold jungle with floating islands
+       Cultures: 2
+         The Xote People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects, buffalo
+          Religion: Demon Worship
+
+         The Ugeyoteyu People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, game meat such as deer or elk, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Philosophical
+
+
+     Fecosometu Region - cold jungle
+       Cultures: 2
+         The Kuce People
+          Kratocracy - rule by strength
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+
+         The Zuqe People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: plantains
+          Religion: Monotheism
+            Voboso, Mysterious deity, Ice
+
+
+     Xumepo Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Rasomu Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Zayu Region - cold coastal desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Zurore Region - cold semiarid desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Pupotelu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Femacozo Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Yoyuta Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Forelerego People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: cassava, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+
+
+     Tesayo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Pavego
+Area (km): 8236888
+Regions: 
+     Sufupu Region - hot steppe with a giant mushroom forest
+       Cultures: 1
+         The Arahazeyo People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: corn, fish
+          Religion: Shamanism
+
+
+     Togece Region - hot grassland
+       Cultures: 2
+         The Xuqehoxomu People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: sorghum, fish, sheep, chicken
+          Religion: Totemism
+
+         The Faceporebe People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: soybeans, uncommon meat such as lizards or insects, fish, fish
+          Religion: Ancestor Worship
+
+
+     Exorepu Region - steppe
+       Cultures: 1
+         The Cukaxutexa People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, uncommon meat such as lizards or insects, pig, cattle
+          Religion: Polytheism
+            Azefura, Antagonistic deity, Night, Plague, Truth, Writing
+            Arazokoto, Punishing deity, Strength, Trickery, Secrets
+            Coseqomuvo, Forgiving deity, Disaster, Love, Angels, Plague, Travel, Harvest
+            Vegaca, Punishing deity, Painting, Destiny, Day, Demons, Childbirth
+            Vosu, Forgiving deity, Ice, Moon, Love, War, Moon, Travel
+            Korepepare, Uncaring deity, Painting, Painting, Night, Angels, Magic
+            Kota, Uncaring deity, Desire, Desert
+
+
+
+-----------------------------
+The land of Gaveza
+Area (km): 4713737
+Regions: 
+     Cayefe Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Hevanera Region - cold coastal desert with an undead infestation
+       Cultures: 2
+         The Sulexu People
+          Ergatocracy - rule by working class
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, chicken, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Uzalogevo, Meddling deity, Peace, War, Luck, Hatred, Travel, Stars
+            Zacahufe, Antagonistic deity, Weaving, Mind, Disaster, Writing, Writing, Desert
+            Mota, Judgemental deity, Home, Death, Hatred, Destruction, Destiny, Painting
+            Gorozunono, Obscure deity, Desert, War, Stars
+            Latasevoqu, Forgiving deity, Creation, Antimagic, Chaos, Forest, Hatred
+            Kefetoko, Punishing deity, Mind, Day, Luck, Childbirth, Sky, Love
+            Cetu, Judgemental deity, Moon, Fighting
+            Luyeco, Uncaring deity, Desert, Law, Hatred, Civilization, Trickery, Forest
+            Ugakuxe, Judgemental deity, Beauty, Beauty, Sea, Destruction, Love
+            Natunozequ, Judgemental deity, Sea, Insanity
+            Koyetu, Obscure deity, Beauty, Childbirth, Magic, Weaving, Night, Fire
+            Gofo, Uncaring deity, Trickery, Sea, Disaster
+            Ecaqucoho, Punishing deity, Beauty, Ice, Moon
+            Nova, Punishing deity, Sun, Home
+            Ekuzuyu, Judgemental deity, Creation, Chaos, Trickery, Harvest, Travel, Land
+            Guye, Mysterious deity, Judgement, Law, Strength
+            Meyomovune, Forgiving deity, Stars, Moon, Metalworking, Land, Demons
+            Pakepo, Antagonistic deity, War, Night, Stars, Metalworking
+            Pocovu, Uncaring deity, Sea, Childbirth, Fighting, Magic
+            Zuyuza, Obscure deity, Travel
+
+         The Mete People
+          Despotism - rule by one, the ruler has slaves
+          There is no concept of property.
+          Diet: cassava, chicken, pig
+          Religion: Ancestor Worship
+
+
+     Ratuceqosa Region - cold jungle
+       Cultures: 2
+         The Vutu People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: yams
+          Religion: Animism
+
+         The Zufuvavoco People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, game meat such as deer or elk, pig
+          Religion: Monotheism
+            Gaka, Forgiving deity, Protection, Afterlife, Fire, Beauty
+
+
+     Vamo Region - hot jungle
+       Cultures: 1
+         The Kuqu People
+          Anarchy - no enforced rule
+          There is no concept of property.
+          Diet: potatoes, fish, uncommon meat such as lizards or insects, goat
+          Religion: Polytheism
+            Qeloyune, Punishing deity, Desire, Writing, Afterlife, Land, Truth, Truth
+            Vuta, Uncaring deity, Sky, Sea, Desert, Destruction, Protection, Travel
+            Ake, Forgiving deity, Fighting, Demons, Peace
+            Gomu, Mysterious deity, Moon, Trickery, Truth, Truth, Mind, Desert
+            Qogevuco, Forgiving deity, Mind, Destruction
+            Gofo, Obscure deity, Wilderness, Angels, Fire, War
+
+
+

@@ -1,0 +1,1113 @@
+-----Cujowa world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+The source of magic is pacts with monsters and demons.
+Around magic, people react with indifference.
+     In some places, people react with awe.
+     In some places, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is modern, consisting of nukes and computers.
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+Technology is from the ruins of ancient civilizations.
+Around technology, people react with hostility.
+     In some places, people react with discomfort.
+     In some places, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 6 degrees Celsius. It is cold.
+The world has high amount of life, with few barren areas.
+The world is 73% water.
+Large glaciers cover much of the world, growing each winter.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Bucajehuda
+Area (km): 24800252
+Regions: 
+     Daga Region - cold jungle
+       Cultures: 3
+         The Dadatita People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: potatoes, chicken
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Koxa People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: yams, pig, pig
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Suxixopi People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done through barter.
+          Diet: wheat, monstrous meat such as dragons or griffins, pig
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Daqa Region - cold semiarid desert
+       Cultures: 2
+         The Wacagu People
+          Plutocracy - rule by rich
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Zipo People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: corn, sheep, monstrous meat such as dragons or griffins, buffalo
+          Religion: Monotheism
+            Yejetu, Judgemental deity, Stars, Strength, Desire, Sea
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Jiwico Region - cold dry desert
+       Cultures: 2
+         The Jaxoqumo People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: yams
+          Religion: Monotheism
+            Wakuvave, Forgiving deity, Civilization, Afterlife, Forest, War, Secrets, Mind
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Uyoqubo People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: corn, buffalo, uncommon meat such as lizards or insects, sheep
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Segocuyeba Region - cold coastal desert
+       Cultures: 1
+         The Qamifazita People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: sweet potatoes
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Caquxuquxu Region - cold jungle
+       Cultures: 1
+         The Xowite People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: wheat, monstrous meat such as dragons or griffins, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Baxa Region - cold grassland
+       Cultures: 3
+         The Jificosuge People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: corn, buffalo
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+         The Zibuto People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, chicken, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Kudata People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: cassava, uncommon meat such as lizards or insects, pig, sheep
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+
+     Daqa Region - cold jungle
+       Cultures: 3
+         The Tasipomebu People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: rice, goat, cattle
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Xaqidijije People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, authorities own all property.
+          Diet: plantains, sheep, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Toxajoquxu, Obscure deity, Creation, Trickery, Protection
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+         The Doremozixo People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Udopisi, Judgemental deity, Secrets
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Robe Region - cold forest
+       Cultures: 3
+         The Hopupudo People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, sheep
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Pejeda People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, fish, cattle
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Tajo People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: cassava, goat, uncommon meat such as lizards or insects, sheep
+          Religion: Dualism
+            Pisebohamo, Mysterious deity, Insanity, Hatred
+            Owaxacu, Judgemental deity, Mind, Desire
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Uceyuji Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Jaxobujejo Region - cold jungle
+       Cultures: 2
+         The Sedu People
+          Aristocracy - rule by several bloodlines
+          There is no trade, property is collectively owned.
+          Diet: yams, buffalo
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Gese People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: potatoes, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Fasa, Uncaring deity, Hatred, Harvest, Magic
+            Puwaratawe, Meddling deity, Forest, Luck, Destruction, Forest, Creation, Antimagic
+            Cehigadubu, Meddling deity, Moon, Chaos, Disaster, Fire, Harvest
+            Disihicoba, Antagonistic deity, Destiny, Writing, Home, Civilization, Disaster
+            Caheseku, Antagonistic deity, Strength, Afterlife, Death, Stars, Destruction
+            Yuco, Judgemental deity, Love, Law, Hatred, Writing, Plague
+            Xutacumi, Antagonistic deity, Strength, Destruction, Intelligence, Childbirth
+            Juqexu, Uncaring deity, Afterlife, Demons, Fire, Truth
+            Tutuxe, Uncaring deity, Truth, Intelligence, Trickery, Harvest, Luck, Trickery
+            Jefi, Uncaring deity, Fighting, Childbirth, Sky, Sea, Death
+            Wuxa, Uncaring deity, Fighting, Civilization, Afterlife, Harvest
+            Exi, Obscure deity, Strength, Truth
+            Zumetiva, Judgemental deity, Strength, War, Forest, Forest, Judgement, Insanity
+            Dadatita, Meddling deity, Afterlife, Desert, Painting, Stars
+            Tetuti, Uncaring deity, Fire, Destiny, Protection, Metalworking
+            Axejura, Mysterious deity, Demons, Sun, Strength, Desert
+            Isusi, Antagonistic deity, Land, Fighting, Angels, Sky, Family, Destiny
+            Uwafise, Judgemental deity, Night, Angels, Creation, Sun, Sea
+            Kiwu, Punishing deity, Metalworking, Intelligence, Moon, Secrets
+            Jidabi, Obscure deity, Truth
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Xadita Region - cold jungle with a wetland
+       Cultures: 1
+         The Xodisi People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: potatoes, buffalo
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Pabujise Region - cold grassland with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Boqo Region - cold forest
+       Cultures: 1
+         The Ededi People
+          Diarchy - rule by two bloodlines
+          There is no trade, property is collectively owned.
+          Diet: soybeans
+          Religion: Dualism
+            Pabujise, Uncaring deity, Home, Desert
+            Sira, Uncaring deity, Travel, Forest
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Uxisopo Region - jungle
+       Cultures: 1
+         The Jequciwoco People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Wabo, Punishing deity, Day, Sky, Judgement, Sky, Fire
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Xoyaxejiqi Region - hot steppe
+       Cultures: 3
+         The Xehitiba People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: hostility
+
+         The Posime People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, authorities own all property.
+          Diet: wheat, sheep, pig, cattle
+          Religion: Monotheism
+            Semi, Mysterious deity, Travel
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Gicaxeva People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, buffalo, buffalo
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+
+-----------------------------
+The land of Patadi
+Area (km): 5240485
+Regions: 
+     Qadaseqota Region - cold dry desert
+       Cultures: 3
+         The Bixaka People
+          Magrocracy - rule by magic
+          This is no concept of trade, but gifts are given.
+          Diet: corn, buffalo, chicken, cattle
+          Religion: Monotheism
+            Caruquge, Mysterious deity, Ice
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Kupijuko People
+          Ergatocracy - rule by working class
+          There is no trade, property is collectively owned.
+          Diet: yams, goat, goat
+          Religion: Monotheism
+            Rajadu, Judgemental deity, Death, Land, Painting, Antimagic, Sky, Antimagic
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Weda People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: soybeans, sheep, buffalo, fish
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Bowaxobogi Region - cold grassland
+       Cultures: 1
+         The Tiqatijoke People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, game meat such as deer or elk, uncommon meat such as lizards or insects, fish
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Cotesace Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Ofofuwa Region - hot jungle
+       Cultures: 3
+         The Goseti People
+          Diarchy - rule by two bloodlines
+          There is no concept of property.
+          Diet: potatoes, game meat such as deer or elk, sheep, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Suvigofo, Mysterious deity, Protection, Creation, Destruction, War
+            Mapuyesuca, Meddling deity, Disaster, Destiny
+            Zabugu, Punishing deity, Sun, Plague, Peace, Civilization
+            Gabeba, Uncaring deity, Family, Chaos
+            Zadu, Judgemental deity, Angels, Travel, Truth, Family, Sun
+            Jibu, Meddling deity, War, Fighting
+            Jaduzecoda, Antagonistic deity, Antimagic, Desire
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Ujumoye People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, game meat such as deer or elk
+          Religion: Dualism
+            Fotoga, Meddling deity, Fighting, Day, Travel
+            Iyoza, Punishing deity, Protection, Night, Home
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Ije People
+          Ochlocracy - mob rule
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, fish
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+
+-----------------------------
+The land of Vekimoceje
+Area (km): 38029057
+Regions: 
+     Macudoci Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Suzuzacoga Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Iduragu Region - cold jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+     Xocuri Region - cold jungle
+       Cultures: 1
+         The Pajeti People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, goat, fish
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Haci Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Haci Region - cold coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Secuwi People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Bexizo, Punishing deity, Desert, Hatred, Writing
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+         The Bujarebabu People
+          Kleptocracy - rule by thieves
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, fish, pig
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Ihumuxija Region - cold jungle with a wetland
+       Cultures: 2
+         The Cusa People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: corn, pig, cattle, goat
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Qaca People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, sheep
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: awe
+
+
+     Kazebuhibo Region - semiarid desert
+       Cultures: 1
+         The Xecupuco People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: yams, game meat such as deer or elk
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Tefovoju Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 3
+         The Zoxidiji People
+          Timocracy - rule by honor
+          There is no trade, authorities own all property.
+          Diet: rice, monstrous meat such as dragons or griffins, cattle
+          Religion: Dualism
+            Epacofe, Meddling deity, Destruction, Life
+            Wada, Punishing deity, Creation, Death
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+         The Bepexisufu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, sheep, pig
+          Religion: Dualism
+            Jita, Punishing deity, Home
+            Zukigaxipe, Antagonistic deity, Travel
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Xepatapi People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: soybeans, chicken, buffalo, cattle
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Fotoga Region - cold steppe
+       Cultures: 3
+         The Zebeme People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, property is collectively owned.
+          Diet: corn, cattle, cattle, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: hostility
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Jidusi People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: yams, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Qitifo People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Qireseso Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Jubajixowu Region - cold jungle
+       Cultures: 1
+         The Dusaje People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: soybeans, chicken
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+     Gase Region - cold grassland with a wetland
+       Cultures: 1
+         The Viyohe People
+          Technocracy - rule by education
+          There is no trade, property is collectively owned.
+          Diet: corn, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Monotheism
+            Xica, Meddling deity, Ice, Chaos
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Pomequcozo Region - cold grassland
+       Cultures: 1
+         The Rehezahago People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Sasado, Uncaring deity, Judgement, Stars, Judgement, Family, Afterlife, Childbirth
+            Cixa, Uncaring deity, Love, Protection
+            Depa, Antagonistic deity, Mind, Plague, Strength, War, Life, Death
+            Vetitazuba, Uncaring deity, Disaster, Night, Hatred, Life, Luck, Disaster
+            Modoferiro, Meddling deity, Hatred, Life
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Wasufehi Region - cold jungle with giant living rocks
+       Cultures: 3
+         The Cugekeqo People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Kazebuhibo People
+          Monstrous tyranny - rule by monsters through force
+          There is no concept of property.
+          Diet: plantains, fish
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Pojejasipa People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: yams, uncommon meat such as lizards or insects, chicken
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Soxevi Region - cold jungle
+       Cultures: 2
+         The Sumijabu People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins, sheep, pig
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Saso People
+          Autocracy - rule by one, the ruler has servants
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, buffalo, buffalo, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: hostility
+
+
+     Haci Region - jungle
+       Cultures: 1
+         The Qomupije People
+          Diarchy - rule by two bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, fish, buffalo
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+
+     Suqaxuji Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Sexetusi Region - cold jungle
+       Cultures: 2
+         The Durumisado People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, fish, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Pizubitube People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: rice, cattle, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: awe
+
+
+     Vopacuvovo Region - cold jungle
+       Cultures: 2
+         The Cijakefiva People
+          Bankocracy - rule by banks
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, chicken
+          Religion: Polytheism
+            Xosi, Meddling deity, Sun, Judgement, Family, Forest
+            Kubuwi, Antagonistic deity, Destruction, Stars, Disaster, Law, Night, Luck
+            Robe, Uncaring deity, Angels, Travel
+            Wahodo, Forgiving deity, Desire, Death, Disaster, Family, Insanity, Strength
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+         The Avavohu People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, cattle
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Jecupu Region - cold dry desert with living, growing rocks and crystals
+       Cultures: 1
+         The Wesa People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, pig, buffalo
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Juxiwa Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Witaboju Region - cold grassland
+       Cultures: 2
+         The Cawadi People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, sheep
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Soda People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: yams, sheep
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: admiration
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Tafijaxu Region - cold jungle
+       Cultures: 2
+         The Jisefubita People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: wheat, pig, fish, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Copo People
+          Military Dictatorship - rule by military
+          There is no trade, property is collectively owned.
+          Diet: rice, fish, buffalo
+          Religion: Dualism
+            Xuwohesi, Antagonistic deity, Life, Life, Death, Love, Death, Night
+            Rivaremiwe, Mysterious deity, Death, Death, Life, Family, Life, Day
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: hostility
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Iwa Region - jungle
+       Cultures: 1
+         The Cuba People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: cassava, sheep
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Cagoxe Region - cold jungle
+       Cultures: 1
+         The Tasipetoju People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, chicken, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Cedozu, Obscure deity, Wilderness, Hatred
+            Hota, Punishing deity, Demons, Day, Destruction
+            Xorajuho, Forgiving deity, Childbirth, Trickery
+            Zuyedujero, Meddling deity, Law, Mind, Truth, Life, Painting
+            Yejajuvuta, Judgemental deity, Home, Weaving, Stars, Luck, Destruction, Destiny
+            Paticixi, Obscure deity, Judgement, Chaos
+            Cusoxo, Uncaring deity, Beauty
+            Uyipo, Mysterious deity, Intelligence, Life, Wilderness, Home, Writing
+            Afu, Obscure deity, Life
+            Josehiqoqe, Antagonistic deity, Plague, Demons, Trickery, Day, Painting
+            Qomatida, Mysterious deity, Sea, Strength, Destiny, Travel, Mind
+            Oje, Mysterious deity, Chaos, Luck, Metalworking, Writing
+            Qeri, Judgemental deity, Childbirth, Night, Beauty, Strength
+            Tawiso, Punishing deity, Ice
+            Xujesa, Obscure deity, Antimagic
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Rajadu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Bowaxobogi Region - cold steppe
+       Cultures: 3
+         The Sosuyato People
+          Corporatocracy - rule by corporations
+          There is no trade, property is collectively owned.
+          Diet: rice, game meat such as deer or elk, fish
+          Religion: Shamanism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Yowa People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: yams, uncommon meat such as lizards or insects, pig, fish
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Soju People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, chicken, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Xokasope, Forgiving deity, Moon, Writing, Stars, Chaos, Trickery, Creation
+            Jiwico, Uncaring deity, Sun, Painting, Sky, Law, Judgement, Destruction
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: hostility
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: worship
+
+
+
+-----------------------------
+The land of Qogosiceda
+Area (km): 61752580
+Regions: 
+     Raqupexovo Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Daga Region - cold jungle with giant living rocks
+       Cultures: 1
+         The Xada People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: yams, goat, chicken
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: hostility
+
+
+     Bixisudi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Ohi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Durumisado Region - cold steppe
+       Cultures: 2
+         The Ruce People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: soybeans, monstrous meat such as dragons or griffins, sheep
+          Religion: Dualism
+            Jequciwoco, Mysterious deity, Ice, Demons, Metalworking, Angels
+            Dexaqu, Obscure deity, Fire, Angels, Weaving, Demons
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Sati People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: sweet potatoes, sheep, game meat such as deer or elk, buffalo
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Duxi Region - cold dry desert
+       Cultures: 2
+         The Hota People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, cattle, fish
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Quboke People
+          Military Dictatorship - rule by military
+          Trade is done through barter.
+          Diet: rice, pig
+          Religion: Monotheism
+            Iyepopi, Judgemental deity, Desire, Afterlife
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Adijuri Region - cold coastal desert
+       Cultures: 2
+         The Gizu People
+          Autocracy - rule by one, the ruler has servants
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, buffalo
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Suxipiju People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans
+          Religion: Monotheism
+            Qomatida, Antagonistic deity, Civilization, Childbirth, Civilization, Land, Law, Destiny
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Zajo Region - cold forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Ticeju
+Area (km): 4876312
+Regions: 
+     Etidi Region - forest
+       Cultures: 2
+         The Sipuje People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, uncommon meat such as lizards or insects, sheep, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: awe
+
+         The Saja People
+          Despotism - rule by one, the ruler has slaves
+          There is no concept of property.
+          Diet: sorghum, fish
+          Religion: Philosophical
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: discomfort
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+     Xocuri Region - cold steppe
+       Cultures: 1
+         The Jaqe People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: yams
+          Religion: Monotheism
+            Ciji, Meddling deity, Law, Destiny, Demons
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: hostility
+
+
+     Badujera Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Witixaca Region - cold jungle
+       Cultures: 2
+         The Bibusurepa People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, uncommon meat such as lizards or insects, cattle
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+         The Xadita People
+          Geniocracy - rule by intelligence
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, goat
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: hostility
+
+
+

@@ -1,0 +1,301 @@
+-----Dokozojano world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is virtually nonexistent.
+     In some places, Magic is used by very few.
+The source of magic is nature. However, some mages use inner power/strength.
+Around magic, people react with discomfort.
+     In some places, people react with indifference.
+     In some places, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+Technology is from the ruins of ancient civilizations.
+Around technology, people react with admiration.
+     In some places, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 9 degrees Celsius. It is cold.
+The world has low amount of life, which is hard to find.
+The world is 92% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Nuzoronawi
+Area (km): 24536370
+Regions: 
+     Vajoqa Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Tomo Region - hot coastal desert
+       Cultures: 2
+         The Ginedakova People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, goat, goat
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+         The Givorozosi People
+          Technocracy - rule by education
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes
+          Religion: Monotheism
+            Wuna, Obscure deity, Harvest, Night, War, Love, Secrets
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Detavawaki Region - cold steppe
+       Cultures: 1
+         The Eza People
+          Timocracy - rule by honor
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, uncommon meat such as lizards or insects, chicken, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Suji, Uncaring deity, Chaos, Death, Disaster, Moon, Night
+            Gaguquta, Obscure deity, Secrets, Travel, Sun, Angels, Trickery, Sun
+            Qage, Obscure deity, Sky
+            Yusako, Obscure deity, Land, Sky, Fighting, Disaster, Wilderness, Stars
+            Dika, Meddling deity, Insanity, Forest, Beauty, Forest
+            Igi, Punishing deity, Death
+            Kugagesoba, Forgiving deity, Protection, Intelligence, Metalworking
+            Ezu, Forgiving deity, War, Sky, Moon, Stars, Protection
+            Vuraqiqe, Mysterious deity, Sea, Desert, Judgement
+            Viyubisuqi, Obscure deity, War, Fighting, Afterlife, Sky, Luck
+            Bapuzake, Mysterious deity, Truth, Afterlife, Sky, Angels
+            Tipuyo, Obscure deity, Sun, Secrets, Magic, Luck, Painting
+            Socome, Punishing deity, Travel, Fighting, Desert
+            Husuhaqodu, Meddling deity, Ice, Judgement, Harvest
+            Dobikonuga, Meddling deity, Sky, Love, Painting, War
+            Joqorumive, Antagonistic deity, Night, Intelligence
+            Ibujiya, Punishing deity, Demons, Moon, Afterlife
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Arute Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Sujunogi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Cemonapina Region - cold steppe
+       Cultures: 1
+         The Noya People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: yams
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Zehu Region - cold dry desert with a giant mushroom forest
+       Cultures: 1
+         The Kugagesoba People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, chicken
+          Religion: Polytheism
+            Rawuyave, Uncaring deity, Magic, Stars
+            Risenuceha, Obscure deity, Life, Law, Magic
+            Vuhebane, Mysterious deity, Death, Sea
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Zucogasa Region - cold coastal desert
+       Cultures: 1
+         The Kaweco People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: wheat, pig, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Uhodibi Region - cold forest
+       Cultures: 1
+         The Tizinu People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: sweet potatoes
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Zevopuwawe Region - cold dry desert
+       Cultures: 2
+         The Nigi People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done through barter.
+          Diet: rice, sheep
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+         The Gugoze People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: cassava, buffalo, monstrous meat such as dragons or griffins
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Zunupoki Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Gedi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Megu Region - cold forest with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Didoheqosa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Rivu Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Duzimazu Region - cold semiarid desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Yararone
+Area (km): 2346009
+Regions: 
+     Zuduje Region - cold dry desert
+       Cultures: 2
+         The Hazohi People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, cattle
+          Religion: Monotheism
+            Uso, Antagonistic deity, Antimagic, Chaos, Trickery, Hatred, Chaos
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+         The Joqorumive People
+          Monarchy - rule by single bloodline
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Wuyonevusi Region - cold semiarid desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Wavuqoso
+Area (km): 6846784
+Regions: 
+     Zunupoki Region - cold semiarid desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Gaki Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Bone Region - cold grassland
+       Cultures: 2
+         The Diponani People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, monstrous meat such as dragons or griffins, buffalo, pig
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+         The Dizidapuho People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done through barter.
+          Diet: soybeans, monstrous meat such as dragons or griffins, chicken
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: worship
+
+
+
+-----------------------------
+The land of Socome
+Area (km): 2148698
+Regions: 
+     Ereru Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Zuzihu Region - cold forest
+       Cultures: 2
+         The Eza People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: potatoes, cattle, goat
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+         The Carono People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: cassava, cattle, chicken
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+
+-----------------------------
+The land of Senihivo
+Area (km): 4122139
+Regions: 
+     Ivi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Izura Region - cold dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+

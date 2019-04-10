@@ -1,0 +1,252 @@
+-----Guxefiki world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+     In some places, Magic is used by many, but not all.
+The source of magic is nature. However, some mages use pacts with monsters and demons.
+Around magic, people react with hostility.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is ancient, consisting of aqueducts and better ships than in the past.
+     In some places, Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic. However, some have built technology powered by magic.
+Around technology, people react with hostility.
+     In some places, people react with indifference.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 26 degrees Celsius. It is extremely hot.
+The world has low amount of life, which is hard to find.
+The world is 83% water.
+Rain evaporates immediately upon hitting the ground.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 4 continents.
+-----------------------------
+The land of Fiwizo
+Area (km): 77103578
+Regions: 
+     Gogo Region - hot dry desert with sentient plants
+       Cultures: 2
+         The Pexuxi People
+                 Fascism - rule by one, gained power through nationalism
+                 There is no trade, authorities own all property.
+                 Diet: Cassava
+                 Religion: Ancestor Worship
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+         The Befe People
+                 Meritocracy - rule by ability
+                 Trade is done through barter.
+                 Diet: Yams
+                 Religion: Shamanism
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+     Vikuhafi Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Pisuwave Region - cold semiarid desert
+       Cultures: 2
+         The Helelofero People
+                 Fascism - rule by one, gained power through nationalism
+                 There is no trade, authorities own all property.
+                 Diet: Soybeans
+                 Religion: Monotheism
+                   Riqeki, Judgemental deity, Harvest
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: discomfort
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+         The Dibasiwe People
+                 Ochlocracy - mob rule
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Rice
+                 Religion: Shamanism
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+     Veqe Region - hot jungle
+       Cultures: 1
+         The Qexihuxu People
+                 Despotism - rule by one, the ruler has slaves
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Yams
+                 Religion: Demon Worship
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+     Feqilawe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Lekipedi Region - hot forest with a wetland
+       Cultures: There are no cultures in this area.
+
+     Hesibeyoqe Region - cold jungle
+       Cultures: 2
+         The Gugodohigi People
+                 Military Dictatorship - rule by military
+                 Trade is done through barter.
+                 Diet: Corn
+                 Religion: Monotheism
+                   Fiwizo, Forgiving deity, Life, Life, Love, Family, Peace, Life
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+         The Novuwaci People
+                 Kleptocracy - rule by thieves
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Wheat
+                 Religion: Monotheism
+                   Veqe, Meddling deity, Childbirth, Travel
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: fear
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+     Adi Region - hot dry desert
+       Cultures: 2
+         The Yugaga People
+                 Ergatocracy - rule by working class
+                 There is no trade, authorities own all property.
+                 Diet: Potatoes
+                 Religion: Philosophical
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+         The Vibularopu People
+                 Geniocracy - rule by intelligence
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Rice
+                 Religion: Totemism
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+     Xecoki Region - hot dry desert
+       Cultures: 1
+         The Elo People
+                 Fascism - rule by one, gained power through nationalism
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Yams
+                 Religion: Dualism
+                   Mabi, Punishing deity, Land, Creation, Chaos, Stars, Land
+                   Zumudiro, Forgiving deity, Sea, Destruction, Law, Sky, Sea
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+     Aca Region - hot grassland
+       Cultures: 2
+         The Towa People
+                 Meritocracy - rule by ability
+                 This is no concept of trade, but gifts are given.
+                 Diet: Soybeans
+                 Religion: Ancestor Worship
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+         The Rave People
+                 Monstrous tyranny - rule by monsters through force
+                 There is no trade, authorities own all property.
+                 Diet: Wheat
+                 Religion: Polytheism
+                   Gaxuto, Obscure deity, War, Forest, Chaos, Angels, Travel, Disaster
+                   Roqapogo, Judgemental deity, Strength
+                   Teyu, Mysterious deity, Love, Sky, Angels, Destiny
+                   Puwayidodu, Uncaring deity, Harvest, Secrets, Sun, Love, Desert
+                   Gamuve, Antagonistic deity, Trickery, Civilization, Painting, Love, Trickery, Desire
+                   Giduzage, Antagonistic deity, Sky, Civilization, Plague, Wilderness, Love
+                   Remiqoqa, Punishing deity, Luck, Creation
+                   Virosu, Punishing deity, Destruction
+                   Dabe, Judgemental deity, War, Antimagic
+                   Nixe, Forgiving deity, Metalworking, Magic, Sky, Judgement
+                   Umigobo, Mysterious deity, Wilderness, War
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+     Xowore Region - hot semiarid desert
+       Cultures: 1
+         The Xetopofu People
+                 Theocracy - rule by religion
+                 There is no concept of property.
+                 Diet: Plantains
+                 Religion: Ancestor Worship
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: indifference
+
+
+-----------------------------
+The land of Zapucebi
+Area (km): 1074260
+Regions: 
+     Raqe Region - hot dry desert
+       Cultures: 1
+         The Kotitihawe People
+                 Aristocracy - rule by several bloodlines
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Sorghum
+                 Religion: Animism
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: fear
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+
+-----------------------------
+The land of Alaciki
+Area (km): 4067296
+Regions: 
+     Lodage Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Horo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Kozudogu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Vipaqu Region - hot dry desert
+       Cultures: 1
+         The Kigicu People
+                 Timocracy - rule by honor
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Wheat
+                 Religion: Philosophical
+                 Magic: Every sentient being can use magic.
+                 Magic attitude: hostility
+                 Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+                 Tech attitude: hostility
+
+
+-----------------------------
+The land of Dexupobi
+Area (km): 2754866
+Regions: 
+     Kegebubu Region - jungle with sentient plants
+       Cultures: There are no cultures in this area.
+
+

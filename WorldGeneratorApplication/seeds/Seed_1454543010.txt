@@ -1,0 +1,209 @@
+-----Fuxovuka world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by many.
+     In some places, Magic is taken for granted as an aspect of everyday life.
+     In some places, Magic is used by some, and people know of it.
+The source of magic is pacts with monsters and demons.
+Around magic, people react with admiration.
+     In some places, people react with worship.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the near-future of Earth.
+     In some places, Technology is the distant future of Earth.
+     In some places, Technology is modern, consisting of nukes and computers.
+Technology is similar to how it is on earth.
+Around technology, people react with worship.
+     In some places, people react with awe.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 24 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 89% water.
+The ocean is boiling hot.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 3 continents.
+-----------------------------
+The land of Selapawa
+Area (km): 3828366
+Regions: 
+     Vupuqiyogo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Ikodola
+Area (km): 43984121
+Regions: 
+     Yini Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jojizule Region - hot coastal desert
+       Cultures: 1
+         The Qufari People
+          Kritarchy - rule by legal judges
+          There is no trade, authorities own all property.
+          Diet: potatoes, sheep
+          Religion: Philosophical
+          Magic: Magic is used by many.
+          Magic attitude: admiration
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Jiqivo Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Payukowu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Urodese Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Bucayovo Region - hot forest
+       Cultures: 1
+         The Sesinojoye People
+          Kritarchy - rule by legal judges
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, buffalo, buffalo
+          Religion: Animism
+          Magic: Magic is used by many.
+          Magic attitude: indifference
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Odajafu Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Bukayone Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Foyasiseki Region - hot semiarid desert
+       Cultures: 1
+         The Yerizapu People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, cattle, goat
+          Religion: Shamanism
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Yulema Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yura Region - forest
+       Cultures: There are no cultures in this area.
+
+     Yopa Region - hot coastal desert with an undead infestation
+       Cultures: 1
+         The Fesibixe People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, property is collectively owned.
+          Diet: rice
+          Religion: Monotheism
+            Wasivega, Meddling deity, Life, Insanity, Desert, Stars, Beauty, Writing
+          Magic: Magic is used by many.
+          Magic attitude: admiration
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Nesewu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Yura Region - hot steppe
+       Cultures: 1
+         The Mugo People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, uncommon meat such as lizards or insects, buffalo, goat
+          Religion: Demon Worship
+          Magic: Magic is used by many.
+          Magic attitude: admiration
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Busaveya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Molivu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Kunike Region - hot grassland
+       Cultures: 1
+         The Sinu People
+          Theocracy - rule by religion
+          There is no trade, property is collectively owned.
+          Diet: rice, cattle
+          Religion: Monotheism
+            Oba, Antagonistic deity, Civilization, Travel, Family, Sea, Civilization, Peace
+          Magic: Magic is used by many.
+          Magic attitude: indifference
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Yopa Region - hot dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Komi Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Kusumibiga Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Nuluboje Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Nije Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Loloqofu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Rakoci Region - forest
+       Cultures: 1
+         The Fuci People
+          Meritocracy - rule by ability
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, cattle, buffalo
+          Religion: Ancestor Worship
+          Magic: Magic is used by many.
+          Magic attitude: admiration
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Dula Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Fama Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Ezezi Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Jemi Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Muyufe
+Area (km): 7187513
+Regions: 
+     Uno Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+

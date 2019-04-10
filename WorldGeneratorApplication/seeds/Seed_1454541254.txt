@@ -1,0 +1,324 @@
+-----Kinoqu world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by many.
+     In some places, Magic is taken for granted as an aspect of everyday life.
+     In some places, Magic is used by some, and people know of it.
+The source of magic is alchemy.
+Around magic, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the near-future of Earth.
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+Technology is based upon discovered alien technology. However, some have built technology powered by magic.
+Around technology, people react with worship.
+     In some places, people react with awe.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 26 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 70% water.
+The ocean is boiling hot.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 8 continents.
+-----------------------------
+The land of Zimuji
+Area (km): 92927500
+Regions: 
+     Mujocazimu Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Juyoki Region - hot dry desert
+       Cultures: 1
+         The Mayamaxuza People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, monstrous meat such as dragons or griffins, goat
+          Religion: Animism
+          Magic: Magic is used by many.
+          Magic attitude: admiration
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Kani Region - hot grassland that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Hihoyifi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Poja Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yuxoyikuvu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Kojahi Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Xiyuku Region - hot dry desert
+       Cultures: 1
+         The Yuxa People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Xuduzojaju Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Xuxi Region - hot dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Kixo Region - hot jungle
+       Cultures: 1
+         The Kajozilu People
+          Technocracy - rule by education
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, game meat such as deer or elk, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: awe
+
+
+     Iqonu Region - hot coastal desert
+       Cultures: 1
+         The Yoxuzoqa People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: plantains, cattle, fish, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Yalozajaka, Antagonistic deity, Fighting, Judgement, Plague
+            Umaji, Uncaring deity, Desire, Travel, Intelligence, Hatred, Harvest
+            Fuzu, Judgemental deity, Truth, Metalworking
+            Loxahiluyi, Punishing deity, Home, Chaos, Fighting, Insanity
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: awe
+
+
+     Naza Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Uko Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Dukaji Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Lozuyotuyi
+Area (km): 4207110
+Regions: 
+     Jamajazayi Region - hot jungle
+       Cultures: 1
+         The Yinoxima People
+          Anarchy - no enforced rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, pig, chicken, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Zalahokulo, Judgemental deity, Desire, Intelligence
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Kodoja Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Yonizuqozu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Lijanu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Yuxozoha
+Area (km): 1080064
+Regions: 
+     Jocoja Region - steppe with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Namamumixo
+Area (km): 14564151
+Regions: 
+     Muyajimu Region - hot forest with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Xujunoyoni Region - semiarid desert
+       Cultures: 1
+         The Cujino People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: rice, fish, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: awe
+
+
+     Moyiza Region - hot dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Nuya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Valojoyoqo Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Jokuduxuju Region - hot steppe
+       Cultures: 1
+         The Hijanuji People
+          Aristocracy - rule by several bloodlines
+          There is no trade, property is collectively owned.
+          Diet: cassava, cattle, fish
+          Religion: Animism
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Vajotijaji Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Yakaqo Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Xuyakokova Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Jamukulako
+Area (km): 28056823
+Regions: 
+     Ujaha Region - hot semiarid desert with sentient plants
+       Cultures: 1
+         The Lizukili People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Magic is used by many.
+          Magic attitude: admiration
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Kilamo Region - jungle
+       Cultures: 1
+         The Yuka People
+          Corporatocracy - rule by corporations
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, fish
+          Religion: Ancestor Worship
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Uyaviya Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Limomipixo Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Namomukazu Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Mamafuko Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Aka Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Yodiki Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Okizipa Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Juzu Region - dry desert
+       Cultures: 1
+         The Yoka People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, buffalo, buffalo
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+
+-----------------------------
+The land of Jatayaya
+Area (km): 3235968
+Regions: 
+     Qojolukama Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Zizi Region - cold jungle
+       Cultures: 1
+         The Mutaku People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: potatoes, uncommon meat such as lizards or insects, pig, chicken
+          Religion: Shamanism
+          Magic: Magic is used by many.
+          Magic attitude: awe
+          Tech: Technology is the near-future of Earth.
+          Tech attitude: worship
+
+
+     Mulijo Region - steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Joxuzamuka
+Area (km): 3177424
+Regions: 
+     Mujocazimu Region - hot forest that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Lolanokila Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Culoqonu Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Mixajujuzi
+Area (km): 2497615
+Regions: 
+     Qazi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+

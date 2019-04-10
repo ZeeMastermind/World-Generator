@@ -1,0 +1,173 @@
+-----Fixufofe world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by many, but not all.
+The source of magic is blood. However, some mages use alchemy.
+Around magic, people react with admiration.
+     In some places, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is powered by magic.
+Around technology, people react with worship.
+     In some places, people react with awe.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 9 degrees Celsius. It is cold.
+The world has virtually no life, and few things survive.
+The world is 76% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 6 continents.
+-----------------------------
+The land of Desixu
+Area (km): 34885400
+Regions: 
+     Zebupipivu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Pifuvu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Kugedulo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Visi Region - cold jungle with giant living rocks
+       Cultures: 1
+         The Zebupipivu People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, game meat such as deer or elk, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Dududo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Wixuyuze Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Doxixoseji Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Idi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Zeyise
+Area (km): 66344776
+Regions: 
+     Sugiso Region - cold dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Jokofiyufi Region - steppe
+       Cultures: 1
+         The Voxifo People
+          Kratocracy - rule by strength
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, chicken
+          Religion: Polytheism
+            Jidefiku, Judgemental deity, Fighting, Beauty
+            Demovoxu, Forgiving deity, Fire, Magic, Fighting, Strength, Wilderness, Moon
+            Vuye, Mysterious deity, Sea, Ice, Intelligence, Forest, Home
+            Guyojeke, Mysterious deity, Civilization, Destiny, Weaving
+            Iki, Punishing deity, Intelligence, Antimagic, Death, Sun, Afterlife
+            Pemifo, Forgiving deity, Home, Desert, Law, Intelligence, Fire
+            Duyinuxu, Punishing deity, Painting, Creation, Desire, Sea, Desire, Home
+            Sekuvifo, Antagonistic deity, Demons, Weaving, Stars, Protection, Antimagic, Destiny
+            Oxuzedoze, Uncaring deity, Antimagic, Disaster, Love, Beauty
+            Pumudodoci, Meddling deity, Hatred, Demons, Trickery
+            Fifige, Punishing deity, Afterlife
+            Xikedebu, Mysterious deity, War
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Uxodu Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jeyoyoyo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Sidojesu Region - cold coastal desert
+       Cultures: 1
+         The Fixu People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, property is collectively owned.
+          Diet: wheat, game meat such as deer or elk, goat, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is used by many, but not all.
+          Magic attitude: admiration
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Kuvuki Region - cold grassland with a wetland
+       Cultures: There are no cultures in this area.
+
+     Udovi Region - hot jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Kusufo Region - cold coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Mudekigoji Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Kojo
+Area (km): 2279530
+Regions: 
+     Dokidice Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Vuyeyoxo
+Area (km): 3122712
+Regions: 
+     Wivo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Soci Region - hot dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Dofubepe
+Area (km): 9640134
+Regions: 
+     Gubife Region - cold jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Zejezidilu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Yefuxubido Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Dubojigo
+Area (km): 3398600
+Regions: 
+     Fovemu Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+

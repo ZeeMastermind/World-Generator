@@ -1,0 +1,603 @@
+-----Xohoxaji world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by very few.
+     In some places, Magic is used by some, and people know of it.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is inner power/strength. However, some mages use inner power/strength.
+Around magic, people react with worship.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is from the ruins of ancient civilizations. However, some have built technology powered by magic.
+Around technology, people react with discomfort.
+     In some places, people react with indifference.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 12 degrees Celsius. It is like earth.
+The world has virtually no life, and few things survive.
+The world is 55% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Zujikayazu
+Area (km): 149252068
+Regions: 
+     Xiqi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Nutaqo Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Tizotu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Fizomi Region - dry desert with giant living rocks
+       Cultures: 1
+         The Kujuqo People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, game meat such as deer or elk, fish
+          Religion: Philosophical
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Futoti Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wuni Region - hot grassland with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Futohajaxu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Azilo Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wovo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qukafa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Kamiyaja Region - hot dry desert
+       Cultures: 1
+         The Tuto People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: wheat, cattle, chicken
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Zifoxaxu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Xuqaxuzito Region - cold grassland
+       Cultures: 1
+         The Wuqaquko People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Izuho Region - cold dry desert
+       Cultures: 1
+         The Xokafoxi People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: yams, uncommon meat such as lizards or insects, game meat such as deer or elk
+          Religion: Polytheism
+            Ziyavu, Forgiving deity, Fire, Sea, Childbirth, Weaving, Disaster, Law
+            Xototixoju, Obscure deity, Plague, Protection
+            Qujaquzuqi, Forgiving deity, Death, Destiny, Insanity, Intelligence, Demons, Luck
+            Xawofato, Antagonistic deity, Angels, Ice
+            Numuko, Uncaring deity, Family, Childbirth, Mind, Mind, Secrets, Intelligence
+            Vinumoxi, Mysterious deity, Life, Fighting, Death, Fire
+            Xizazixoxa, Forgiving deity, Love, Metalworking, Writing, Secrets, Intelligence, Civilization
+            Wikixa, Meddling deity, Destruction, Life, Intelligence, Fighting
+            Xata, Uncaring deity, Sun, Moon, Wilderness
+            Tikahaha, Meddling deity, Forest, Fighting, Moon, War, Destruction, Hatred
+            Titoquyuyo, Obscure deity, Civilization, Desert, Harvest, Destiny, Insanity
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Xixavu Region - coastal desert with floating islands
+       Cultures: 1
+         The Taxoholo People
+          Diarchy - rule by two bloodlines
+          Trade is done through barter.
+          Diet: wheat, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Nanofa Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Xakatiju Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Xijotuyuti Region - cold grassland with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Kaxa Region - forest with giant living rocks
+       Cultures: 1
+         The Zixuku People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: potatoes, goat
+          Religion: Demon Worship
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Kahoqoqu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Tuwaluji Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Qukahuxota Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Xonuxi Region - hot dry desert
+       Cultures: 1
+         The Afa People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          There is no trade, authorities own all property.
+          Diet: rice, monstrous meat such as dragons or griffins, chicken, cattle
+          Religion: Polytheism
+            Xoqaxu, Meddling deity, Death, Painting, Judgement, Home
+            Votawohovi, Meddling deity, Writing, Stars, Harvest
+            Taki, Antagonistic deity, Demons, Desert, Civilization, Ice, Land, Secrets
+            Miqija, Antagonistic deity, Moon, Intelligence, Disaster, Childbirth
+            Zonali, Forgiving deity, Peace, Weaving, Death, Sea
+            Fixixakivu, Uncaring deity, Sun, Death
+            Qiliti, Obscure deity, Mind, Truth, Disaster, Night
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Yotanawu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Zujumamahu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yoqo Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Zujumamahu Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Atunu Region - cold jungle
+       Cultures: 1
+         The Qili People
+          Ochlocracy - mob rule
+          There is no trade, authorities own all property.
+          Diet: rice, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Funoxa Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Niwanutaxu Region - forest
+       Cultures: 1
+         The Ilozo People
+          Meritocracy - rule by ability
+          There is no concept of property.
+          Diet: wheat, sheep
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Woqafi Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Jutoto Region - forest
+       Cultures: There are no cultures in this area.
+
+     Iqo Region - forest
+       Cultures: There are no cultures in this area.
+
+     Fotanotihi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Hazutofimi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vowanaqi Region - coastal desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Koxofi Region - hot jungle
+       Cultures: 1
+         The Xaninona People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, cattle
+          Religion: Dualism
+            Ilazi, Punishing deity, Judgement, Writing
+            Lixoju, Meddling deity, Trickery, Painting
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Oqilafu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Xoqanawafa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jukuqi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qinotolu Region - dry desert
+       Cultures: 1
+         The Qili People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: potatoes, cattle, chicken, buffalo
+          Religion: Dualism
+            Qovi, Mysterious deity, Life, Angels, Stars
+            Zoquhoku, Mysterious deity, Death, Demons, Sky
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+
+-----------------------------
+The land of Havi
+Area (km): 61201960
+Regions: 
+     Lukiyo Region - cold forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Taxowija People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, fish
+          Religion: Monotheism
+            Ajamoxa, Mysterious deity, Strength, Magic, Family, Plague
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Luyivivaqa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Koyi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Xukofi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Ziyuvofovi Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Xuqaxaji Region - hot coastal desert
+       Cultures: 1
+         The Hukumuwiyo People
+          Corporatocracy - rule by corporations
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, chicken, pig, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Xata Region - cold dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Mixixu Region - hot dry desert
+       Cultures: 1
+         The Xujo People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Animism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Fazutotuxa Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Xanivaxayi Region - forest
+       Cultures: There are no cultures in this area.
+
+     Xuzo Region - hot steppe with sentient plants
+       Cultures: 1
+         The Tafova People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, authorities own all property.
+          Diet: potatoes, fish
+          Religion: Polytheism
+            Juxu, Obscure deity, Law, Civilization, Childbirth
+            Mafayulo, Punishing deity, Chaos, Fire, Civilization, Land, Demons, Intelligence
+            Foximaku, Meddling deity, Night, Forest
+            Livuno, Forgiving deity, Weaving, Creation
+            Fawiqoxi, Obscure deity, Wilderness, Civilization, Mind, Desire
+            Kahoqoqu, Obscure deity, Angels, Desire
+            Xoluhi, Uncaring deity, Demons, Intelligence, Angels, Civilization, Home
+            Vowanaqi, Punishing deity, Death, Insanity, Trickery
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: discomfort
+
+
+     Xoxinomi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Mituto Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Qoxi People
+          Despotism - rule by one, the ruler has slaves
+          There is no concept of property.
+          Diet: sorghum, cattle
+          Religion: Philosophical
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Tivuwanuyo Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Konula Region - hot grassland with floating islands
+       Cultures: 1
+         The Xaninona People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, fish
+          Religion: Dualism
+            Xutu, Meddling deity, Afterlife, Destruction, Harvest, Sky
+            Oxavokaxo, Meddling deity, Childbirth, Creation, Plague, Stars
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Vinumoxi Region - hot dry desert
+       Cultures: 1
+         The Luqizo People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: rice, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Muxiya Region - grassland with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Xaxoxati Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Qotiqu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Tiniquvaqi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ximita Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Mumaxu Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Xalojuli Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Nati Region - cold semiarid desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Ifo Region - forest
+       Cultures: There are no cultures in this area.
+
+     Ximita Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Kujuqo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Nawuzu Region - hot jungle with a wetland
+       Cultures: There are no cultures in this area.
+
+     Xihiwitoki Region - hot jungle
+       Cultures: 1
+         The Kaka People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: rice, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Xolaxati Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Witolotixa Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Kihofufa Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Taxowija Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Lolaka Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Jatu People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: sweet potatoes, buffalo, goat, buffalo
+          Religion: Totemism
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: discomfort
+
+
+     Xuxutiyuti Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Tamizomima Region - hot steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Vukaxu Region - hot forest with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Tuxujikifi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Voki Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Moqumoqu Region - cold dry desert
+       Cultures: 1
+         The Xalulu People
+          Dictatorship - rule by one, gained power through force
+          There is no concept of property.
+          Diet: rice, pig, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Qita, Obscure deity, Law, Harvest, Childbirth, Death, Stars
+            Tufutunihu, Punishing deity, Chaos, Plague, Afterlife, Life, Sky
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Futoti Region - steppe with sentient plants
+       Cultures: 1
+         The Zinikaxoji People
+          Diarchy - rule by two bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: corn, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Xofalomu, Mysterious deity, Painting, Strength, Fighting, Land, Night, Sky
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Tiniquvaqi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Hoxo
+Area (km): 5921358
+Regions: 
+     Kujuqo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Quzifohati Region - dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Hahoxiwi Region - steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Xuxami
+Area (km): 1672806
+Regions: 
+     Matoxi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Notukizalo
+Area (km): 6951808
+Regions: 
+     Totokato Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Faxamumixo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Ajoma Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Luyivivaqa Region - hot dry desert with floating islands
+       Cultures: 1
+         The Luzuxawito People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, authorities own all property.
+          Diet: corn, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects, buffalo
+          Religion: Polytheism
+            Haxafaxiyu, Punishing deity, Afterlife, Law, Desire, Weaving, War, Disaster
+            Vawaqofitu, Punishing deity, Forest, Sea
+            Xiha, Uncaring deity, Writing, Travel
+            Vifowuja, Judgemental deity, Trickery
+            Xata, Uncaring deity, Weaving, Painting, Writing, Childbirth
+            Zomutu, Meddling deity, Writing, Harvest
+            Quyuhiqi, Obscure deity, Metalworking, Creation, Judgement, Sea, Metalworking, Mind
+            Qovi, Obscure deity, Trickery
+            Zujumamahu, Uncaring deity, Disaster, Insanity, Antimagic, Afterlife, Magic, Writing
+            Lakavafi, Mysterious deity, Strength, Fighting, Creation, Home, Protection
+          Magic: Magic is used by very few.
+          Magic attitude: worship
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+

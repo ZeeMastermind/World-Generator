@@ -1,0 +1,421 @@
+-----siviwori world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+     In some places, Magic is used by very few.
+     In some places, Magic is virtually nonexistent.
+The source of magic is memorized words of power and spells.
+Around magic, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is ancient, consisting of ironworking and writing.
+     In some places, Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is prehistoric, consisting of rocks and sticks.
+Technology is powered by magic.
+Around technology, people react with worship.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 1 degrees Celsius. It is extremely cold.
+The world has virtually no life, and few things survive.
+The world is 26% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 8 continents.
+-----------------------------
+The land of egazevavi
+Area (km): 296277856
+Regions: 
+     rimocamosa Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     wixagebi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     siqehela Region - dry desert
+       Cultures: 1
+         The webori People
+          Kritarchy - rule by legal judges
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, fish
+          Religion: Shamanism
+
+
+     raviqirawi Region - cold dry desert
+       Cultures: 1
+         The ozoqi People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, goat, goat
+          Religion: Shamanism
+
+
+     bazazo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     zifi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     efo Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     wolawezora Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     zasoforiva Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     movo Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     diqa Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     facemiroba Region - cold dry desert
+       Cultures: 1
+         The wozisesise People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, goat
+          Religion: Dualism
+            gafozamiqa, Uncaring deity, Sun, Ice, Destruction, Moon
+            mive, Uncaring deity, Moon, Fire, Creation, Sun
+
+
+     loziwi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     losofozoze Region - cold steppe with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     erive Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     giza Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     lifilo Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     fawafe Region - cold steppe with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     movo Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     pafesoci Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     firofiveso Region - cold dry desert
+       Cultures: 1
+         The hisa People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, fish
+          Religion: Philosophical
+
+
+     fazowa Region - cold steppe
+       Cultures: 1
+         The fowa People
+          Military Dictatorship - rule by military
+          There is no trade, property is collectively owned.
+          Diet: cassava, buffalo, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            losocecisa, Antagonistic deity, Travel, Desert, Desire, Sky
+
+
+     zafaximi Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     malaze Region - hot dry desert
+       Cultures: 1
+         The jizohi People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: sorghum, game meat such as deer or elk, cattle, pig
+          Religion: Dualism
+            ziva, Mysterious deity, Antimagic, Sea, Travel, Land, Family
+            resemowe, Obscure deity, Magic, Land, Home, Sea, Love
+
+
+     wala Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     widaqe Region - cold forest
+       Cultures: 1
+         The abefiwaze People
+          Kratocracy - rule by strength
+          There is no trade, authorities own all property.
+          Diet: potatoes, cattle, chicken, pig
+          Religion: Demon Worship
+
+
+     vilalemixo Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     rimo Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     ahogivaqo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     feri Region - cold dry desert with floating islands
+       Cultures: 1
+         The omime People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, chicken
+          Religion: Ancestor Worship
+
+
+     weveregami Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     jamahalifo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     mevolebezi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     haceseroji Region - cold dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     ecigiba Region - steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of ecigiba
+Area (km): 7556044
+Regions: 
+     ezeveya Region - semiarid desert
+       Cultures: 1
+         The efo People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: plantains, cattle, monstrous meat such as dragons or griffins, buffalo
+          Religion: Polytheism
+            reririfafa, Forgiving deity, Creation
+            jefemo, Punishing deity, Ice, Sun, Fire, Magic
+            zomohara, Punishing deity, Plague, Life, Luck, Hatred, Protection, Destruction
+            ziva, Mysterious deity, Truth, Ice, Travel, Peace
+            vafihelore, Uncaring deity, Childbirth
+            zepi, Uncaring deity, Fighting
+            veseloga, Uncaring deity, Land, Sea, Home, Beauty
+            fofezefi, Mysterious deity, Sky, Secrets, Travel, Sky
+            roxa, Judgemental deity, Creation, Travel, Night, Beauty
+
+
+     cigewasa Region - hot grassland
+       Cultures: 1
+         The wizeraxaso People
+          Timocracy - rule by honor
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, sheep, buffalo, uncommon meat such as lizards or insects
+          Religion: Animism
+
+
+     gezeyirife Region - cold grassland with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     mora Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     feyi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     rayorecazi Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The farepemo People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, monstrous meat such as dragons or griffins, cattle
+          Religion: Ancestor Worship
+
+
+     obomo Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of cife
+Area (km): 5394842
+Regions: 
+     porawabo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     siwijife Region - hot grassland with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     ofiva Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of woliwarase
+Area (km): 53357162
+Regions: 
+     losofozoze Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     afesila Region - cold grassland with floating islands
+       Cultures: There are no cultures in this area.
+
+     refezoze Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     fifevadi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     omimi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     omiro Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     sezawirafi Region - hot dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     esisaraca Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     wecefewe Region - cold dry desert
+       Cultures: 1
+         The zeresowovo People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, chicken, pig
+          Religion: Philosophical
+
+
+     wilamiyogo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     gezeyirife Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The fifo People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: plantains, goat
+          Religion: Polytheism
+            fexopezo, Antagonistic deity, Forest, Antimagic, Secrets, Strength
+            odociha, Meddling deity, Home, Writing, Mind
+            cawewefe, Antagonistic deity, Mind, Sun, War, Fire, Sea, Peace
+            zavize, Forgiving deity, Harvest, Hatred
+            wozavi, Uncaring deity, Love, Fire
+            roxa, Mysterious deity, Fire, Afterlife, Magic, Insanity
+            lavisiji, Mysterious deity, Luck, Day, Secrets
+            esisaraca, Antagonistic deity, Day, Afterlife
+            rici, Uncaring deity, Ice, Weaving
+            jafa, Mysterious deity, War, Destruction, Plague, Wilderness, Night
+            azafe, Forgiving deity, Forest, Harvest, Painting, Moon, Stars, Disaster
+            seda, Punishing deity, Destruction, Ice, Magic, Stars, Sky, Protection
+            yaverohojo, Forgiving deity, Childbirth, Childbirth, Trickery, Intelligence, Destiny
+            romomobe, Obscure deity, Love, Protection, Sun, Day
+            marozoqaro, Obscure deity, Civilization
+            yaxafofa, Uncaring deity, Weaving, Afterlife
+
+
+     felivo Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     rija Region - cold forest with an undead infestation
+       Cultures: 1
+         The wiwece People
+          Ergatocracy - rule by working class
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, chicken, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+
+
+     azafe Region - cold dry desert
+       Cultures: 1
+         The filixomi People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, property is collectively owned.
+          Diet: potatoes, goat, uncommon meat such as lizards or insects
+          Religion: Totemism
+
+
+     rimo Region - cold dry desert
+       Cultures: 1
+         The soseme People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, chicken
+          Religion: Monotheism
+            siwijife, Meddling deity, Desert, Family
+
+
+     seha Region - cold forest with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     xemafi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     zexo Region - cold grassland
+       Cultures: 1
+         The cemiziri People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, cattle, uncommon meat such as lizards or insects, cattle
+          Religion: Shamanism
+
+
+     powivaceqe Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     rosivariri Region - cold forest with a giant mushroom forest
+       Cultures: 1
+         The reririfafa People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no concept of property.
+          Diet: potatoes, chicken
+          Religion: Totemism
+
+
+
+-----------------------------
+The land of faro
+Area (km): 1358054
+Regions: 
+     fifevadi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of fivawavoro
+Area (km): 1917986
+Regions: 
+     yiwowezogi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of lirifafo
+Area (km): 1713915
+Regions: 
+     zebifa Region - cold coastal desert
+       Cultures: 1
+         The raxafofe People
+          Stratocracy - rule by military with conscription
+          There is no trade, authorities own all property.
+          Diet: yams, goat
+          Religion: Totemism
+
+
+
+-----------------------------
+The land of risa
+Area (km): 1571538
+Regions: 
+     vilezoso Region - cold dry desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+

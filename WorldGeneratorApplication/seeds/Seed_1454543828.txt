@@ -1,0 +1,68 @@
+-----Samari world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+     In some places, Magic is used by many, but not all.
+The source of magic is pacts with monsters and demons. However, some mages use deities or spirits.
+Around magic, people react with indifference.
+     In some places, people react with awe.
+     In some places, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the distant future of Earth.
+     In some places, Technology is modern, consisting of nukes and computers.
+Technology is based upon discovered alien technology. However, some have built technology from the ruins of ancient civilizations.
+Around technology, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 0 degrees Celsius. It is extremely cold.
+The world has virtually no life, and few things survive.
+The world is 99% water.
+Large glaciers cover much of the world, growing each winter.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 2 continents.
+-----------------------------
+The land of Mivu
+Area (km): 3879270
+Regions: 
+     Birurefu Region - cold dry desert
+       Cultures: 1
+         The Lumawuvu People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: rice, buffalo
+          Religion: Polytheism
+            Utibidu, Antagonistic deity, Childbirth, Fire, Law
+            Time, Forgiving deity, Death, Magic
+            Mebemife, Forgiving deity, Sun, Sun, Beauty, Mind, Civilization, Land
+            Hiwunije, Antagonistic deity, Love, Luck, Destruction
+            Mejulilu, Meddling deity, Love, Intelligence, Sea, Angels, Home, Wilderness
+            Gitatexi, Uncaring deity, Harvest, Writing, Writing
+            Tumuduya, Mysterious deity, Magic
+            Nuyi, Meddling deity, Hatred, Weaving, Truth, Stars, Night, Hatred
+            Raqutewite, Uncaring deity, Life, Chaos, Peace
+            Bema, Obscure deity, Intelligence, Demons, Stars, Angels, Mind, Forest
+            Wenibamite, Obscure deity, Intelligence, Peace, Fighting, Harvest, Travel
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is the distant future of Earth.
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Exebemu
+Area (km): 1120730
+Regions: 
+     Sabibe Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+

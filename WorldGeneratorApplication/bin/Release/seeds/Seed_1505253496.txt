@@ -1,0 +1,88 @@
+-----Muqi world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+     In some places, Magic is used by many, but not all.
+     In some places, Magic is used by very few.
+The source of magic is memorized words of power and spells.
+Around magic, people react with awe.
+     In some places, people react with indifference.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is from the ruins of ancient civilizations.
+Around technology, people react with indifference.
+     In some places, people react with admiration.
+     In some places, people react with discomfort.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 0 degrees Celsius. It is extremely cold.
+The world has low amount of life, which is hard to find.
+The world is 99% water.
+Large glaciers cover much of the world, growing each winter.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 3 continents.
+-----------------------------
+The land of Quve
+Area (km): 2431872
+Regions: 
+     Kikijuzacu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Ladele
+Area (km): 1560460
+Regions: 
+     Gihu Region - hot steppe
+       Cultures: 1
+         The Lasare People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, sheep, fish
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+
+-----------------------------
+The land of Balila
+Area (km): 1007668
+Regions: 
+     Mebibu Region - cold steppe
+       Cultures: 2
+         The Kufepa People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, monstrous meat such as dragons or griffins, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Bivuri, Mysterious deity, Plague, Love, Desert, Desire, Afterlife
+            Izuxafa, Mysterious deity, Harvest, Family, Forest, Hatred, Childbirth
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+         The Mebe People
+          Ergatocracy - rule by working class
+          Trade is done through barter.
+          Diet: rice, cattle, pig
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+

@@ -1,0 +1,531 @@
+-----Dotapimiwi world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is virtually nonexistent.
+The source of magic is alchemy.
+Around magic, people react with hostility.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is ancient, consisting of ironworking and writing.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+     In some places, Technology is prehistoric, consisting of bows, plows, and maybe copper.
+Technology is powered by magic.
+Around technology, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 3 degrees Celsius. It is extremely cold.
+The world has an amount of life similar to Earth.
+The world is 73% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 7 continents.
+-----------------------------
+The land of Qajopohuso
+Area (km): 66931657
+Regions: 
+     Cofiqa Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Vomujacu Region - cold forest that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Kahimixuvu Region - cold coastal desert
+       Cultures: 1
+         The Aqaburubo People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, uncommon meat such as lizards or insects, pig, sheep
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Vaqaraxo Region - cold semiarid desert
+       Cultures: 2
+         The Vamimocuqe People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: wheat, goat
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+         The Suxuduwime People
+          Bankocracy - rule by banks
+          Trade is done through barter.
+          Diet: soybeans, cattle, cattle, pig
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Gamolujori Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Kokecaca Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Beyiqe Region - cold jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Pehi Region - hot steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Palito Region - cold coastal desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Miro Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Dohohe Region - forest
+       Cultures: There are no cultures in this area.
+
+     Bowepiqi Region - hot semiarid desert
+       Cultures: 2
+         The Teco People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+         The Ibariyuha People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: corn, cattle, cattle
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Cofiqa
+Area (km): 9949970
+Regions: 
+     Fexo Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Getujimuju Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Tucudokofi
+Area (km): 4463707
+Regions: 
+     Kesage Region - cold jungle
+       Cultures: 2
+         The Popeqawa People
+          Meritocracy - rule by ability
+          There is no trade, property is collectively owned.
+          Diet: corn, goat
+          Religion: Demon Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+         The Midiji People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava
+          Religion: Dualism
+            Ligi, Meddling deity, Weaving, Destruction, Fire, Secrets
+            Remecumuco, Obscure deity, Metalworking, Creation, Ice, Truth
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Vamepaqiba Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qesoso Region - cold forest with a giant mushroom forest
+       Cultures: 2
+         The Cituhi People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, fish
+          Religion: Monotheism
+            Fedateta, Forgiving deity, Trickery, Chaos
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+         The Kesope People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, goat
+          Religion: Demon Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+
+-----------------------------
+The land of Coca
+Area (km): 36047560
+Regions: 
+     Kogeri Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Pelifixa Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The Yulodi People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, uncommon meat such as lizards or insects, cattle, goat
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Vesigi Region - forest
+       Cultures: There are no cultures in this area.
+
+     Qagu Region - hot dry desert
+       Cultures: 1
+         The Mepa People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: potatoes, fish, fish, goat
+          Religion: Monotheism
+            Poqoga, Forgiving deity, Day, Fire, Hatred, Trickery
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Durosakoqe Region - cold dry desert with a giant mushroom forest
+       Cultures: 2
+         The Vuxihipu People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, monstrous meat such as dragons or griffins, sheep, goat
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: awe
+
+         The Xiruve People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: corn, uncommon meat such as lizards or insects, sheep, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Ciriha Region - cold jungle
+       Cultures: 1
+         The Afuraye People
+          Dictatorship - rule by one, gained power through force
+          There is no concept of property.
+          Diet: corn, cattle, cattle
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Cesiburo Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Mavapi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Qagobubo Region - hot grassland
+       Cultures: 2
+         The Qoquqapo People
+          Aristocracy - rule by several bloodlines
+          Trade is done through barter.
+          Diet: cassava, uncommon meat such as lizards or insects, goat
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+         The Wapo People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, goat, cattle
+          Religion: Polytheism
+            Molokoqi, Punishing deity, Luck, Metalworking, Fire, Desert
+            Dotapimiwi, Mysterious deity, Destruction, Intelligence
+            Roxejepugi, Punishing deity, Fire, War, Land, Antimagic, Sun
+            Xoxibudoyu, Punishing deity, Day, Insanity, Wilderness, Antimagic
+            Caxabeye, Meddling deity, Chaos, Moon, Love, Trickery, Mind, Desire
+            Ragiwivi, Meddling deity, Life
+            Boxima, Meddling deity, Moon
+            Riqu, Forgiving deity, Hatred, Fire, Trickery, Demons, Afterlife
+            Qowu, Obscure deity, Angels, Moon, Plague, Travel
+            Olacu, Uncaring deity, Plague, Childbirth
+            Sibi, Judgemental deity, Judgement, Truth, Moon
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Sekudo Region - cold grassland
+       Cultures: 1
+         The Ditu People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Qoqoqulobi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Ciriha Region - cold grassland
+       Cultures: 1
+         The Bakutipa People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, pig, pig
+          Religion: Polytheism
+            Vupa, Forgiving deity, Law, Night, Trickery, Intelligence, Day
+            Dote, Mysterious deity, Antimagic, Night
+            Gikajuqo, Obscure deity, Sea, Intelligence, Fighting, Day
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Beyiqe Region - cold grassland with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Bumuwutu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Macodi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Qemaguka Region - dry desert
+       Cultures: 2
+         The Lukove People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, chicken, chicken
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+         The Yivu People
+          Kratocracy - rule by strength
+          Trade is done through barter.
+          Diet: sorghum
+          Religion: Ancestor Worship
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Boremepaxu Region - hot dry desert
+       Cultures: 2
+         The Bibuyibabi People
+          Monarchy - rule by single bloodline
+          There is no concept of property.
+          Diet: plantains, pig, sheep, fish
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+         The Gecuye People
+          Dictatorship - rule by one, gained power through force
+          There is no concept of property.
+          Diet: sorghum, pig
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Rofemupi Region - semiarid desert with floating islands
+       Cultures: 2
+         The Pajoyoxero People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, chicken, buffalo
+          Religion: Monotheism
+            Ecugupe, Forgiving deity, Truth, Desert, Insanity
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: awe
+
+         The Faxatekata People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: rice, sheep, sheep, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Qufuvabexe Region - cold jungle
+       Cultures: 2
+         The Sexiya People
+          Ochlocracy - mob rule
+          This is no concept of trade, but gifts are given.
+          Diet: yams, fish, goat, game meat such as deer or elk
+          Religion: Philosophical
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: hostility
+
+         The Lukove People
+          Theocracy - rule by religion
+          There is no concept of property.
+          Diet: sweet potatoes, goat, sheep
+          Religion: Monotheism
+            Paje, Antagonistic deity, Destiny, Peace, Insanity
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Mihaqito Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Bicupo Region - hot jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     Bobeqamu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Siduqota Region - cold semiarid desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Muru
+Area (km): 2990599
+Regions: 
+     Rarimuhi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Gujumu Region - cold jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Diqexaya
+Area (km): 6929977
+Regions: 
+     Mefu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Xekuqeca
+Area (km): 7131791
+Regions: 
+     Vesofuje Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Amelo Region - forest
+       Cultures: There are no cultures in this area.
+
+     Gewusipuxo Region - cold forest
+       Cultures: 1
+         The Pemukero People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Wepopo, Forgiving deity, Creation, Beauty, War
+            Casecaya, Uncaring deity, Moon, Love
+            Mixuje, Mysterious deity, Judgement, Family, Wilderness, Love, Magic, Protection
+            Bixaca, Meddling deity, Hatred
+            Ceqote, Obscure deity, Magic, Childbirth, Stars, Secrets, War, Trickery
+            Ogi, Mysterious deity, Luck, Metalworking, Death
+            Wipasasure, Punishing deity, Chaos, Secrets, Forest
+            Bebeje, Judgemental deity, Trickery, Family, Writing, Chaos, Painting
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Deciyexaje Region - cold steppe that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Haboqo People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, buffalo
+          Religion: Shamanism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: discomfort
+
+
+     Vusimatopu Region - cold coastal desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Peqa Region - cold dry desert
+       Cultures: 1
+         The Xoxororoqe People
+          Kleptocracy - rule by thieves
+          Trade is done with coin and unregulated by authority.
+          Diet: wheat, pig, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Magic is virtually nonexistent.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: awe
+
+
+     Vemufama Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+

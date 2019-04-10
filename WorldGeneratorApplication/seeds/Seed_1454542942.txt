@@ -1,0 +1,605 @@
+-----Surirefajo world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+The source of magic is nature.
+Around magic, people react with indifference.
+     In some places, people react with admiration.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with indifference.
+     In some places, people react with admiration.
+     In some places, people react with discomfort.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 5 degrees Celsius. It is extremely cold.
+The world has low amount of life, which is hard to find.
+The world is 78% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 2 continents.
+-----------------------------
+The land of Pirufopabu
+Area (km): 57672704
+Regions: 
+     Rucepimopi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Axe Region - cold dry desert
+       Cultures: 2
+         The Rozu People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: soybeans, goat, chicken, buffalo
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Pujupepe People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: rice, chicken, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Rofeziyede Region - cold jungle
+       Cultures: 1
+         The Qorire People
+          Kritarchy - rule by legal judges
+          There is no concept of property.
+          Diet: cassava, monstrous meat such as dragons or griffins, sheep, game meat such as deer or elk
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Biratefufe Region - cold jungle with floating islands
+       Cultures: 1
+         The Cepikafape People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, chicken
+          Religion: Dualism
+            Xipucobaji, Judgemental deity, Destiny, Ice
+            Apara, Forgiving deity, Luck, Fire
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Rifisisuzu Region - cold dry desert
+       Cultures: 1
+         The Pebe People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: sweet potatoes, cattle, cattle, buffalo
+          Religion: Monotheism
+            Wuvozada, Judgemental deity, Family, Luck
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: indifference
+
+
+     Safazepiro Region - cold forest that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Poruraje People
+          Geniocracy - rule by intelligence
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, monstrous meat such as dragons or griffins
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Epopifepo Region - cold dry desert
+       Cultures: 2
+         The Baqaroqa People
+          Meritocracy - rule by ability
+          This is no concept of trade, but gifts are given.
+          Diet: yams, monstrous meat such as dragons or griffins, fish, fish
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Yuraxi People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes, game meat such as deer or elk, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Dicurije, Judgemental deity, Sea, Stars, Beauty, Painting, Fire, Love
+            Fivowoqa, Forgiving deity, Destruction
+            Bavecufovo, Obscure deity, Hatred, Writing, Desire, Weaving
+            Wamepiqi, Mysterious deity, Antimagic, Law, Chaos, Afterlife, Demons
+            Mekuru, Punishing deity, Judgement
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Riza Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Kacuwe Region - hot jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Pipa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Fuzociru Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Rapizece Region - cold jungle
+       Cultures: 2
+         The Ripaqapa People
+          Kleptocracy - rule by thieves
+          There is no trade, authorities own all property.
+          Diet: soybeans, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Fobu People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, sheep, sheep, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Fapazikoca Region - cold jungle with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Xaqokicapo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Raqifireru Region - cold dry desert
+       Cultures: 1
+         The Pipaqofu People
+          Monarchy - rule by single bloodline
+          Trade is done through barter.
+          Diet: plantains, uncommon meat such as lizards or insects, cattle
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: indifference
+
+
+     Pajopi Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Zore Region - cold grassland
+       Cultures: 2
+         The Zeze People
+          Autocracy - rule by one, the ruler has servants
+          There is no concept of property.
+          Diet: wheat
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Epopifepo People
+          Plutocracy - rule by rich
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: indifference
+
+
+     Odu Region - hot coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: 1
+         The Fico People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          This is no concept of trade, but gifts are given.
+          Diet: rice, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: admiration
+
+
+     Ebofupe Region - cold coastal desert
+       Cultures: 1
+         The Repoyarefe People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: potatoes, cattle, game meat such as deer or elk, buffalo
+          Religion: Polytheism
+            Efarufuyo, Obscure deity, Mind, Luck, Trickery, Destruction, Law
+            Fafo, Punishing deity, Fighting
+            Apara, Mysterious deity, Angels, Creation, Sea, Life, Desire, Harvest
+            Pararu, Meddling deity, Harvest, Death, Harvest, Night
+            Raqiroriru, Meddling deity, Beauty, Ice, Wilderness, Desire, Truth
+            Pirufopabu, Uncaring deity, Sea, Love
+            Uzazeri, Judgemental deity, Protection, Life, Wilderness
+            Pixa, Punishing deity, Fire, Protection, Harvest
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: indifference
+
+
+     Pajopi Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Irefelere People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, uncommon meat such as lizards or insects, fish, buffalo
+          Religion: Polytheism
+            Fepo, Forgiving deity, Stars, Luck, Demons, Strength, Antimagic, Weaving
+            Wesora, Forgiving deity, Insanity, Plague, Luck, Day, Moon, Secrets
+            Bexocurafe, Meddling deity, Destiny, Truth, Creation, Magic
+            Pipupofa, Antagonistic deity, Insanity, Painting, Home, Peace
+            Fulenonefo, Obscure deity, Creation, Desire, Trickery, Fighting, Plague, War
+            Rufuyepu, Obscure deity, Night
+            Pokurafiro, Judgemental deity, Family, Home, Land, Death
+            Cabipofowa, Punishing deity, Fighting, Beauty
+            Kace, Forgiving deity, Sky, Law
+            Qiroli, Uncaring deity, Angels
+            Noda, Judgemental deity, Afterlife, Sea, Sea
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Biferurefo Region - cold forest
+       Cultures: 2
+         The Ripupi People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Pubazera People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: corn, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Perufaro Region - cold grassland with a wetland
+       Cultures: 2
+         The Wedepo People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: potatoes, buffalo
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Poruraje People
+          Diarchy - rule by two bloodlines
+          There is no trade, property is collectively owned.
+          Diet: rice, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Pirupopo Region - cold forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Runoji People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: wheat, game meat such as deer or elk, cattle
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: indifference
+
+         The Foporufufa People
+          Kritarchy - rule by legal judges
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, pig, uncommon meat such as lizards or insects, fish
+          Religion: Monotheism
+            Fitiwafaca, Judgemental deity, Sun, Travel, Family, Luck, Strength, Luck
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Bavecufovo Region - cold grassland
+       Cultures: 1
+         The Ipapetepu People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: potatoes, chicken, pig
+          Religion: Polytheism
+            Fopoqodafu, Meddling deity, Antimagic, Insanity, Secrets
+            Cepafece, Obscure deity, Antimagic, Insanity
+            Ufozi, Antagonistic deity, Creation, Truth, Night
+            Vuxudepika, Mysterious deity, Weaving
+            Xirijocawi, Meddling deity, Intelligence, Trickery, Magic
+            Rupo, Punishing deity, Magic, Law, Childbirth
+            Racafe, Antagonistic deity, Home, Intelligence, Painting, Desert, Ice, Fighting
+            Fakefelilo, Antagonistic deity, Chaos, Death, Writing, Disaster, Moon, War
+            Nowu, Forgiving deity, Mind
+            Fumefekobi, Meddling deity, Harvest, Judgement, Disaster, Law, Moon
+            Fifipo, Meddling deity, Night, Angels, Antimagic, Ice, Sky
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+
+-----------------------------
+The land of Ropebo
+Area (km): 51921816
+Regions: 
+     Tufu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Pajopi Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Picerepipe Region - cold dry desert
+       Cultures: 2
+         The Pipupofa People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: rice, monstrous meat such as dragons or griffins, pig, fish
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Fifepa People
+          Monstrous tyranny - rule by monsters through force
+          There is no concept of property.
+          Diet: plantains, cattle, goat
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Ifu Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Fico Region - cold jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Enupo Region - grassland
+       Cultures: 2
+         The Pofiqafise People
+          Corporatocracy - rule by corporations
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, goat
+          Religion: Polytheism
+            Bexocurafe, Meddling deity, Afterlife, Truth, Wilderness, Harvest
+            Ixeruvima, Obscure deity, Chaos
+            Eno, Uncaring deity, Afterlife, Love, Antimagic
+            Fipa, Judgemental deity, Law, Beauty, Civilization, Travel
+            Izapeka, Meddling deity, Childbirth, Strength, Weaving
+            Paratoruxi, Mysterious deity, Luck, Chaos
+            Wipazu, Uncaring deity, Writing, Sea
+            Qapadapepi, Judgemental deity, Peace, Forest, Trickery, Ice
+            Fefe, Mysterious deity, Writing, Chaos
+            Sapofifu, Forgiving deity, Peace, Fighting, Creation, Plague, Fighting, Protection
+            Opu, Judgemental deity, Ice, Civilization, Intelligence
+            Qireleqole, Punishing deity, Travel
+            Zore, Meddling deity, Desert
+            Fojuqecu, Punishing deity, Afterlife, Creation, Angels, Beauty
+            Koro, Forgiving deity, Desert
+            Famibopisa, Forgiving deity, Destruction, Law, Creation, Secrets
+            Feraroxusa, Forgiving deity, Sea, Travel, Childbirth
+            Baqaroqa, Uncaring deity, Peace, Weaving, Desert
+            Ururipu, Obscure deity, Family, Fire, Chaos, Luck, Sea, Chaos
+            Reriniwo, Obscure deity, Family
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Zuve People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: admiration
+
+
+     Ufalo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Fefa Region - cold coastal desert
+       Cultures: 1
+         The Rulasu People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Rapizece Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Fopoqodafu Region - coastal desert with giant living rocks
+       Cultures: 1
+         The Reripu People
+          Direct Democracy - rule by enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, pig
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Acefupo Region - cold coastal desert
+       Cultures: 1
+         The Foruze People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, property is collectively owned.
+          Diet: plantains
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: indifference
+
+
+     Qurudayuxi Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Qiqe Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Icupa Region - hot jungle
+       Cultures: 2
+         The Vuxudepika People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: rice
+          Religion: Polytheism
+            Fabeweroje, Meddling deity, Plague
+            Kifufaye, Forgiving deity, Metalworking, Judgement, Desire, Life, Protection, Antimagic
+            Zorererufu, Meddling deity, Antimagic
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Zasenu People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: soybeans, goat
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+     Reri Region - cold jungle
+       Cultures: 2
+         The Ofiferifa People
+          Monarchy - rule by single bloodline
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, goat, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Wofaxu People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Dualism
+            Enupo, Uncaring deity, Childbirth, Travel, Home, Death
+            Riforu, Uncaring deity, Afterlife, Home, Travel, Life
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: admiration
+
+
+     Depexekefi Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Kapefufo Region - cold dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Rapa Region - cold jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Ruqo Region - hot grassland
+       Cultures: 2
+         The Apiboriwa People
+          Direct Democracy - rule by enfranchised elections
+          There is no concept of property.
+          Diet: corn, sheep
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+         The Wirufipipu People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is ancient, consisting of aqueducts and better ships than in the past.
+          Tech attitude: indifference
+
+
+     Powasa Region - cold forest
+       Cultures: 1
+         The Ixeruvima People
+          Kleptocracy - rule by thieves
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+          Tech attitude: indifference
+
+
+

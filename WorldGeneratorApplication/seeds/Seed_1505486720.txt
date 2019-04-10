@@ -1,0 +1,460 @@
+-----Tolurevijo world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+     In some places, Magic is used by very few.
+     In some places, Magic is virtually nonexistent.
+The source of magic is blood.
+Around magic, people react with indifference.
+     In some places, people react with admiration.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is based upon discovered alien technology. However, some have built technology similar to how it is on earth.
+Around technology, people react with fear.
+     In some places, people react with hostility.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 1 degrees Celsius. It is extremely cold.
+The world has an amount of life similar to Earth.
+The world is 87% water.
+Large glaciers cover much of the world, growing each winter.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Muki
+Area (km): 44711800
+Regions: 
+     Duzubori Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Iki Region - hot grassland
+       Cultures: 1
+         The Yukoya People
+                 Dictatorship - rule by one, gained power through force
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Sorghum, buffalo, buffalo
+                 Religion: Totemism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: discomfort
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Pojoxozegu Region - cold jungle
+       Cultures: 2
+         The Mici People
+                 Dictatorship - rule by one, gained power through force
+                 There is no trade, authorities own all property.
+                 Diet: Soybeans, sheep, uncommon meat such as lizards or insects
+                 Religion: Monotheism
+                   Sinuzofecu, Obscure deity, Fighting, Sea
+                 Magic: Magic is virtually nonexistent.
+                 Magic attitude: discomfort
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Sidapemumo People
+                 Stratocracy - rule by military with conscription
+                 There is no concept of property.
+                 Diet: Plantains, monstrous meat such as dragons or griffins, fish
+                 Religion: Animism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Wari Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Yimuwuzu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Juvi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zehate Region - cold jungle
+       Cultures: 2
+         The Yikone People
+                 Kleptocracy - rule by thieves
+                 There is no concept of property.
+                 Diet: Cassava, monstrous meat such as dragons or griffins
+                 Religion: Dualism
+                   Zozuzugo, Uncaring deity, Plague, Writing, Fighting, Destiny
+                   Bevuva, Meddling deity, Harvest, Painting, Protection, Luck
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: discomfort
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Podite People
+                 Corporatocracy - rule by corporations
+                 There is no concept of property.
+                 Diet: Soybeans, pig, chicken, game meat such as deer or elk
+                 Religion: Philosophical
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Pagute Region - cold coastal desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Niniteva People
+                 Geniocracy - rule by intelligence
+                 There is no trade, property is collectively owned.
+                 Diet: Potatoes, monstrous meat such as dragons or griffins, chicken, uncommon meat such as lizards or insects
+                 Religion: Animism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Nezatunuha Region - cold jungle
+       Cultures: 1
+         The Yikone People
+                 Stratocracy - rule by military with conscription
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Plantains, fish, chicken, fish
+                 Religion: Shamanism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Girururu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Jugenepara Region - cold steppe
+       Cultures: 2
+         The Revuxu People
+                 Plutocracy - rule by rich
+                 There is no concept of property.
+                 Diet: Sweet potatoes, fish
+                 Religion: Animism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: admiration
+         The Kaximu People
+                 Monstrous tyranny - rule by monsters through force
+                 This is no concept of trade, but gifts are given.
+                 Diet: Sorghum, sheep, chicken
+                 Religion: Philosophical
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Puduvizo Region - cold dry desert
+       Cultures: 2
+         The Atohemiza People
+                 Monstrous tyranny - rule by monsters through force
+                 This is no concept of trade, but gifts are given.
+                 Diet: Yams, chicken, chicken
+                 Religion: Monotheism
+                   Zeyekujele, Mysterious deity, Death, Desert, Truth, Sea
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Turukeji People
+                 Kleptocracy - rule by thieves
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Potatoes, fish, pig
+                 Religion: Ancestor Worship
+                 Magic: Magic is virtually nonexistent.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Utiyaba Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Zihikotugu Region - cold dry desert
+       Cultures: 1
+         The Wopapunuve People
+                 Kratocracy - rule by strength
+                 Trade is done with coin and unregulated by authority.
+                 Diet: Plantains, sheep, sheep
+                 Religion: Monotheism
+                   Janopevi, Judgemental deity, Strength, Insanity
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Jujalupode Region - cold jungle
+       Cultures: 1
+         The Iki People
+                 Timocracy - rule by honor
+                 There is no trade, property is collectively owned.
+                 Diet: Rice, cattle, pig, chicken
+                 Religion: Philosophical
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Penevovi Region - cold steppe
+       Cultures: 1
+         The Kocamofiku People
+                 Military Dictatorship - rule by military
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Cassava, buffalo, game meat such as deer or elk, chicken
+                 Religion: Dualism
+                   Zurodoru, Obscure deity, Desert
+                   Jizuri, Antagonistic deity, Forest
+                 Magic: Magic is virtually nonexistent.
+                 Magic attitude: discomfort
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Otemile Region - cold jungle
+       Cultures: 2
+         The Upeviro People
+                 Kleptocracy - rule by thieves
+                 There is no trade, authorities own all property.
+                 Diet: Soybeans, goat
+                 Religion: Demon Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Turi People
+                 Military Dictatorship - rule by military
+                 Trade is done through barter.
+                 Diet: Wheat
+                 Religion: Ancestor Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: discomfort
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Reme Region - cold forest
+       Cultures: 2
+         The Vunehaxegi People
+                 Theocracy - rule by religion
+                 This is no concept of trade, but gifts are given.
+                 Diet: Sweet potatoes
+                 Religion: Demon Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Pevulo People
+                 Corporatocracy - rule by corporations
+                 There is no trade, property is collectively owned.
+                 Diet: Plantains
+                 Religion: Monotheism
+                   Awa, Meddling deity, Metalworking, Family, Desert, Antimagic
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Ridukeyoku Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Subelovo Region - cold dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Rinibucilo Region - cold grassland with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Numecupi Region - forest
+       Cultures: 2
+         The Mudiru People
+                 Timocracy - rule by honor
+                 There is no trade, property is collectively owned.
+                 Diet: Soybeans, monstrous meat such as dragons or griffins, fish
+                 Religion: Totemism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Kukovu People
+                 Magrocracy - rule by magic
+                 There is no concept of property.
+                 Diet: Potatoes, uncommon meat such as lizards or insects
+                 Religion: Shamanism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Pitite Region - cold jungle with sentient plants
+       Cultures: 1
+         The Nevilimapo People
+                 Geniocracy - rule by intelligence
+                 There is no trade, authorities own all property.
+                 Diet: Plantains, cattle, uncommon meat such as lizards or insects
+                 Religion: Animism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Dogi Region - cold dry desert
+       Cultures: 1
+         The Bituja People
+                 Monarchy - rule by single bloodline
+                 There is no trade, authorities own all property.
+                 Diet: Rice, goat, fish
+                 Religion: Totemism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: admiration
+
+     Guxudobayi Region - hot jungle
+       Cultures: 1
+         The Igode People
+                 Kratocracy - rule by strength
+                 There is no trade, property is collectively owned.
+                 Diet: Corn, chicken, cattle
+                 Religion: Ancestor Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Vizu Region - cold grassland
+       Cultures: 1
+         The Jepo People
+                 Representative Democracy - rule by representatives chosen through enfranchised elections
+                 There is no concept of property.
+                 Diet: Sweet potatoes, cattle, pig, buffalo
+                 Religion: Philosophical
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Kekoyenu Region - cold semiarid desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Vakemiti Region - cold jungle
+       Cultures: 2
+         The Kiputo People
+                 Dictatorship - rule by one, gained power through force
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: Corn, sheep, cattle
+                 Religion: Demon Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Tapuvucosa People
+                 Bankocracy - rule by banks
+                 There is no trade, authorities own all property.
+                 Diet: Wheat, chicken, pig
+                 Religion: Totemism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Tonu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Sati Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jegugojo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Suna Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Pomigiyi
+Area (km): 6831698
+Regions: 
+     Gogiyige Region - cold semiarid desert with living, growing rocks and crystals
+       Cultures: 2
+         The Riyaguri People
+                 Stratocracy - rule by military with conscription
+                 Trade is done through barter.
+                 Diet: Wheat, goat
+                 Religion: Demon Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Zova People
+                 Military Dictatorship - rule by military
+                 There is no concept of property.
+                 Diet: Cassava, uncommon meat such as lizards or insects
+                 Religion: Monotheism
+                   Pito, Judgemental deity, Chaos, Creation, Magic, Protection, Wilderness
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+     Rofu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Akuza
+Area (km): 2792584
+Regions: 
+     Dicaze Region - hot jungle with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Niniteva Region - hot dry desert
+       Cultures: 1
+         The Naku People
+                 Timocracy - rule by honor
+                 There is no trade, authorities own all property.
+                 Diet: Soybeans, buffalo, monstrous meat such as dragons or griffins, fish
+                 Religion: Monotheism
+                   Tavovivi, Mysterious deity, Destruction, Demons
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: indifference
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+
+-----------------------------
+The land of Tociyaku
+Area (km): 9016188
+Regions: 
+     Geva Region - cold semiarid desert with a giant mushroom forest
+       Cultures: 2
+         The Peje People
+                 Corporatocracy - rule by corporations
+                 This is no concept of trade, but gifts are given.
+                 Diet: Sorghum
+                 Religion: Shamanism
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: discomfort
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+         The Poxuco People
+                 Ergatocracy - rule by working class
+                 Trade is done through barter.
+                 Diet: Sweet potatoes
+                 Religion: Ancestor Worship
+                 Magic: Only a few living people have ever seen magic.
+                 Magic attitude: discomfort
+                 Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+                 Tech attitude: fear
+
+
+-----------------------------
+The land of Mavegelede
+Area (km): 1647730
+Regions: 
+     Atanuvano Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+

@@ -1,0 +1,78 @@
+-----Nupixeqe world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by very few.
+     In some places, Magic is used by some, and people know of it.
+     In some places, Only a few living people have ever seen magic.
+The source of magic is nature. However, some mages use pacts with monsters and demons.
+Around magic, people react with admiration.
+     In some places, people react with worship.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is powered by magic.
+Around technology, people react with fear.
+     In some places, people react with discomfort.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 1 degrees Celsius. It is extremely cold.
+The world has low amount of life, which is hard to find.
+The world is 99% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 1 continents.
+-----------------------------
+The land of Qepo
+Area (km): 4638650
+Regions: 
+     Gawoci Region - semiarid desert
+       Cultures: 1
+         The Wupetiku People
+          Anarchy - no enforced rule
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, pig, sheep
+          Religion: Ancestor Worship
+
+
+     Rava Region - cold dry desert
+       Cultures: 2
+         The Uboyununa People
+          Monarchy - rule by single bloodline
+          There is no trade, property is collectively owned.
+          Diet: cassava, pig, chicken, buffalo
+          Religion: Ancestor Worship
+
+         The Ife People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: rice, sheep, buffalo
+          Religion: Demon Worship
+
+
+     Bebuqi Region - cold jungle without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Tunutu People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: plantains, buffalo
+          Religion: Animism
+
+
+     Atiwihiba Region - jungle
+       Cultures: 1
+         The Tewepatosu People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, buffalo, monstrous meat such as dragons or griffins, cattle
+          Religion: Ancestor Worship
+
+
+

@@ -1,0 +1,731 @@
+-----Zigexufa world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Every sentient being can use magic.
+The source of magic is blood. However, some mages use monstrous bloodlines.
+Around magic, people react with indifference.
+     In some places, people react with admiration.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of rocks and sticks.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is powered by magic. However, some have built technology similar to how it is on earth.
+Around technology, people react with discomfort.
+     In some places, people react with admiration.
+     In some places, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 12 degrees Celsius. It is like earth.
+The world has virtually no life, and few things survive.
+The world is 71% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Hijota
+Area (km): 2846205
+Regions: 
+     Hukujukule Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Jakajoha
+Area (km): 95144323
+Regions: 
+     Homexehuju Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jojiyejazu Region - cold semiarid desert
+       Cultures: 1
+         The Wocuru People
+          Kratocracy - rule by strength
+          There is no concept of property.
+          Diet: sorghum
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Vakija Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wujaxikuwi Region - hot jungle with floating islands
+       Cultures: 1
+         The Ihodaqu People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: wheat, sheep
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Wegadokeju Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Jiho Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Epawere Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Jajawaga Region - hot grassland with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Gakawujoda Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Kaku Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Weliroko Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Kefe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qokuwa Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Jidekunu Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Oxime Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Rufa Region - forest with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Wepoxijo Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Digokuje Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Ewe Region - cold forest with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Vaji People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, goat, cattle, game meat such as deer or elk
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Wugu Region - cold coastal desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Fuwa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jijokusewo Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Cekikozi Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jaku Region - forest
+       Cultures: 1
+         The Ozakokagu People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Quwuju Region - hot forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Kukuki Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Qiquwu Region - cold semiarid desert
+       Cultures: 1
+         The Cuwatoketi People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: sorghum, chicken, pig, fish
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Wukigiwo Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Yuni Region - dry desert
+       Cultures: 1
+         The Wewuju People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: wheat, cattle, uncommon meat such as lizards or insects
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Ejexoqaxe Region - dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Wuwowu Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Onuwojeyu Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Hitowufufu Region - grassland
+       Cultures: 1
+         The Wepitewawi People
+          Military Dictatorship - rule by military
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, chicken, goat, sheep
+          Religion: Dualism
+            Qujefirije, Uncaring deity, Childbirth
+            Iqiwiwito, Forgiving deity, Afterlife
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Rune Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Wiqefitowe Region - cold steppe with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Jejika Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jututayufe Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Jokuvoja Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Xupuqoju Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     Exakike Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Aqeqizeke Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Jipefojoko Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Qiduje Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Rufa Region - hot dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Sewusa Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Wezusigu People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: wheat, sheep, fish
+          Religion: Shamanism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Sojeke Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Zuxokejuko Region - hot forest
+       Cultures: 1
+         The Goge People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, property is collectively owned.
+          Diet: sorghum, fish, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Weliroko Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Kale Region - cold semiarid desert
+       Cultures: 1
+         The Luwaheji People
+          Geniocracy - rule by intelligence
+          This is no concept of trade, but gifts are given.
+          Diet: potatoes
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Sisu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Titoho Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Wukekoxewi Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Wipafukaho Region - forest with sentient plants
+       Cultures: 1
+         The Wijiroja People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, pig, uncommon meat such as lizards or insects, chicken
+          Religion: Polytheism
+            Wekigo, Judgemental deity, Destruction, Sea, Weaving
+            Xejawajuja, Obscure deity, Angels, Luck, Land, Protection
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Jipujara Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Guqexeji Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Veruki Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Oxime Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Wizomu Region - hot dry desert with living, growing rocks and crystals
+       Cultures: 1
+         The Kowucujaxu People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava
+          Religion: Dualism
+            Keki, Punishing deity, Secrets, Luck, Land, Metalworking, War
+            Wawiwujimo, Obscure deity, Truth, Destiny, Sea, Weaving, Peace
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Fijidujipu Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Wikiciku Region - hot jungle with a giant mushroom forest
+       Cultures: 1
+         The Yite People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, sheep, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Polytheism
+            Kilukoqa, Forgiving deity, Day, Afterlife, Stars, Civilization, Civilization, Wilderness
+            Jokidekumi, Uncaring deity, Life, Disaster, Stars, Protection, Fighting, Desert
+            Eya, Punishing deity, Weaving, Insanity, Forest
+            Oriwake, Antagonistic deity, Life, Land, Creation, Trickery
+            Jeto, Meddling deity, Forest, Night
+            Jetizoroca, Judgemental deity, Intelligence
+            Ewukejema, Obscure deity, Night, Secrets, Law, Mind, Magic
+            Jewe, Forgiving deity, Beauty, Land, Plague, Forest, Metalworking, Childbirth
+            Kexuyu, Mysterious deity, Secrets
+            Gakawujoda, Mysterious deity, Trickery, Desire, Sky, Trickery, Wilderness
+            Tukojige, Uncaring deity, Demons, Demons, Desire
+            Wotogeyo, Punishing deity, Forest
+            Jelegiwe, Meddling deity, Peace, Destiny, Sea, Disaster, Hatred
+            Wanoto, Meddling deity, Hatred, Destiny, Antimagic, Luck, Metalworking
+            Jewutori, Uncaring deity, War, Demons
+            Wukekoxewi, Meddling deity, Strength, Day
+            Ujizagogu, Punishing deity, Desire, Truth, Destruction, Desire, Day
+            Fuwa, Mysterious deity, Wilderness, Death, Truth
+            Pukeko, Meddling deity, Demons, Wilderness, Home
+            Guqoxi, Meddling deity, Desire, Magic
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Kihoweko Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Wavuma Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wejojotoko Region - hot dry desert
+       Cultures: 1
+         The Kumovejevu People
+          Military Dictatorship - rule by military
+          Trade is done through barter.
+          Diet: potatoes, uncommon meat such as lizards or insects, cattle, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Ikimi Region - cold dry desert
+       Cultures: 1
+         The Kewacura People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, fish, pig
+          Religion: Dualism
+            Xagakoje, Punishing deity, Wilderness, Fighting, Destiny, Wilderness, Desert, Luck
+            Kowove, Punishing deity, Civilization, Protection, Luck, Civilization, Forest, Destiny
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Wako Region - hot grassland
+       Cultures: 1
+         The Ejawuwo People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, goat, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Xoqejiko Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Josivi Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     Iqiwiwito Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Gopawaye Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Pegetejewu Region - hot dry desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Weliroko Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Rasowe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wugekoji Region - steppe
+       Cultures: There are no cultures in this area.
+
+     Rugejare Region - hot semiarid desert
+       Cultures: 1
+         The Jeki People
+          Technocracy - rule by education
+          Trade is done through barter.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Jixizi, Judgemental deity, Land
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Ujizagogu Region - cold grassland
+       Cultures: 1
+         The Qukuru People
+          Ergatocracy - rule by working class
+          There is no concept of property.
+          Diet: soybeans, fish, game meat such as deer or elk
+          Religion: Ancestor Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Lewuwuwofo Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     Jukuji Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Woniwujora Region - hot dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Qawojo Region - cold semiarid desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Jugi Region - hot dry desert
+       Cultures: 1
+         The Wipafukaho People
+          Stratocracy - rule by military with conscription
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, goat, monstrous meat such as dragons or griffins, uncommon meat such as lizards or insects
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Wawi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qukivediqa Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Cipuwojeje Region - hot dry desert
+       Cultures: 1
+         The Jijuqitaqu People
+          Dictatorship - rule by one, gained power through force
+          Trade is done through barter.
+          Diet: rice, buffalo, uncommon meat such as lizards or insects
+          Religion: Monotheism
+            Dequ, Antagonistic deity, Metalworking
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: fear
+
+
+     Jiwijuzuku Region - cold coastal desert that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Xiwowimejo Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Qawojo Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Junewoja
+Area (km): 12021809
+Regions: 
+     Gakawujoda Region - cold forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Pewasito Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Rifola Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Kugewace Region - hot dry desert
+       Cultures: 1
+         The Kacayoja People
+          Monarchy - rule by single bloodline
+          There is no trade, authorities own all property.
+          Diet: plantains, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Every sentient being can use magic.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Fuxije Region - cold dry desert
+       Cultures: 1
+         The Jajeji People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, chicken, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Juwe, Obscure deity, Death
+            Wuwewudoca, Punishing deity, Magic, Truth
+            Kewuniwewu, Mysterious deity, Stars, Mind
+            Fikatu, Judgemental deity, Strength, Insanity, Sun, Trickery, Plague
+            Xawa, Mysterious deity, Sea, Disaster, Life, Metalworking, Angels
+            Qusari, Judgemental deity, Desire, Creation, Day, Travel
+            Weciwaje, Meddling deity, Intelligence, Family, Stars
+            Jijuqitaqu, Obscure deity, Moon
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Gitete Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Tokuhu Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Wewijewe Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Akijexe
+Area (km): 33219460
+Regions: 
+     Juxacamu Region - steppe that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Natuwi Region - dry desert
+       Cultures: 1
+         The Jiho People
+          Ergatocracy - rule by working class
+          There is no concept of property.
+          Diet: corn, chicken
+          Religion: Demon Worship
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Wofi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Rujo Region - dry desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Peguwo Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Hikoguweje Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Kuna Region - cold semiarid desert
+       Cultures: 1
+         The Tokotakowi People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: corn, goat
+          Religion: Polytheism
+            Ketoqoja, Mysterious deity, Plague, Home, Wilderness, Law
+            Leqosuxusa, Antagonistic deity, Disaster, Luck, Magic, Travel, Desert
+            Kokawi, Uncaring deity, Desert, Secrets, Beauty
+            Uqahewopo, Forgiving deity, Writing, Painting, Wilderness, Plague
+            Ruki, Punishing deity, Strength, Death, Protection, Insanity
+            Zakekojiji, Punishing deity, Life, Strength, Moon
+            Wizomu, Mysterious deity, Death, Destiny, Destruction
+            Micamala, Antagonistic deity, Ice, Stars, Antimagic, Judgement, Metalworking
+            Fexokakuki, Mysterious deity, Sky, Law, Destiny, Chaos
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Tequ Region - cold semiarid desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Kewuwe Region - jungle
+       Cultures: 1
+         The Qoke People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: rice, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Tijohiji Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Ruki Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Xiwa Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Kamapawawu Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Hoje Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Jututayufe Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jipujara Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Wujiwi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Mewujezo Region - cold dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Wixewusa Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Medaru Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Kiro Region - forest without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 1
+         The Jaguqiguso People
+          Despotism - rule by one, the ruler has slaves
+          There is no trade, authorities own all property.
+          Diet: cassava, game meat such as deer or elk
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Zekuzu Region - cold dry desert with giant living rocks
+       Cultures: 1
+         The Tokotakowi People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: yams, game meat such as deer or elk, cattle, chicken
+          Religion: Totemism
+          Magic: Every sentient being can use magic.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Joxo Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Kijiwene Region - cold coastal desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Kuqajo
+Area (km): 1768203
+Regions: 
+     Ugukaji Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+

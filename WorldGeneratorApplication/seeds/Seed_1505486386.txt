@@ -1,0 +1,527 @@
+-----Jayiquru world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+     In some places, Every sentient being can use magic.
+     In some places, Magic is used by many, but not all.
+The source of magic is memorized words of power and spells.
+Around magic, people react with admiration.
+     In some places, people react with worship.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is modern, consisting of nukes and computers.
+     In some places, Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic. However, some have built technology similar to how it is on earth.
+Around technology, people react with discomfort.
+     In some places, people react with admiration.
+     In some places, people react with fear.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 23 degrees Celsius. It is extremely hot.
+The world has virtually no life, and few things survive.
+The world is 57% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 10 continents.
+-----------------------------
+The land of Jimo
+Area (km): 79038925
+Regions: 
+     Juyuyiyusa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Nujoqaxa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cavaju Region - hot dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 1
+         The Qunaqofi People
+                 Kratocracy - rule by strength
+                 There is no trade, authorities own all property.
+                 Diet: corn, sheep
+                 Religion: Animism
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Jugiku Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Ropiworara Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jumijuvifi Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Numamiqa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Daqa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Ajiviga Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Qomomimoja Region - hot steppe
+       Cultures: 1
+         The Dipuji People
+                 Ochlocracy - mob rule
+                 Trade is done with coin and unregulated by authority.
+                 Diet: yams, uncommon meat such as lizards or insects, sheep, sheep
+                 Religion: Monotheism
+                   Qiqiqido, Forgiving deity, Life
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+                 Tech attitude: discomfort
+
+     Moqo Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Aro Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Ciqujaji Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Saxi Region - hot jungle with an undead infestation
+       Cultures: 1
+         The Qicomuqo People
+                 Theocracy - rule by religion
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: cassava, game meat such as deer or elk, monstrous meat such as dragons or griffins, pig
+                 Religion: Monotheism
+                   Ami, Mysterious deity, Civilization
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: indifference
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Cimi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Zaji Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Cimi
+Area (km): 28321410
+Regions: 
+     Qupoqafu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Jumupaqoqo Region - hot dry desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Gomo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jaku Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Juyuyiyusa Region - cold steppe
+       Cultures: 1
+         The Jodimomiji People
+                 Direct Democracy - rule by enfranchised elections
+                 This is no concept of trade, but gifts are given.
+                 Diet: sweet potatoes, goat, goat
+                 Religion: Philosophical
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Cuzacu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yomamo Region - hot dry desert
+       Cultures: 1
+         The Omama People
+                 Technocracy - rule by education
+                 There is no concept of property.
+                 Diet: rice, goat, sheep, game meat such as deer or elk
+                 Religion: Animism
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is similar to the renaissance, consisting of gunpowder and the printing press.
+                 Tech attitude: worship
+
+     Ijuqa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Gumu Region - hot dry desert with a wetland
+       Cultures: 1
+         The Fiyayuco People
+                 Bankocracy - rule by banks
+                 Trade is done through barter.
+                 Diet: sweet potatoes, chicken, chicken
+                 Religion: Shamanism
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: awe
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Sogomoyo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jujoqo Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Vuwada Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Muda Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Qipari
+Area (km): 12829852
+Regions: 
+     Qiqifuyagi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Xakicagoqi Region - hot dry desert
+       Cultures: 1
+         The Kudu People
+                 Timocracy - rule by honor
+                 There is no trade, authorities own all property.
+                 Diet: plantains, pig, cattle
+                 Religion: Polytheism
+                   Jajaju, Uncaring deity, Desire, Angels, Strength, Day
+                   Yimi, Uncaring deity, Protection, Love, Secrets, Destruction
+                   Wima, Punishing deity, Judgement, Land, Day, Magic, Life, Home
+                   Novuqujo, Antagonistic deity, Land, Desire, Magic, Angels
+                   Qajusivago, Obscure deity, Sky, Ice, Secrets, Destruction, Demons, Secrets
+                   Jumaju, Obscure deity, Secrets, Law, Sun
+                   Macomoquja, Meddling deity, Antimagic
+                   Gogo, Meddling deity, Wilderness, Weaving, Mind, War
+                   Muqomaqama, Punishing deity, Judgement, Painting, Luck, Metalworking, Travel
+                   Daqa, Obscure deity, Disaster, Chaos, Desire, Ice, Angels, Love
+                   Kina, Judgemental deity, Childbirth
+                   Yomamo, Obscure deity, Sun, Fighting, Hatred, Ice
+                   Dacamafici, Uncaring deity, Desert
+                   Jiru, Meddling deity, Truth, Secrets
+                   Uja, Mysterious deity, Metalworking, Death
+                   Mijufomoqi, Meddling deity, Day
+                   Coqoqofaqo, Meddling deity, Strength, Sky, Truth, Hatred, Life
+                   Gunuqo, Meddling deity, Travel, Sky, Family
+                   Mawaqu, Obscure deity, Home, Home
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Wuquqo Region - hot dry desert
+       Cultures: 1
+         The Jujamocamo People
+                 Fascism - rule by one, gained power through nationalism
+                 Trade is done through barter.
+                 Diet: potatoes, goat, pig, chicken
+                 Religion: Demon Worship
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: awe
+
+     Vusa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Pumomisi Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Omoyo Region - hot steppe that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Fixadadaqa Region - hot dry desert
+       Cultures: 1
+         The Joju People
+                 Chiefdom - rule by senior members of families or houses
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: sorghum, chicken, chicken
+                 Religion: Philosophical
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Wucavavoro Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Qomojuxaqa Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Jiyivayi Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Piju
+Area (km): 20123776
+Regions: 
+     Muqiqujo Region - coastal desert
+       Cultures: There are no cultures in this area.
+
+     Jumifo Region - hot dry desert
+       Cultures: 1
+         The Qimijiqu People
+                 Autocracy - rule by one, the ruler has servants
+                 There is no concept of property.
+                 Diet: rice, monstrous meat such as dragons or griffins, fish, monstrous meat such as dragons or griffins
+                 Religion: Polytheism
+                   Wajujaji, Uncaring deity, Land, Love
+                   Yoja, Mysterious deity, Forest, Plague, Mind, Moon
+                   Fixadadaqa, Forgiving deity, Peace
+                   Umu, Mysterious deity, Afterlife, Strength, Chaos, Fighting
+                   Jawivojoja, Antagonistic deity, Destiny, Sky, Magic, Civilization, Civilization
+                   Pamoni, Mysterious deity, Civilization, Land
+                   Roqijajo, Forgiving deity, Afterlife
+                   Akogiqoyi, Meddling deity, Night, Destiny
+                   Moro, Mysterious deity, Strength, Afterlife, Home, Peace, Secrets, Desire
+                   Qimaqa, Antagonistic deity, Chaos, Intelligence, Intelligence, Harvest, Writing, Writing
+                   Ojijodiyi, Judgemental deity, Moon
+                   Zoqujakari, Forgiving deity, Love, Disaster, Sea, Luck, Secrets
+                   Uzurapi, Mysterious deity, Night, Fighting
+                   Dikunu, Judgemental deity, Destruction, Intelligence, Fighting, Law, Forest
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Xipuzixifo Region - hot coastal desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Joca Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+     Moqunowomo Region - hot dry desert
+       Cultures: 1
+         The Majomi People
+                 Ergatocracy - rule by working class
+                 Trade is done through barter.
+                 Diet: plantains, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+                 Religion: Monotheism
+                   Mopoqomo, Antagonistic deity, Magic
+                 Magic: Magic is used by many, but not all.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: awe
+
+     Qoqi Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Azoji Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Quwaqado Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Qofi Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Qafu Region - hot dry desert
+       Cultures: 1
+         The Japimoqa People
+                 Geniocracy - rule by intelligence
+                 Trade is done with coin and unregulated by authority.
+                 Diet: sweet potatoes, fish, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+                 Religion: Totemism
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+
+-----------------------------
+The land of Xoqodudi
+Area (km): 59609043
+Regions: 
+     Monajoduqo Region - hot dry desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Kuvi Region - hot forest
+       Cultures: 1
+         The Dovaqu People
+                 Ochlocracy - mob rule
+                 This is no concept of trade, but gifts are given.
+                 Diet: sweet potatoes, chicken
+                 Religion: Philosophical
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: awe
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+
+-----------------------------
+The land of Coni
+Area (km): 2269994
+Regions: 
+     Yaqa Region - hot grassland
+       Cultures: 1
+         The Mijajomi People
+                 Kleptocracy - rule by thieves
+                 This is no concept of trade, but gifts are given.
+                 Diet: potatoes
+                 Religion: Polytheism
+                   Firini, Antagonistic deity, Love, Stars, Ice, Destiny, Desire
+                   Forimu, Mysterious deity, Stars, Desert, Family, Land, Disaster, Luck
+                   Ojijodiyi, Meddling deity, Disaster, Sea
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: indifference
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: worship
+
+     Yonarafoqa Region - hot steppe with giant living rocks
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Ami
+Area (km): 9103020
+Regions: 
+     Xuniqa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wima Region - jungle
+       Cultures: 1
+         The Joca People
+                 Kleptocracy - rule by thieves
+                 Trade is done with coin, and authorities provide services such as roads and police.
+                 Diet: sorghum, goat, fish
+                 Religion: Polytheism
+                   Yuwamodu, Mysterious deity, Beauty, Desire
+                   Vugipiquju, Mysterious deity, Chaos, Intelligence, Disaster, Fire
+                   Mizaqivu, Forgiving deity, Trickery, Weaving, Angels, Weaving
+                   Coni, Antagonistic deity, Day, Childbirth, Intelligence, Protection, Truth
+                   Joruqicuxo, Uncaring deity, Creation, Afterlife, Land, Sky, Civilization
+                   Kuxijamumu, Meddling deity, Harvest, Moon, Metalworking, Destruction, Death, Wilderness
+                   Jumupaqoqo, Judgemental deity, Destruction, Afterlife, War, Day
+                   Jasa, Uncaring deity, Home, Destruction, Day
+                   Juziququ, Meddling deity, Protection, Stars, Hatred, Judgement, Wilderness
+                   Ujudaza, Uncaring deity, Stars, Sky, Civilization, Sun
+                   Jupi, Punishing deity, Plague, Afterlife, Wilderness
+                   Majamaru, Meddling deity, Desert, Harvest, Judgement
+                   Fixuqa, Meddling deity, Law, Harvest, Family, Truth, Demons
+                   Jasuyugoju, Punishing deity, Plague, Wilderness, Trickery, Painting, Protection, Mind
+                   Quwaqado, Uncaring deity, Metalworking
+                   Mijajomi, Punishing deity, Destruction, Stars
+                   Qimo, Obscure deity, Stars, Desert, Fighting, Magic
+                   Yomamo, Meddling deity, Death, Travel, Insanity, Mind, Desire, Chaos
+                   Kimumomaqi, Obscure deity, Insanity, Writing, Land
+                   Ojamomuvi, Obscure deity, Beauty, Angels, Disaster, Truth
+                 Magic: Magic is used by many, but not all.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Azoji Region - semiarid desert
+       Cultures: 1
+         The Ijuqa People
+                 Monarchy - rule by single bloodline
+                 There is no trade, property is collectively owned.
+                 Diet: wheat
+                 Religion: Demon Worship
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+     Fixadadaqa Region - coastal desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Qipari Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Docoqo Region - hot dry desert
+       Cultures: 1
+         The Kaca People
+                 Kritarchy - rule by legal judges
+                 Trade is done through barter.
+                 Diet: sorghum, game meat such as deer or elk
+                 Religion: Polytheism
+                   Ijici, Antagonistic deity, Desert, Weaving, Land, Luck
+                   Jaji, Judgemental deity, Magic, Sea, Moon, Luck, Weaving
+                   Jajaju, Forgiving deity, Love, Mind, Forest
+                   Jumokowa, Obscure deity, Strength, Civilization, Magic
+                   Kijava, Mysterious deity, Childbirth, Day, Protection, Death
+                   Gaqayu, Judgemental deity, Forest, Night, Travel
+                   Foqayo, Punishing deity, Antimagic, Forest, Trickery, Metalworking, Family
+                   Musa, Obscure deity, Insanity, Sea, Beauty, Night, Mind, Fighting
+                   Uja, Forgiving deity, Day, Land, Metalworking, Childbirth, Forest
+                   Cujija, Punishing deity, Desert, Life, Desire, Judgement, Civilization, Plague
+                   Mamo, Mysterious deity, Beauty
+                   Nuvoqi, Judgemental deity, Civilization, Mind, Peace, Writing, War, Strength
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+
+-----------------------------
+The land of Zimiwagi
+Area (km): 1272934
+Regions: 
+     Jimujimu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Zimaqojoqu
+Area (km): 1307810
+Regions: 
+     Umomoqija Region - hot dry desert
+       Cultures: 1
+         The Rimu People
+                 Monarchy - rule by single bloodline
+                 Trade is done through barter.
+                 Diet: yams, cattle
+                 Religion: Animism
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+
+-----------------------------
+The land of Ajijoki
+Area (km): 1123236
+Regions: 
+     Mijajomi Region - hot grassland
+       Cultures: 1
+         The Xuna People
+                 Chiefdom - rule by senior members of families or houses
+                 There is no trade, property is collectively owned.
+                 Diet: sweet potatoes, uncommon meat such as lizards or insects
+                 Religion: Polytheism
+                   Didoja, Judgemental deity, Secrets, Destiny, Childbirth
+                   Ajoxokimu, Mysterious deity, Antimagic, Plague, Judgement, Luck, Fire, Hatred
+                   Gijorujo, Uncaring deity, Protection, Painting, Plague
+                   Juyuyiyusa, Meddling deity, Sea, Hatred, Judgement, Antimagic, Civilization
+                   Qupuxu, Meddling deity, Secrets
+                   Juqizi, Mysterious deity, Wilderness, Magic
+                   Riwoquyagi, Uncaring deity, Forest
+                   Nuvoqi, Punishing deity, Family, Sky
+                   Ujaqu, Forgiving deity, Day
+                   Razogi, Judgemental deity, Travel
+                   Gaqiwi, Mysterious deity, Chaos
+                   Yoja, Meddling deity, Life, Sky
+                   Ima, Forgiving deity, Love, Travel, Trickery, Night, Home
+                   Jodimomiji, Judgemental deity, Weaving, Weaving, Writing, Intelligence
+                   Kudu, Judgemental deity, Night, Day
+                   Mayu, Judgemental deity, Fire, Moon, Insanity, Death, Metalworking
+                   Omoyo, Meddling deity, Writing
+                   Gopujaququ, Punishing deity, Magic, Civilization
+                 Magic: Magic is taken for granted as an aspect of everyday life, and almost everyone uses it.
+                 Magic attitude: admiration
+                 Tech: Technology is modern, consisting of nukes and computers.
+                 Tech attitude: discomfort
+
+

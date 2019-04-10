@@ -1,0 +1,583 @@
+-----depipuza world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is virtually nonexistent.
+The source of magic is monstrous bloodlines.
+Around magic, people react with awe.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the distant future of Earth.
+Technology is similar to how it is on earth.
+Around technology, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 4 degrees Celsius. It is extremely cold.
+The world has an amount of life similar to Earth.
+The world is 81% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 3 continents.
+-----------------------------
+The land of ulipuwu
+Area (km): 89345097
+Regions: 
+     ukafi Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     cirelekuna Region - cold dry desert
+       Cultures: 1
+         The judacaza People
+          Monarchy - rule by single bloodline
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains
+          Religion: Totemism
+
+
+     iyefa Region - coastal desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     jucafeleca Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     jajitu Region - cold forest
+       Cultures: 2
+         The yuluniyi People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: corn, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            uveyabe, Punishing deity, Life, Law, Sun, Truth, Land
+
+         The zava People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin and unregulated by authority.
+          Diet: yams, sheep, chicken
+          Religion: Totemism
+
+
+     yuluniyi Region - cold jungle with an undead infestation
+       Cultures: 1
+         The etakiwepa People
+          Fascism - rule by one, gained power through nationalism
+          There is no concept of property.
+          Diet: rice, game meat such as deer or elk, sheep
+          Religion: Philosophical
+
+
+     erebuwu Region - cold grassland without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The fawi People
+          Ergatocracy - rule by working class
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, fish, chicken, pig
+          Religion: Ancestor Worship
+
+         The ciye People
+          Fascism - rule by one, gained power through nationalism
+          This is no concept of trade, but gifts are given.
+          Diet: plantains, buffalo
+          Religion: Dualism
+            basa, Meddling deity, Love, Home, Moon
+            lediraku, Mysterious deity, Family, Travel, Sun
+
+
+     zalapuha Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     watace Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     beribe Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     uveyabe Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     ribedu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     isarera Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     buje Region - cold jungle
+       Cultures: 2
+         The vuduka People
+          Ergatocracy - rule by working class
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, fish, chicken, game meat such as deer or elk
+          Religion: Demon Worship
+
+         The vahe People
+          Chiefdom - rule by senior members of families or houses
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, monstrous meat such as dragons or griffins, game meat such as deer or elk
+          Religion: Dualism
+            ziri, Antagonistic deity, Metalworking, Judgement
+            sejenefa, Judgemental deity, Weaving, Trickery
+
+
+     lifeju Region - cold dry desert
+       Cultures: 2
+         The lasi People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, game meat such as deer or elk, game meat such as deer or elk, pig
+          Religion: Dualism
+            aka, Mysterious deity, Desert, Antimagic, Childbirth, Truth, Strength
+            kuwa, Antagonistic deity, Forest, Magic, Afterlife, Secrets, Intelligence
+
+         The hupikuhulu People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, cattle, chicken, pig
+          Religion: Philosophical
+
+
+     lukevuyuze Region - cold dry desert
+       Cultures: 1
+         The ehahiriha People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes
+          Religion: Demon Worship
+
+
+     fakike Region - cold steppe
+       Cultures: There are no cultures in this area.
+
+     zayukezira Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     buje Region - hot dry desert
+       Cultures: 1
+         The feviri People
+          Theocracy - rule by religion
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, uncommon meat such as lizards or insects, sheep, fish
+          Religion: Demon Worship
+
+
+     secafe Region - cold dry desert
+       Cultures: 2
+         The ciye People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: cassava, sheep
+          Religion: Polytheism
+            kedebifu, Obscure deity, Sun, Death, Law, Travel, Weaving, Night
+            tasa, Mysterious deity, War, Trickery, Sky, Hatred, Creation
+            fefici, Uncaring deity, Sea
+            lifeju, Antagonistic deity, Plague
+            hulese, Uncaring deity, Trickery, Day, Life, Childbirth, Sea
+            fuya, Uncaring deity, Death, Truth, Mind, Angels, Painting, Forest
+            rerecubiwe, Uncaring deity, Peace
+            vutesizaze, Judgemental deity, Childbirth, Strength, Home, Forest, War, Civilization
+            fezu, Obscure deity, Demons, Protection
+            fayuvu, Obscure deity, Night, Truth, Sea
+            vekudadi, Punishing deity, Desire, War, Trickery, Trickery, Childbirth, Home
+
+         The jajaju People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: rice, buffalo
+          Religion: Dualism
+            fuki, Judgemental deity, Childbirth, Antimagic, Sea, Antimagic, Love, Demons
+            hiju, Antagonistic deity, Afterlife, Magic, Land, Magic, Family, Angels
+
+
+     elesu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     lapejiru Region - dry desert
+       Cultures: 2
+         The inipuwu People
+          Geniocracy - rule by intelligence
+          There is no concept of property.
+          Diet: rice, goat, chicken, buffalo
+          Religion: Philosophical
+
+         The hulese People
+          Meritocracy - rule by ability
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans
+          Religion: Shamanism
+
+
+     pubaki Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     ajikavupu Region - hot jungle
+       Cultures: 1
+         The hewudecute People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: soybeans, pig
+          Religion: Philosophical
+
+
+     evu Region - cold steppe with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The zakanacuke People
+          Monstrous tyranny - rule by monsters through force
+          There is no trade, authorities own all property.
+          Diet: yams
+          Religion: Totemism
+
+         The direwiwa People
+          Meritocracy - rule by ability
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, goat, fish, cattle
+          Religion: Philosophical
+
+
+     huceca Region - cold grassland
+       Cultures: There are no cultures in this area.
+
+     rukataziki Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     jijira Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     suhenabika Region - cold jungle
+       Cultures: 2
+         The pukeyejavi People
+          Kleptocracy - rule by thieves
+          Trade is done through barter.
+          Diet: sorghum, cattle, fish
+          Religion: Shamanism
+
+         The bupuha People
+          Timocracy - rule by honor
+          There is no trade, property is collectively owned.
+          Diet: yams, sheep, game meat such as deer or elk, sheep
+          Religion: Totemism
+
+
+     kikukupehe Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     haliwuzili Region - semiarid desert
+       Cultures: There are no cultures in this area.
+
+     vekarulize Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     wukiji Region - cold coastal desert
+       Cultures: 2
+         The pahusa People
+          Plutocracy - rule by rich
+          There is no trade, authorities own all property.
+          Diet: wheat, cattle
+          Religion: Ancestor Worship
+
+         The puyecu People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, fish, uncommon meat such as lizards or insects, fish
+          Religion: Polytheism
+            balizukufe, Antagonistic deity, Moon, Destiny, Painting, Plague, Death, Judgement
+            zitakayuja, Uncaring deity, Mind, Destruction, Day, Stars, Sea
+            cefayu, Forgiving deity, Sun, Wilderness, Harvest, Sky, Weaving
+
+
+     weseyata Region - jungle
+       Cultures: 1
+         The etuyi People
+          Ochlocracy - mob rule
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, buffalo
+          Religion: Demon Worship
+
+
+     cufulu Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     lebaci Region - cold coastal desert
+       Cultures: 2
+         The cisawi People
+          Anarchy - no enforced rule
+          There is no concept of property.
+          Diet: plantains, goat, fish
+          Religion: Polytheism
+            rebepujiku, Punishing deity, Family
+            enunasuvu, Mysterious deity, Weaving, Destruction, Judgement
+            fubepefanu, Judgemental deity, Harvest, Disaster, Love, Mind
+
+         The nedujuci People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, sheep, game meat such as deer or elk
+          Religion: Ancestor Worship
+
+
+     nefeleja Region - cold coastal desert
+       Cultures: 1
+         The cava People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: yams, fish, monstrous meat such as dragons or griffins, cattle
+          Religion: Monotheism
+            jehi, Forgiving deity, Truth, Truth, Weaving
+
+
+     natalebefe Region - cold forest
+       Cultures: 1
+         The kizukibe People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, game meat such as deer or elk
+          Religion: Polytheism
+            bati, Uncaring deity, Day, Harvest, Sun, Chaos, Desert, Destruction
+            buya, Obscure deity, Travel, Secrets, Life, Harvest, Land, Land
+            wezicujani, Judgemental deity, Painting, War, Stars, Painting, Sea
+            jidetuke, Mysterious deity, Sky
+            derinewi, Obscure deity, Sun
+            vali, Uncaring deity, Stars, Angels, Angels, Antimagic
+            neyabadi, Forgiving deity, Death, Angels
+            ribedu, Antagonistic deity, Home, Fire, Destiny, Magic, Peace, Magic
+            yuci, Meddling deity, Forest, Land
+            navebipi, Obscure deity, Beauty, Desert
+            suyusupu, Uncaring deity, Metalworking, Wilderness
+            buhibipi, Judgemental deity, Trickery, Desire, Disaster, Sky, Weaving
+            heji, Obscure deity, Judgement, Desire, Sun, Fire, Law
+            rere, Antagonistic deity, Wilderness, Insanity, Love, Destiny, Fighting, Day
+            vabu, Antagonistic deity, Creation, War
+            yecehitude, Judgemental deity, Travel, Weaving, Secrets, Hatred, Peace, Judgement
+            sucu, Meddling deity, Demons, Home, Law, Harvest, Sun
+
+
+     ucu Region - cold jungle
+       Cultures: 1
+         The suvileti People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: potatoes, monstrous meat such as dragons or griffins, goat
+          Religion: Totemism
+
+
+     ajepabe Region - cold semiarid desert
+       Cultures: 1
+         The wefisusewu People
+          Magrocracy - rule by magic
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, cattle, pig
+          Religion: Dualism
+            witedu, Punishing deity, Love
+            ebaviliru, Antagonistic deity, Family
+
+
+     tutucatula Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     lusecuta Region - cold jungle with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+     yasetatile Region - hot forest
+       Cultures: 1
+         The viyi People
+          Plutocracy - rule by rich
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+
+
+     subuca Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     wece Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     nufuna Region - cold dry desert
+       Cultures: 2
+         The isehi People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, sheep, chicken, buffalo
+          Religion: Polytheism
+            uhirideva, Meddling deity, Metalworking, Law
+            ajepabe, Mysterious deity, Luck, Wilderness, Painting, Ice, Home, Trickery
+            rebepujiku, Forgiving deity, Luck, Magic, Night, Night
+            ulihe, Meddling deity, Travel, Luck, Intelligence, Trickery, Fighting
+            kale, Meddling deity, Writing, Writing, Wilderness, Afterlife, Law
+            yitevilute, Uncaring deity, Insanity, Fire, Demons, Demons
+            wujidace, Obscure deity, Luck, Forest, Stars, Secrets, Forest, Creation
+            virifi, Antagonistic deity, Fighting, Travel
+            azaje, Forgiving deity, Stars, Night
+            saciwa, Forgiving deity, Painting, Fighting, Sea
+            ciba, Punishing deity, Sun, Fire, Trickery, Childbirth, Weaving
+            rizezayiki, Uncaring deity, Magic, Law, Day, Harvest, Desert, Plague
+            jurawijuwa, Antagonistic deity, Angels, Fighting, Insanity, Moon
+            uzikiseja, Judgemental deity, Secrets, Ice
+            beyizubi, Obscure deity, Day, Secrets
+
+         The yasunu People
+          Bankocracy - rule by banks
+          Trade is done through barter.
+          Diet: wheat
+          Religion: Shamanism
+
+
+     halu Region - cold jungle
+       Cultures: 1
+         The kiredesira People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects, sheep
+          Religion: Ancestor Worship
+
+
+     pukeyejavi Region - jungle
+       Cultures: 2
+         The putidadezu People
+          Bankocracy - rule by banks
+          There is no concept of property.
+          Diet: cassava, game meat such as deer or elk, game meat such as deer or elk
+          Religion: Animism
+
+         The cisawi People
+          Technocracy - rule by education
+          Trade is done through barter.
+          Diet: wheat, pig
+          Religion: Animism
+
+
+     ida Region - cold coastal desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     buje Region - dry desert
+       Cultures: 2
+         The badaveyi People
+          Bankocracy - rule by banks
+          Trade is done through barter.
+          Diet: rice, uncommon meat such as lizards or insects, sheep
+          Religion: Polytheism
+            kedebifu, Antagonistic deity, Protection
+            edayi, Meddling deity, Secrets, Destiny
+            banufikate, Antagonistic deity, Land, Home, Writing
+
+         The etuyi People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, pig
+          Religion: Polytheism
+            ruvula, Antagonistic deity, Peace, Day, Home, Secrets
+            lare, Uncaring deity, Creation, Insanity, Death, Beauty
+            hufi, Mysterious deity, Family, Peace, Law
+            tasa, Punishing deity, Judgement, Day, Angels, Mind, Truth, Ice
+
+
+     ribedu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     wubehe Region - cold steppe that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     zure Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     rituridufu Region - cold jungle
+       Cultures: 1
+         The tazanabu People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          Trade is done through barter.
+          Diet: wheat, buffalo, buffalo, buffalo
+          Religion: Totemism
+
+
+     kepulika Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     seseleze Region - hot semiarid desert with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     eyetu Region - cold jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The bikeratiwe People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done through barter.
+          Diet: potatoes
+          Religion: Totemism
+
+
+     inipuwu Region - cold coastal desert
+       Cultures: There are no cultures in this area.
+
+     ajuwizipi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     wedibi Region - cold jungle
+       Cultures: 2
+         The ativadaku People
+          Aristocracy - rule by several bloodlines
+          This is no concept of trade, but gifts are given.
+          Diet: rice, uncommon meat such as lizards or insects, sheep, uncommon meat such as lizards or insects
+          Religion: Totemism
+
+         The cutehena People
+          Chiefdom - rule by senior members of families or houses
+          There is no concept of property.
+          Diet: soybeans, uncommon meat such as lizards or insects
+          Religion: Dualism
+            jufiji, Antagonistic deity, War, Wilderness, Writing, Antimagic, Metalworking, Trickery
+            vuyateku, Forgiving deity, Peace, Civilization, Painting, Magic, Weaving, Judgement
+
+
+     jekajuku Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of buwe
+Area (km): 3054572
+Regions: 
+     juli Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     nuyuzu Region - cold grassland
+       Cultures: 2
+         The jevivuku People
+          Stratocracy - rule by military with conscription
+          This is no concept of trade, but gifts are given.
+          Diet: sorghum, pig
+          Religion: Monotheism
+            wefina, Judgemental deity, Family, Life
+
+         The lasuhana People
+          Autocracy - rule by one, the ruler has servants
+          Trade is done through barter.
+          Diet: wheat
+          Religion: Shamanism
+
+
+     yarizeneta Region - hot steppe
+       Cultures: 2
+         The zayi People
+          Technocracy - rule by education
+          There is no trade, property is collectively owned.
+          Diet: potatoes, pig, sheep, goat
+          Religion: Demon Worship
+
+         The esuye People
+          Kratocracy - rule by strength
+          There is no trade, authorities own all property.
+          Diet: corn, buffalo, monstrous meat such as dragons or griffins, cattle
+          Religion: Shamanism
+
+
+
+-----------------------------
+The land of defina
+Area (km): 2600331
+Regions: 
+     hela Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: There are no cultures in this area.
+
+

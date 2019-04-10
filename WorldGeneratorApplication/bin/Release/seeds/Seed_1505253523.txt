@@ -1,0 +1,264 @@
+-----Lesexi world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+     In some places, Magic is used by many, but not all.
+     In some places, Magic is used by very few.
+The source of magic is deities or spirits.
+Around magic, people react with awe.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is modern, consisting of nukes and computers.
+     In some places, Technology is the near-future of Earth.
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with indifference.
+     In some places, people react with admiration.
+     In some places, people react with discomfort.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 6 degrees Celsius. It is cold.
+The world has an amount of life similar to Earth.
+The world is 92% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 5 continents.
+-----------------------------
+The land of Saruniti
+Area (km): 29907305
+Regions: 
+     Ataci Region - cold grassland
+       Cultures: 2
+         The Ganirabapa People
+          Bankocracy - rule by banks
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, pig
+          Religion: Dualism
+            Nadasite, Punishing deity, Moon, Truth, Wilderness, Secrets
+            Mekane, Meddling deity, Sun, Secrets, Civilization, Truth
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: worship
+
+         The Agesa People
+          Magrocracy - rule by magic
+          Trade is done with coin and unregulated by authority.
+          Diet: corn, uncommon meat such as lizards or insects, sheep, pig
+          Religion: Monotheism
+            Epaba, Punishing deity, Disaster, Sea, Sky, Law, Day
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+     Peqitibesa Region - dry desert
+       Cultures: There are no cultures in this area.
+
+     Pela Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Tefefafise Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Ligizakumi Region - cold dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Zerisuya Region - cold grassland
+       Cultures: 1
+         The Xicira People
+          Timocracy - rule by honor
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, fish, game meat such as deer or elk, goat
+          Religion: Polytheism
+            Lasecucu, Antagonistic deity, Land, Moon, Angels, Home
+            Quca, Mysterious deity, Day
+            Bimanuzu, Punishing deity, Destiny, Destruction
+            Jadu, Punishing deity, Ice, Chaos, Metalworking, Desert
+            Fejuka, Antagonistic deity, Sea
+            Tapi, Uncaring deity, Peace, Strength, Home, Strength, Travel
+            Disemu, Obscure deity, Afterlife, Beauty
+            Cujugicigi, Punishing deity, Sea, Wilderness, Metalworking
+            Xaqemaxeza, Judgemental deity, Wilderness, Intelligence, Moon, Demons, Life, Creation
+            Gufeji, Obscure deity, Sun, Sea
+            Yisa, Obscure deity, Beauty, Angels, Chaos, Forest
+            Dadijiyija, Uncaring deity, Sea, Childbirth, Hatred, Love, Painting, Intelligence
+            Penudaci, Judgemental deity, Night, Afterlife, Desire, Trickery, Destruction, Harvest
+            Teqajapema, Punishing deity, Painting, Forest, Death
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+     Xuyarefule Region - semiarid desert that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Iditiquna People
+          Kritarchy - rule by legal judges
+          This is no concept of trade, but gifts are given.
+          Diet: cassava, uncommon meat such as lizards or insects, chicken, monstrous meat such as dragons or griffins
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is industrial, consisting of the steam engine and electricity.
+          Tech attitude: indifference
+
+         The Luma People
+          Diarchy - rule by two bloodlines
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+     Dipegu Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Rise Region - cold coastal desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Lala Region - steppe
+       Cultures: 2
+         The Rarejini People
+          Timocracy - rule by honor
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, cattle, chicken, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+         The Qacumaca People
+          Military Dictatorship - rule by military
+          There is no trade, property is collectively owned.
+          Diet: wheat, buffalo, chicken
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+     Ihu Region - hot forest
+       Cultures: 1
+         The Iditiquna People
+          Corporatocracy - rule by corporations
+          There is no concept of property.
+          Diet: soybeans, fish, game meat such as deer or elk, buffalo
+          Religion: Ancestor Worship
+          Magic: Magic is used by very few.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+
+-----------------------------
+The land of Dihi
+Area (km): 5941335
+Regions: 
+     Sitayaga Region - cold semiarid desert with a wetland
+       Cultures: There are no cultures in this area.
+
+     Dapala Region - cold jungle with sentient plants
+       Cultures: 1
+         The Zini People
+          Technocracy - rule by education
+          Trade is done through barter.
+          Diet: rice, cattle, buffalo
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+     Zaza Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Iyu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Efefezene
+Area (km): 1834242
+Regions: 
+     Hani Region - cold forest
+       Cultures: 1
+         The Cuquze People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, cattle, chicken
+          Religion: Polytheism
+            Cume, Judgemental deity, Antimagic, Land, Life
+            Pacicira, Antagonistic deity, Mind, Disaster, Sky, Secrets, Home, Angels
+            Qesaja, Meddling deity, Family, Stars, Metalworking, Fire, Destiny, Antimagic
+            Reheheci, Uncaring deity, Intelligence, Sky, Magic, Land, Sea
+            Hena, Obscure deity, Strength, Sun
+            Bame, Forgiving deity, Travel, Law
+            Mixeza, Mysterious deity, Metalworking, Chaos, Forest, Intelligence
+            Beca, Obscure deity, Love, Secrets, Antimagic, Writing, Disaster, Antimagic
+            Maxage, Punishing deity, Protection, Mind, Death, Sea
+            Xerihehalu, Judgemental deity, Moon, Antimagic, Strength, Travel, Secrets, Judgement
+            Ruketitehi, Uncaring deity, Demons, Destiny, Disaster, Writing, Antimagic
+            Kumesaside, Obscure deity, Home, Plague, Painting, Land, Intelligence
+            Zipesuxuha, Mysterious deity, Truth, Sea, Wilderness, Insanity, Law
+            Eba, Meddling deity, Secrets, Stars, Secrets, Painting, Afterlife
+            Hezaju, Obscure deity, Hatred, Land, Fighting, Childbirth, Civilization
+            Padufeka, Forgiving deity, Insanity, Mind, Forest, Weaving
+            Kuhixahapu, Punishing deity, Night, Magic, Fighting
+            Duzetexuzi, Judgemental deity, Harvest, Wilderness, Destruction, Family
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+
+-----------------------------
+The land of Huzape
+Area (km): 1202122
+Regions: 
+     Zimisabuna Region - hot dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Ehikezu
+Area (km): 1114996
+Regions: 
+     Xukacu Region - cold jungle with giant living rocks
+       Cultures: 2
+         The Rakufigi People
+          Monstrous tyranny - rule by monsters through force
+          This is no concept of trade, but gifts are given.
+          Diet: yams, buffalo
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+         The Ese People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat, game meat such as deer or elk, pig
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: awe
+          Tech: Technology is modern, consisting of nukes and computers.
+          Tech attitude: indifference
+
+
+

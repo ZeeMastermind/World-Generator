@@ -1,0 +1,162 @@
+-----Dibeweve world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+The source of magic is deities or spirits.
+Around magic, people react with hostility.
+     In some places, people react with discomfort.
+     In some places, people react with fear.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is the distant future of Earth.
+Technology is based upon discovered alien technology.
+Around technology, people react with awe.
+     In some places, people react with worship.
+     In some places, people react with admiration.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 13 degrees Celsius. It is like earth.
+The world has virtually no life, and few things survive.
+The world is 94% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 2 continents.
+-----------------------------
+The land of Ruvibe
+Area (km): 17594105
+Regions: 
+     Exi Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Vitevi Region - cold dry desert without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Diyedidu Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Kepedegevi Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Gufi Region - dry desert
+       Cultures: 1
+         The Gude People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: potatoes, sheep, game meat such as deer or elk, cattle
+          Religion: Dualism
+            Liduwi, Uncaring deity, Moon
+            Zudiduqebu, Obscure deity, Sun
+
+
+     Ketexivi Region - hot semiarid desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Himuxudebu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Ugemi Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Dedutuzi Region - cold dry desert with sentient plants
+       Cultures: 1
+         The Beze People
+          Magrocracy - rule by magic
+          There is no concept of property.
+          Diet: potatoes, buffalo, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Vefiku, Obscure deity, Moon
+            Tivi, Uncaring deity, Sun
+
+
+     Turu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Xeduzite Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Vuce Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Dudewe Region - cold steppe without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Puridevudu
+Area (km): 12405895
+Regions: 
+     Gebuhu Region - dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Dedi People
+          Bankocracy - rule by banks
+          There is no trade, property is collectively owned.
+          Diet: yams, goat, fish, cattle
+          Religion: Totemism
+
+
+     Xequbi Region - hot dry desert
+       Cultures: 1
+         The Bibubuyu People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, game meat such as deer or elk, pig, goat
+          Religion: Dualism
+            Dicebu, Punishing deity, Moon, Stars, Harvest, Stars, Night
+            Tiqidulu, Forgiving deity, Sun, Sky, Plague, Sky, Day
+
+
+     Qebe Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Giceciquhe Region - cold semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Uveduvi Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Vefe Region - cold forest
+       Cultures: 1
+         The Guribu People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: wheat, goat, fish
+          Religion: Philosophical
+
+
+     Pedumile Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Vure Region - grassland
+       Cultures: 1
+         The Utebutuce People
+          Despotism - rule by one, the ruler has slaves
+          There is no concept of property.
+          Diet: corn, chicken, pig
+          Religion: Monotheism
+            Gilu, Meddling deity, Chaos, Forest, Destruction, Family
+
+
+     Zixidemi Region - cold dry desert
+       Cultures: 1
+         The Dide People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: sorghum
+          Religion: Demon Worship
+
+
+     Tivubu Region - cold dry desert
+       Cultures: There are no cultures in this area.
+
+     Wigi Region - steppe with floating islands
+       Cultures: There are no cultures in this area.
+
+     Ziku Region - coastal desert with floating islands
+       Cultures: There are no cultures in this area.
+
+

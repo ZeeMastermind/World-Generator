@@ -1,0 +1,976 @@
+-----Gamoku world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Magic is used by some, and people know of it.
+The source of magic is nature.
+Around magic, people react with discomfort.
+     In some places, people react with admiration.
+     In some places, people react with fear.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is prehistoric, consisting of bows, plows, and maybe copper.
+     In some places, Technology is ancient, consisting of aqueducts and better ships than in the past.
+Technology is steampunk/cyberpunk in nature, defying standard notions of logic.
+Around technology, people react with fear.
+     In some places, people react with discomfort.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 22 degrees Celsius. It is hot.
+The world has low amount of life, which is hard to find.
+The world is 82% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 4 continents.
+-----------------------------
+The land of Kukaxu
+Area (km): 4364731
+Regions: 
+     Jocolu Region - hot grassland with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The Mumawoju People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: cassava, fish, pig, goat
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yusotota People
+          Constitutional Monarchy - rule by single bloodline that is limited by law
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains, pig
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Kukalu Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Qokukoca People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, goat
+          Religion: Polytheism
+            Tamuvo, Punishing deity, Chaos
+            Cubatuja, Punishing deity, Law
+            Cocabawomu, Obscure deity, Love, Forest, Land, Weaving
+            Aqulocuxa, Meddling deity, Metalworking, Fighting, Painting, Creation
+            Koco, Mysterious deity, Angels, Land, Day, Disaster, Childbirth, Peace
+            Avuca, Obscure deity, Night
+            Ajucoyuwa, Meddling deity, Insanity, Harvest, Moon, Land, Metalworking
+            Julocacoyo, Antagonistic deity, Demons, Disaster, Antimagic, Writing
+            Mobuco, Mysterious deity, Demons, Day, Writing
+            Cucocuja, Uncaring deity, Love, Sun, Antimagic, Desire, Demons, Painting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: discomfort
+
+
+     Xawo Region - hot semiarid desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Nomoku
+Area (km): 81067276
+Regions: 
+     Ratu Region - cold semiarid desert with floating islands
+       Cultures: There are no cultures in this area.
+
+     Jajajoko Region - hot jungle that is completely inside a sprawling, underground cave system
+       Cultures: There are no cultures in this area.
+
+     Mona Region - hot grassland with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Kakaqolula Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Kayajocala Region - hot semiarid desert with a giant mushroom forest
+       Cultures: 1
+         The Yuco People
+          Diarchy - rule by two bloodlines
+          There is no trade, authorities own all property.
+          Diet: cassava, uncommon meat such as lizards or insects, buffalo
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Sacataranu Region - hot semiarid desert
+       Cultures: 2
+         The Jacuyuduba People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: cassava, pig
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Ala People
+          Monarchy - rule by single bloodline
+          Trade is done through barter.
+          Diet: cassava, goat, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Cukuku Region - hot jungle
+       Cultures: 1
+         The Jayu People
+          Aristocracy - rule by several bloodlines
+          There is no concept of property.
+          Diet: sweet potatoes, fish, monstrous meat such as dragons or griffins, chicken
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Como Region - hot coastal desert
+       Cultures: 1
+         The Yacumo People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, uncommon meat such as lizards or insects, chicken, fish
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Bonajocaru Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Jaju Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Mona Region - cold forest
+       Cultures: There are no cultures in this area.
+
+     Roculo Region - hot dry desert
+       Cultures: 1
+         The Aqa People
+          Kritarchy - rule by legal judges
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, monstrous meat such as dragons or griffins, buffalo, goat
+          Religion: Polytheism
+            Xagakama, Mysterious deity, Plague, Travel
+            Cujoju, Judgemental deity, Sea, Peace
+            Musubaqayo, Mysterious deity, Creation, Sea
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yuga Region - cold semiarid desert
+       Cultures: 1
+         The Jumo People
+          Anarchy - no enforced rule
+          Trade is done through barter.
+          Diet: cassava, chicken, buffalo, sheep
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Mojocuba Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Mumoya Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Muqoluya Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Namu Region - cold grassland with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Cugokuqo Region - cold dry desert with lots of rocky volcanoes and lava rivers
+       Cultures: 2
+         The Yupujugo People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yaxa People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: rice, game meat such as deer or elk, chicken
+          Religion: Polytheism
+            Xotobu, Obscure deity, Magic, Moon, Disaster, Judgement, Protection
+            Bobuju, Meddling deity, Life, Stars, Desire
+            Yasuva, Antagonistic deity, Sea, Law, Ice
+            Voyuturuca, Mysterious deity, Plague, Childbirth, Moon
+            Bununuca, Uncaring deity, Secrets
+            Tojuvoco, Punishing deity, Wilderness, Mind, Moon, Magic
+            Udajo, Antagonistic deity, Plague, Trickery
+            Lujatunuqa, Uncaring deity, Peace
+            Woqako, Punishing deity, Luck, Chaos
+            Nabo, Obscure deity, Creation, Antimagic, Fire, Childbirth, Antimagic, Destruction
+            Tojowo, Meddling deity, Ice, Forest, Antimagic, Luck, Law
+            Cacumaso, Antagonistic deity, Secrets
+            Laco, Obscure deity, War, Civilization, Plague
+            Qojuqoju, Uncaring deity, Metalworking, Desert, Peace, Beauty
+            Yojajusoja, Mysterious deity, Weaving, Childbirth, Destiny, Forest, Insanity, Moon
+            Ojotojosa, Uncaring deity, Destruction, Afterlife
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Avuca Region - cold grassland
+       Cultures: 1
+         The Boyo People
+          Meritocracy - rule by ability
+          Trade is done through barter.
+          Diet: potatoes, sheep, pig, chicken
+          Religion: Polytheism
+            Loqo, Judgemental deity, Harvest, Childbirth, Creation, Hatred
+            Buku, Uncaring deity, Disaster, Trickery
+            Bajolabaku, Judgemental deity, Family, Strength, Peace, Creation
+            Doja, Punishing deity, Fighting, Mind, Weaving, Disaster
+            Cojokotuku, Meddling deity, Death, Desert, Disaster
+            Ucaxa, Uncaring deity, Moon, Writing, Forest, Painting, Magic
+            Najorumocu, Obscure deity, Truth, Creation, Civilization
+            Uka, Judgemental deity, Angels, Wilderness, Creation, Trickery
+            Galuquto, Judgemental deity, Forest, Destruction, Family, Day
+            Namu, Obscure deity, Love, Childbirth
+            Ucuru, Antagonistic deity, Wilderness, Day, Creation, Afterlife
+            Joto, Mysterious deity, Beauty, War, Sea, Afterlife, Law
+            Junaqolaco, Punishing deity, Afterlife, Creation, Afterlife, Truth, Creation, Hatred
+            Nacaqo, Mysterious deity, Childbirth, Life
+            Tala, Forgiving deity, Intelligence, Writing, Death, Fighting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Raku Region - cold forest
+       Cultures: 2
+         The Coluruxona People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat
+          Religion: Dualism
+            Cucocuja, Punishing deity, Creation, Wilderness, Beauty, Disaster
+            Junoburata, Antagonistic deity, Destruction, Civilization, Disaster, Beauty
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Ajucoyuwa People
+          Kritarchy - rule by legal judges
+          There is no trade, property is collectively owned.
+          Diet: rice, buffalo, pig
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Qudu Region - coastal desert
+       Cultures: 2
+         The Mabojacacu People
+          Kritarchy - rule by legal judges
+          Trade is done through barter.
+          Diet: plantains, goat
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: discomfort
+
+         The Makatavabo People
+          Fascism - rule by one, gained power through nationalism
+          Trade is done through barter.
+          Diet: wheat, pig
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Maxajo Region - hot semiarid desert with giant living rocks
+       Cultures: There are no cultures in this area.
+
+     Joqo Region - hot forest with an undead infestation
+       Cultures: There are no cultures in this area.
+
+     Yuga Region - hot steppe with sentient plants
+       Cultures: 2
+         The Kobogoju People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, authorities own all property.
+          Diet: sweet potatoes, game meat such as deer or elk, sheep, pig
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Yukoca People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, buffalo, uncommon meat such as lizards or insects
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Xotobu Region - hot dry desert
+       Cultures: 1
+         The Jabo People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: yams, goat
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Tucotaluqo Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Loxucaca Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Moqoya Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Loqo Region - hot dry desert with floating islands
+       Cultures: 2
+         The Cubatuja People
+          Kritarchy - rule by legal judges
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, fish
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Cagajacu People
+          Military Dictatorship - rule by military
+          There is no trade, authorities own all property.
+          Diet: cassava, monstrous meat such as dragons or griffins, monstrous meat such as dragons or griffins
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Ajucoyuwa Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Yuqa Region - hot steppe
+       Cultures: 1
+         The Cukucu People
+          Anarchy - no enforced rule
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects, chicken
+          Religion: Monotheism
+            Jamokupubo, Forgiving deity, Love
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Kujalo Region - hot coastal desert
+       Cultures: 1
+         The Qajuwubo People
+          Ochlocracy - mob rule
+          There is no trade, property is collectively owned.
+          Diet: plantains, sheep, uncommon meat such as lizards or insects, goat
+          Religion: Monotheism
+            Bovowuya, Forgiving deity, Sea, Strength, Painting, Childbirth, Creation, Peace
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Jacula Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Jabaya Region - hot dry desert with an undead infestation
+       Cultures: 1
+         The Upoluda People
+          Kritarchy - rule by legal judges
+          This is no concept of trade, but gifts are given.
+          Diet: soybeans, buffalo
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Sodo Region - hot steppe
+       Cultures: 1
+         The Joladojobu People
+          Stratocracy - rule by military with conscription
+          There is no concept of property.
+          Diet: rice, cattle, fish, pig
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+
+     Ama Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Wayuqoguca Region - hot steppe with an undead infestation
+       Cultures: 1
+         The Jojoxayo People
+          Kleptocracy - rule by thieves
+          There is no trade, property is collectively owned.
+          Diet: sweet potatoes, buffalo, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Ojoto, Forgiving deity, Night, Creation, Destruction, Sky, Stars
+            Jaju, Uncaring deity, Day, Destruction, Creation, Stars, Sky
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Pumayacu Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Jaxa Region - hot steppe
+       Cultures: There are no cultures in this area.
+
+     Jocu Region - dry desert
+       Cultures: 2
+         The Kolama People
+          Direct Democracy - rule by enfranchised elections
+          Trade is done through barter.
+          Diet: sorghum, game meat such as deer or elk, chicken
+          Religion: Monotheism
+            Mona, Meddling deity, Beauty, Beauty
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Topuyudo People
+          Military Dictatorship - rule by military
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: corn, goat, goat, chicken
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Juwacotulo Region - hot dry desert
+       Cultures: 1
+         The Jacacusu People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat
+          Religion: Shamanism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Jujajokaqu Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Acusu Region - hot semiarid desert
+       Cultures: There are no cultures in this area.
+
+     Kama Region - hot jungle
+       Cultures: 1
+         The Balu People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, property is collectively owned.
+          Diet: corn, cattle
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Tagakoju Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Cupucono Region - jungle
+       Cultures: 1
+         The Dutocaja People
+          Bankocracy - rule by banks
+          There is no trade, authorities own all property.
+          Diet: sorghum, chicken, monstrous meat such as dragons or griffins
+          Religion: Monotheism
+            Ratu, Forgiving deity, Magic, Sea, Plague, Day, Protection
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Buju Region - hot jungle
+       Cultures: There are no cultures in this area.
+
+     Ayococoju Region - hot steppe without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: 2
+         The Jucoka People
+          Kratocracy - rule by strength
+          Trade is done with coin and unregulated by authority.
+          Diet: rice, cattle
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Ona People
+          Plutocracy - rule by rich
+          This is no concept of trade, but gifts are given.
+          Diet: cassava
+          Religion: Dualism
+            Nuwamacu, Uncaring deity, Night, War, Truth, Judgement, Luck, Ice
+            Agocu, Uncaring deity, Day, Peace, Secrets, Trickery, Destiny, Fire
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Manujotowu Region - cold jungle
+       Cultures: There are no cultures in this area.
+
+     Cupadadulu Region - dry desert with living, growing rocks and crystals
+       Cultures: There are no cultures in this area.
+
+     Coxajujaco Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+     Toja Region - hot jungle that is completely inside a sprawling, underground cave system
+       Cultures: 2
+         The Cucotoyawo People
+          Kleptocracy - rule by thieves
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: yams, chicken, uncommon meat such as lizards or insects, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Monu People
+          Plutocracy - rule by rich
+          Trade is done with coin and unregulated by authority.
+          Diet: potatoes, uncommon meat such as lizards or insects
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Doja Region - cold dry desert
+       Cultures: 1
+         The Jowatu People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, uncommon meat such as lizards or insects
+          Religion: Dualism
+            Moboja, Antagonistic deity, Stars
+            Mujucujoja, Punishing deity, Sky
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Dojuyunuto Region - hot dry desert
+       Cultures: 1
+         The Jucaladu People
+          Technocracy - rule by education
+          There is no concept of property.
+          Diet: rice, pig, uncommon meat such as lizards or insects
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Oyulabana Region - hot dry desert with a giant mushroom forest
+       Cultures: There are no cultures in this area.
+
+     Bocapoyo Region - hot dry desert
+       Cultures: 1
+         The Kaqu People
+          Ergatocracy - rule by working class
+          Trade is done with coin and unregulated by authority.
+          Diet: cassava, monstrous meat such as dragons or griffins
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Kaju Region - hot dry desert
+       Cultures: 2
+         The Qujutoru People
+          Anarchy - no enforced rule
+          There is no trade, property is collectively owned.
+          Diet: cassava, pig, monstrous meat such as dragons or griffins, goat
+          Religion: Monotheism
+            Moyoquku, Obscure deity, Forest, Day, Day, Family, Ice, Childbirth
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Kajucajayu People
+          Plutocracy - rule by rich
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: cassava, chicken, sheep, game meat such as deer or elk
+          Religion: Polytheism
+            Lonovuca, Forgiving deity, Destruction, Sun, War
+            Qaqumacora, Mysterious deity, Insanity, Creation, Night, Sea, Antimagic
+            Rosogabo, Punishing deity, Forest
+            Cajoco, Obscure deity, Protection, Ice
+            Lata, Forgiving deity, Destruction, Peace
+            Jabo, Punishing deity, Metalworking, Trickery, Secrets
+            Pumayacu, Meddling deity, Magic, Strength, Mind, Destruction
+            Xalojutujo, Meddling deity, Land, Mind, Weaving
+            Majocu, Punishing deity, Protection, Ice, Trickery
+            Pacotu, Punishing deity, Beauty, Protection, War
+            Qukayaka, Meddling deity, Afterlife, Plague
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Ocoraco Region - hot dry desert with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: There are no cultures in this area.
+
+     Dakayakocu Region - jungle with a thicket of thorns, ever-growing vines, and large trees
+       Cultures: 1
+         The Kolama People
+          Geniocracy - rule by intelligence
+          There is no trade, property is collectively owned.
+          Diet: wheat, fish
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Cajoco Region - hot jungle with floating islands
+       Cultures: 1
+         The Jumaya People
+          Autocracy - rule by one, the ruler has servants
+          There is no trade, property is collectively owned.
+          Diet: wheat, game meat such as deer or elk, pig, monstrous meat such as dragons or griffins
+          Religion: Dualism
+            Ganonu, Mysterious deity, Antimagic, Wilderness, Mind
+            Lojopoco, Antagonistic deity, Magic, Civilization, Insanity
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Kagucucuja Region - jungle
+       Cultures: There are no cultures in this area.
+
+     Cosocaku Region - hot dry desert
+       Cultures: 2
+         The Jovo People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sorghum, cattle
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: indifference
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Como People
+          Representative Democracy - rule by representatives chosen through enfranchised elections
+          This is no concept of trade, but gifts are given.
+          Diet: corn, goat, monstrous meat such as dragons or griffins
+          Religion: Demon Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of rocks and sticks.
+          Tech attitude: discomfort
+
+
+     Nacaqo Region - hot semiarid desert
+       Cultures: 1
+         The Galako People
+          Despotism - rule by one, the ruler has slaves
+          Trade is done with coin and unregulated by authority.
+          Diet: sorghum, buffalo
+          Religion: Philosophical
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: hostility
+
+
+     Qapojota Region - hot steppe with a wetland
+       Cultures: There are no cultures in this area.
+
+     Bajutanu Region - hot dry desert
+       Cultures: 2
+         The Cubatuja People
+          Theocracy - rule by religion
+          Trade is done through barter.
+          Diet: sorghum, chicken, sheep
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: discomfort
+
+         The Manujotowu People
+          Monstrous tyranny - rule by monsters through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: plantains, buffalo
+          Religion: Monotheism
+            Kumajuyuto, Meddling deity, Land, Sea, Law, War, Day
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Coco Region - hot forest
+       Cultures: There are no cultures in this area.
+
+     Dojoca Region - hot jungle
+       Cultures: 2
+         The Cudanapo People
+          Military Dictatorship - rule by military
+          This is no concept of trade, but gifts are given.
+          Diet: sweet potatoes, chicken, buffalo, cattle
+          Religion: Polytheism
+            Bocucu, Antagonistic deity, Afterlife, Harvest, Secrets, Demons
+            Kumolura, Forgiving deity, Stars, Day, Love, Creation, Weaving
+            Jajubu, Forgiving deity, Judgement, Peace
+            Namu, Obscure deity, Law, Creation, Law, Harvest, Land, Insanity
+            Umo, Punishing deity, Painting, Ice, Mind
+            Coyulu, Forgiving deity, Desire, Desire
+            Baya, Meddling deity, Judgement, Wilderness, Sea, Childbirth, Demons
+            Bovowuya, Punishing deity, Land
+            Unajaxu, Uncaring deity, Family, Sky, Protection, Moon, Judgement, Death
+            Ucaxa, Obscure deity, Law, Life
+            Lacaso, Meddling deity, Sky, Demons
+            Quno, Antagonistic deity, Intelligence, Writing
+            Nabo, Punishing deity, Hatred, Plague
+            Jatabutana, Antagonistic deity, Moon, Truth, War, Peace, Ice, Demons
+            Nomoku, Judgemental deity, Metalworking
+            Toja, Obscure deity, Travel, Afterlife
+            Mago, Antagonistic deity, Sea, Travel, Fighting, Judgement
+            Ojosoko, Antagonistic deity, Law, Life
+            Mutupajo, Mysterious deity, Sky, Family, Childbirth, Plague, Judgement
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Cojanuco People
+          Stratocracy - rule by military with conscription
+          Trade is done through barter.
+          Diet: wheat, chicken, buffalo
+          Religion: Polytheism
+            Yonuja, Meddling deity, Antimagic, Antimagic, Angels, Magic
+            Nomamo, Mysterious deity, Day, Desire, Life
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Cujupo Region - hot dry desert
+       Cultures: 1
+         The Qaqo People
+          Ochlocracy - mob rule
+          There is no concept of property.
+          Diet: wheat, fish
+          Religion: Polytheism
+            Tatojo, Uncaring deity, Peace, Land, Plague, Afterlife, Afterlife, War
+            Golu, Punishing deity, Hatred, Destruction
+            Baburuqato, Obscure deity, Metalworking
+            Wojugo, Meddling deity, Desire, Intelligence, Stars, Insanity
+            Acusu, Judgemental deity, Wilderness, Night, Chaos, Peace, War, Protection
+            Cuyutosoya, Meddling deity, Plague, Strength
+            Nacoja, Forgiving deity, Strength, Life
+            Josacu, Antagonistic deity, Beauty, Magic, Disaster, Plague, Peace, Weaving
+            Jajuqucumo, Judgemental deity, Ice, Chaos, Metalworking, Intelligence, Desert
+            Laqaboja, Mysterious deity, Death, Sky, Land, Childbirth, Law
+            Uwo, Judgemental deity, Law, Desire, Angels, Trickery
+            Wubo, Uncaring deity, Home, Truth
+            Cujuyo, Mysterious deity, Harvest, Weaving, Metalworking, Law
+            Mujucujoja, Forgiving deity, Luck, Intelligence
+            Nolurono, Judgemental deity, Luck, Home, Ice
+            Woco, Obscure deity, Travel, Night, Day, Wilderness
+            Suravujo, Forgiving deity, Plague, Demons, Painting
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Abuno Region - hot forest with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Quju Region - hot steppe
+       Cultures: 2
+         The Bacu People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: soybeans, game meat such as deer or elk, uncommon meat such as lizards or insects
+          Religion: Polytheism
+            Lotu, Antagonistic deity, Desire, Stars
+            Cano, Judgemental deity, Metalworking, Plague, Wilderness
+            Vujuwu, Mysterious deity, Intelligence, Chaos, Wilderness, Metalworking, Stars, Death
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: fear
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Kayajocala People
+          Timocracy - rule by honor
+          There is no concept of property.
+          Diet: potatoes, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Yusotota Region - dry desert
+       Cultures: 1
+         The Cujuxobucu People
+          Aristocracy - rule by several bloodlines
+          Trade is done with coin and unregulated by authority.
+          Diet: plantains
+          Religion: Monotheism
+            Malabu, Antagonistic deity, Strength, Land, Harvest, Fighting, Childbirth
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Cujucucoqu Region - hot dry desert
+       Cultures: There are no cultures in this area.
+
+     Noyu Region - hot dry desert
+       Cultures: 2
+         The Vakuyobu People
+          Dictatorship - rule by one, gained power through force
+          There is no trade, authorities own all property.
+          Diet: yams, goat
+          Religion: Totemism
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: hostility
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+         The Jubuxolu People
+          Ochlocracy - mob rule
+          Trade is done through barter.
+          Diet: corn, chicken, monstrous meat such as dragons or griffins, sheep
+          Religion: Dualism
+            Nara, Mysterious deity, Antimagic, Night, Ice, Desert, Plague
+            Acusu, Obscure deity, Magic, Day, Fire, Forest, Harvest
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Qotojodutu Region - hot jungle without much vegetation on the ground, only a swarm of beetles and bugs that photosynthesize
+       Cultures: There are no cultures in this area.
+
+     Rutayamuca Region - hot semiarid desert
+       Cultures: 1
+         The Yuqoxuya People
+          Chiefdom - rule by senior members of families or houses
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: potatoes, pig
+          Religion: Ancestor Worship
+          Magic: Magic is used by some, and people know of it.
+          Magic attitude: discomfort
+          Tech: Technology is prehistoric, consisting of bows, plows, and maybe copper.
+          Tech attitude: fear
+
+
+     Moqamaju Region - hot coastal desert
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Noju
+Area (km): 2284615
+Regions: 
+     Juja Region - jungle
+       Cultures: There are no cultures in this area.
+
+
+-----------------------------
+The land of Tocarowo
+Area (km): 2283378
+Regions: 
+     Jumacubo Region - hot grassland
+       Cultures: There are no cultures in this area.
+
+

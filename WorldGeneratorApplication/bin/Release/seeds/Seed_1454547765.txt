@@ -1,0 +1,90 @@
+-----Fovu world-----
+
+--------------------------------------------
+-----MAGIC-----
+--------------------------------------------
+Only a few living people have ever seen magic.
+     In some places, Magic is used by some, and people know of it.
+The source of magic is pacts with monsters and demons.
+Around magic, people react with fear.
+     In some places, people react with discomfort.
+--------------------------------------------
+--TECHNOLOGY --
+--------------------------------------------
+Technology is similar to the medieval period, consisting of windmills and the dry compass
+     In some places, Technology is industrial, consisting of the steam engine and electricity.
+     In some places, Technology is ancient, consisting of ironworking and writing.
+Technology is powered by magic. However, some have built technology powered by magic.
+Around technology, people react with worship.
+--------------------------------------------
+----CLIMATE----
+--------------------------------------------
+The average temperature of the world is 9 degrees Celsius. It is cold.
+The world has an amount of life similar to Earth.
+The world is 99% water.
+--------------------------------------------
+--CONTINENTS --
+--------------------------------------------
+There are 2 continents.
+-----------------------------
+The land of Voluqazi
+Area (km): 2107709
+Regions: 
+     Cemixoma Region - cold dry desert with sentient plants
+       Cultures: There are no cultures in this area.
+
+     Huqaloreco Region - cold jungle
+       Cultures: 2
+         The Jajozabada People
+          Corporatocracy - rule by corporations
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: wheat
+          Religion: Ancestor Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+         The Leroqo People
+          Dictatorship - rule by one, gained power through force
+          Trade is done with coin, and authorities provide services such as roads and police.
+          Diet: sweet potatoes, sheep, chicken, uncommon meat such as lizards or insects
+          Religion: Animism
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: hostility
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+
+-----------------------------
+The land of Boziqifonu
+Area (km): 2892291
+Regions: 
+     Cagaqica Region - cold coastal desert
+       Cultures: 1
+         The Eleriqaqa People
+          Geniocracy - rule by intelligence
+          There is no trade, authorities own all property.
+          Diet: rice, game meat such as deer or elk
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: fear
+          Tech: Technology is similar to the medieval period, consisting of windmills and the dry compass
+          Tech attitude: worship
+
+
+     Asirujage Region - cold semiarid desert
+       Cultures: 1
+         The Dolewocuru People
+          Monarchy - rule by single bloodline
+          Trade is done with coin and unregulated by authority.
+          Diet: sweet potatoes, pig, cattle
+          Religion: Demon Worship
+          Magic: Only a few living people have ever seen magic.
+          Magic attitude: hostility
+          Tech: Technology is ancient, consisting of ironworking and writing.
+          Tech attitude: discomfort
+
+
+
